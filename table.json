@@ -510,6 +510,16 @@
       },
       {
         "rank": "6",
+        "club": "ボローニャ",
+        "matches": "26",
+        "wins": "11",
+        "draws": "11",
+        "losses": "4",
+        "goals_for_against": "40:32",
+        "points": "44"
+      },
+      {
+        "rank": "7",
         "club": "フィオレンティーナ",
         "matches": "26",
         "wins": "12",
@@ -519,24 +529,14 @@
         "points": "42"
       },
       {
-        "rank": "7",
+        "rank": "8",
         "club": "ACミラン",
         "matches": "26",
         "wins": "11",
-        "draws": "9",
-        "losses": "6",
-        "goals_for_against": "38:27",
-        "points": "42"
-      },
-      {
-        "rank": "8",
-        "club": "ボローニャ",
-        "matches": "26",
-        "wins": "10",
-        "draws": "12",
-        "losses": "4",
-        "goals_for_against": "39:32",
-        "points": "42"
+        "draws": "8",
+        "losses": "7",
+        "goals_for_against": "38:28",
+        "points": "41"
       },
       {
         "rank": "9",

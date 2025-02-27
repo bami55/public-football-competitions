@@ -2,6 +2,7 @@
   {
     "name": "プレミアリーグ",
     "country": "イングランド",
+    "counts": 20,
     "results": [
       {
         "rank": "1",
@@ -208,6 +209,7 @@
   {
     "name": "チャンピオンシップ",
     "country": "イングランド",
+    "counts": 24,
     "results": [
       {
         "rank": "1",
@@ -454,6 +456,7 @@
   {
     "name": "セリエA",
     "country": "イタリア",
+    "counts": 20,
     "results": [
       {
         "rank": "1",
@@ -660,6 +663,7 @@
   {
     "name": "ラ・リーガ",
     "country": "スペイン",
+    "counts": 20,
     "results": [
       {
         "rank": "1",
@@ -866,6 +870,7 @@
   {
     "name": "ブンデスリーガ",
     "country": "ドイツ",
+    "counts": 18,
     "results": [
       {
         "rank": "1",
@@ -1052,6 +1057,7 @@
   {
     "name": "リーグ・アン",
     "country": "フランス",
+    "counts": 18,
     "results": [
       {
         "rank": "1",
@@ -1238,6 +1244,7 @@
   {
     "name": "エールディヴィジ",
     "country": "オランダ",
+    "counts": 18,
     "results": [
       {
         "rank": "1",
@@ -1424,6 +1431,7 @@
   {
     "name": "リーガ・ポルトガル・べウィン",
     "country": "ポルトガル",
+    "counts": 18,
     "results": [
       {
         "rank": "1",
@@ -1610,6 +1618,7 @@
   {
     "name": "ジュピラー・プロ・リーグ",
     "country": "ベルギー",
+    "counts": 16,
     "results": [
       {
         "rank": "1",
@@ -1776,6 +1785,7 @@
   {
     "name": "スコティッシュ・プレミアシップ",
     "country": "スコットランド",
+    "counts": 12,
     "results": [
       {
         "rank": "1",
@@ -1902,6 +1912,7 @@
   {
     "name": "J1",
     "country": "日本",
+    "counts": 20,
     "results": [
       {
         "rank": "1",
@@ -2108,6 +2119,7 @@
   {
     "name": "J2",
     "country": "日本",
+    "counts": 20,
     "results": [
       {
         "rank": "1",
@@ -2314,6 +2326,7 @@
   {
     "name": "J3",
     "country": "日本",
+    "counts": 20,
     "results": [
       {
         "rank": "1",

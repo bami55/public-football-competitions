@@ -462,21 +462,21 @@
         "rank": "1",
         "club": "インテル",
         "matches": "27",
-        "wins": "18",
-        "draws": "6",
+        "wins": "17",
+        "draws": "7",
         "losses": "3",
-        "goals_for_against": "60:24",
-        "points": "60"
+        "goals_for_against": "60:25",
+        "points": "58"
       },
       {
         "rank": "2",
         "club": "ナポリ",
         "matches": "27",
         "wins": "17",
-        "draws": "5",
-        "losses": "5",
-        "goals_for_against": "42:22",
-        "points": "56"
+        "draws": "6",
+        "losses": "4",
+        "goals_for_against": "43:22",
+        "points": "57"
       },
       {
         "rank": "3",
@@ -667,22 +667,22 @@
     "results": [
       {
         "rank": "1",
-        "club": "レアル・マドリード",
-        "matches": "26",
-        "wins": "16",
-        "draws": "7",
-        "losses": "3",
-        "goals_for_against": "55:24",
-        "points": "55"
-      },
-      {
-        "rank": "2",
         "club": "バルセロナ",
         "matches": "25",
         "wins": "17",
         "draws": "3",
         "losses": "5",
         "goals_for_against": "67:25",
+        "points": "54"
+      },
+      {
+        "rank": "2",
+        "club": "レアル・マドリード",
+        "matches": "26",
+        "wins": "16",
+        "draws": "6",
+        "losses": "4",
+        "goals_for_against": "55:25",
         "points": "54"
       },
       {
@@ -717,22 +717,22 @@
       },
       {
         "rank": "6",
+        "club": "レアル・ベティス",
+        "matches": "26",
+        "wins": "10",
+        "draws": "8",
+        "losses": "8",
+        "goals_for_against": "34:33",
+        "points": "38"
+      },
+      {
+        "rank": "7",
         "club": "バジェカーノ",
         "matches": "26",
         "wins": "9",
         "draws": "9",
         "losses": "8",
         "goals_for_against": "28:27",
-        "points": "36"
-      },
-      {
-        "rank": "7",
-        "club": "レアル・ベティス",
-        "matches": "26",
-        "wins": "9",
-        "draws": "9",
-        "losses": "8",
-        "goals_for_against": "33:33",
         "points": "36"
       },
       {
@@ -889,7 +889,7 @@
         "wins": "15",
         "draws": "8",
         "losses": "1",
-        "goals_for_against": "54:28",
+        "goals_for_against": "55:28",
         "points": "53"
       },
       {
@@ -899,7 +899,7 @@
         "wins": "12",
         "draws": "6",
         "losses": "6",
-        "goals_for_against": "50:36",
+        "goals_for_against": "50:37",
         "points": "42"
       },
       {
@@ -1126,7 +1126,7 @@
         "wins": "10",
         "draws": "6",
         "losses": "8",
-        "goals_for_against": "28:25",
+        "goals_for_against": "29:27",
         "points": "36"
       },
       {
@@ -1226,7 +1226,7 @@
         "wins": "5",
         "draws": "2",
         "losses": "17",
-        "goals_for_against": "19:49",
+        "goals_for_against": "21:50",
         "points": "17"
       },
       {
@@ -1260,11 +1260,11 @@
         "rank": "2",
         "club": "アイントホーフェン",
         "matches": "24",
-        "wins": "17",
-        "draws": "4",
+        "wins": "16",
+        "draws": "5",
         "losses": "3",
-        "goals_for_against": "73:27",
-        "points": "55"
+        "goals_for_against": "73:28",
+        "points": "53"
       },
       {
         "rank": "3",
@@ -1288,6 +1288,16 @@
       },
       {
         "rank": "5",
+        "club": "トゥウェンテ",
+        "matches": "24",
+        "wins": "12",
+        "draws": "7",
+        "losses": "5",
+        "goals_for_against": "48:30",
+        "points": "43"
+      },
+      {
+        "rank": "6",
         "club": "AZアルクマール",
         "matches": "23",
         "wins": "13",
@@ -1297,24 +1307,14 @@
         "points": "43"
       },
       {
-        "rank": "6",
-        "club": "トゥウェンテ",
-        "matches": "23",
-        "wins": "12",
-        "draws": "6",
-        "losses": "5",
-        "goals_for_against": "48:30",
-        "points": "42"
-      },
-      {
         "rank": "7",
         "club": "ゴー・アヘッド・イーグルス",
         "matches": "24",
         "wins": "10",
-        "draws": "5",
-        "losses": "9",
-        "goals_for_against": "41:38",
-        "points": "35"
+        "draws": "6",
+        "losses": "8",
+        "goals_for_against": "42:38",
+        "points": "36"
       },
       {
         "rank": "8",
@@ -1329,12 +1329,12 @@
       {
         "rank": "9",
         "club": "フローニンゲン",
-        "matches": "23",
+        "matches": "24",
         "wins": "7",
-        "draws": "6",
+        "draws": "7",
         "losses": "10",
         "goals_for_against": "22:32",
-        "points": "27"
+        "points": "28"
       },
       {
         "rank": "10",
@@ -1757,7 +1757,7 @@
         "wins": "6",
         "draws": "10",
         "losses": "12",
-        "goals_for_against": "35:52",
+        "goals_for_against": "37:53",
         "points": "28"
       },
       {
@@ -1767,7 +1767,7 @@
         "wins": "5",
         "draws": "5",
         "losses": "18",
-        "goals_for_against": "23:52",
+        "goals_for_against": "24:54",
         "points": "20"
       },
       {
@@ -1794,7 +1794,7 @@
         "wins": "24",
         "draws": "3",
         "losses": "2",
-        "goals_for_against": "84:16",
+        "goals_for_against": "85:17",
         "points": "75"
       },
       {
@@ -1874,7 +1874,7 @@
         "wins": "10",
         "draws": "4",
         "losses": "15",
-        "goals_for_against": "34:44",
+        "goals_for_against": "35:45",
         "points": "34"
       },
       {

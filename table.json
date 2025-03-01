@@ -218,7 +218,7 @@
         "wins": "22",
         "draws": "10",
         "losses": "3",
-        "goals_for_against": "71:21",
+        "goals_for_against": "72:22",
         "points": "76"
       },
       {
@@ -253,16 +253,26 @@
       },
       {
         "rank": "5",
+        "club": "コヴェントリー",
+        "matches": "35",
+        "wins": "15",
+        "draws": "8",
+        "losses": "12",
+        "goals_for_against": "47:42",
+        "points": "53"
+      },
+      {
+        "rank": "6",
         "club": "ウェスト・ブロム",
         "matches": "35",
         "wins": "12",
         "draws": "16",
         "losses": "7",
-        "goals_for_against": "44:31",
+        "goals_for_against": "45:32",
         "points": "52"
       },
       {
-        "rank": "6",
+        "rank": "7",
         "club": "ブラックバーン",
         "matches": "35",
         "wins": "15",
@@ -270,16 +280,6 @@
         "losses": "13",
         "goals_for_against": "39:34",
         "points": "52"
-      },
-      {
-        "rank": "7",
-        "club": "コヴェントリー",
-        "matches": "35",
-        "wins": "14",
-        "draws": "9",
-        "losses": "12",
-        "goals_for_against": "46:42",
-        "points": "51"
       },
       {
         "rank": "8",
@@ -386,10 +386,10 @@
         "club": "オックスフォード",
         "matches": "35",
         "wins": "9",
-        "draws": "12",
-        "losses": "14",
-        "goals_for_against": "34:49",
-        "points": "39"
+        "draws": "11",
+        "losses": "15",
+        "goals_for_against": "34:50",
+        "points": "38"
       },
       {
         "rank": "19",
@@ -758,15 +758,25 @@
       {
         "rank": "10",
         "club": "セルタ・デ・ビーゴ",
-        "matches": "25",
+        "matches": "26",
         "wins": "9",
-        "draws": "5",
+        "draws": "6",
         "losses": "11",
         "goals_for_against": "36:38",
-        "points": "32"
+        "points": "33"
       },
       {
         "rank": "11",
+        "club": "ジローナ",
+        "matches": "26",
+        "wins": "9",
+        "draws": "5",
+        "losses": "12",
+        "goals_for_against": "32:37",
+        "points": "32"
+      },
+      {
+        "rank": "12",
         "club": "セビージャ FC",
         "matches": "25",
         "wins": "8",
@@ -776,7 +786,7 @@
         "points": "32"
       },
       {
-        "rank": "12",
+        "rank": "13",
         "club": "CA オサスナ",
         "matches": "25",
         "wins": "7",
@@ -784,16 +794,6 @@
         "losses": "7",
         "goals_for_against": "29:34",
         "points": "32"
-      },
-      {
-        "rank": "13",
-        "club": "ジローナ",
-        "matches": "25",
-        "wins": "9",
-        "draws": "4",
-        "losses": "12",
-        "goals_for_against": "32:37",
-        "points": "31"
       },
       {
         "rank": "14",

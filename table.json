@@ -214,12 +214,12 @@
       {
         "rank": "1",
         "club": "リーズ",
-        "matches": "34",
+        "matches": "35",
         "wins": "22",
-        "draws": "9",
+        "draws": "10",
         "losses": "3",
         "goals_for_against": "71:21",
-        "points": "75"
+        "points": "76"
       },
       {
         "rank": "2",
@@ -254,32 +254,32 @@
       {
         "rank": "5",
         "club": "ウェスト・ブロム",
-        "matches": "34",
+        "matches": "35",
         "wins": "12",
-        "draws": "15",
+        "draws": "16",
         "losses": "7",
         "goals_for_against": "44:31",
-        "points": "51"
+        "points": "52"
       },
       {
         "rank": "6",
         "club": "ブラックバーン",
-        "matches": "34",
+        "matches": "35",
         "wins": "15",
-        "draws": "6",
+        "draws": "7",
         "losses": "13",
         "goals_for_against": "39:34",
-        "points": "51"
+        "points": "52"
       },
       {
         "rank": "7",
         "club": "コヴェントリー",
-        "matches": "34",
+        "matches": "35",
         "wins": "14",
-        "draws": "8",
+        "draws": "9",
         "losses": "12",
         "goals_for_against": "46:42",
-        "points": "50"
+        "points": "51"
       },
       {
         "rank": "8",
@@ -293,6 +293,16 @@
       },
       {
         "rank": "9",
+        "club": "ノリッジ",
+        "matches": "35",
+        "wins": "12",
+        "draws": "12",
+        "losses": "11",
+        "goals_for_against": "55:47",
+        "points": "48"
+      },
+      {
+        "rank": "10",
         "club": "ワトフォード",
         "matches": "34",
         "wins": "14",
@@ -300,16 +310,6 @@
         "losses": "14",
         "goals_for_against": "45:48",
         "points": "48"
-      },
-      {
-        "rank": "10",
-        "club": "ノリッジ",
-        "matches": "34",
-        "wins": "12",
-        "draws": "11",
-        "losses": "11",
-        "goals_for_against": "55:47",
-        "points": "47"
       },
       {
         "rank": "11",
@@ -384,12 +384,12 @@
       {
         "rank": "18",
         "club": "オックスフォード",
-        "matches": "34",
+        "matches": "35",
         "wins": "9",
-        "draws": "11",
+        "draws": "12",
         "losses": "14",
         "goals_for_against": "34:49",
-        "points": "38"
+        "points": "39"
       },
       {
         "rank": "19",

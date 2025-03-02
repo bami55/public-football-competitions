@@ -561,12 +561,12 @@
       {
         "rank": "11",
         "club": "トリノ",
-        "matches": "26",
-        "wins": "7",
+        "matches": "27",
+        "wins": "8",
         "draws": "10",
         "losses": "9",
-        "goals_for_against": "29:32",
-        "points": "31"
+        "goals_for_against": "30:32",
+        "points": "34"
       },
       {
         "rank": "12",
@@ -651,11 +651,11 @@
       {
         "rank": "20",
         "club": "モンツァ",
-        "matches": "26",
+        "matches": "27",
         "wins": "2",
         "draws": "8",
-        "losses": "16",
-        "goals_for_against": "21:43",
+        "losses": "17",
+        "goals_for_against": "21:44",
         "points": "14"
       }
     ]
@@ -1299,11 +1299,11 @@
       {
         "rank": "6",
         "club": "AZアルクマール",
-        "matches": "23",
+        "matches": "24",
         "wins": "13",
         "draws": "4",
-        "losses": "6",
-        "goals_for_against": "39:21",
+        "losses": "7",
+        "goals_for_against": "39:23",
         "points": "43"
       },
       {
@@ -1318,6 +1318,16 @@
       },
       {
         "rank": "8",
+        "club": "ヘーレンフェーン",
+        "matches": "24",
+        "wins": "8",
+        "draws": "6",
+        "losses": "10",
+        "goals_for_against": "29:42",
+        "points": "30"
+      },
+      {
+        "rank": "9",
         "club": "シッタート",
         "matches": "24",
         "wins": "8",
@@ -1327,7 +1337,7 @@
         "points": "29"
       },
       {
-        "rank": "9",
+        "rank": "10",
         "club": "フローニンゲン",
         "matches": "24",
         "wins": "7",
@@ -1335,16 +1345,6 @@
         "losses": "10",
         "goals_for_against": "23:33",
         "points": "28"
-      },
-      {
-        "rank": "10",
-        "club": "ヘーレンフェーン",
-        "matches": "23",
-        "wins": "7",
-        "draws": "6",
-        "losses": "10",
-        "goals_for_against": "27:42",
-        "points": "27"
       },
       {
         "rank": "11",
@@ -1809,6 +1809,16 @@
       },
       {
         "rank": "3",
+        "club": "ハイバーニアン",
+        "matches": "29",
+        "wins": "10",
+        "draws": "11",
+        "losses": "8",
+        "goals_for_against": "42:39",
+        "points": "41"
+      },
+      {
+        "rank": "4",
         "club": "アバディーン",
         "matches": "28",
         "wins": "12",
@@ -1816,16 +1826,6 @@
         "losses": "11",
         "goals_for_against": "36:44",
         "points": "41"
-      },
-      {
-        "rank": "4",
-        "club": "ハイバーニアン",
-        "matches": "28",
-        "wins": "10",
-        "draws": "10",
-        "losses": "8",
-        "goals_for_against": "42:39",
-        "points": "40"
       },
       {
         "rank": "5",
@@ -1839,6 +1839,16 @@
       },
       {
         "rank": "6",
+        "club": "ハーツ",
+        "matches": "29",
+        "wins": "10",
+        "draws": "7",
+        "losses": "12",
+        "goals_for_against": "40:38",
+        "points": "37"
+      },
+      {
+        "rank": "7",
         "club": "マザーウェル",
         "matches": "29",
         "wins": "11",
@@ -1846,16 +1856,6 @@
         "losses": "14",
         "goals_for_against": "34:48",
         "points": "37"
-      },
-      {
-        "rank": "7",
-        "club": "ハーツ",
-        "matches": "28",
-        "wins": "10",
-        "draws": "6",
-        "losses": "12",
-        "goals_for_against": "40:38",
-        "points": "36"
       },
       {
         "rank": "8",

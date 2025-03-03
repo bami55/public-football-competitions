@@ -490,6 +490,16 @@
       },
       {
         "rank": "4",
+        "club": "ユヴェントス",
+        "matches": "27",
+        "wins": "12",
+        "draws": "14",
+        "losses": "1",
+        "goals_for_against": "43:21",
+        "points": "50"
+      },
+      {
+        "rank": "5",
         "club": "ラツィオ",
         "matches": "27",
         "wins": "15",
@@ -497,16 +507,6 @@
         "losses": "7",
         "goals_for_against": "49:35",
         "points": "50"
-      },
-      {
-        "rank": "5",
-        "club": "ユヴェントス",
-        "matches": "26",
-        "wins": "12",
-        "draws": "13",
-        "losses": "1",
-        "goals_for_against": "43:21",
-        "points": "49"
       },
       {
         "rank": "6",
@@ -591,12 +591,12 @@
       {
         "rank": "14",
         "club": "エラス・ヴェローナ",
-        "matches": "26",
+        "matches": "27",
         "wins": "8",
-        "draws": "2",
+        "draws": "3",
         "losses": "16",
         "goals_for_against": "27:54",
-        "points": "26"
+        "points": "27"
       },
       {
         "rank": "15",
@@ -1436,12 +1436,12 @@
       {
         "rank": "1",
         "club": "スポルティングCP",
-        "matches": "23",
+        "matches": "24",
         "wins": "16",
-        "draws": "5",
+        "draws": "6",
         "losses": "2",
         "goals_for_against": "61:20",
-        "points": "53"
+        "points": "54"
       },
       {
         "rank": "2",
@@ -1506,12 +1506,12 @@
       {
         "rank": "8",
         "club": "エストリル・プライア",
-        "matches": "23",
+        "matches": "24",
         "wins": "9",
-        "draws": "7",
+        "draws": "8",
         "losses": "7",
         "goals_for_against": "30:35",
-        "points": "34"
+        "points": "35"
       },
       {
         "rank": "9",

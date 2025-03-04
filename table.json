@@ -238,7 +238,7 @@
         "wins": "19",
         "draws": "14",
         "losses": "2",
-        "goals_for_against": "44:9",
+        "goals_for_against": "45:10",
         "points": "71"
       },
       {
@@ -273,6 +273,16 @@
       },
       {
         "rank": "7",
+        "club": "ブリストル・シティ",
+        "matches": "35",
+        "wins": "13",
+        "draws": "13",
+        "losses": "9",
+        "goals_for_against": "44:38",
+        "points": "52"
+      },
+      {
+        "rank": "8",
         "club": "ブラックバーン",
         "matches": "35",
         "wins": "15",
@@ -282,23 +292,13 @@
         "points": "52"
       },
       {
-        "rank": "8",
+        "rank": "9",
         "club": "ミドルズブラ",
         "matches": "35",
         "wins": "14",
         "draws": "8",
         "losses": "13",
         "goals_for_against": "55:46",
-        "points": "50"
-      },
-      {
-        "rank": "9",
-        "club": "ブリストル・シティ",
-        "matches": "35",
-        "wins": "12",
-        "draws": "14",
-        "losses": "9",
-        "goals_for_against": "43:38",
         "points": "50"
       },
       {
@@ -326,10 +326,10 @@
         "club": "ミルウォール",
         "matches": "35",
         "wins": "11",
-        "draws": "13",
-        "losses": "11",
-        "goals_for_against": "34:34",
-        "points": "46"
+        "draws": "12",
+        "losses": "12",
+        "goals_for_against": "34:35",
+        "points": "45"
       },
       {
         "rank": "13",
@@ -393,6 +393,16 @@
       },
       {
         "rank": "19",
+        "club": "ハル",
+        "matches": "35",
+        "wins": "9",
+        "draws": "9",
+        "losses": "17",
+        "goals_for_against": "35:44",
+        "points": "36"
+      },
+      {
+        "rank": "20",
         "club": "ストーク・シティ",
         "matches": "35",
         "wins": "8",
@@ -402,24 +412,14 @@
         "points": "36"
       },
       {
-        "rank": "20",
+        "rank": "21",
         "club": "カーディフ",
         "matches": "35",
         "wins": "8",
         "draws": "12",
         "losses": "15",
-        "goals_for_against": "37:56",
+        "goals_for_against": "38:57",
         "points": "36"
-      },
-      {
-        "rank": "21",
-        "club": "ハル",
-        "matches": "35",
-        "wins": "8",
-        "draws": "10",
-        "losses": "17",
-        "goals_for_against": "33:44",
-        "points": "34"
       },
       {
         "rank": "22",
@@ -436,10 +436,10 @@
         "club": "プリマス",
         "matches": "35",
         "wins": "6",
-        "draws": "13",
-        "losses": "16",
-        "goals_for_against": "36:68",
-        "points": "31"
+        "draws": "12",
+        "losses": "17",
+        "goals_for_against": "36:70",
+        "points": "30"
       },
       {
         "rank": "24",

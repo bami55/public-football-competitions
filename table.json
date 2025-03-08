@@ -7,12 +7,12 @@
       {
         "rank": "1",
         "club": "リヴァプール",
-        "matches": "28",
+        "matches": "29",
         "wins": "20",
-        "draws": "7",
+        "draws": "8",
         "losses": "1",
         "goals_for_against": "66:26",
-        "points": "67"
+        "points": "68"
       },
       {
         "rank": "2",
@@ -66,6 +66,16 @@
       },
       {
         "rank": "7",
+        "club": "ブライトン",
+        "matches": "28",
+        "wins": "11",
+        "draws": "11",
+        "losses": "6",
+        "goals_for_against": "44:39",
+        "points": "44"
+      },
+      {
+        "rank": "8",
         "club": "ボーンマス",
         "matches": "27",
         "wins": "12",
@@ -75,24 +85,14 @@
         "points": "43"
       },
       {
-        "rank": "8",
-        "club": "ブライトン",
-        "matches": "27",
-        "wins": "11",
-        "draws": "10",
-        "losses": "6",
-        "goals_for_against": "44:39",
-        "points": "43"
-      },
-      {
         "rank": "9",
         "club": "フラム",
-        "matches": "27",
+        "matches": "28",
         "wins": "11",
-        "draws": "9",
+        "draws": "10",
         "losses": "7",
         "goals_for_against": "40:36",
-        "points": "42"
+        "points": "43"
       },
       {
         "rank": "10",
@@ -117,12 +117,12 @@
       {
         "rank": "12",
         "club": "クリスタル・パレス",
-        "matches": "27",
+        "matches": "28",
         "wins": "9",
-        "draws": "9",
+        "draws": "10",
         "losses": "9",
         "goals_for_against": "35:33",
-        "points": "36"
+        "points": "37"
       },
       {
         "rank": "13",
@@ -177,12 +177,12 @@
       {
         "rank": "18",
         "club": "イプスウィッチ",
-        "matches": "27",
+        "matches": "28",
         "wins": "3",
-        "draws": "8",
+        "draws": "9",
         "losses": "16",
         "goals_for_against": "26:57",
-        "points": "17"
+        "points": "18"
       },
       {
         "rank": "19",
@@ -197,12 +197,12 @@
       {
         "rank": "20",
         "club": "サウサンプトン",
-        "matches": "27",
+        "matches": "28",
         "wins": "2",
-        "draws": "3",
+        "draws": "4",
         "losses": "22",
         "goals_for_against": "19:65",
-        "points": "9"
+        "points": "10"
       }
     ]
   },
@@ -224,32 +224,32 @@
       {
         "rank": "2",
         "club": "シェフィールドU",
-        "matches": "35",
+        "matches": "36",
         "wins": "23",
-        "draws": "6",
+        "draws": "7",
         "losses": "6",
         "goals_for_against": "50:27",
-        "points": "73"
+        "points": "74"
       },
       {
         "rank": "3",
         "club": "バーンリー",
-        "matches": "35",
+        "matches": "36",
         "wins": "19",
-        "draws": "14",
+        "draws": "15",
         "losses": "2",
         "goals_for_against": "45:10",
-        "points": "71"
+        "points": "72"
       },
       {
         "rank": "4",
         "club": "サンダーランド",
-        "matches": "35",
-        "wins": "18",
+        "matches": "36",
+        "wins": "19",
         "draws": "11",
         "losses": "6",
-        "goals_for_against": "52:32",
-        "points": "65"
+        "goals_for_against": "53:32",
+        "points": "68"
       },
       {
         "rank": "5",
@@ -258,48 +258,48 @@
         "wins": "16",
         "draws": "8",
         "losses": "12",
-        "goals_for_against": "51:45",
+        "goals_for_against": "52:46",
         "points": "56"
       },
       {
         "rank": "6",
         "club": "ウェスト・ブロム",
-        "matches": "35",
+        "matches": "36",
         "wins": "12",
-        "draws": "16",
+        "draws": "17",
         "losses": "7",
         "goals_for_against": "45:32",
-        "points": "52"
+        "points": "53"
       },
       {
         "rank": "7",
         "club": "ブリストル・シティ",
-        "matches": "35",
+        "matches": "36",
         "wins": "13",
         "draws": "13",
-        "losses": "9",
-        "goals_for_against": "45:38",
+        "losses": "10",
+        "goals_for_against": "45:39",
         "points": "52"
       },
       {
         "rank": "8",
         "club": "ブラックバーン",
-        "matches": "35",
+        "matches": "36",
         "wins": "15",
         "draws": "7",
-        "losses": "13",
-        "goals_for_against": "40:35",
+        "losses": "14",
+        "goals_for_against": "40:37",
         "points": "52"
       },
       {
         "rank": "9",
         "club": "ミドルズブラ",
-        "matches": "35",
+        "matches": "36",
         "wins": "14",
-        "draws": "8",
+        "draws": "9",
         "losses": "13",
         "goals_for_against": "55:46",
-        "points": "50"
+        "points": "51"
       },
       {
         "rank": "10",
@@ -334,45 +334,55 @@
       {
         "rank": "13",
         "club": "シェフィールドW",
-        "matches": "35",
+        "matches": "36",
         "wins": "12",
-        "draws": "9",
+        "draws": "10",
         "losses": "14",
         "goals_for_against": "47:56",
-        "points": "45"
+        "points": "46"
       },
       {
         "rank": "14",
         "club": "QPR",
-        "matches": "35",
+        "matches": "36",
         "wins": "11",
-        "draws": "11",
+        "draws": "12",
         "losses": "13",
         "goals_for_against": "41:45",
-        "points": "44"
+        "points": "45"
       },
       {
         "rank": "15",
         "club": "プレストン",
-        "matches": "35",
+        "matches": "36",
         "wins": "9",
-        "draws": "16",
+        "draws": "17",
         "losses": "10",
         "goals_for_against": "36:41",
-        "points": "43"
+        "points": "44"
       },
       {
         "rank": "16",
         "club": "スウォンジー",
-        "matches": "35",
+        "matches": "36",
         "wins": "11",
-        "draws": "8",
+        "draws": "9",
         "losses": "16",
         "goals_for_against": "37:46",
-        "points": "41"
+        "points": "42"
       },
       {
         "rank": "17",
+        "club": "ハル",
+        "matches": "36",
+        "wins": "10",
+        "draws": "9",
+        "losses": "17",
+        "goals_for_against": "36:44",
+        "points": "39"
+      },
+      {
+        "rank": "18",
         "club": "ポーツマス",
         "matches": "35",
         "wins": "10",
@@ -382,7 +392,7 @@
         "points": "39"
       },
       {
-        "rank": "18",
+        "rank": "19",
         "club": "オックスフォード",
         "matches": "36",
         "wins": "9",
@@ -392,64 +402,54 @@
         "points": "39"
       },
       {
-        "rank": "19",
-        "club": "ハル",
-        "matches": "35",
-        "wins": "9",
-        "draws": "9",
-        "losses": "17",
-        "goals_for_against": "35:44",
-        "points": "36"
-      },
-      {
         "rank": "20",
         "club": "ストーク・シティ",
         "matches": "36",
         "wins": "8",
         "draws": "12",
         "losses": "16",
-        "goals_for_against": "35:49",
+        "goals_for_against": "36:50",
         "points": "36"
       },
       {
         "rank": "21",
         "club": "カーディフ",
-        "matches": "35",
+        "matches": "36",
         "wins": "8",
         "draws": "12",
-        "losses": "15",
-        "goals_for_against": "38:57",
+        "losses": "16",
+        "goals_for_against": "38:58",
         "points": "36"
       },
       {
         "rank": "22",
-        "club": "ルートン",
-        "matches": "35",
+        "club": "ダービー",
+        "matches": "36",
         "wins": "8",
-        "draws": "7",
+        "draws": "8",
         "losses": "20",
-        "goals_for_against": "32:55",
-        "points": "31"
+        "goals_for_against": "35:48",
+        "points": "32"
       },
       {
         "rank": "23",
-        "club": "プリマス",
-        "matches": "35",
-        "wins": "6",
-        "draws": "12",
-        "losses": "17",
-        "goals_for_against": "36:70",
-        "points": "30"
+        "club": "ルートン",
+        "matches": "36",
+        "wins": "8",
+        "draws": "8",
+        "losses": "20",
+        "goals_for_against": "32:55",
+        "points": "32"
       },
       {
         "rank": "24",
-        "club": "ダービー",
-        "matches": "35",
-        "wins": "7",
-        "draws": "8",
-        "losses": "20",
-        "goals_for_against": "33:48",
-        "points": "29"
+        "club": "プリマス",
+        "matches": "36",
+        "wins": "6",
+        "draws": "13",
+        "losses": "17",
+        "goals_for_against": "36:70",
+        "points": "31"
       }
     ]
   },
@@ -562,11 +562,11 @@
         "rank": "11",
         "club": "トリノ",
         "matches": "28",
-        "wins": "8",
-        "draws": "11",
+        "wins": "9",
+        "draws": "10",
         "losses": "9",
-        "goals_for_against": "31:32",
-        "points": "35"
+        "goals_for_against": "32:32",
+        "points": "37"
       },
       {
         "rank": "12",
@@ -582,11 +582,11 @@
         "rank": "13",
         "club": "コモ",
         "matches": "28",
-        "wins": "7",
-        "draws": "8",
+        "wins": "8",
+        "draws": "7",
         "losses": "13",
-        "goals_for_against": "33:43",
-        "points": "29"
+        "goals_for_against": "34:43",
+        "points": "31"
       },
       {
         "rank": "14",
@@ -623,10 +623,10 @@
         "club": "パルマ",
         "matches": "28",
         "wins": "5",
-        "draws": "9",
-        "losses": "14",
-        "goals_for_against": "32:46",
-        "points": "24"
+        "draws": "8",
+        "losses": "15",
+        "goals_for_against": "32:47",
+        "points": "23"
       },
       {
         "rank": "18",
@@ -643,10 +643,10 @@
         "club": "ヴェネツィア",
         "matches": "28",
         "wins": "3",
-        "draws": "10",
-        "losses": "15",
-        "goals_for_against": "22:41",
-        "points": "19"
+        "draws": "9",
+        "losses": "16",
+        "goals_for_against": "22:42",
+        "points": "18"
       },
       {
         "rank": "20",
@@ -875,21 +875,21 @@
       {
         "rank": "1",
         "club": "バイエルン",
-        "matches": "24",
-        "wins": "19",
+        "matches": "25",
+        "wins": "20",
         "draws": "4",
         "losses": "1",
-        "goals_for_against": "72:20",
-        "points": "61"
+        "goals_for_against": "74:21",
+        "points": "64"
       },
       {
         "rank": "2",
         "club": "レバークーゼン",
-        "matches": "24",
+        "matches": "25",
         "wins": "15",
         "draws": "8",
-        "losses": "1",
-        "goals_for_against": "55:28",
+        "losses": "2",
+        "goals_for_against": "55:29",
         "points": "53"
       },
       {
@@ -935,15 +935,25 @@
       {
         "rank": "7",
         "club": "ヴォルフスブルク",
-        "matches": "24",
+        "matches": "25",
         "wins": "10",
         "draws": "7",
-        "losses": "7",
-        "goals_for_against": "48:38",
+        "losses": "8",
+        "goals_for_against": "48:39",
         "points": "37"
       },
       {
         "rank": "8",
+        "club": "シュトゥットガルト",
+        "matches": "25",
+        "wins": "10",
+        "draws": "7",
+        "losses": "8",
+        "goals_for_against": "43:38",
+        "points": "37"
+      },
+      {
+        "rank": "9",
         "club": "ボルシアMG",
         "matches": "25",
         "wins": "11",
@@ -953,44 +963,34 @@
         "points": "37"
       },
       {
-        "rank": "9",
-        "club": "シュトゥットガルト",
-        "matches": "24",
-        "wins": "10",
-        "draws": "6",
-        "losses": "8",
-        "goals_for_against": "42:37",
-        "points": "36"
-      },
-      {
         "rank": "10",
         "club": "ドルトムント",
-        "matches": "24",
+        "matches": "25",
         "wins": "10",
         "draws": "5",
-        "losses": "9",
-        "goals_for_against": "45:38",
+        "losses": "10",
+        "goals_for_against": "45:39",
         "points": "35"
       },
       {
         "rank": "11",
         "club": "アウクスブルク",
-        "matches": "24",
-        "wins": "8",
+        "matches": "25",
+        "wins": "9",
         "draws": "8",
         "losses": "8",
-        "goals_for_against": "27:35",
-        "points": "32"
+        "goals_for_against": "28:35",
+        "points": "35"
       },
       {
         "rank": "12",
         "club": "ブレーメン",
-        "matches": "24",
-        "wins": "8",
+        "matches": "25",
+        "wins": "9",
         "draws": "6",
         "losses": "10",
-        "goals_for_against": "36:49",
-        "points": "30"
+        "goals_for_against": "37:49",
+        "points": "33"
       },
       {
         "rank": "13",
@@ -1004,6 +1004,16 @@
       },
       {
         "rank": "14",
+        "club": "ザンクトパウリ",
+        "matches": "25",
+        "wins": "7",
+        "draws": "3",
+        "losses": "15",
+        "goals_for_against": "19:29",
+        "points": "24"
+      },
+      {
+        "rank": "15",
         "club": "ウニオン・ベルリン",
         "matches": "24",
         "wins": "6",
@@ -1013,34 +1023,24 @@
         "points": "23"
       },
       {
-        "rank": "15",
-        "club": "ザンクトパウリ",
-        "matches": "24",
-        "wins": "6",
-        "draws": "3",
-        "losses": "15",
-        "goals_for_against": "18:29",
-        "points": "21"
-      },
-      {
         "rank": "16",
-        "club": "ボーフム",
-        "matches": "24",
+        "club": "キール",
+        "matches": "25",
         "wins": "4",
         "draws": "5",
-        "losses": "15",
-        "goals_for_against": "23:47",
+        "losses": "16",
+        "goals_for_against": "36:60",
         "points": "17"
       },
       {
         "rank": "17",
-        "club": "キール",
-        "matches": "24",
+        "club": "ボーフム",
+        "matches": "25",
         "wins": "4",
-        "draws": "4",
+        "draws": "5",
         "losses": "16",
-        "goals_for_against": "35:59",
-        "points": "16"
+        "goals_for_against": "24:49",
+        "points": "17"
       },
       {
         "rank": "18",
@@ -1703,12 +1703,12 @@
       {
         "rank": "9",
         "club": "OHルーヴェン",
-        "matches": "28",
+        "matches": "29",
         "wins": "7",
-        "draws": "13",
+        "draws": "14",
         "losses": "8",
         "goals_for_against": "25:29",
-        "points": "34"
+        "points": "35"
       },
       {
         "rank": "10",
@@ -1763,12 +1763,12 @@
       {
         "rank": "15",
         "club": "KVコルトレイク",
-        "matches": "28",
+        "matches": "29",
         "wins": "5",
-        "draws": "5",
+        "draws": "6",
         "losses": "18",
         "goals_for_against": "24:54",
-        "points": "20"
+        "points": "21"
       },
       {
         "rank": "16",

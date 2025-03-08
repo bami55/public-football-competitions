@@ -462,11 +462,11 @@
         "rank": "1",
         "club": "インテル",
         "matches": "28",
-        "wins": "17",
-        "draws": "8",
+        "wins": "18",
+        "draws": "7",
         "losses": "3",
-        "goals_for_against": "62:27",
-        "points": "59"
+        "goals_for_against": "63:27",
+        "points": "61"
       },
       {
         "rank": "2",
@@ -653,10 +653,10 @@
         "club": "モンツァ",
         "matches": "28",
         "wins": "2",
-        "draws": "9",
-        "losses": "17",
-        "goals_for_against": "23:47",
-        "points": "15"
+        "draws": "8",
+        "losses": "18",
+        "goals_for_against": "23:48",
+        "points": "14"
       }
     ]
   },
@@ -1074,10 +1074,10 @@
         "club": "マルセイユ",
         "matches": "25",
         "wins": "15",
-        "draws": "5",
-        "losses": "5",
-        "goals_for_against": "52:29",
-        "points": "50"
+        "draws": "4",
+        "losses": "6",
+        "goals_for_against": "52:30",
+        "points": "49"
       },
       {
         "rank": "3",
@@ -1131,22 +1131,22 @@
       },
       {
         "rank": "8",
+        "club": "ランス",
+        "matches": "25",
+        "wins": "10",
+        "draws": "6",
+        "losses": "9",
+        "goals_for_against": "30:29",
+        "points": "36"
+      },
+      {
+        "rank": "9",
         "club": "トゥールーズ",
         "matches": "25",
         "wins": "9",
         "draws": "7",
         "losses": "9",
         "goals_for_against": "32:27",
-        "points": "34"
-      },
-      {
-        "rank": "9",
-        "club": "ランス",
-        "matches": "25",
-        "wins": "9",
-        "draws": "7",
-        "losses": "9",
-        "goals_for_against": "29:29",
         "points": "34"
       },
       {
@@ -1624,11 +1624,11 @@
         "rank": "1",
         "club": "KRCヘンク",
         "matches": "29",
-        "wins": "19",
-        "draws": "6",
+        "wins": "20",
+        "draws": "5",
         "losses": "4",
-        "goals_for_against": "52:32",
-        "points": "63"
+        "goals_for_against": "53:32",
+        "points": "65"
       },
       {
         "rank": "2",
@@ -1725,10 +1725,10 @@
         "club": "FCVデンデルEH",
         "matches": "29",
         "wins": "8",
-        "draws": "9",
-        "losses": "12",
-        "goals_for_against": "32:48",
-        "points": "33"
+        "draws": "8",
+        "losses": "13",
+        "goals_for_against": "32:49",
+        "points": "32"
       },
       {
         "rank": "12",

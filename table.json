@@ -2143,6 +2143,16 @@
       },
       {
         "rank": "3",
+        "club": "V・ファーレン長崎",
+        "matches": "4",
+        "wins": "2",
+        "draws": "2",
+        "losses": "0",
+        "goals_for_against": "6:4",
+        "points": "8"
+      },
+      {
+        "rank": "4",
         "club": "徳島ヴォルティス",
         "matches": "3",
         "wins": "2",
@@ -2152,24 +2162,14 @@
         "points": "7"
       },
       {
-        "rank": "4",
-        "club": "V・ファーレン長崎",
-        "matches": "3",
-        "wins": "2",
-        "draws": "1",
-        "losses": "0",
-        "goals_for_against": "6:4",
-        "points": "7"
-      },
-      {
         "rank": "5",
         "club": "ベガルタ仙台",
-        "matches": "3",
+        "matches": "4",
         "wins": "2",
-        "draws": "0",
+        "draws": "1",
         "losses": "1",
         "goals_for_against": "3:1",
-        "points": "6"
+        "points": "7"
       },
       {
         "rank": "6",
@@ -2380,6 +2380,26 @@
       },
       {
         "rank": "6",
+        "club": "FC岐阜",
+        "matches": "4",
+        "wins": "1",
+        "draws": "2",
+        "losses": "1",
+        "goals_for_against": "3:3",
+        "points": "5"
+      },
+      {
+        "rank": "7",
+        "club": "福島ユナイテッド",
+        "matches": "4",
+        "wins": "1",
+        "draws": "2",
+        "losses": "1",
+        "goals_for_against": "4:5",
+        "points": "5"
+      },
+      {
+        "rank": "8",
         "club": "ザスパ群馬",
         "matches": "3",
         "wins": "1",
@@ -2389,7 +2409,7 @@
         "points": "4"
       },
       {
-        "rank": "6",
+        "rank": "8",
         "club": "鹿児島ユナイテッド",
         "matches": "3",
         "wins": "1",
@@ -2399,7 +2419,7 @@
         "points": "4"
       },
       {
-        "rank": "8",
+        "rank": "10",
         "club": "ツエーゲン金沢",
         "matches": "2",
         "wins": "1",
@@ -2409,7 +2429,7 @@
         "points": "4"
       },
       {
-        "rank": "9",
+        "rank": "11",
         "club": "ヴァンラーレ八戸",
         "matches": "2",
         "wins": "1",
@@ -2419,27 +2439,7 @@
         "points": "4"
       },
       {
-        "rank": "10",
-        "club": "FC岐阜",
-        "matches": "3",
-        "wins": "1",
-        "draws": "1",
-        "losses": "1",
-        "goals_for_against": "3:3",
-        "points": "4"
-      },
-      {
-        "rank": "11",
-        "club": "福島ユナイテッド",
-        "matches": "3",
-        "wins": "1",
-        "draws": "1",
-        "losses": "1",
-        "goals_for_against": "4:5",
-        "points": "4"
-      },
-      {
-        "rank": "11",
+        "rank": "12",
         "club": "奈良クラブ",
         "matches": "3",
         "wins": "1",

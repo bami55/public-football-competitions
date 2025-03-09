@@ -485,7 +485,7 @@
         "wins": "17",
         "draws": "7",
         "losses": "4",
-        "goals_for_against": "60:26",
+        "goals_for_against": "62:26",
         "points": "58"
       },
       {
@@ -495,7 +495,7 @@
         "wins": "13",
         "draws": "13",
         "losses": "2",
-        "goals_for_against": "45:22",
+        "goals_for_against": "45:24",
         "points": "52"
       },
       {
@@ -757,22 +757,22 @@
       },
       {
         "rank": "10",
-        "club": "レアル・ソシエダ",
+        "club": "セビージャ FC",
         "matches": "27",
-        "wins": "10",
-        "draws": "5",
-        "losses": "12",
-        "goals_for_against": "23:27",
-        "points": "35"
+        "wins": "9",
+        "draws": "9",
+        "losses": "9",
+        "goals_for_against": "32:36",
+        "points": "36"
       },
       {
         "rank": "11",
-        "club": "セビージャ FC",
+        "club": "レアル・ソシエダ",
         "matches": "27",
-        "wins": "8",
-        "draws": "10",
-        "losses": "9",
-        "goals_for_against": "31:36",
+        "wins": "10",
+        "draws": "4",
+        "losses": "13",
+        "goals_for_against": "23:28",
         "points": "34"
       },
       {
@@ -1485,6 +1485,16 @@
       },
       {
         "rank": "6",
+        "club": "ヴィトーリアSC",
+        "matches": "25",
+        "wins": "8",
+        "draws": "12",
+        "losses": "5",
+        "goals_for_against": "32:26",
+        "points": "36"
+      },
+      {
+        "rank": "7",
         "club": "カーザ・ピア",
         "matches": "25",
         "wins": "10",
@@ -1492,16 +1502,6 @@
         "losses": "9",
         "goals_for_against": "31:32",
         "points": "36"
-      },
-      {
-        "rank": "7",
-        "club": "ヴィトーリアSC",
-        "matches": "24",
-        "wins": "8",
-        "draws": "11",
-        "losses": "5",
-        "goals_for_against": "32:26",
-        "points": "35"
       },
       {
         "rank": "8",
@@ -1606,12 +1606,12 @@
       {
         "rank": "18",
         "club": "ボアヴィスタ",
-        "matches": "24",
+        "matches": "25",
         "wins": "3",
-        "draws": "6",
+        "draws": "7",
         "losses": "15",
         "goals_for_against": "15:40",
-        "points": "15"
+        "points": "16"
       }
     ]
   },

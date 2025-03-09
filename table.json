@@ -2134,12 +2134,12 @@
       {
         "rank": "2",
         "club": "ジェフ千葉",
-        "matches": "3",
+        "matches": "4",
         "wins": "3",
-        "draws": "0",
+        "draws": "1",
         "losses": "0",
         "goals_for_against": "7:2",
-        "points": "9"
+        "points": "10"
       },
       {
         "rank": "3",
@@ -2293,6 +2293,16 @@
       },
       {
         "rank": "18",
+        "club": "コンサドーレ札幌",
+        "matches": "4",
+        "wins": "0",
+        "draws": "1",
+        "losses": "3",
+        "goals_for_against": "0:7",
+        "points": "1"
+      },
+      {
+        "rank": "19",
         "club": "モンテディオ山形",
         "matches": "3",
         "wins": "0",
@@ -2302,23 +2312,13 @@
         "points": "0"
       },
       {
-        "rank": "19",
+        "rank": "20",
         "club": "サガン鳥栖",
         "matches": "3",
         "wins": "0",
         "draws": "0",
         "losses": "3",
         "goals_for_against": "1:6",
-        "points": "0"
-      },
-      {
-        "rank": "20",
-        "club": "コンサドーレ札幌",
-        "matches": "3",
-        "wins": "0",
-        "draws": "0",
-        "losses": "3",
-        "goals_for_against": "0:7",
         "points": "0"
       }
     ]

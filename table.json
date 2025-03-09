@@ -485,7 +485,7 @@
         "wins": "17",
         "draws": "7",
         "losses": "4",
-        "goals_for_against": "62:26",
+        "goals_for_against": "63:26",
         "points": "58"
       },
       {
@@ -495,7 +495,7 @@
         "wins": "13",
         "draws": "13",
         "losses": "2",
-        "goals_for_against": "45:24",
+        "goals_for_against": "45:25",
         "points": "52"
       },
       {
@@ -1084,10 +1084,10 @@
         "club": "ニース",
         "matches": "25",
         "wins": "13",
-        "draws": "8",
-        "losses": "4",
-        "goals_for_against": "49:28",
-        "points": "47"
+        "draws": "7",
+        "losses": "5",
+        "goals_for_against": "49:30",
+        "points": "46"
       },
       {
         "rank": "4",
@@ -1113,11 +1113,11 @@
         "rank": "6",
         "club": "リヨン",
         "matches": "25",
-        "wins": "11",
-        "draws": "7",
+        "wins": "12",
+        "draws": "6",
         "losses": "7",
-        "goals_for_against": "44:31",
-        "points": "40"
+        "goals_for_against": "46:31",
+        "points": "42"
       },
       {
         "rank": "7",
@@ -1487,11 +1487,11 @@
         "rank": "6",
         "club": "ヴィトーリアSC",
         "matches": "25",
-        "wins": "8",
-        "draws": "12",
+        "wins": "9",
+        "draws": "11",
         "losses": "5",
-        "goals_for_against": "32:26",
-        "points": "36"
+        "goals_for_against": "34:27",
+        "points": "38"
       },
       {
         "rank": "7",
@@ -1608,10 +1608,10 @@
         "club": "ボアヴィスタ",
         "matches": "25",
         "wins": "3",
-        "draws": "7",
-        "losses": "15",
-        "goals_for_against": "15:40",
-        "points": "16"
+        "draws": "6",
+        "losses": "16",
+        "goals_for_against": "16:42",
+        "points": "15"
       }
     ]
   },

@@ -702,7 +702,7 @@
         "wins": "13",
         "draws": "10",
         "losses": "4",
-        "goals_for_against": "44:23",
+        "goals_for_against": "45:24",
         "points": "49"
       },
       {
@@ -719,11 +719,11 @@
         "rank": "6",
         "club": "レアル・ベティス",
         "matches": "27",
-        "wins": "10",
-        "draws": "9",
+        "wins": "11",
+        "draws": "8",
         "losses": "8",
-        "goals_for_against": "34:33",
-        "points": "39"
+        "goals_for_against": "35:33",
+        "points": "41"
       },
       {
         "rank": "7",
@@ -732,7 +732,7 @@
         "wins": "10",
         "draws": "7",
         "losses": "10",
-        "goals_for_against": "25:32",
+        "goals_for_against": "26:33",
         "points": "37"
       },
       {
@@ -850,10 +850,10 @@
         "club": "UD ラス・パルマス",
         "matches": "27",
         "wins": "6",
-        "draws": "7",
-        "losses": "14",
-        "goals_for_against": "30:44",
-        "points": "25"
+        "draws": "6",
+        "losses": "15",
+        "goals_for_against": "30:45",
+        "points": "24"
       },
       {
         "rank": "20",
@@ -1440,7 +1440,7 @@
         "wins": "18",
         "draws": "5",
         "losses": "2",
-        "goals_for_against": "65:21",
+        "goals_for_against": "66:22",
         "points": "59"
       },
       {
@@ -1490,7 +1490,7 @@
         "wins": "10",
         "draws": "6",
         "losses": "9",
-        "goals_for_against": "30:30",
+        "goals_for_against": "31:31",
         "points": "36"
       },
       {
@@ -1644,11 +1644,11 @@
         "rank": "3",
         "club": "ユニオンSG",
         "matches": "29",
-        "wins": "14",
-        "draws": "11",
+        "wins": "15",
+        "draws": "10",
         "losses": "4",
-        "goals_for_against": "45:23",
-        "points": "53"
+        "goals_for_against": "46:23",
+        "points": "55"
       },
       {
         "rank": "4",
@@ -1665,30 +1665,30 @@
         "club": "ロイヤル・アントワープ",
         "matches": "29",
         "wins": "12",
-        "draws": "10",
-        "losses": "7",
-        "goals_for_against": "47:31",
-        "points": "46"
+        "draws": "9",
+        "losses": "8",
+        "goals_for_against": "47:32",
+        "points": "45"
       },
       {
         "rank": "6",
         "club": "KAAヘント",
         "matches": "29",
-        "wins": "10",
-        "draws": "13",
+        "wins": "11",
+        "draws": "12",
         "losses": "6",
-        "goals_for_against": "39:31",
-        "points": "43"
+        "goals_for_against": "40:31",
+        "points": "45"
       },
       {
         "rank": "7",
         "club": "スタンダール・リエージュ",
         "matches": "29",
         "wins": "10",
-        "draws": "9",
-        "losses": "10",
-        "goals_for_against": "22:32",
-        "points": "39"
+        "draws": "8",
+        "losses": "11",
+        "goals_for_against": "22:33",
+        "points": "38"
       },
       {
         "rank": "8",

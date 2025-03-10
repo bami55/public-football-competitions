@@ -56,6 +56,16 @@
       },
       {
         "rank": "6",
+        "club": "ニューカッスル",
+        "matches": "28",
+        "wins": "14",
+        "draws": "5",
+        "losses": "9",
+        "goals_for_against": "47:38",
+        "points": "47"
+      },
+      {
+        "rank": "7",
         "club": "ブライトン",
         "matches": "28",
         "wins": "12",
@@ -63,16 +73,6 @@
         "losses": "6",
         "goals_for_against": "46:40",
         "points": "46"
-      },
-      {
-        "rank": "7",
-        "club": "ニューカッスル",
-        "matches": "28",
-        "wins": "13",
-        "draws": "6",
-        "losses": "9",
-        "goals_for_against": "46:38",
-        "points": "45"
       },
       {
         "rank": "8",
@@ -146,22 +146,22 @@
       },
       {
         "rank": "15",
-        "club": "ウェストハム",
-        "matches": "28",
-        "wins": "9",
-        "draws": "7",
-        "losses": "12",
-        "goals_for_against": "32:47",
-        "points": "34"
-      },
-      {
-        "rank": "16",
         "club": "エヴァートン",
         "matches": "28",
         "wins": "7",
         "draws": "12",
         "losses": "9",
         "goals_for_against": "31:35",
+        "points": "33"
+      },
+      {
+        "rank": "16",
+        "club": "ウェストハム",
+        "matches": "28",
+        "wins": "9",
+        "draws": "6",
+        "losses": "13",
+        "goals_for_against": "32:48",
         "points": "33"
       },
       {
@@ -787,6 +787,16 @@
       },
       {
         "rank": "13",
+        "club": "ジローナ",
+        "matches": "27",
+        "wins": "9",
+        "draws": "6",
+        "losses": "12",
+        "goals_for_against": "35:40",
+        "points": "33"
+      },
+      {
+        "rank": "14",
         "club": "CA オサスナ",
         "matches": "26",
         "wins": "7",
@@ -796,24 +806,14 @@
         "points": "33"
       },
       {
-        "rank": "14",
-        "club": "ジローナ",
-        "matches": "27",
-        "wins": "9",
-        "draws": "5",
-        "losses": "13",
-        "goals_for_against": "34:40",
-        "points": "32"
-      },
-      {
         "rank": "15",
         "club": "エスパニョール",
         "matches": "26",
-        "wins": "8",
-        "draws": "6",
+        "wins": "7",
+        "draws": "7",
         "losses": "12",
-        "goals_for_against": "25:36",
-        "points": "30"
+        "goals_for_against": "25:37",
+        "points": "28"
       },
       {
         "rank": "16",

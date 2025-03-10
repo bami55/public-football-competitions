@@ -787,16 +787,6 @@
       },
       {
         "rank": "13",
-        "club": "ジローナ",
-        "matches": "27",
-        "wins": "9",
-        "draws": "6",
-        "losses": "12",
-        "goals_for_against": "34:39",
-        "points": "33"
-      },
-      {
-        "rank": "14",
         "club": "CA オサスナ",
         "matches": "26",
         "wins": "7",
@@ -806,14 +796,24 @@
         "points": "33"
       },
       {
+        "rank": "14",
+        "club": "ジローナ",
+        "matches": "27",
+        "wins": "9",
+        "draws": "5",
+        "losses": "13",
+        "goals_for_against": "34:40",
+        "points": "32"
+      },
+      {
         "rank": "15",
         "club": "エスパニョール",
         "matches": "26",
-        "wins": "7",
-        "draws": "7",
+        "wins": "8",
+        "draws": "6",
         "losses": "12",
-        "goals_for_against": "24:36",
-        "points": "28"
+        "goals_for_against": "25:36",
+        "points": "30"
       },
       {
         "rank": "16",
@@ -1517,21 +1517,21 @@
         "rank": "9",
         "club": "ファマリカン",
         "matches": "25",
-        "wins": "7",
-        "draws": "11",
+        "wins": "8",
+        "draws": "10",
         "losses": "7",
-        "goals_for_against": "27:26",
-        "points": "32"
+        "goals_for_against": "28:26",
+        "points": "34"
       },
       {
         "rank": "10",
         "club": "リオ・アヴェ",
         "matches": "25",
         "wins": "7",
-        "draws": "9",
-        "losses": "9",
-        "goals_for_against": "27:39",
-        "points": "30"
+        "draws": "8",
+        "losses": "10",
+        "goals_for_against": "27:40",
+        "points": "29"
       },
       {
         "rank": "11",

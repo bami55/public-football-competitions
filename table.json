@@ -246,10 +246,10 @@
         "club": "サンダーランド",
         "matches": "37",
         "wins": "19",
-        "draws": "12",
-        "losses": "6",
-        "goals_for_against": "54:33",
-        "points": "69"
+        "draws": "11",
+        "losses": "7",
+        "goals_for_against": "54:34",
+        "points": "68"
       },
       {
         "rank": "5",
@@ -268,7 +268,7 @@
         "wins": "16",
         "draws": "8",
         "losses": "13",
-        "goals_for_against": "52:47",
+        "goals_for_against": "52:48",
         "points": "56"
       },
       {
@@ -288,7 +288,7 @@
         "wins": "15",
         "draws": "8",
         "losses": "14",
-        "goals_for_against": "56:47",
+        "goals_for_against": "57:47",
         "points": "53"
       },
       {
@@ -298,7 +298,7 @@
         "wins": "13",
         "draws": "13",
         "losses": "11",
-        "goals_for_against": "59:49",
+        "goals_for_against": "59:50",
         "points": "52"
       },
       {
@@ -338,27 +338,27 @@
         "wins": "13",
         "draws": "9",
         "losses": "15",
-        "goals_for_against": "50:58",
+        "goals_for_against": "51:58",
         "points": "48"
       },
       {
         "rank": "14",
+        "club": "プレストン",
+        "matches": "37",
+        "wins": "10",
+        "draws": "16",
+        "losses": "11",
+        "goals_for_against": "37:42",
+        "points": "46"
+      },
+      {
+        "rank": "15",
         "club": "QPR",
         "matches": "37",
         "wins": "11",
         "draws": "11",
         "losses": "15",
-        "goals_for_against": "41:47",
-        "points": "44"
-      },
-      {
-        "rank": "15",
-        "club": "プレストン",
-        "matches": "37",
-        "wins": "9",
-        "draws": "17",
-        "losses": "11",
-        "goals_for_against": "36:42",
+        "goals_for_against": "41:48",
         "points": "44"
       },
       {
@@ -408,7 +408,7 @@
         "wins": "8",
         "draws": "13",
         "losses": "16",
-        "goals_for_against": "39:59",
+        "goals_for_against": "40:60",
         "points": "37"
       },
       {
@@ -428,7 +428,7 @@
         "wins": "9",
         "draws": "8",
         "losses": "20",
-        "goals_for_against": "36:49",
+        "goals_for_against": "37:49",
         "points": "35"
       },
       {
@@ -438,7 +438,7 @@
         "wins": "8",
         "draws": "8",
         "losses": "21",
-        "goals_for_against": "32:59",
+        "goals_for_against": "33:60",
         "points": "32"
       },
       {

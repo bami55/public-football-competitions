@@ -258,7 +258,7 @@
         "wins": "14",
         "draws": "15",
         "losses": "9",
-        "goals_for_against": "48:40",
+        "goals_for_against": "49:40",
         "points": "57"
       },
       {
@@ -328,7 +328,7 @@
         "wins": "12",
         "draws": "13",
         "losses": "13",
-        "goals_for_against": "59:53",
+        "goals_for_against": "59:54",
         "points": "49"
       },
       {
@@ -575,7 +575,7 @@
         "wins": "8",
         "draws": "11",
         "losses": "10",
-        "goals_for_against": "27:36",
+        "goals_for_against": "28:37",
         "points": "35"
       },
       {
@@ -615,7 +615,7 @@
         "wins": "6",
         "draws": "7",
         "losses": "16",
-        "goals_for_against": "20:47",
+        "goals_for_against": "21:48",
         "points": "25"
       },
       {
@@ -994,16 +994,6 @@
       },
       {
         "rank": "13",
-        "club": "ホッフェンハイム",
-        "matches": "26",
-        "wins": "6",
-        "draws": "9",
-        "losses": "11",
-        "goals_for_against": "32:47",
-        "points": "27"
-      },
-      {
-        "rank": "14",
         "club": "ウニオン・ベルリン",
         "matches": "25",
         "wins": "7",
@@ -1013,14 +1003,24 @@
         "points": "26"
       },
       {
+        "rank": "14",
+        "club": "ホッフェンハイム",
+        "matches": "26",
+        "wins": "6",
+        "draws": "8",
+        "losses": "12",
+        "goals_for_against": "32:48",
+        "points": "26"
+      },
+      {
         "rank": "15",
         "club": "ザンクトパウリ",
         "matches": "26",
-        "wins": "6",
-        "draws": "5",
+        "wins": "7",
+        "draws": "4",
         "losses": "15",
-        "goals_for_against": "19:30",
-        "points": "23"
+        "goals_for_against": "20:30",
+        "points": "25"
       },
       {
         "rank": "16",
@@ -1083,11 +1083,11 @@
         "rank": "3",
         "club": "ニース",
         "matches": "26",
-        "wins": "13",
-        "draws": "8",
+        "wins": "14",
+        "draws": "7",
         "losses": "5",
-        "goals_for_against": "49:30",
-        "points": "47"
+        "goals_for_against": "50:30",
+        "points": "49"
       },
       {
         "rank": "4",
@@ -1164,10 +1164,10 @@
         "club": "オセール",
         "matches": "26",
         "wins": "8",
-        "draws": "8",
-        "losses": "10",
-        "goals_for_against": "36:38",
-        "points": "32"
+        "draws": "7",
+        "losses": "11",
+        "goals_for_against": "36:39",
+        "points": "31"
       },
       {
         "rank": "12",

@@ -718,12 +718,12 @@
       {
         "rank": "6",
         "club": "レアル・ベティス",
-        "matches": "27",
+        "matches": "28",
         "wins": "11",
-        "draws": "8",
+        "draws": "9",
         "losses": "8",
         "goals_for_against": "35:33",
-        "points": "41"
+        "points": "42"
       },
       {
         "rank": "7",
@@ -827,22 +827,22 @@
       },
       {
         "rank": "17",
+        "club": "レガネス",
+        "matches": "28",
+        "wins": "6",
+        "draws": "10",
+        "losses": "12",
+        "goals_for_against": "24:40",
+        "points": "28"
+      },
+      {
+        "rank": "18",
         "club": "アラベス",
         "matches": "28",
         "wins": "6",
         "draws": "9",
         "losses": "13",
         "goals_for_against": "32:42",
-        "points": "27"
-      },
-      {
-        "rank": "18",
-        "club": "レガネス",
-        "matches": "27",
-        "wins": "6",
-        "draws": "9",
-        "losses": "12",
-        "goals_for_against": "24:40",
         "points": "27"
       },
       {
@@ -1298,6 +1298,16 @@
       },
       {
         "rank": "6",
+        "club": "ゴー・アヘッド・イーグルス",
+        "matches": "26",
+        "wins": "13",
+        "draws": "5",
+        "losses": "8",
+        "goals_for_against": "47:40",
+        "points": "44"
+      },
+      {
+        "rank": "7",
         "club": "AZアルクマール",
         "matches": "24",
         "wins": "13",
@@ -1305,16 +1315,6 @@
         "losses": "7",
         "goals_for_against": "40:24",
         "points": "43"
-      },
-      {
-        "rank": "7",
-        "club": "ゴー・アヘッド・イーグルス",
-        "matches": "26",
-        "wins": "12",
-        "draws": "6",
-        "losses": "8",
-        "goals_for_against": "46:40",
-        "points": "42"
       },
       {
         "rank": "8",
@@ -1401,10 +1401,10 @@
         "club": "ヴィレムII",
         "matches": "26",
         "wins": "6",
-        "draws": "7",
-        "losses": "13",
-        "goals_for_against": "28:41",
-        "points": "25"
+        "draws": "6",
+        "losses": "14",
+        "goals_for_against": "28:42",
+        "points": "24"
       },
       {
         "rank": "17",
@@ -1792,20 +1792,20 @@
         "club": "セルティック",
         "matches": "30",
         "wins": "24",
-        "draws": "4",
-        "losses": "2",
-        "goals_for_against": "87:17",
-        "points": "76"
+        "draws": "3",
+        "losses": "3",
+        "goals_for_against": "87:19",
+        "points": "75"
       },
       {
         "rank": "2",
         "club": "レンジャーズ",
         "matches": "30",
-        "wins": "18",
-        "draws": "6",
+        "wins": "19",
+        "draws": "5",
         "losses": "6",
-        "goals_for_against": "59:26",
-        "points": "60"
+        "goals_for_against": "61:26",
+        "points": "62"
       },
       {
         "rank": "3",

@@ -465,7 +465,7 @@
         "wins": "19",
         "draws": "7",
         "losses": "3",
-        "goals_for_against": "64:27",
+        "goals_for_against": "65:27",
         "points": "64"
       },
       {
@@ -485,7 +485,7 @@
         "wins": "17",
         "draws": "7",
         "losses": "5",
-        "goals_for_against": "63:27",
+        "goals_for_against": "63:28",
         "points": "58"
       },
       {
@@ -667,6 +667,16 @@
     "results": [
       {
         "rank": "1",
+        "club": "バルセロナ",
+        "matches": "27",
+        "wins": "19",
+        "draws": "3",
+        "losses": "5",
+        "goals_for_against": "75:27",
+        "points": "60"
+      },
+      {
+        "rank": "2",
         "club": "レアル・マドリード",
         "matches": "28",
         "wins": "18",
@@ -676,24 +686,14 @@
         "points": "60"
       },
       {
-        "rank": "2",
+        "rank": "3",
         "club": "アトレティコ・マドリード",
         "matches": "28",
-        "wins": "17",
+        "wins": "16",
         "draws": "8",
-        "losses": "3",
-        "goals_for_against": "45:18",
-        "points": "59"
-      },
-      {
-        "rank": "3",
-        "club": "バルセロナ",
-        "matches": "27",
-        "wins": "18",
-        "draws": "3",
-        "losses": "6",
-        "goals_for_against": "71:26",
-        "points": "57"
+        "losses": "4",
+        "goals_for_against": "46:22",
+        "points": "56"
       },
       {
         "rank": "4",
@@ -1066,7 +1066,7 @@
         "wins": "21",
         "draws": "5",
         "losses": "0",
-        "goals_for_against": "72:25",
+        "goals_for_against": "73:25",
         "points": "68"
       },
       {
@@ -1076,7 +1076,7 @@
         "wins": "15",
         "draws": "4",
         "losses": "7",
-        "goals_for_against": "53:32",
+        "goals_for_against": "53:33",
         "points": "49"
       },
       {
@@ -1490,7 +1490,7 @@
         "wins": "10",
         "draws": "11",
         "losses": "5",
-        "goals_for_against": "35:27",
+        "goals_for_against": "36:27",
         "points": "41"
       },
       {
@@ -1580,7 +1580,7 @@
         "wins": "5",
         "draws": "8",
         "losses": "13",
-        "goals_for_against": "21:37",
+        "goals_for_against": "21:38",
         "points": "23"
       },
       {

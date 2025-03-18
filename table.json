@@ -610,22 +610,22 @@
       },
       {
         "rank": "16",
-        "club": "パルマ",
-        "matches": "29",
-        "wins": "5",
-        "draws": "10",
-        "losses": "14",
-        "goals_for_against": "35:49",
-        "points": "25"
-      },
-      {
-        "rank": "17",
         "club": "レッチェ",
         "matches": "29",
         "wins": "6",
         "draws": "7",
         "losses": "16",
         "goals_for_against": "21:48",
+        "points": "25"
+      },
+      {
+        "rank": "17",
+        "club": "パルマ",
+        "matches": "29",
+        "wins": "5",
+        "draws": "10",
+        "losses": "14",
+        "goals_for_against": "35:49",
         "points": "25"
       },
       {

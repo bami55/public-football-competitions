@@ -2124,202 +2124,202 @@
       {
         "rank": "1",
         "club": "ジェフ千葉",
-        "matches": "5",
+        "matches": "6",
         "wins": "5",
         "draws": "0",
-        "losses": "0",
-        "goals_for_against": "15:4",
+        "losses": "1",
+        "goals_for_against": "15:5",
         "points": "15"
       },
       {
         "rank": "2",
         "club": "RB 大宮",
-        "matches": "5",
+        "matches": "6",
         "wins": "4",
-        "draws": "0",
+        "draws": "1",
         "losses": "1",
         "goals_for_against": "9:3",
-        "points": "12"
+        "points": "13"
       },
       {
         "rank": "3",
         "club": "V・ファーレン長崎",
-        "matches": "5",
+        "matches": "6",
         "wins": "3",
-        "draws": "2",
+        "draws": "3",
         "losses": "0",
         "goals_for_against": "8:5",
-        "points": "11"
+        "points": "12"
       },
       {
         "rank": "4",
-        "club": "カターレ富山",
-        "matches": "5",
-        "wins": "3",
-        "draws": "1",
-        "losses": "1",
-        "goals_for_against": "6:3",
-        "points": "10"
+        "club": "ジュビロ磐田",
+        "matches": "6",
+        "wins": "4",
+        "draws": "0",
+        "losses": "2",
+        "goals_for_against": "9:7",
+        "points": "12"
       },
       {
         "rank": "5",
-        "club": "ジュビロ磐田",
+        "club": "カターレ富山",
         "matches": "6",
         "wins": "3",
-        "draws": "1",
-        "losses": "2",
-        "goals_for_against": "7:7",
-        "points": "10"
+        "draws": "2",
+        "losses": "1",
+        "goals_for_against": "6:3",
+        "points": "11"
       },
       {
         "rank": "6",
-        "club": "ベガルタ仙台",
+        "club": "FC今治",
         "matches": "6",
         "wins": "2",
         "draws": "3",
         "losses": "1",
-        "goals_for_against": "6:4",
+        "goals_for_against": "7:4",
         "points": "9"
       },
       {
         "rank": "7",
-        "club": "FC今治",
-        "matches": "5",
+        "club": "徳島ヴォルティス",
+        "matches": "6",
         "wins": "2",
-        "draws": "2",
+        "draws": "3",
         "losses": "1",
-        "goals_for_against": "7:4",
-        "points": "8"
+        "goals_for_against": "4:2",
+        "points": "9"
       },
       {
         "rank": "8",
-        "club": "徳島ヴォルティス",
-        "matches": "5",
+        "club": "藤枝MYFC",
+        "matches": "6",
         "wins": "2",
-        "draws": "2",
+        "draws": "3",
         "losses": "1",
-        "goals_for_against": "4:2",
-        "points": "8"
+        "goals_for_against": "7:6",
+        "points": "9"
       },
       {
         "rank": "9",
-        "club": "藤枝MYFC",
-        "matches": "5",
+        "club": "ベガルタ仙台",
+        "matches": "6",
         "wins": "2",
         "draws": "2",
-        "losses": "1",
-        "goals_for_against": "7:6",
+        "losses": "2",
+        "goals_for_against": "6:6",
         "points": "8"
       },
       {
         "rank": "10",
         "club": "モンテディオ山形",
-        "matches": "5",
+        "matches": "6",
         "wins": "2",
-        "draws": "0",
+        "draws": "1",
         "losses": "3",
         "goals_for_against": "10:9",
-        "points": "6"
+        "points": "7"
       },
       {
         "rank": "11",
         "club": "水戸ホーリーホック",
-        "matches": "5",
-        "wins": "1",
-        "draws": "3",
-        "losses": "1",
-        "goals_for_against": "6:6",
-        "points": "6"
-      },
-      {
-        "rank": "11",
-        "club": "レノファ山口",
         "matches": "6",
         "wins": "1",
-        "draws": "3",
-        "losses": "2",
+        "draws": "4",
+        "losses": "1",
         "goals_for_against": "6:6",
-        "points": "6"
+        "points": "7"
+      },
+      {
+        "rank": "12",
+        "club": "大分トリニータ",
+        "matches": "6",
+        "wins": "1",
+        "draws": "4",
+        "losses": "1",
+        "goals_for_against": "3:3",
+        "points": "7"
       },
       {
         "rank": "13",
-        "club": "大分トリニータ",
-        "matches": "5",
-        "wins": "1",
-        "draws": "3",
-        "losses": "1",
-        "goals_for_against": "3:3",
-        "points": "6"
+        "club": "ヴァンフォーレ甲府",
+        "matches": "6",
+        "wins": "2",
+        "draws": "1",
+        "losses": "3",
+        "goals_for_against": "6:8",
+        "points": "7"
       },
       {
         "rank": "14",
         "club": "ブラウブリッツ秋田",
-        "matches": "5",
+        "matches": "6",
         "wins": "2",
-        "draws": "0",
+        "draws": "1",
         "losses": "3",
         "goals_for_against": "7:10",
-        "points": "6"
+        "points": "7"
       },
       {
-        "rank": "15",
+        "rank": "14",
         "club": "ロアッソ熊本",
+        "matches": "6",
+        "wins": "2",
+        "draws": "1",
+        "losses": "3",
+        "goals_for_against": "7:10",
+        "points": "7"
+      },
+      {
+        "rank": "16",
+        "club": "レノファ山口",
         "matches": "6",
         "wins": "1",
         "draws": "2",
         "losses": "3",
-        "goals_for_against": "6:10",
+        "goals_for_against": "6:7",
         "points": "5"
-      },
-      {
-        "rank": "16",
-        "club": "ヴァンフォーレ甲府",
-        "matches": "5",
-        "wins": "1",
-        "draws": "1",
-        "losses": "3",
-        "goals_for_against": "5:8",
-        "points": "4"
       },
       {
         "rank": "17",
         "club": "サガン鳥栖",
-        "matches": "5",
+        "matches": "6",
         "wins": "1",
-        "draws": "1",
+        "draws": "2",
         "losses": "3",
         "goals_for_against": "3:7",
-        "points": "4"
+        "points": "5"
       },
       {
         "rank": "18",
         "club": "いわきFC",
-        "matches": "5",
+        "matches": "6",
         "wins": "0",
-        "draws": "3",
+        "draws": "4",
         "losses": "2",
         "goals_for_against": "2:6",
-        "points": "3"
+        "points": "4"
       },
       {
         "rank": "19",
-        "club": "コンサドーレ札幌",
-        "matches": "5",
+        "club": "愛媛FC",
+        "matches": "6",
         "wins": "1",
-        "draws": "0",
+        "draws": "1",
         "losses": "4",
-        "goals_for_against": "4:11",
-        "points": "3"
+        "goals_for_against": "6:12",
+        "points": "4"
       },
       {
         "rank": "20",
-        "club": "愛媛FC",
-        "matches": "5",
-        "wins": "0",
-        "draws": "1",
-        "losses": "4",
-        "goals_for_against": "5:12",
-        "points": "1"
+        "club": "コンサドーレ札幌",
+        "matches": "6",
+        "wins": "1",
+        "draws": "0",
+        "losses": "5",
+        "goals_for_against": "4:12",
+        "points": "3"
       }
     ]
   },
@@ -2331,116 +2331,146 @@
       {
         "rank": "1",
         "club": "FC大阪",
-        "matches": "5",
+        "matches": "6",
         "wins": "3",
-        "draws": "1",
+        "draws": "2",
         "losses": "1",
         "goals_for_against": "5:3",
-        "points": "10"
+        "points": "11"
       },
       {
         "rank": "2",
+        "club": "奈良クラブ",
+        "matches": "6",
+        "wins": "3",
+        "draws": "2",
+        "losses": "1",
+        "goals_for_against": "8:7",
+        "points": "11"
+      },
+      {
+        "rank": "3",
         "club": "栃木シティ",
+        "matches": "6",
+        "wins": "3",
+        "draws": "2",
+        "losses": "1",
+        "goals_for_against": "7:6",
+        "points": "11"
+      },
+      {
+        "rank": "4",
+        "club": "ギラヴァンツ北九州",
         "matches": "5",
         "wins": "3",
         "draws": "1",
         "losses": "1",
-        "goals_for_against": "7:6",
+        "goals_for_against": "6:2",
         "points": "10"
       },
       {
-        "rank": "3",
-        "club": "ギラヴァンツ北九州",
-        "matches": "4",
-        "wins": "3",
-        "draws": "0",
+        "rank": "5",
+        "club": "鹿児島ユナイテッド",
+        "matches": "6",
+        "wins": "2",
+        "draws": "3",
         "losses": "1",
-        "goals_for_against": "6:2",
+        "goals_for_against": "11:7",
         "points": "9"
       },
       {
-        "rank": "4",
-        "club": "鹿児島ユナイテッド",
-        "matches": "5",
-        "wins": "2",
-        "draws": "2",
-        "losses": "1",
-        "goals_for_against": "11:7",
-        "points": "8"
-      },
-      {
-        "rank": "5",
+        "rank": "6",
         "club": "カマタマーレ讃岐",
-        "matches": "5",
+        "matches": "6",
         "wins": "2",
-        "draws": "2",
+        "draws": "3",
         "losses": "1",
         "goals_for_against": "5:4",
-        "points": "8"
-      },
-      {
-        "rank": "6",
-        "club": "奈良クラブ",
-        "matches": "5",
-        "wins": "2",
-        "draws": "2",
-        "losses": "1",
-        "goals_for_against": "7:7",
-        "points": "8"
+        "points": "9"
       },
       {
         "rank": "7",
         "club": "テゲバジャーロ宮崎",
-        "matches": "5",
+        "matches": "6",
         "wins": "2",
-        "draws": "1",
+        "draws": "2",
         "losses": "2",
         "goals_for_against": "7:6",
-        "points": "7"
+        "points": "8"
       },
       {
         "rank": "8",
         "club": "ツエーゲン金沢",
-        "matches": "4",
+        "matches": "5",
         "wins": "2",
-        "draws": "1",
+        "draws": "2",
         "losses": "1",
         "goals_for_against": "6:5",
-        "points": "7"
+        "points": "8"
       },
       {
         "rank": "9",
         "club": "福島ユナイテッド",
-        "matches": "4",
-        "wins": "2",
-        "draws": "1",
-        "losses": "1",
-        "goals_for_against": "8:8",
-        "points": "7"
-      },
-      {
-        "rank": "9",
-        "club": "ザスパ群馬",
         "matches": "5",
         "wins": "2",
-        "draws": "1",
-        "losses": "2",
+        "draws": "2",
+        "losses": "1",
         "goals_for_against": "8:8",
-        "points": "7"
+        "points": "8"
+      },
+      {
+        "rank": "10",
+        "club": "高知ユナイテッド",
+        "matches": "6",
+        "wins": "2",
+        "draws": "2",
+        "losses": "2",
+        "goals_for_against": "6:6",
+        "points": "8"
       },
       {
         "rank": "11",
         "club": "栃木SC",
-        "matches": "5",
+        "matches": "6",
         "wins": "2",
-        "draws": "1",
+        "draws": "2",
         "losses": "2",
         "goals_for_against": "3:3",
-        "points": "7"
+        "points": "8"
       },
       {
         "rank": "12",
         "club": "SC相模原",
+        "matches": "6",
+        "wins": "2",
+        "draws": "2",
+        "losses": "2",
+        "goals_for_against": "5:6",
+        "points": "8"
+      },
+      {
+        "rank": "13",
+        "club": "アスルクラロ沼津",
+        "matches": "5",
+        "wins": "1",
+        "draws": "4",
+        "losses": "0",
+        "goals_for_against": "4:1",
+        "points": "7"
+      },
+      {
+        "rank": "14",
+        "club": "ザスパ群馬",
+        "matches": "6",
+        "wins": "2",
+        "draws": "1",
+        "losses": "3",
+        "goals_for_against": "8:9",
+        "points": "7"
+      },
+      {
+        "rank": "15",
+        "club": "長野パルセイロ",
         "matches": "5",
         "wins": "2",
         "draws": "1",
@@ -2449,84 +2479,54 @@
         "points": "7"
       },
       {
-        "rank": "13",
-        "club": "アスルクラロ沼津",
-        "matches": "4",
-        "wins": "1",
-        "draws": "3",
-        "losses": "0",
-        "goals_for_against": "4:1",
-        "points": "6"
-      },
-      {
-        "rank": "14",
-        "club": "長野パルセイロ",
-        "matches": "4",
-        "wins": "2",
-        "draws": "0",
-        "losses": "2",
-        "goals_for_against": "5:6",
-        "points": "6"
-      },
-      {
-        "rank": "14",
-        "club": "高知ユナイテッド",
+        "rank": "16",
+        "club": "FC岐阜",
         "matches": "6",
         "wins": "1",
-        "draws": "3",
-        "losses": "2",
-        "goals_for_against": "5:6",
-        "points": "6"
-      },
-      {
-        "rank": "16",
-        "club": "ヴァンラーレ八戸",
-        "matches": "5",
-        "wins": "1",
         "draws": "2",
-        "losses": "2",
-        "goals_for_against": "3:4",
+        "losses": "3",
+        "goals_for_against": "7:9",
         "points": "5"
       },
       {
         "rank": "17",
-        "club": "FC岐阜",
+        "club": "ヴァンラーレ八戸",
         "matches": "5",
         "wins": "1",
         "draws": "1",
         "losses": "3",
-        "goals_for_against": "7:9",
+        "goals_for_against": "3:5",
         "points": "4"
       },
       {
         "rank": "18",
         "club": "松本山雅",
-        "matches": "3",
+        "matches": "4",
         "wins": "0",
-        "draws": "2",
+        "draws": "3",
         "losses": "1",
         "goals_for_against": "2:3",
-        "points": "2"
+        "points": "3"
       },
       {
         "rank": "19",
         "club": "ガイナーレ鳥取",
-        "matches": "5",
+        "matches": "6",
         "wins": "0",
-        "draws": "2",
+        "draws": "3",
         "losses": "3",
         "goals_for_against": "1:7",
-        "points": "2"
+        "points": "3"
       },
       {
         "rank": "20",
         "club": "FC琉球OKINAWA",
-        "matches": "5",
+        "matches": "6",
         "wins": "0",
-        "draws": "1",
+        "draws": "2",
         "losses": "4",
         "goals_for_against": "1:5",
-        "points": "1"
+        "points": "2"
       }
     ]
   }

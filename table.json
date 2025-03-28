@@ -2016,6 +2016,16 @@
       },
       {
         "rank": "11",
+        "club": "セレッソ大阪",
+        "matches": "7",
+        "wins": "2",
+        "draws": "2",
+        "losses": "3",
+        "goals_for_against": "11:11",
+        "points": "8"
+      },
+      {
+        "rank": "12",
         "club": "京都サンガ",
         "matches": "6",
         "wins": "2",
@@ -2025,7 +2035,7 @@
         "points": "8"
       },
       {
-        "rank": "12",
+        "rank": "13",
         "club": "FC東京",
         "matches": "6",
         "wins": "2",
@@ -2035,7 +2045,7 @@
         "points": "7"
       },
       {
-        "rank": "13",
+        "rank": "14",
         "club": "横浜FC",
         "matches": "6",
         "wins": "2",
@@ -2045,7 +2055,7 @@
         "points": "7"
       },
       {
-        "rank": "14",
+        "rank": "15",
         "club": "東京ヴェルディ",
         "matches": "6",
         "wins": "2",
@@ -2055,7 +2065,7 @@
         "points": "7"
       },
       {
-        "rank": "15",
+        "rank": "16",
         "club": "横浜F・マリノス",
         "matches": "5",
         "wins": "1",
@@ -2065,7 +2075,7 @@
         "points": "6"
       },
       {
-        "rank": "16",
+        "rank": "17",
         "club": "ヴィッセル神戸",
         "matches": "5",
         "wins": "1",
@@ -2075,24 +2085,14 @@
         "points": "6"
       },
       {
-        "rank": "17",
+        "rank": "18",
         "club": "浦和レッズ",
-        "matches": "6",
+        "matches": "7",
         "wins": "1",
         "draws": "3",
-        "losses": "2",
-        "goals_for_against": "4:6",
-        "points": "6"
-      },
-      {
-        "rank": "18",
-        "club": "セレッソ大阪",
-        "matches": "6",
-        "wins": "1",
-        "draws": "2",
         "losses": "3",
-        "goals_for_against": "10:11",
-        "points": "5"
+        "goals_for_against": "4:7",
+        "points": "6"
       },
       {
         "rank": "19",

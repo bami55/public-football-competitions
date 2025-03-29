@@ -1931,7 +1931,7 @@
         "wins": "4",
         "draws": "1",
         "losses": "2",
-        "goals_for_against": "8:5",
+        "goals_for_against": "9:6",
         "points": "13"
       },
       {
@@ -2001,7 +2001,7 @@
         "wins": "3",
         "draws": "1",
         "losses": "3",
-        "goals_for_against": "6:6",
+        "goals_for_against": "7:7",
         "points": "10"
       },
       {
@@ -2017,15 +2017,25 @@
       {
         "rank": "11",
         "club": "川崎フロンターレ",
-        "matches": "5",
+        "matches": "6",
         "wins": "2",
-        "draws": "2",
+        "draws": "3",
         "losses": "1",
         "goals_for_against": "7:3",
-        "points": "8"
+        "points": "9"
       },
       {
         "rank": "12",
+        "club": "FC東京",
+        "matches": "7",
+        "wins": "2",
+        "draws": "2",
+        "losses": "3",
+        "goals_for_against": "4:5",
+        "points": "8"
+      },
+      {
+        "rank": "13",
         "club": "東京ヴェルディ",
         "matches": "7",
         "wins": "2",
@@ -2033,16 +2043,6 @@
         "losses": "3",
         "goals_for_against": "5:9",
         "points": "8"
-      },
-      {
-        "rank": "13",
-        "club": "FC東京",
-        "matches": "6",
-        "wins": "2",
-        "draws": "1",
-        "losses": "3",
-        "goals_for_against": "4:5",
-        "points": "7"
       },
       {
         "rank": "14",

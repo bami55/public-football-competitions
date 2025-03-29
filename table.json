@@ -778,12 +778,12 @@
       {
         "rank": "12",
         "club": "レアル・ソシエダ",
-        "matches": "28",
+        "matches": "29",
         "wins": "10",
-        "draws": "5",
+        "draws": "6",
         "losses": "13",
         "goals_for_against": "25:30",
-        "points": "35"
+        "points": "36"
       },
       {
         "rank": "13",
@@ -858,12 +858,12 @@
       {
         "rank": "20",
         "club": "レアル・バジャドリード",
-        "matches": "28",
+        "matches": "29",
         "wins": "4",
-        "draws": "4",
+        "draws": "5",
         "losses": "20",
         "goals_for_against": "18:63",
-        "points": "16"
+        "points": "17"
       }
     ]
   },

@@ -1951,7 +1951,7 @@
         "wins": "3",
         "draws": "2",
         "losses": "1",
-        "goals_for_against": "8:3",
+        "goals_for_against": "10:3",
         "points": "11"
       },
       {
@@ -2046,7 +2046,7 @@
       },
       {
         "rank": "14",
-        "club": "FC東京",
+        "club": "横浜FC",
         "matches": "7",
         "wins": "2",
         "draws": "1",
@@ -2055,13 +2055,13 @@
         "points": "7"
       },
       {
-        "rank": "14",
-        "club": "横浜FC",
+        "rank": "15",
+        "club": "FC東京",
         "matches": "7",
         "wins": "2",
         "draws": "1",
         "losses": "4",
-        "goals_for_against": "4:6",
+        "goals_for_against": "4:8",
         "points": "7"
       },
       {

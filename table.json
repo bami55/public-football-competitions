@@ -590,6 +590,16 @@
       },
       {
         "rank": "14",
+        "club": "エラス・ヴェローナ",
+        "matches": "30",
+        "wins": "9",
+        "draws": "3",
+        "losses": "18",
+        "goals_for_against": "29:58",
+        "points": "30"
+      },
+      {
+        "rank": "15",
         "club": "カリアリ・カルチョ",
         "matches": "30",
         "wins": "7",
@@ -599,33 +609,23 @@
         "points": "29"
       },
       {
-        "rank": "15",
-        "club": "エラス・ヴェローナ",
-        "matches": "29",
-        "wins": "9",
-        "draws": "2",
-        "losses": "18",
-        "goals_for_against": "29:58",
-        "points": "29"
+        "rank": "16",
+        "club": "パルマ",
+        "matches": "30",
+        "wins": "5",
+        "draws": "11",
+        "losses": "14",
+        "goals_for_against": "35:49",
+        "points": "26"
       },
       {
-        "rank": "16",
+        "rank": "17",
         "club": "レッチェ",
         "matches": "30",
         "wins": "6",
         "draws": "7",
         "losses": "17",
         "goals_for_against": "21:49",
-        "points": "25"
-      },
-      {
-        "rank": "17",
-        "club": "パルマ",
-        "matches": "29",
-        "wins": "5",
-        "draws": "10",
-        "losses": "14",
-        "goals_for_against": "35:49",
         "points": "25"
       },
       {

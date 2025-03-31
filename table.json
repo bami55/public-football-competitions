@@ -512,11 +512,11 @@
         "rank": "6",
         "club": "ラツィオ",
         "matches": "30",
-        "wins": "15",
-        "draws": "7",
+        "wins": "16",
+        "draws": "6",
         "losses": "8",
-        "goals_for_against": "50:41",
-        "points": "52"
+        "goals_for_against": "51:41",
+        "points": "54"
       },
       {
         "rank": "7",
@@ -563,10 +563,10 @@
         "club": "トリノ",
         "matches": "30",
         "wins": "9",
-        "draws": "12",
-        "losses": "9",
-        "goals_for_against": "34:34",
-        "points": "39"
+        "draws": "11",
+        "losses": "10",
+        "goals_for_against": "34:35",
+        "points": "38"
       },
       {
         "rank": "12",
@@ -742,7 +742,7 @@
         "wins": "11",
         "draws": "7",
         "losses": "11",
-        "goals_for_against": "41:41",
+        "goals_for_against": "42:42",
         "points": "40"
       },
       {
@@ -852,7 +852,7 @@
         "wins": "6",
         "draws": "8",
         "losses": "15",
-        "goals_for_against": "32:47",
+        "goals_for_against": "33:48",
         "points": "26"
       },
       {

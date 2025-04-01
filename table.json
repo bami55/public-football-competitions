@@ -510,22 +510,22 @@
       },
       {
         "rank": "6",
-        "club": "ラツィオ",
-        "matches": "30",
-        "wins": "15",
-        "draws": "7",
-        "losses": "8",
-        "goals_for_against": "51:42",
-        "points": "52"
-      },
-      {
-        "rank": "7",
         "club": "ASローマ",
         "matches": "30",
         "wins": "15",
         "draws": "7",
         "losses": "8",
         "goals_for_against": "45:30",
+        "points": "52"
+      },
+      {
+        "rank": "7",
+        "club": "ラツィオ",
+        "matches": "30",
+        "wins": "15",
+        "draws": "7",
+        "losses": "8",
+        "goals_for_against": "51:42",
         "points": "52"
       },
       {

@@ -21,7 +21,7 @@
         "wins": "17",
         "draws": "10",
         "losses": "3",
-        "goals_for_against": "55:24",
+        "goals_for_against": "55:25",
         "points": "61"
       },
       {
@@ -81,7 +81,7 @@
         "wins": "12",
         "draws": "9",
         "losses": "9",
-        "goals_for_against": "43:40",
+        "goals_for_against": "44:40",
         "points": "45"
       },
       {
@@ -1567,11 +1567,11 @@
         "rank": "14",
         "club": "ジル・ヴィセンテ",
         "matches": "27",
-        "wins": "5",
-        "draws": "9",
+        "wins": "6",
+        "draws": "8",
         "losses": "13",
-        "goals_for_against": "24:40",
-        "points": "24"
+        "goals_for_against": "27:41",
+        "points": "26"
       },
       {
         "rank": "15",
@@ -1608,10 +1608,10 @@
         "club": "ボアヴィスタ",
         "matches": "27",
         "wins": "3",
-        "draws": "7",
-        "losses": "17",
-        "goals_for_against": "16:43",
-        "points": "16"
+        "draws": "6",
+        "losses": "18",
+        "goals_for_against": "17:46",
+        "points": "15"
       }
     ]
   },

@@ -18,11 +18,11 @@
         "rank": "2",
         "club": "アーセナル",
         "matches": "30",
-        "wins": "16",
-        "draws": "11",
+        "wins": "17",
+        "draws": "10",
         "losses": "3",
-        "goals_for_against": "53:24",
-        "points": "59"
+        "goals_for_against": "55:24",
+        "points": "61"
       },
       {
         "rank": "3",
@@ -79,10 +79,10 @@
         "club": "フラム",
         "matches": "30",
         "wins": "12",
-        "draws": "10",
-        "losses": "8",
-        "goals_for_against": "43:38",
-        "points": "46"
+        "draws": "9",
+        "losses": "9",
+        "goals_for_against": "43:40",
+        "points": "45"
       },
       {
         "rank": "9",
@@ -1290,11 +1290,11 @@
         "rank": "5",
         "club": "AZアルクマール",
         "matches": "27",
-        "wins": "14",
-        "draws": "6",
+        "wins": "13",
+        "draws": "7",
         "losses": "7",
-        "goals_for_against": "46:29",
-        "points": "48"
+        "goals_for_against": "47:31",
+        "points": "46"
       },
       {
         "rank": "6",
@@ -1408,6 +1408,16 @@
       },
       {
         "rank": "17",
+        "club": "ヴァールヴァイク",
+        "matches": "27",
+        "wins": "4",
+        "draws": "6",
+        "losses": "17",
+        "goals_for_against": "34:56",
+        "points": "18"
+      },
+      {
+        "rank": "18",
         "club": "アルメレ・シティ",
         "matches": "27",
         "wins": "4",
@@ -1415,16 +1425,6 @@
         "losses": "17",
         "goals_for_against": "18:50",
         "points": "18"
-      },
-      {
-        "rank": "18",
-        "club": "ヴァールヴァイク",
-        "matches": "27",
-        "wins": "4",
-        "draws": "5",
-        "losses": "18",
-        "goals_for_against": "32:55",
-        "points": "17"
       }
     ]
   },

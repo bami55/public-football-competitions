@@ -1288,6 +1288,16 @@
       },
       {
         "rank": "5",
+        "club": "AZアルクマール",
+        "matches": "27",
+        "wins": "14",
+        "draws": "6",
+        "losses": "7",
+        "goals_for_against": "46:29",
+        "points": "48"
+      },
+      {
+        "rank": "6",
         "club": "トゥウェンテ",
         "matches": "27",
         "wins": "13",
@@ -1295,16 +1305,6 @@
         "losses": "7",
         "goals_for_against": "53:39",
         "points": "46"
-      },
-      {
-        "rank": "6",
-        "club": "AZアルクマール",
-        "matches": "26",
-        "wins": "13",
-        "draws": "6",
-        "losses": "7",
-        "goals_for_against": "45:29",
-        "points": "45"
       },
       {
         "rank": "7",
@@ -1419,11 +1419,11 @@
       {
         "rank": "18",
         "club": "ヴァールヴァイク",
-        "matches": "26",
+        "matches": "27",
         "wins": "4",
         "draws": "5",
-        "losses": "17",
-        "goals_for_against": "32:54",
+        "losses": "18",
+        "goals_for_against": "32:55",
         "points": "17"
       }
     ]

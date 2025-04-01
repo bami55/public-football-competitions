@@ -17,22 +17,22 @@
       {
         "rank": "2",
         "club": "アーセナル",
-        "matches": "29",
+        "matches": "30",
         "wins": "16",
-        "draws": "10",
+        "draws": "11",
         "losses": "3",
         "goals_for_against": "53:24",
-        "points": "58"
+        "points": "59"
       },
       {
         "rank": "3",
         "club": "ノッテ・フォレスト",
-        "matches": "29",
-        "wins": "16",
+        "matches": "30",
+        "wins": "17",
         "draws": "6",
         "losses": "7",
-        "goals_for_against": "49:35",
-        "points": "54"
+        "goals_for_against": "50:35",
+        "points": "57"
       },
       {
         "rank": "4",
@@ -77,12 +77,12 @@
       {
         "rank": "8",
         "club": "フラム",
-        "matches": "29",
+        "matches": "30",
         "wins": "12",
-        "draws": "9",
+        "draws": "10",
         "losses": "8",
         "goals_for_against": "43:38",
-        "points": "45"
+        "points": "46"
       },
       {
         "rank": "9",
@@ -127,11 +127,11 @@
       {
         "rank": "13",
         "club": "マンチェスターU",
-        "matches": "29",
+        "matches": "30",
         "wins": "10",
         "draws": "7",
-        "losses": "12",
-        "goals_for_against": "37:40",
+        "losses": "13",
+        "goals_for_against": "37:41",
         "points": "37"
       },
       {
@@ -157,22 +157,22 @@
       {
         "rank": "16",
         "club": "ウェストハム",
-        "matches": "29",
+        "matches": "30",
         "wins": "9",
         "draws": "7",
-        "losses": "13",
-        "goals_for_against": "33:49",
+        "losses": "14",
+        "goals_for_against": "33:50",
         "points": "34"
       },
       {
         "rank": "17",
         "club": "ウルバーハンプトン",
-        "matches": "29",
-        "wins": "7",
+        "matches": "30",
+        "wins": "8",
         "draws": "5",
         "losses": "17",
-        "goals_for_against": "40:58",
-        "points": "26"
+        "goals_for_against": "41:58",
+        "points": "29"
       },
       {
         "rank": "18",
@@ -1566,12 +1566,12 @@
       {
         "rank": "14",
         "club": "ジル・ヴィセンテ",
-        "matches": "26",
+        "matches": "27",
         "wins": "5",
-        "draws": "8",
+        "draws": "9",
         "losses": "13",
         "goals_for_against": "24:40",
-        "points": "23"
+        "points": "24"
       },
       {
         "rank": "15",
@@ -1606,12 +1606,12 @@
       {
         "rank": "18",
         "club": "ボアヴィスタ",
-        "matches": "26",
+        "matches": "27",
         "wins": "3",
-        "draws": "6",
+        "draws": "7",
         "losses": "17",
         "goals_for_against": "16:43",
-        "points": "15"
+        "points": "16"
       }
     ]
   },

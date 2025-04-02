@@ -71,7 +71,7 @@
         "wins": "13",
         "draws": "9",
         "losses": "8",
-        "goals_for_against": "43:45",
+        "goals_for_against": "44:45",
         "points": "48"
       },
       {
@@ -81,7 +81,7 @@
         "wins": "12",
         "draws": "11",
         "losses": "7",
-        "goals_for_against": "48:44",
+        "goals_for_against": "48:45",
         "points": "47"
       },
       {
@@ -119,10 +119,10 @@
         "club": "クリスタル・パレス",
         "matches": "29",
         "wins": "10",
-        "draws": "9",
-        "losses": "10",
-        "goals_for_against": "36:34",
-        "points": "39"
+        "draws": "10",
+        "losses": "9",
+        "goals_for_against": "37:34",
+        "points": "40"
       },
       {
         "rank": "13",
@@ -198,11 +198,11 @@
         "rank": "20",
         "club": "サウサンプトン",
         "matches": "30",
-        "wins": "3",
-        "draws": "3",
+        "wins": "2",
+        "draws": "4",
         "losses": "24",
-        "goals_for_against": "22:70",
-        "points": "12"
+        "goals_for_against": "22:71",
+        "points": "10"
       }
     ]
   },
@@ -344,11 +344,11 @@
       {
         "rank": "14",
         "club": "プレストン",
-        "matches": "38",
+        "matches": "39",
         "wins": "10",
         "draws": "17",
-        "losses": "11",
-        "goals_for_against": "39:44",
+        "losses": "12",
+        "goals_for_against": "39:46",
         "points": "47"
       },
       {
@@ -403,6 +403,16 @@
       },
       {
         "rank": "20",
+        "club": "ダービー",
+        "matches": "39",
+        "wins": "11",
+        "draws": "8",
+        "losses": "20",
+        "goals_for_against": "42:51",
+        "points": "41"
+      },
+      {
+        "rank": "21",
         "club": "ハル",
         "matches": "39",
         "wins": "10",
@@ -412,7 +422,7 @@
         "points": "41"
       },
       {
-        "rank": "21",
+        "rank": "22",
         "club": "カーディフ",
         "matches": "39",
         "wins": "9",
@@ -420,16 +430,6 @@
         "losses": "17",
         "goals_for_against": "43:63",
         "points": "40"
-      },
-      {
-        "rank": "22",
-        "club": "ダービー",
-        "matches": "38",
-        "wins": "10",
-        "draws": "8",
-        "losses": "20",
-        "goals_for_against": "40:51",
-        "points": "38"
       },
       {
         "rank": "23",
@@ -1450,7 +1450,7 @@
         "wins": "21",
         "draws": "2",
         "losses": "4",
-        "goals_for_against": "64:21",
+        "goals_for_against": "65:22",
         "points": "65"
       },
       {
@@ -1600,7 +1600,7 @@
         "wins": "3",
         "draws": "8",
         "losses": "16",
-        "goals_for_against": "18:39",
+        "goals_for_against": "19:40",
         "points": "17"
       },
       {

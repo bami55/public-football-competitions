@@ -1268,6 +1268,16 @@
       },
       {
         "rank": "3",
+        "club": "フェイエノールト",
+        "matches": "27",
+        "wins": "15",
+        "draws": "8",
+        "losses": "4",
+        "goals_for_against": "58:31",
+        "points": "53"
+      },
+      {
+        "rank": "4",
         "club": "ユトレヒト",
         "matches": "27",
         "wins": "15",
@@ -1275,16 +1285,6 @@
         "losses": "5",
         "goals_for_against": "48:39",
         "points": "52"
-      },
-      {
-        "rank": "4",
-        "club": "フェイエノールト",
-        "matches": "26",
-        "wins": "14",
-        "draws": "8",
-        "losses": "4",
-        "goals_for_against": "57:31",
-        "points": "50"
       },
       {
         "rank": "5",
@@ -1319,11 +1319,11 @@
       {
         "rank": "8",
         "club": "フローニンゲン",
-        "matches": "26",
+        "matches": "27",
         "wins": "8",
         "draws": "8",
-        "losses": "10",
-        "goals_for_against": "25:34",
+        "losses": "11",
+        "goals_for_against": "25:35",
         "points": "32"
       },
       {

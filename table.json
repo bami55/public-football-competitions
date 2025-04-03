@@ -46,6 +46,16 @@
       },
       {
         "rank": "5",
+        "club": "チェルシー",
+        "matches": "30",
+        "wins": "14",
+        "draws": "8",
+        "losses": "8",
+        "goals_for_against": "53:37",
+        "points": "50"
+      },
+      {
+        "rank": "6",
         "club": "ニューカッスル",
         "matches": "29",
         "wins": "15",
@@ -53,16 +63,6 @@
         "losses": "9",
         "goals_for_against": "49:39",
         "points": "50"
-      },
-      {
-        "rank": "6",
-        "club": "チェルシー",
-        "matches": "29",
-        "wins": "14",
-        "draws": "7",
-        "losses": "8",
-        "goals_for_against": "53:37",
-        "points": "49"
       },
       {
         "rank": "7",
@@ -137,12 +137,12 @@
       {
         "rank": "14",
         "club": "トッテナム",
-        "matches": "29",
+        "matches": "30",
         "wins": "10",
-        "draws": "4",
+        "draws": "5",
         "losses": "15",
         "goals_for_against": "55:43",
-        "points": "34"
+        "points": "35"
       },
       {
         "rank": "15",

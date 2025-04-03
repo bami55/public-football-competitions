@@ -1222,21 +1222,21 @@
       {
         "rank": "17",
         "club": "サンテティエンヌ",
-        "matches": "26",
-        "wins": "5",
+        "matches": "27",
+        "wins": "6",
         "draws": "5",
         "losses": "16",
-        "goals_for_against": "26:63",
-        "points": "20"
+        "goals_for_against": "28:63",
+        "points": "23"
       },
       {
         "rank": "18",
         "club": "モンペリエ",
-        "matches": "26",
+        "matches": "27",
         "wins": "4",
         "draws": "3",
-        "losses": "19",
-        "goals_for_against": "21:60",
+        "losses": "20",
+        "goals_for_against": "21:62",
         "points": "15"
       }
     ]

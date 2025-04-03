@@ -36,6 +36,16 @@
       },
       {
         "rank": "4",
+        "club": "チェルシー",
+        "matches": "30",
+        "wins": "15",
+        "draws": "7",
+        "losses": "8",
+        "goals_for_against": "54:37",
+        "points": "52"
+      },
+      {
+        "rank": "5",
         "club": "マンチェスターC",
         "matches": "30",
         "wins": "15",
@@ -43,16 +53,6 @@
         "losses": "9",
         "goals_for_against": "57:40",
         "points": "51"
-      },
-      {
-        "rank": "5",
-        "club": "チェルシー",
-        "matches": "30",
-        "wins": "14",
-        "draws": "8",
-        "losses": "8",
-        "goals_for_against": "53:37",
-        "points": "50"
       },
       {
         "rank": "6",
@@ -139,10 +139,10 @@
         "club": "トッテナム",
         "matches": "30",
         "wins": "10",
-        "draws": "5",
-        "losses": "15",
-        "goals_for_against": "55:43",
-        "points": "35"
+        "draws": "4",
+        "losses": "16",
+        "goals_for_against": "55:44",
+        "points": "34"
       },
       {
         "rank": "15",

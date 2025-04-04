@@ -1318,6 +1318,16 @@
       },
       {
         "rank": "8",
+        "club": "ヘーレンフェーン",
+        "matches": "28",
+        "wins": "9",
+        "draws": "7",
+        "losses": "12",
+        "goals_for_against": "33:48",
+        "points": "34"
+      },
+      {
+        "rank": "9",
         "club": "フローニンゲン",
         "matches": "27",
         "wins": "8",
@@ -1327,7 +1337,7 @@
         "points": "32"
       },
       {
-        "rank": "9",
+        "rank": "10",
         "club": "シッタート",
         "matches": "27",
         "wins": "9",
@@ -1337,23 +1347,13 @@
         "points": "32"
       },
       {
-        "rank": "10",
+        "rank": "11",
         "club": "ヘラクレス",
         "matches": "27",
         "wins": "7",
         "draws": "10",
         "losses": "10",
         "goals_for_against": "35:48",
-        "points": "31"
-      },
-      {
-        "rank": "11",
-        "club": "ヘーレンフェーン",
-        "matches": "27",
-        "wins": "8",
-        "draws": "7",
-        "losses": "12",
-        "goals_for_against": "32:48",
         "points": "31"
       },
       {
@@ -1399,11 +1399,11 @@
       {
         "rank": "16",
         "club": "ヴィレムII",
-        "matches": "27",
+        "matches": "28",
         "wins": "6",
         "draws": "6",
-        "losses": "15",
-        "goals_for_against": "28:44",
+        "losses": "16",
+        "goals_for_against": "28:45",
         "points": "24"
       },
       {

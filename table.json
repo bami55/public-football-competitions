@@ -2125,14 +2125,24 @@
         "rank": "1",
         "club": "ジェフ千葉",
         "matches": "8",
-        "wins": "6",
-        "draws": "1",
+        "wins": "7",
+        "draws": "0",
         "losses": "1",
-        "goals_for_against": "18:7",
-        "points": "19"
+        "goals_for_against": "19:7",
+        "points": "21"
       },
       {
         "rank": "2",
+        "club": "RB 大宮",
+        "matches": "8",
+        "wins": "5",
+        "draws": "1",
+        "losses": "2",
+        "goals_for_against": "13:6",
+        "points": "16"
+      },
+      {
+        "rank": "3",
         "club": "ジュビロ磐田",
         "matches": "8",
         "wins": "5",
@@ -2140,16 +2150,6 @@
         "losses": "2",
         "goals_for_against": "11:9",
         "points": "16"
-      },
-      {
-        "rank": "3",
-        "club": "RB 大宮",
-        "matches": "8",
-        "wins": "5",
-        "draws": "0",
-        "losses": "3",
-        "goals_for_against": "12:6",
-        "points": "15"
       },
       {
         "rank": "4",
@@ -2173,26 +2173,6 @@
       },
       {
         "rank": "6",
-        "club": "徳島ヴォルティス",
-        "matches": "8",
-        "wins": "3",
-        "draws": "4",
-        "losses": "1",
-        "goals_for_against": "5:2",
-        "points": "13"
-      },
-      {
-        "rank": "7",
-        "club": "大分トリニータ",
-        "matches": "8",
-        "wins": "3",
-        "draws": "4",
-        "losses": "1",
-        "goals_for_against": "7:5",
-        "points": "13"
-      },
-      {
-        "rank": "8",
         "club": "FC今治",
         "matches": "7",
         "wins": "3",
@@ -2202,7 +2182,17 @@
         "points": "12"
       },
       {
-        "rank": "9",
+        "rank": "7",
+        "club": "徳島ヴォルティス",
+        "matches": "8",
+        "wins": "3",
+        "draws": "3",
+        "losses": "2",
+        "goals_for_against": "5:3",
+        "points": "12"
+      },
+      {
+        "rank": "8",
         "club": "藤枝MYFC",
         "matches": "8",
         "wins": "3",
@@ -2212,17 +2202,17 @@
         "points": "12"
       },
       {
-        "rank": "10",
-        "club": "水戸ホーリーホック",
+        "rank": "9",
+        "club": "大分トリニータ",
         "matches": "8",
         "wins": "2",
-        "draws": "4",
-        "losses": "2",
-        "goals_for_against": "11:10",
-        "points": "10"
+        "draws": "5",
+        "losses": "1",
+        "goals_for_against": "7:6",
+        "points": "11"
       },
       {
-        "rank": "11",
+        "rank": "10",
         "club": "カターレ富山",
         "matches": "7",
         "wins": "3",
@@ -2232,7 +2222,7 @@
         "points": "10"
       },
       {
-        "rank": "12",
+        "rank": "11",
         "club": "ロアッソ熊本",
         "matches": "7",
         "wins": "3",
@@ -2242,7 +2232,7 @@
         "points": "10"
       },
       {
-        "rank": "13",
+        "rank": "12",
         "club": "ヴァンフォーレ甲府",
         "matches": "8",
         "wins": "3",
@@ -2252,7 +2242,7 @@
         "points": "10"
       },
       {
-        "rank": "14",
+        "rank": "13",
         "club": "サガン鳥栖",
         "matches": "8",
         "wins": "3",
@@ -2262,7 +2252,7 @@
         "points": "10"
       },
       {
-        "rank": "15",
+        "rank": "14",
         "club": "モンテディオ山形",
         "matches": "8",
         "wins": "2",
@@ -2272,7 +2262,27 @@
         "points": "9"
       },
       {
+        "rank": "15",
+        "club": "水戸ホーリーホック",
+        "matches": "8",
+        "wins": "2",
+        "draws": "3",
+        "losses": "3",
+        "goals_for_against": "11:11",
+        "points": "9"
+      },
+      {
         "rank": "16",
+        "club": "コンサドーレ札幌",
+        "matches": "8",
+        "wins": "3",
+        "draws": "0",
+        "losses": "5",
+        "goals_for_against": "7:13",
+        "points": "9"
+      },
+      {
+        "rank": "17",
         "club": "ブラウブリッツ秋田",
         "matches": "8",
         "wins": "3",
@@ -2282,24 +2292,14 @@
         "points": "9"
       },
       {
-        "rank": "17",
+        "rank": "18",
         "club": "レノファ山口",
         "matches": "8",
-        "wins": "2",
-        "draws": "2",
+        "wins": "1",
+        "draws": "3",
         "losses": "4",
-        "goals_for_against": "7:8",
-        "points": "8"
-      },
-      {
-        "rank": "18",
-        "club": "コンサドーレ札幌",
-        "matches": "8",
-        "wins": "2",
-        "draws": "1",
-        "losses": "5",
-        "goals_for_against": "6:13",
-        "points": "7"
+        "goals_for_against": "7:9",
+        "points": "6"
       },
       {
         "rank": "19",
@@ -2316,10 +2316,10 @@
         "club": "愛媛FC",
         "matches": "8",
         "wins": "0",
-        "draws": "1",
-        "losses": "7",
-        "goals_for_against": "6:16",
-        "points": "1"
+        "draws": "2",
+        "losses": "6",
+        "goals_for_against": "7:16",
+        "points": "2"
       }
     ]
   },

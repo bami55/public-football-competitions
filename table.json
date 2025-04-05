@@ -2460,12 +2460,12 @@
       },
       {
         "rank": "14",
-        "club": "SC相模原",
-        "matches": "7",
+        "club": "FC琉球OKINAWA",
+        "matches": "8",
         "wins": "2",
         "draws": "2",
-        "losses": "3",
-        "goals_for_against": "6:9",
+        "losses": "4",
+        "goals_for_against": "5:7",
         "points": "8"
       },
       {
@@ -2480,6 +2480,16 @@
       },
       {
         "rank": "16",
+        "club": "SC相模原",
+        "matches": "8",
+        "wins": "2",
+        "draws": "2",
+        "losses": "4",
+        "goals_for_against": "6:10",
+        "points": "8"
+      },
+      {
+        "rank": "17",
         "club": "アスルクラロ沼津",
         "matches": "6",
         "wins": "1",
@@ -2489,7 +2499,7 @@
         "points": "6"
       },
       {
-        "rank": "17",
+        "rank": "18",
         "club": "松本山雅",
         "matches": "6",
         "wins": "1",
@@ -2499,7 +2509,7 @@
         "points": "6"
       },
       {
-        "rank": "18",
+        "rank": "19",
         "club": "FC岐阜",
         "matches": "8",
         "wins": "1",
@@ -2507,16 +2517,6 @@
         "losses": "4",
         "goals_for_against": "9:14",
         "points": "6"
-      },
-      {
-        "rank": "19",
-        "club": "FC琉球OKINAWA",
-        "matches": "7",
-        "wins": "1",
-        "draws": "2",
-        "losses": "4",
-        "goals_for_against": "4:7",
-        "points": "5"
       },
       {
         "rank": "20",

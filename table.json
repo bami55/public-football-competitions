@@ -512,11 +512,11 @@
         "rank": "6",
         "club": "フィオレンティーナ",
         "matches": "31",
-        "wins": "16",
-        "draws": "6",
+        "wins": "15",
+        "draws": "7",
         "losses": "9",
-        "goals_for_against": "49:31",
-        "points": "54"
+        "goals_for_against": "49:32",
+        "points": "52"
       },
       {
         "rank": "7",
@@ -543,10 +543,10 @@
         "club": "ACミラン",
         "matches": "31",
         "wins": "13",
-        "draws": "8",
-        "losses": "10",
-        "goals_for_against": "46:37",
-        "points": "47"
+        "draws": "9",
+        "losses": "9",
+        "goals_for_against": "47:37",
+        "points": "48"
       },
       {
         "rank": "10",
@@ -669,11 +669,11 @@
         "rank": "1",
         "club": "バルセロナ",
         "matches": "30",
-        "wins": "22",
-        "draws": "3",
+        "wins": "21",
+        "draws": "4",
         "losses": "5",
-        "goals_for_against": "83:28",
-        "points": "69"
+        "goals_for_against": "83:29",
+        "points": "67"
       },
       {
         "rank": "2",
@@ -707,22 +707,22 @@
       },
       {
         "rank": "5",
+        "club": "レアル・ベティス",
+        "matches": "30",
+        "wins": "13",
+        "draws": "9",
+        "losses": "8",
+        "goals_for_against": "41:37",
+        "points": "48"
+      },
+      {
+        "rank": "6",
         "club": "ビジャレアル",
         "matches": "28",
         "wins": "13",
         "draws": "8",
         "losses": "7",
         "goals_for_against": "51:39",
-        "points": "47"
-      },
-      {
-        "rank": "6",
-        "club": "レアル・ベティス",
-        "matches": "30",
-        "wins": "13",
-        "draws": "8",
-        "losses": "9",
-        "goals_for_against": "40:37",
         "points": "47"
       },
       {
@@ -1081,16 +1081,6 @@
       },
       {
         "rank": "3",
-        "club": "リール",
-        "matches": "28",
-        "wins": "14",
-        "draws": "8",
-        "losses": "6",
-        "goals_for_against": "42:28",
-        "points": "50"
-      },
-      {
-        "rank": "4",
         "club": "マルセイユ",
         "matches": "27",
         "wins": "15",
@@ -1098,6 +1088,16 @@
         "losses": "8",
         "goals_for_against": "54:36",
         "points": "49"
+      },
+      {
+        "rank": "4",
+        "club": "リール",
+        "matches": "28",
+        "wins": "13",
+        "draws": "9",
+        "losses": "6",
+        "goals_for_against": "42:29",
+        "points": "48"
       },
       {
         "rank": "5",
@@ -1111,6 +1111,16 @@
       },
       {
         "rank": "6",
+        "club": "リヨン",
+        "matches": "28",
+        "wins": "13",
+        "draws": "7",
+        "losses": "8",
+        "goals_for_against": "53:38",
+        "points": "46"
+      },
+      {
+        "rank": "7",
         "club": "ストラスブール",
         "matches": "27",
         "wins": "13",
@@ -1118,16 +1128,6 @@
         "losses": "7",
         "goals_for_against": "45:35",
         "points": "46"
-      },
-      {
-        "rank": "7",
-        "club": "リヨン",
-        "matches": "28",
-        "wins": "13",
-        "draws": "6",
-        "losses": "9",
-        "goals_for_against": "52:38",
-        "points": "45"
       },
       {
         "rank": "8",
@@ -1263,7 +1263,7 @@
         "wins": "19",
         "draws": "4",
         "losses": "5",
-        "goals_for_against": "80:33",
+        "goals_for_against": "81:33",
         "points": "61"
       },
       {
@@ -1338,16 +1338,26 @@
       },
       {
         "rank": "10",
+        "club": "ズヴォレ",
+        "matches": "28",
+        "wins": "8",
+        "draws": "8",
+        "losses": "12",
+        "goals_for_against": "34:41",
+        "points": "32"
+      },
+      {
+        "rank": "11",
         "club": "フローニンゲン",
         "matches": "28",
         "wins": "8",
         "draws": "8",
         "losses": "12",
-        "goals_for_against": "27:40",
+        "goals_for_against": "27:41",
         "points": "32"
       },
       {
-        "rank": "11",
+        "rank": "12",
         "club": "ヘラクレス",
         "matches": "27",
         "wins": "7",
@@ -1357,23 +1367,13 @@
         "points": "31"
       },
       {
-        "rank": "12",
+        "rank": "13",
         "club": "NECナイメヘン",
         "matches": "27",
         "wins": "8",
         "draws": "6",
         "losses": "13",
         "goals_for_against": "40:40",
-        "points": "30"
-      },
-      {
-        "rank": "13",
-        "club": "ズヴォレ",
-        "matches": "28",
-        "wins": "7",
-        "draws": "9",
-        "losses": "12",
-        "goals_for_against": "32:41",
         "points": "30"
       },
       {
@@ -1408,22 +1408,22 @@
       },
       {
         "rank": "17",
-        "club": "アルメレ・シティ",
-        "matches": "28",
-        "wins": "4",
-        "draws": "7",
-        "losses": "17",
-        "goals_for_against": "18:50",
-        "points": "19"
-      },
-      {
-        "rank": "18",
         "club": "ヴァールヴァイク",
         "matches": "27",
         "wins": "4",
         "draws": "6",
         "losses": "17",
         "goals_for_against": "34:56",
+        "points": "18"
+      },
+      {
+        "rank": "18",
+        "club": "アルメレ・シティ",
+        "matches": "28",
+        "wins": "4",
+        "draws": "6",
+        "losses": "18",
+        "goals_for_against": "18:52",
         "points": "18"
       }
     ]
@@ -1476,22 +1476,22 @@
       {
         "rank": "5",
         "club": "サンタ・クララ",
-        "matches": "27",
+        "matches": "28",
         "wins": "14",
         "draws": "4",
-        "losses": "9",
-        "goals_for_against": "28:25",
+        "losses": "10",
+        "goals_for_against": "28:26",
         "points": "46"
       },
       {
         "rank": "6",
         "club": "ヴィトーリアSC",
-        "matches": "27",
-        "wins": "10",
+        "matches": "28",
+        "wins": "11",
         "draws": "12",
         "losses": "5",
-        "goals_for_against": "38:29",
-        "points": "42"
+        "goals_for_against": "39:29",
+        "points": "45"
       },
       {
         "rank": "7",

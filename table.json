@@ -2450,22 +2450,22 @@
       },
       {
         "rank": "13",
+        "club": "FC琉球OKINAWA",
+        "matches": "8",
+        "wins": "2",
+        "draws": "2",
+        "losses": "4",
+        "goals_for_against": "6:7",
+        "points": "8"
+      },
+      {
+        "rank": "14",
         "club": "栃木SC",
         "matches": "7",
         "wins": "2",
         "draws": "2",
         "losses": "3",
         "goals_for_against": "5:6",
-        "points": "8"
-      },
-      {
-        "rank": "14",
-        "club": "FC琉球OKINAWA",
-        "matches": "8",
-        "wins": "2",
-        "draws": "2",
-        "losses": "4",
-        "goals_for_against": "5:7",
         "points": "8"
       },
       {
@@ -2485,7 +2485,7 @@
         "wins": "2",
         "draws": "2",
         "losses": "4",
-        "goals_for_against": "6:10",
+        "goals_for_against": "6:11",
         "points": "8"
       },
       {

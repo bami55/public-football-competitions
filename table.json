@@ -2163,6 +2163,16 @@
       },
       {
         "rank": "5",
+        "club": "ベガルタ仙台",
+        "matches": "8",
+        "wins": "4",
+        "draws": "2",
+        "losses": "2",
+        "goals_for_against": "10:7",
+        "points": "14"
+      },
+      {
+        "rank": "6",
         "club": "FC今治",
         "matches": "7",
         "wins": "3",
@@ -2172,7 +2182,7 @@
         "points": "12"
       },
       {
-        "rank": "6",
+        "rank": "7",
         "club": "徳島ヴォルティス",
         "matches": "7",
         "wins": "3",
@@ -2182,7 +2192,7 @@
         "points": "12"
       },
       {
-        "rank": "7",
+        "rank": "8",
         "club": "藤枝MYFC",
         "matches": "7",
         "wins": "3",
@@ -2190,16 +2200,6 @@
         "losses": "1",
         "goals_for_against": "11:9",
         "points": "12"
-      },
-      {
-        "rank": "8",
-        "club": "ベガルタ仙台",
-        "matches": "7",
-        "wins": "3",
-        "draws": "2",
-        "losses": "2",
-        "goals_for_against": "9:7",
-        "points": "11"
       },
       {
         "rank": "9",
@@ -2244,11 +2244,11 @@
       {
         "rank": "13",
         "club": "ブラウブリッツ秋田",
-        "matches": "7",
+        "matches": "8",
         "wins": "3",
         "draws": "0",
-        "losses": "4",
-        "goals_for_against": "9:15",
+        "losses": "5",
+        "goals_for_against": "9:16",
         "points": "9"
       },
       {

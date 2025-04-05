@@ -18,11 +18,11 @@
         "rank": "2",
         "club": "アーセナル",
         "matches": "31",
-        "wins": "18",
-        "draws": "10",
+        "wins": "17",
+        "draws": "11",
         "losses": "3",
-        "goals_for_against": "56:25",
-        "points": "64"
+        "goals_for_against": "56:26",
+        "points": "62"
       },
       {
         "rank": "3",
@@ -136,22 +136,22 @@
       },
       {
         "rank": "14",
+        "club": "エヴァートン",
+        "matches": "31",
+        "wins": "7",
+        "draws": "14",
+        "losses": "10",
+        "goals_for_against": "33:38",
+        "points": "35"
+      },
+      {
+        "rank": "15",
         "club": "トッテナム",
         "matches": "30",
         "wins": "10",
         "draws": "4",
         "losses": "16",
         "goals_for_against": "55:44",
-        "points": "34"
-      },
-      {
-        "rank": "15",
-        "club": "エヴァートン",
-        "matches": "31",
-        "wins": "7",
-        "draws": "13",
-        "losses": "11",
-        "goals_for_against": "32:38",
         "points": "34"
       },
       {
@@ -581,12 +581,12 @@
       {
         "rank": "13",
         "club": "コモ",
-        "matches": "30",
+        "matches": "31",
         "wins": "7",
-        "draws": "9",
+        "draws": "10",
         "losses": "14",
-        "goals_for_against": "36:47",
-        "points": "30"
+        "goals_for_against": "37:48",
+        "points": "31"
       },
       {
         "rank": "14",
@@ -651,12 +651,12 @@
       {
         "rank": "20",
         "club": "モンツァ",
-        "matches": "30",
+        "matches": "31",
         "wins": "2",
-        "draws": "9",
+        "draws": "10",
         "losses": "19",
-        "goals_for_against": "24:52",
-        "points": "15"
+        "goals_for_against": "25:53",
+        "points": "16"
       }
     ]
   },
@@ -790,10 +790,10 @@
         "club": "ジローナ",
         "matches": "30",
         "wins": "9",
-        "draws": "8",
-        "losses": "13",
-        "goals_for_against": "37:45",
-        "points": "35"
+        "draws": "7",
+        "losses": "14",
+        "goals_for_against": "37:46",
+        "points": "34"
       },
       {
         "rank": "14",
@@ -829,11 +829,11 @@
         "rank": "17",
         "club": "アラベス",
         "matches": "30",
-        "wins": "6",
-        "draws": "10",
+        "wins": "7",
+        "draws": "9",
         "losses": "14",
-        "goals_for_against": "32:44",
-        "points": "28"
+        "goals_for_against": "33:44",
+        "points": "30"
       },
       {
         "rank": "18",

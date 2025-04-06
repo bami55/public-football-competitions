@@ -1338,6 +1338,16 @@
       },
       {
         "rank": "10",
+        "club": "ヘラクレス",
+        "matches": "28",
+        "wins": "7",
+        "draws": "11",
+        "losses": "10",
+        "goals_for_against": "35:48",
+        "points": "32"
+      },
+      {
+        "rank": "11",
         "club": "フローニンゲン",
         "matches": "28",
         "wins": "8",
@@ -1345,16 +1355,6 @@
         "losses": "12",
         "goals_for_against": "27:41",
         "points": "32"
-      },
-      {
-        "rank": "11",
-        "club": "ヘラクレス",
-        "matches": "27",
-        "wins": "7",
-        "draws": "10",
-        "losses": "10",
-        "goals_for_against": "35:48",
-        "points": "31"
       },
       {
         "rank": "12",
@@ -1408,6 +1408,16 @@
       },
       {
         "rank": "17",
+        "club": "ヴァールヴァイク",
+        "matches": "28",
+        "wins": "4",
+        "draws": "7",
+        "losses": "17",
+        "goals_for_against": "34:56",
+        "points": "19"
+      },
+      {
+        "rank": "18",
         "club": "アルメレ・シティ",
         "matches": "28",
         "wins": "4",
@@ -1415,16 +1425,6 @@
         "losses": "17",
         "goals_for_against": "20:52",
         "points": "19"
-      },
-      {
-        "rank": "18",
-        "club": "ヴァールヴァイク",
-        "matches": "27",
-        "wins": "4",
-        "draws": "6",
-        "losses": "17",
-        "goals_for_against": "34:56",
-        "points": "18"
       }
     ]
   },

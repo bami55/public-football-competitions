@@ -483,10 +483,10 @@
         "club": "アタランタBC",
         "matches": "31",
         "wins": "17",
-        "draws": "8",
-        "losses": "6",
-        "goals_for_against": "63:29",
-        "points": "59"
+        "draws": "7",
+        "losses": "7",
+        "goals_for_against": "63:30",
+        "points": "58"
       },
       {
         "rank": "4",
@@ -512,11 +512,11 @@
         "rank": "6",
         "club": "ラツィオ",
         "matches": "31",
-        "wins": "15",
-        "draws": "8",
+        "wins": "16",
+        "draws": "7",
         "losses": "8",
-        "goals_for_against": "51:42",
-        "points": "53"
+        "goals_for_against": "52:42",
+        "points": "55"
       },
       {
         "rank": "7",
@@ -772,7 +772,7 @@
         "wins": "10",
         "draws": "9",
         "losses": "11",
-        "goals_for_against": "29:25",
+        "goals_for_against": "30:25",
         "points": "39"
       },
       {
@@ -862,7 +862,7 @@
         "wins": "4",
         "draws": "4",
         "losses": "22",
-        "goals_for_against": "19:68",
+        "goals_for_against": "19:69",
         "points": "16"
       }
     ]

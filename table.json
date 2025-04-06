@@ -505,7 +505,7 @@
         "wins": "14",
         "draws": "14",
         "losses": "3",
-        "goals_for_against": "46:28",
+        "goals_for_against": "47:29",
         "points": "56"
       },
       {
@@ -525,7 +525,7 @@
         "wins": "15",
         "draws": "8",
         "losses": "8",
-        "goals_for_against": "45:30",
+        "goals_for_against": "46:31",
         "points": "53"
       },
       {
@@ -1071,22 +1071,22 @@
       },
       {
         "rank": "2",
+        "club": "マルセイユ",
+        "matches": "28",
+        "wins": "16",
+        "draws": "4",
+        "losses": "8",
+        "goals_for_against": "57:38",
+        "points": "52"
+      },
+      {
+        "rank": "3",
         "club": "モナコ",
         "matches": "28",
         "wins": "15",
         "draws": "5",
         "losses": "8",
         "goals_for_against": "54:35",
-        "points": "50"
-      },
-      {
-        "rank": "3",
-        "club": "マルセイユ",
-        "matches": "28",
-        "wins": "15",
-        "draws": "5",
-        "losses": "8",
-        "goals_for_against": "55:37",
         "points": "50"
       },
       {
@@ -1164,10 +1164,10 @@
         "club": "トゥールーズ",
         "matches": "28",
         "wins": "9",
-        "draws": "8",
-        "losses": "11",
-        "goals_for_against": "36:34",
-        "points": "35"
+        "draws": "7",
+        "losses": "12",
+        "goals_for_against": "37:36",
+        "points": "34"
       },
       {
         "rank": "12",
@@ -1435,6 +1435,16 @@
     "results": [
       {
         "rank": "1",
+        "club": "ベンフィカ",
+        "matches": "28",
+        "wins": "22",
+        "draws": "2",
+        "losses": "4",
+        "goals_for_against": "67:22",
+        "points": "68"
+      },
+      {
+        "rank": "2",
         "club": "スポルティングCP",
         "matches": "27",
         "wins": "20",
@@ -1444,23 +1454,13 @@
         "points": "65"
       },
       {
-        "rank": "2",
-        "club": "ベンフィカ",
-        "matches": "27",
-        "wins": "21",
-        "draws": "2",
-        "losses": "4",
-        "goals_for_against": "65:22",
-        "points": "65"
-      },
-      {
         "rank": "3",
         "club": "FCポルト",
-        "matches": "27",
+        "matches": "28",
         "wins": "17",
         "draws": "5",
-        "losses": "5",
-        "goals_for_against": "53:21",
+        "losses": "6",
+        "goals_for_against": "53:23",
         "points": "56"
       },
       {

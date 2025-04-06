@@ -1916,16 +1916,6 @@
     "results": [
       {
         "rank": "1",
-        "club": "鹿島アントラーズ",
-        "matches": "9",
-        "wins": "6",
-        "draws": "1",
-        "losses": "2",
-        "goals_for_against": "15:5",
-        "points": "19"
-      },
-      {
-        "rank": "2",
         "club": "町田ゼルビア",
         "matches": "9",
         "wins": "5",
@@ -1935,7 +1925,37 @@
         "points": "17"
       },
       {
+        "rank": "2",
+        "club": "サンフレッチェ広島",
+        "matches": "8",
+        "wins": "5",
+        "draws": "2",
+        "losses": "1",
+        "goals_for_against": "9:5",
+        "points": "17"
+      },
+      {
         "rank": "3",
+        "club": "鹿島アントラーズ",
+        "matches": "9",
+        "wins": "5",
+        "draws": "1",
+        "losses": "3",
+        "goals_for_against": "16:9",
+        "points": "16"
+      },
+      {
+        "rank": "4",
+        "club": "柏レイソル",
+        "matches": "9",
+        "wins": "4",
+        "draws": "4",
+        "losses": "1",
+        "goals_for_against": "10:7",
+        "points": "16"
+      },
+      {
+        "rank": "5",
         "club": "アビスパ福岡",
         "matches": "9",
         "wins": "5",
@@ -1945,7 +1965,7 @@
         "points": "16"
       },
       {
-        "rank": "4",
+        "rank": "6",
         "club": "川崎フロンターレ",
         "matches": "8",
         "wins": "4",
@@ -1955,17 +1975,17 @@
         "points": "15"
       },
       {
-        "rank": "5",
-        "club": "サンフレッチェ広島",
-        "matches": "8",
+        "rank": "7",
+        "club": "京都サンガ",
+        "matches": "9",
         "wins": "4",
         "draws": "3",
-        "losses": "1",
-        "goals_for_against": "8:5",
+        "losses": "2",
+        "goals_for_against": "11:10",
         "points": "15"
       },
       {
-        "rank": "6",
+        "rank": "8",
         "club": "ファジアーノ岡山",
         "matches": "9",
         "wins": "4",
@@ -1975,17 +1995,7 @@
         "points": "14"
       },
       {
-        "rank": "7",
-        "club": "柏レイソル",
-        "matches": "9",
-        "wins": "3",
-        "draws": "5",
-        "losses": "1",
-        "goals_for_against": "9:7",
-        "points": "14"
-      },
-      {
-        "rank": "8",
+        "rank": "9",
         "club": "湘南ベルマーレ",
         "matches": "9",
         "wins": "4",
@@ -1993,16 +2003,6 @@
         "losses": "3",
         "goals_for_against": "9:11",
         "points": "14"
-      },
-      {
-        "rank": "9",
-        "club": "京都サンガ",
-        "matches": "9",
-        "wins": "3",
-        "draws": "3",
-        "losses": "3",
-        "goals_for_against": "7:9",
-        "points": "12"
       },
       {
         "rank": "10",
@@ -2016,26 +2016,6 @@
       },
       {
         "rank": "11",
-        "club": "ガンバ大阪",
-        "matches": "9",
-        "wins": "3",
-        "draws": "2",
-        "losses": "4",
-        "goals_for_against": "9:14",
-        "points": "11"
-      },
-      {
-        "rank": "12",
-        "club": "セレッソ大阪",
-        "matches": "9",
-        "wins": "2",
-        "draws": "4",
-        "losses": "3",
-        "goals_for_against": "14:14",
-        "points": "10"
-      },
-      {
-        "rank": "13",
         "club": "横浜FC",
         "matches": "9",
         "wins": "3",
@@ -2045,7 +2025,7 @@
         "points": "10"
       },
       {
-        "rank": "14",
+        "rank": "12",
         "club": "浦和レッズ",
         "matches": "9",
         "wins": "2",
@@ -2055,7 +2035,7 @@
         "points": "10"
       },
       {
-        "rank": "15",
+        "rank": "13",
         "club": "東京ヴェルディ",
         "matches": "9",
         "wins": "2",
@@ -2063,6 +2043,26 @@
         "losses": "3",
         "goals_for_against": "7:11",
         "points": "10"
+      },
+      {
+        "rank": "14",
+        "club": "ガンバ大阪",
+        "matches": "9",
+        "wins": "3",
+        "draws": "1",
+        "losses": "5",
+        "goals_for_against": "9:15",
+        "points": "10"
+      },
+      {
+        "rank": "15",
+        "club": "セレッソ大阪",
+        "matches": "9",
+        "wins": "2",
+        "draws": "3",
+        "losses": "4",
+        "goals_for_against": "14:15",
+        "points": "9"
       },
       {
         "rank": "16",

@@ -51,7 +51,7 @@
         "wins": "16",
         "draws": "5",
         "losses": "9",
-        "goals_for_against": "51:39",
+        "goals_for_against": "52:39",
         "points": "53"
       },
       {
@@ -191,7 +191,7 @@
         "wins": "4",
         "draws": "5",
         "losses": "22",
-        "goals_for_against": "25:69",
+        "goals_for_against": "25:70",
         "points": "17"
       },
       {
@@ -472,11 +472,11 @@
         "rank": "2",
         "club": "ナポリ",
         "matches": "31",
-        "wins": "20",
-        "draws": "7",
+        "wins": "19",
+        "draws": "8",
         "losses": "4",
-        "goals_for_against": "48:24",
-        "points": "67"
+        "goals_for_against": "48:25",
+        "points": "65"
       },
       {
         "rank": "3",
@@ -493,10 +493,10 @@
         "club": "ボローニャ",
         "matches": "31",
         "wins": "15",
-        "draws": "11",
-        "losses": "5",
-        "goals_for_against": "50:35",
-        "points": "56"
+        "draws": "12",
+        "losses": "4",
+        "goals_for_against": "51:35",
+        "points": "57"
       },
       {
         "rank": "5",
@@ -777,6 +777,16 @@
       },
       {
         "rank": "12",
+        "club": "CA オサスナ",
+        "matches": "30",
+        "wins": "8",
+        "draws": "13",
+        "losses": "9",
+        "goals_for_against": "34:42",
+        "points": "37"
+      },
+      {
+        "rank": "13",
         "club": "セビージャ FC",
         "matches": "30",
         "wins": "9",
@@ -784,16 +794,6 @@
         "losses": "12",
         "goals_for_against": "34:41",
         "points": "36"
-      },
-      {
-        "rank": "13",
-        "club": "CA オサスナ",
-        "matches": "30",
-        "wins": "7",
-        "draws": "14",
-        "losses": "9",
-        "goals_for_against": "33:42",
-        "points": "35"
       },
       {
         "rank": "14",
@@ -840,10 +840,10 @@
         "club": "レガネス",
         "matches": "30",
         "wins": "6",
-        "draws": "10",
-        "losses": "14",
-        "goals_for_against": "28:46",
-        "points": "28"
+        "draws": "9",
+        "losses": "15",
+        "goals_for_against": "28:47",
+        "points": "27"
       },
       {
         "rank": "19",
@@ -1435,6 +1435,16 @@
     "results": [
       {
         "rank": "1",
+        "club": "スポルティングCP",
+        "matches": "28",
+        "wins": "21",
+        "draws": "5",
+        "losses": "2",
+        "goals_for_against": "74:23",
+        "points": "68"
+      },
+      {
+        "rank": "2",
         "club": "ベンフィカ",
         "matches": "28",
         "wins": "22",
@@ -1442,16 +1452,6 @@
         "losses": "4",
         "goals_for_against": "69:23",
         "points": "68"
-      },
-      {
-        "rank": "2",
-        "club": "スポルティングCP",
-        "matches": "27",
-        "wins": "20",
-        "draws": "5",
-        "losses": "2",
-        "goals_for_against": "73:23",
-        "points": "65"
       },
       {
         "rank": "3",
@@ -1466,11 +1466,11 @@
       {
         "rank": "4",
         "club": "SCブラガ",
-        "matches": "27",
+        "matches": "28",
         "wins": "17",
         "draws": "5",
-        "losses": "5",
-        "goals_for_against": "44:23",
+        "losses": "6",
+        "goals_for_against": "44:24",
         "points": "56"
       },
       {
@@ -1546,11 +1546,11 @@
       {
         "rank": "12",
         "club": "リオ・アヴェ",
-        "matches": "27",
+        "matches": "28",
         "wins": "7",
         "draws": "8",
-        "losses": "12",
-        "goals_for_against": "30:45",
+        "losses": "13",
+        "goals_for_against": "30:46",
         "points": "29"
       },
       {
@@ -1606,12 +1606,12 @@
       {
         "rank": "18",
         "club": "ボアヴィスタ",
-        "matches": "27",
-        "wins": "3",
+        "matches": "28",
+        "wins": "4",
         "draws": "6",
         "losses": "18",
-        "goals_for_against": "17:46",
-        "points": "15"
+        "goals_for_against": "18:46",
+        "points": "18"
       }
     ]
   },

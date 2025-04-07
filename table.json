@@ -46,6 +46,16 @@
       },
       {
         "rank": "5",
+        "club": "ニューカッスル",
+        "matches": "30",
+        "wins": "16",
+        "draws": "5",
+        "losses": "9",
+        "goals_for_against": "51:39",
+        "points": "53"
+      },
+      {
+        "rank": "6",
         "club": "マンチェスターC",
         "matches": "31",
         "wins": "15",
@@ -55,7 +65,7 @@
         "points": "52"
       },
       {
-        "rank": "6",
+        "rank": "7",
         "club": "アストン・ヴィラ",
         "matches": "31",
         "wins": "14",
@@ -63,16 +73,6 @@
         "losses": "8",
         "goals_for_against": "46:46",
         "points": "51"
-      },
-      {
-        "rank": "7",
-        "club": "ニューカッスル",
-        "matches": "29",
-        "wins": "15",
-        "draws": "5",
-        "losses": "9",
-        "goals_for_against": "49:39",
-        "points": "50"
       },
       {
         "rank": "8",
@@ -187,11 +187,11 @@
       {
         "rank": "19",
         "club": "レスター",
-        "matches": "30",
+        "matches": "31",
         "wins": "4",
         "draws": "5",
-        "losses": "21",
-        "goals_for_against": "25:67",
+        "losses": "22",
+        "goals_for_against": "25:69",
         "points": "17"
       },
       {
@@ -471,12 +471,12 @@
       {
         "rank": "2",
         "club": "ナポリ",
-        "matches": "30",
-        "wins": "19",
+        "matches": "31",
+        "wins": "20",
         "draws": "7",
         "losses": "4",
-        "goals_for_against": "47:24",
-        "points": "64"
+        "goals_for_against": "48:24",
+        "points": "67"
       },
       {
         "rank": "3",
@@ -491,11 +491,11 @@
       {
         "rank": "4",
         "club": "ボローニャ",
-        "matches": "30",
+        "matches": "31",
         "wins": "15",
         "draws": "11",
-        "losses": "4",
-        "goals_for_against": "50:34",
+        "losses": "5",
+        "goals_for_against": "50:35",
         "points": "56"
       },
       {
@@ -787,22 +787,22 @@
       },
       {
         "rank": "13",
+        "club": "CA オサスナ",
+        "matches": "30",
+        "wins": "7",
+        "draws": "14",
+        "losses": "9",
+        "goals_for_against": "33:42",
+        "points": "35"
+      },
+      {
+        "rank": "14",
         "club": "ジローナ",
         "matches": "30",
         "wins": "9",
         "draws": "7",
         "losses": "14",
         "goals_for_against": "37:46",
-        "points": "34"
-      },
-      {
-        "rank": "14",
-        "club": "CA オサスナ",
-        "matches": "29",
-        "wins": "7",
-        "draws": "13",
-        "losses": "9",
-        "goals_for_against": "33:42",
         "points": "34"
       },
       {
@@ -838,12 +838,12 @@
       {
         "rank": "18",
         "club": "レガネス",
-        "matches": "29",
+        "matches": "30",
         "wins": "6",
-        "draws": "9",
+        "draws": "10",
         "losses": "14",
         "goals_for_against": "28:46",
-        "points": "27"
+        "points": "28"
       },
       {
         "rank": "19",

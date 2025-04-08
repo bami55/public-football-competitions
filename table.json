@@ -258,7 +258,7 @@
         "wins": "15",
         "draws": "16",
         "losses": "10",
-        "goals_for_against": "51:43",
+        "goals_for_against": "52:44",
         "points": "61"
       },
       {
@@ -288,7 +288,7 @@
         "wins": "13",
         "draws": "19",
         "losses": "9",
-        "goals_for_against": "48:36",
+        "goals_for_against": "49:37",
         "points": "58"
       },
       {
@@ -303,23 +303,23 @@
       },
       {
         "rank": "10",
+        "club": "ワトフォード",
+        "matches": "41",
+        "wins": "16",
+        "draws": "8",
+        "losses": "17",
+        "goals_for_against": "49:53",
+        "points": "56"
+      },
+      {
+        "rank": "11",
         "club": "シェフィールドW",
         "matches": "41",
         "wins": "15",
         "draws": "10",
         "losses": "16",
-        "goals_for_against": "55:61",
+        "goals_for_against": "56:62",
         "points": "55"
-      },
-      {
-        "rank": "11",
-        "club": "ワトフォード",
-        "matches": "41",
-        "wins": "15",
-        "draws": "9",
-        "losses": "17",
-        "goals_for_against": "48:53",
-        "points": "54"
       },
       {
         "rank": "12",
@@ -338,7 +338,7 @@
         "wins": "15",
         "draws": "7",
         "losses": "19",
-        "goals_for_against": "42:44",
+        "goals_for_against": "43:45",
         "points": "52"
       },
       {
@@ -348,7 +348,7 @@
         "wins": "11",
         "draws": "18",
         "losses": "12",
-        "goals_for_against": "41:47",
+        "goals_for_against": "42:48",
         "points": "51"
       },
       {
@@ -373,13 +373,13 @@
       },
       {
         "rank": "17",
-        "club": "ハル",
+        "club": "ストーク・シティ",
         "matches": "41",
         "wins": "11",
-        "draws": "12",
-        "losses": "18",
-        "goals_for_against": "40:48",
-        "points": "45"
+        "draws": "13",
+        "losses": "17",
+        "goals_for_against": "42:53",
+        "points": "46"
       },
       {
         "rank": "18",
@@ -403,12 +403,12 @@
       },
       {
         "rank": "20",
-        "club": "ストーク・シティ",
+        "club": "ハル",
         "matches": "41",
-        "wins": "10",
-        "draws": "14",
-        "losses": "17",
-        "goals_for_against": "41:53",
+        "wins": "11",
+        "draws": "11",
+        "losses": "19",
+        "goals_for_against": "40:49",
         "points": "44"
       },
       {
@@ -428,7 +428,7 @@
         "wins": "9",
         "draws": "14",
         "losses": "18",
-        "goals_for_against": "43:64",
+        "goals_for_against": "44:65",
         "points": "41"
       },
       {
@@ -436,10 +436,10 @@
         "club": "ルートン",
         "matches": "41",
         "wins": "10",
-        "draws": "10",
-        "losses": "21",
-        "goals_for_against": "36:61",
-        "points": "40"
+        "draws": "9",
+        "losses": "22",
+        "goals_for_against": "36:62",
+        "points": "39"
       },
       {
         "rank": "24",

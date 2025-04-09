@@ -274,12 +274,12 @@
       {
         "rank": "7",
         "club": "コヴェントリー",
-        "matches": "40",
+        "matches": "41",
         "wins": "17",
-        "draws": "8",
+        "draws": "9",
         "losses": "15",
         "goals_for_against": "57:53",
-        "points": "59"
+        "points": "60"
       },
       {
         "rank": "8",
@@ -343,6 +343,26 @@
       },
       {
         "rank": "14",
+        "club": "スウォンジー",
+        "matches": "41",
+        "wins": "14",
+        "draws": "9",
+        "losses": "18",
+        "goals_for_against": "44:51",
+        "points": "51"
+      },
+      {
+        "rank": "15",
+        "club": "QPR",
+        "matches": "41",
+        "wins": "12",
+        "draws": "13",
+        "losses": "16",
+        "goals_for_against": "47:54",
+        "points": "49"
+      },
+      {
+        "rank": "16",
         "club": "プレストン",
         "matches": "41",
         "wins": "10",
@@ -352,43 +372,23 @@
         "points": "49"
       },
       {
-        "rank": "15",
-        "club": "スウォンジー",
-        "matches": "40",
-        "wins": "13",
-        "draws": "9",
-        "losses": "18",
-        "goals_for_against": "41:51",
-        "points": "48"
-      },
-      {
-        "rank": "16",
-        "club": "QPR",
-        "matches": "40",
-        "wins": "11",
-        "draws": "13",
-        "losses": "16",
-        "goals_for_against": "45:53",
-        "points": "46"
-      },
-      {
         "rank": "17",
         "club": "ポーツマス",
-        "matches": "40",
+        "matches": "41",
         "wins": "12",
-        "draws": "9",
+        "draws": "10",
         "losses": "19",
         "goals_for_against": "48:63",
-        "points": "45"
+        "points": "46"
       },
       {
         "rank": "18",
         "club": "オックスフォード",
-        "matches": "40",
+        "matches": "41",
         "wins": "11",
         "draws": "12",
-        "losses": "17",
-        "goals_for_against": "41:57",
+        "losses": "18",
+        "goals_for_against": "42:59",
         "points": "45"
       },
       {
@@ -444,11 +444,11 @@
       {
         "rank": "24",
         "club": "プリマス",
-        "matches": "40",
+        "matches": "41",
         "wins": "8",
         "draws": "13",
-        "losses": "19",
-        "goals_for_against": "42:78",
+        "losses": "20",
+        "goals_for_against": "42:81",
         "points": "37"
       }
     ]

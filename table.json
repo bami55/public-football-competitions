@@ -964,22 +964,22 @@
       },
       {
         "rank": "10",
-        "club": "アウクスブルク",
-        "matches": "28",
-        "wins": "10",
-        "draws": "9",
-        "losses": "9",
-        "goals_for_against": "31:39",
-        "points": "39"
-      },
-      {
-        "rank": "11",
         "club": "ブレーメン",
         "matches": "28",
         "wins": "11",
         "draws": "6",
         "losses": "11",
         "goals_for_against": "45:53",
+        "points": "39"
+      },
+      {
+        "rank": "11",
+        "club": "アウクスブルク",
+        "matches": "28",
+        "wins": "10",
+        "draws": "9",
+        "losses": "9",
+        "goals_for_against": "31:39",
         "points": "39"
       },
       {

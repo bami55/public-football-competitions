@@ -218,7 +218,7 @@
         "wins": "24",
         "draws": "16",
         "losses": "2",
-        "goals_for_against": "57:12",
+        "goals_for_against": "57:13",
         "points": "88"
       },
       {
@@ -318,7 +318,7 @@
         "wins": "13",
         "draws": "14",
         "losses": "15",
-        "goals_for_against": "62:58",
+        "goals_for_against": "63:58",
         "points": "53"
       },
       {
@@ -545,7 +545,7 @@
         "wins": "14",
         "draws": "9",
         "losses": "9",
-        "goals_for_against": "50:37",
+        "goals_for_against": "51:37",
         "points": "51"
       },
       {
@@ -565,7 +565,7 @@
         "wins": "11",
         "draws": "7",
         "losses": "14",
-        "goals_for_against": "36:45",
+        "goals_for_against": "36:46",
         "points": "40"
       },
       {
@@ -1146,7 +1146,7 @@
         "wins": "12",
         "draws": "6",
         "losses": "11",
-        "goals_for_against": "32:31",
+        "goals_for_against": "32:32",
         "points": "42"
       },
       {
@@ -1196,7 +1196,7 @@
         "wins": "7",
         "draws": "8",
         "losses": "14",
-        "goals_for_against": "30:42",
+        "goals_for_against": "31:42",
         "points": "29"
       },
       {
@@ -1477,11 +1477,11 @@
         "rank": "5",
         "club": "ヴィトーリアSC",
         "matches": "29",
-        "wins": "11",
-        "draws": "13",
+        "wins": "12",
+        "draws": "12",
         "losses": "5",
-        "goals_for_against": "40:29",
-        "points": "46"
+        "goals_for_against": "41:29",
+        "points": "48"
       },
       {
         "rank": "6",
@@ -1568,10 +1568,10 @@
         "club": "ジル・ヴィセンテ",
         "matches": "29",
         "wins": "6",
-        "draws": "9",
-        "losses": "14",
-        "goals_for_against": "27:42",
-        "points": "27"
+        "draws": "8",
+        "losses": "15",
+        "goals_for_against": "27:43",
+        "points": "26"
       },
       {
         "rank": "15",

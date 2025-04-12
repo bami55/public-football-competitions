@@ -485,7 +485,7 @@
         "wins": "15",
         "draws": "14",
         "losses": "3",
-        "goals_for_against": "48:29",
+        "goals_for_against": "49:30",
         "points": "59"
       },
       {
@@ -625,7 +625,7 @@
         "wins": "6",
         "draws": "8",
         "losses": "18",
-        "goals_for_against": "22:51",
+        "goals_for_against": "23:52",
         "points": "26"
       },
       {
@@ -669,11 +669,11 @@
         "rank": "1",
         "club": "バルセロナ",
         "matches": "31",
-        "wins": "21",
-        "draws": "5",
+        "wins": "22",
+        "draws": "4",
         "losses": "5",
-        "goals_for_against": "83:29",
-        "points": "68"
+        "goals_for_against": "84:29",
+        "points": "70"
       },
       {
         "rank": "2",
@@ -850,10 +850,10 @@
         "club": "レガネス",
         "matches": "31",
         "wins": "6",
-        "draws": "11",
-        "losses": "14",
-        "goals_for_against": "29:47",
-        "points": "29"
+        "draws": "10",
+        "losses": "15",
+        "goals_for_against": "29:48",
+        "points": "28"
       },
       {
         "rank": "20",
@@ -1106,7 +1106,7 @@
         "wins": "14",
         "draws": "8",
         "losses": "7",
-        "goals_for_against": "46:35",
+        "goals_for_against": "48:37",
         "points": "50"
       },
       {
@@ -1116,7 +1116,7 @@
         "wins": "13",
         "draws": "9",
         "losses": "7",
-        "goals_for_against": "52:35",
+        "goals_for_against": "54:37",
         "points": "48"
       },
       {
@@ -1263,7 +1263,7 @@
         "wins": "20",
         "draws": "4",
         "losses": "5",
-        "goals_for_against": "85:33",
+        "goals_for_against": "86:33",
         "points": "64"
       },
       {
@@ -1313,7 +1313,7 @@
         "wins": "13",
         "draws": "7",
         "losses": "9",
-        "goals_for_against": "51:45",
+        "goals_for_against": "52:46",
         "points": "46"
       },
       {
@@ -1383,7 +1383,7 @@
         "wins": "8",
         "draws": "7",
         "losses": "14",
-        "goals_for_against": "30:48",
+        "goals_for_against": "31:49",
         "points": "31"
       },
       {
@@ -1423,7 +1423,7 @@
         "wins": "4",
         "draws": "7",
         "losses": "18",
-        "goals_for_against": "20:56",
+        "goals_for_against": "20:57",
         "points": "19"
       }
     ]
@@ -1455,6 +1455,16 @@
       },
       {
         "rank": "3",
+        "club": "FCポルト",
+        "matches": "29",
+        "wins": "18",
+        "draws": "5",
+        "losses": "6",
+        "goals_for_against": "55:25",
+        "points": "59"
+      },
+      {
+        "rank": "4",
         "club": "SCブラガ",
         "matches": "28",
         "wins": "17",
@@ -1462,16 +1472,6 @@
         "losses": "5",
         "goals_for_against": "45:24",
         "points": "57"
-      },
-      {
-        "rank": "4",
-        "club": "FCポルト",
-        "matches": "28",
-        "wins": "17",
-        "draws": "5",
-        "losses": "6",
-        "goals_for_against": "54:25",
-        "points": "56"
       },
       {
         "rank": "5",
@@ -1506,11 +1506,11 @@
       {
         "rank": "8",
         "club": "カーザ・ピア",
-        "matches": "28",
+        "matches": "29",
         "wins": "11",
         "draws": "7",
-        "losses": "10",
-        "goals_for_against": "34:36",
+        "losses": "11",
+        "goals_for_against": "34:37",
         "points": "40"
       },
       {

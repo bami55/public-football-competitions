@@ -2133,6 +2133,16 @@
       },
       {
         "rank": "2",
+        "club": "FC今治",
+        "matches": "9",
+        "wins": "4",
+        "draws": "4",
+        "losses": "1",
+        "goals_for_against": "14:7",
+        "points": "16"
+      },
+      {
+        "rank": "3",
         "club": "RB 大宮",
         "matches": "8",
         "wins": "5",
@@ -2142,7 +2152,7 @@
         "points": "16"
       },
       {
-        "rank": "3",
+        "rank": "4",
         "club": "ジュビロ磐田",
         "matches": "8",
         "wins": "5",
@@ -2152,33 +2162,23 @@
         "points": "16"
       },
       {
-        "rank": "4",
-        "club": "FC今治",
-        "matches": "8",
+        "rank": "5",
+        "club": "ベガルタ仙台",
+        "matches": "9",
         "wins": "4",
         "draws": "3",
-        "losses": "1",
-        "goals_for_against": "14:7",
+        "losses": "2",
+        "goals_for_against": "10:7",
         "points": "15"
       },
       {
-        "rank": "5",
+        "rank": "6",
         "club": "V・ファーレン長崎",
         "matches": "8",
         "wins": "4",
         "draws": "2",
         "losses": "2",
         "goals_for_against": "16:13",
-        "points": "14"
-      },
-      {
-        "rank": "6",
-        "club": "ベガルタ仙台",
-        "matches": "8",
-        "wins": "4",
-        "draws": "2",
-        "losses": "2",
-        "goals_for_against": "10:7",
         "points": "14"
       },
       {

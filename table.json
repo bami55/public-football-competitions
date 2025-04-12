@@ -38,11 +38,11 @@
         "rank": "4",
         "club": "マンチェスターC",
         "matches": "32",
-        "wins": "15",
-        "draws": "8",
+        "wins": "16",
+        "draws": "7",
         "losses": "9",
-        "goals_for_against": "59:42",
-        "points": "53"
+        "goals_for_against": "62:42",
+        "points": "55"
       },
       {
         "rank": "5",
@@ -109,10 +109,10 @@
         "club": "クリスタル・パレス",
         "matches": "31",
         "wins": "11",
-        "draws": "11",
-        "losses": "9",
-        "goals_for_against": "41:37",
-        "points": "44"
+        "draws": "10",
+        "losses": "10",
+        "goals_for_against": "41:40",
+        "points": "43"
       },
       {
         "rank": "12",
@@ -235,11 +235,11 @@
         "rank": "3",
         "club": "シェフィールドU",
         "matches": "42",
-        "wins": "27",
+        "wins": "26",
         "draws": "7",
-        "losses": "8",
-        "goals_for_against": "57:31",
-        "points": "86"
+        "losses": "9",
+        "goals_for_against": "57:33",
+        "points": "83"
       },
       {
         "rank": "4",
@@ -445,11 +445,11 @@
         "rank": "24",
         "club": "プリマス",
         "matches": "42",
-        "wins": "8",
+        "wins": "9",
         "draws": "13",
-        "losses": "21",
-        "goals_for_against": "42:82",
-        "points": "37"
+        "losses": "20",
+        "goals_for_against": "44:82",
+        "points": "40"
       }
     ]
   },
@@ -641,22 +641,22 @@
       {
         "rank": "19",
         "club": "ヴェネツィア",
-        "matches": "31",
+        "matches": "32",
         "wins": "3",
-        "draws": "12",
+        "draws": "13",
         "losses": "16",
         "goals_for_against": "24:44",
-        "points": "21"
+        "points": "22"
       },
       {
         "rank": "20",
         "club": "モンツァ",
-        "matches": "31",
+        "matches": "32",
         "wins": "2",
-        "draws": "9",
+        "draws": "10",
         "losses": "20",
         "goals_for_against": "25:55",
-        "points": "15"
+        "points": "16"
       }
     ]
   },
@@ -742,7 +742,7 @@
         "wins": "12",
         "draws": "7",
         "losses": "12",
-        "goals_for_against": "30:37",
+        "goals_for_against": "31:37",
         "points": "43"
       },
       {
@@ -752,7 +752,7 @@
         "wins": "12",
         "draws": "5",
         "losses": "14",
-        "goals_for_against": "30:33",
+        "goals_for_against": "30:34",
         "points": "41"
       },
       {
@@ -1794,7 +1794,7 @@
         "wins": "26",
         "draws": "3",
         "losses": "4",
-        "goals_for_against": "96:22",
+        "goals_for_against": "97:22",
         "points": "81"
       },
       {
@@ -1874,7 +1874,7 @@
         "wins": "9",
         "draws": "8",
         "losses": "16",
-        "goals_for_against": "38:57",
+        "goals_for_against": "38:58",
         "points": "35"
       },
       {

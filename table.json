@@ -2341,12 +2341,12 @@
       {
         "rank": "2",
         "club": "鹿児島ユナイテッド",
-        "matches": "8",
+        "matches": "9",
         "wins": "4",
-        "draws": "3",
+        "draws": "4",
         "losses": "1",
-        "goals_for_against": "16:9",
-        "points": "15"
+        "goals_for_against": "17:10",
+        "points": "16"
       },
       {
         "rank": "3",
@@ -2430,6 +2430,16 @@
       },
       {
         "rank": "11",
+        "club": "長野パルセイロ",
+        "matches": "8",
+        "wins": "3",
+        "draws": "1",
+        "losses": "4",
+        "goals_for_against": "9:12",
+        "points": "10"
+      },
+      {
+        "rank": "12",
         "club": "高知ユナイテッド",
         "matches": "8",
         "wins": "2",
@@ -2439,27 +2449,27 @@
         "points": "9"
       },
       {
-        "rank": "12",
-        "club": "長野パルセイロ",
-        "matches": "7",
-        "wins": "3",
-        "draws": "0",
+        "rank": "13",
+        "club": "FC琉球OKINAWA",
+        "matches": "9",
+        "wins": "2",
+        "draws": "3",
         "losses": "4",
-        "goals_for_against": "9:12",
+        "goals_for_against": "6:7",
         "points": "9"
       },
       {
-        "rank": "13",
-        "club": "FC琉球OKINAWA",
+        "rank": "14",
+        "club": "アスルクラロ沼津",
         "matches": "8",
-        "wins": "2",
-        "draws": "2",
-        "losses": "4",
-        "goals_for_against": "6:7",
+        "wins": "1",
+        "draws": "5",
+        "losses": "2",
+        "goals_for_against": "7:7",
         "points": "8"
       },
       {
-        "rank": "14",
+        "rank": "15",
         "club": "栃木SC",
         "matches": "8",
         "wins": "2",
@@ -2469,7 +2479,7 @@
         "points": "8"
       },
       {
-        "rank": "15",
+        "rank": "16",
         "club": "ザスパ群馬",
         "matches": "8",
         "wins": "2",
@@ -2479,7 +2489,7 @@
         "points": "8"
       },
       {
-        "rank": "16",
+        "rank": "17",
         "club": "SC相模原",
         "matches": "8",
         "wins": "2",
@@ -2487,16 +2497,6 @@
         "losses": "4",
         "goals_for_against": "6:11",
         "points": "8"
-      },
-      {
-        "rank": "17",
-        "club": "アスルクラロ沼津",
-        "matches": "7",
-        "wins": "1",
-        "draws": "4",
-        "losses": "2",
-        "goals_for_against": "6:6",
-        "points": "7"
       },
       {
         "rank": "18",

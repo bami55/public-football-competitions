@@ -480,6 +480,16 @@
       },
       {
         "rank": "3",
+        "club": "アタランタBC",
+        "matches": "32",
+        "wins": "18",
+        "draws": "7",
+        "losses": "7",
+        "goals_for_against": "65:30",
+        "points": "61"
+      },
+      {
+        "rank": "4",
         "club": "ユヴェントス",
         "matches": "32",
         "wins": "15",
@@ -489,23 +499,13 @@
         "points": "59"
       },
       {
-        "rank": "4",
-        "club": "アタランタBC",
-        "matches": "31",
-        "wins": "17",
-        "draws": "7",
-        "losses": "7",
-        "goals_for_against": "63:30",
-        "points": "58"
-      },
-      {
         "rank": "5",
         "club": "ボローニャ",
-        "matches": "31",
+        "matches": "32",
         "wins": "15",
         "draws": "12",
-        "losses": "4",
-        "goals_for_against": "51:35",
+        "losses": "5",
+        "goals_for_against": "51:37",
         "points": "57"
       },
       {
@@ -1279,12 +1279,12 @@
       {
         "rank": "4",
         "club": "ユトレヒト",
-        "matches": "28",
-        "wins": "15",
+        "matches": "29",
+        "wins": "16",
         "draws": "8",
         "losses": "5",
-        "goals_for_against": "50:41",
-        "points": "53"
+        "goals_for_against": "53:42",
+        "points": "56"
       },
       {
         "rank": "5",
@@ -1369,11 +1369,11 @@
       {
         "rank": "13",
         "club": "フローニンゲン",
-        "matches": "28",
+        "matches": "29",
         "wins": "8",
         "draws": "8",
-        "losses": "12",
-        "goals_for_against": "27:41",
+        "losses": "13",
+        "goals_for_against": "28:44",
         "points": "32"
       },
       {
@@ -1800,12 +1800,12 @@
       {
         "rank": "2",
         "club": "レンジャーズ",
-        "matches": "32",
+        "matches": "33",
         "wins": "20",
-        "draws": "5",
+        "draws": "6",
         "losses": "7",
         "goals_for_against": "66:33",
-        "points": "65"
+        "points": "66"
       },
       {
         "rank": "3",
@@ -1830,12 +1830,12 @@
       {
         "rank": "5",
         "club": "アバディーン",
-        "matches": "32",
+        "matches": "33",
         "wins": "14",
-        "draws": "7",
+        "draws": "8",
         "losses": "11",
         "goals_for_against": "43:47",
-        "points": "49"
+        "points": "50"
       },
       {
         "rank": "6",

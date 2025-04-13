@@ -797,6 +797,16 @@
       },
       {
         "rank": "14",
+        "club": "CA オサスナ",
+        "matches": "31",
+        "wins": "7",
+        "draws": "15",
+        "losses": "9",
+        "goals_for_against": "34:43",
+        "points": "36"
+      },
+      {
+        "rank": "15",
         "club": "エスパニョール",
         "matches": "30",
         "wins": "9",
@@ -806,24 +816,14 @@
         "points": "35"
       },
       {
-        "rank": "15",
-        "club": "CA オサスナ",
-        "matches": "30",
-        "wins": "7",
-        "draws": "14",
-        "losses": "9",
-        "goals_for_against": "34:43",
-        "points": "35"
-      },
-      {
         "rank": "16",
         "club": "ジローナ",
-        "matches": "30",
+        "matches": "31",
         "wins": "9",
-        "draws": "7",
+        "draws": "8",
         "losses": "14",
         "goals_for_against": "37:46",
-        "points": "34"
+        "points": "35"
       },
       {
         "rank": "17",
@@ -1289,22 +1289,22 @@
       {
         "rank": "5",
         "club": "トゥウェンテ",
-        "matches": "28",
+        "matches": "29",
         "wins": "13",
-        "draws": "8",
+        "draws": "9",
         "losses": "7",
         "goals_for_against": "54:40",
-        "points": "47"
+        "points": "48"
       },
       {
         "rank": "6",
         "club": "AZアルクマール",
-        "matches": "28",
+        "matches": "29",
         "wins": "13",
-        "draws": "7",
+        "draws": "8",
         "losses": "8",
         "goals_for_against": "47:32",
-        "points": "46"
+        "points": "47"
       },
       {
         "rank": "7",
@@ -1348,6 +1348,16 @@
       },
       {
         "rank": "11",
+        "club": "ヘラクレス",
+        "matches": "29",
+        "wins": "7",
+        "draws": "12",
+        "losses": "10",
+        "goals_for_against": "35:48",
+        "points": "33"
+      },
+      {
+        "rank": "12",
         "club": "シッタート",
         "matches": "29",
         "wins": "9",
@@ -1355,16 +1365,6 @@
         "losses": "14",
         "goals_for_against": "33:49",
         "points": "33"
-      },
-      {
-        "rank": "12",
-        "club": "ヘラクレス",
-        "matches": "28",
-        "wins": "7",
-        "draws": "11",
-        "losses": "10",
-        "goals_for_against": "35:48",
-        "points": "32"
       },
       {
         "rank": "13",
@@ -1378,6 +1378,16 @@
       },
       {
         "rank": "14",
+        "club": "ズヴォレ",
+        "matches": "29",
+        "wins": "7",
+        "draws": "10",
+        "losses": "12",
+        "goals_for_against": "34:43",
+        "points": "31"
+      },
+      {
+        "rank": "15",
         "club": "NACブレダ",
         "matches": "29",
         "wins": "8",
@@ -1385,16 +1395,6 @@
         "losses": "14",
         "goals_for_against": "31:49",
         "points": "31"
-      },
-      {
-        "rank": "15",
-        "club": "ズヴォレ",
-        "matches": "28",
-        "wins": "7",
-        "draws": "9",
-        "losses": "12",
-        "goals_for_against": "34:43",
-        "points": "30"
       },
       {
         "rank": "16",
@@ -1802,13 +1802,23 @@
         "club": "レンジャーズ",
         "matches": "33",
         "wins": "20",
-        "draws": "6",
-        "losses": "7",
-        "goals_for_against": "66:33",
-        "points": "66"
+        "draws": "5",
+        "losses": "8",
+        "goals_for_against": "67:35",
+        "points": "65"
       },
       {
         "rank": "3",
+        "club": "アバディーン",
+        "matches": "33",
+        "wins": "15",
+        "draws": "7",
+        "losses": "11",
+        "goals_for_against": "45:48",
+        "points": "52"
+      },
+      {
+        "rank": "4",
         "club": "ハイバーニアン",
         "matches": "32",
         "wins": "13",
@@ -1818,23 +1828,13 @@
         "points": "50"
       },
       {
-        "rank": "4",
+        "rank": "5",
         "club": "ダンディー・ユナイテッド",
         "matches": "33",
         "wins": "14",
         "draws": "8",
         "losses": "11",
         "goals_for_against": "41:40",
-        "points": "50"
-      },
-      {
-        "rank": "5",
-        "club": "アバディーン",
-        "matches": "33",
-        "wins": "14",
-        "draws": "8",
-        "losses": "11",
-        "goals_for_against": "43:47",
         "points": "50"
       },
       {

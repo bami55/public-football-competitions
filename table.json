@@ -253,6 +253,16 @@
       },
       {
         "rank": "5",
+        "club": "コヴェントリー",
+        "matches": "42",
+        "wins": "19",
+        "draws": "8",
+        "losses": "15",
+        "goals_for_against": "59:53",
+        "points": "65"
+      },
+      {
+        "rank": "6",
         "club": "ブリストル・シティ",
         "matches": "42",
         "wins": "16",
@@ -260,16 +270,6 @@
         "losses": "10",
         "goals_for_against": "54:45",
         "points": "64"
-      },
-      {
-        "rank": "6",
-        "club": "コヴェントリー",
-        "matches": "42",
-        "wins": "18",
-        "draws": "9",
-        "losses": "15",
-        "goals_for_against": "58:53",
-        "points": "63"
       },
       {
         "rank": "7",
@@ -406,10 +406,10 @@
         "club": "ハル",
         "matches": "42",
         "wins": "11",
-        "draws": "12",
-        "losses": "19",
-        "goals_for_against": "40:49",
-        "points": "45"
+        "draws": "11",
+        "losses": "20",
+        "goals_for_against": "40:50",
+        "points": "44"
       },
       {
         "rank": "21",
@@ -475,7 +475,7 @@
         "wins": "20",
         "draws": "8",
         "losses": "4",
-        "goals_for_against": "49:25",
+        "goals_for_against": "51:25",
         "points": "68"
       },
       {
@@ -645,7 +645,7 @@
         "wins": "4",
         "draws": "12",
         "losses": "16",
-        "goals_for_against": "24:48",
+        "goals_for_against": "24:50",
         "points": "24"
       },
       {
@@ -692,7 +692,7 @@
         "wins": "17",
         "draws": "10",
         "losses": "4",
-        "goals_for_against": "49:24",
+        "goals_for_against": "51:26",
         "points": "61"
       },
       {
@@ -862,7 +862,7 @@
         "wins": "4",
         "draws": "5",
         "losses": "22",
-        "goals_for_against": "19:69",
+        "goals_for_against": "21:71",
         "points": "17"
       }
     ]

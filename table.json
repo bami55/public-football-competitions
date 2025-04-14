@@ -253,16 +253,6 @@
       },
       {
         "rank": "5",
-        "club": "コヴェントリー",
-        "matches": "42",
-        "wins": "19",
-        "draws": "8",
-        "losses": "15",
-        "goals_for_against": "59:53",
-        "points": "65"
-      },
-      {
-        "rank": "6",
         "club": "ブリストル・シティ",
         "matches": "42",
         "wins": "16",
@@ -270,6 +260,16 @@
         "losses": "10",
         "goals_for_against": "54:45",
         "points": "64"
+      },
+      {
+        "rank": "6",
+        "club": "コヴェントリー",
+        "matches": "42",
+        "wins": "18",
+        "draws": "9",
+        "losses": "15",
+        "goals_for_against": "59:54",
+        "points": "63"
       },
       {
         "rank": "7",
@@ -406,10 +406,10 @@
         "club": "ハル",
         "matches": "42",
         "wins": "11",
-        "draws": "11",
-        "losses": "20",
-        "goals_for_against": "40:50",
-        "points": "44"
+        "draws": "12",
+        "losses": "19",
+        "goals_for_against": "41:50",
+        "points": "45"
       },
       {
         "rank": "21",
@@ -689,11 +689,11 @@
         "rank": "3",
         "club": "アトレティコ・マドリード",
         "matches": "31",
-        "wins": "17",
-        "draws": "10",
+        "wins": "18",
+        "draws": "9",
         "losses": "4",
-        "goals_for_against": "51:26",
-        "points": "61"
+        "goals_for_against": "53:26",
+        "points": "63"
       },
       {
         "rank": "4",
@@ -860,10 +860,10 @@
         "club": "レアル・バジャドリード",
         "matches": "31",
         "wins": "4",
-        "draws": "5",
-        "losses": "22",
-        "goals_for_against": "21:71",
-        "points": "17"
+        "draws": "4",
+        "losses": "23",
+        "goals_for_against": "21:73",
+        "points": "16"
       }
     ]
   },

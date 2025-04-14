@@ -76,16 +76,26 @@
       },
       {
         "rank": "8",
-        "club": "フラム",
-        "matches": "31",
+        "club": "ボーンマス",
+        "matches": "32",
         "wins": "13",
         "draws": "9",
-        "losses": "9",
-        "goals_for_against": "47:42",
+        "losses": "10",
+        "goals_for_against": "52:40",
         "points": "48"
       },
       {
         "rank": "9",
+        "club": "フラム",
+        "matches": "32",
+        "wins": "13",
+        "draws": "9",
+        "losses": "10",
+        "goals_for_against": "47:43",
+        "points": "48"
+      },
+      {
+        "rank": "10",
         "club": "ブライトン",
         "matches": "32",
         "wins": "12",
@@ -93,16 +103,6 @@
         "losses": "8",
         "goals_for_against": "51:49",
         "points": "48"
-      },
-      {
-        "rank": "10",
-        "club": "ボーンマス",
-        "matches": "31",
-        "wins": "12",
-        "draws": "9",
-        "losses": "10",
-        "goals_for_against": "51:40",
-        "points": "45"
       },
       {
         "rank": "11",
@@ -264,12 +264,12 @@
       {
         "rank": "6",
         "club": "コヴェントリー",
-        "matches": "41",
+        "matches": "42",
         "wins": "18",
-        "draws": "8",
+        "draws": "9",
         "losses": "15",
         "goals_for_against": "58:53",
-        "points": "62"
+        "points": "63"
       },
       {
         "rank": "7",
@@ -404,12 +404,12 @@
       {
         "rank": "20",
         "club": "ハル",
-        "matches": "41",
+        "matches": "42",
         "wins": "11",
-        "draws": "11",
+        "draws": "12",
         "losses": "19",
         "goals_for_against": "40:49",
-        "points": "44"
+        "points": "45"
       },
       {
         "rank": "21",
@@ -471,12 +471,12 @@
       {
         "rank": "2",
         "club": "ナポリ",
-        "matches": "31",
-        "wins": "19",
+        "matches": "32",
+        "wins": "20",
         "draws": "8",
         "losses": "4",
-        "goals_for_against": "48:25",
-        "points": "65"
+        "goals_for_against": "49:25",
+        "points": "68"
       },
       {
         "rank": "3",
@@ -641,11 +641,11 @@
       {
         "rank": "19",
         "club": "エンポリ",
-        "matches": "31",
+        "matches": "32",
         "wins": "4",
         "draws": "12",
-        "losses": "15",
-        "goals_for_against": "24:47",
+        "losses": "16",
+        "goals_for_against": "24:48",
         "points": "24"
       },
       {
@@ -688,12 +688,12 @@
       {
         "rank": "3",
         "club": "アトレティコ・マドリード",
-        "matches": "30",
+        "matches": "31",
         "wins": "17",
-        "draws": "9",
+        "draws": "10",
         "losses": "4",
         "goals_for_against": "49:24",
-        "points": "60"
+        "points": "61"
       },
       {
         "rank": "4",
@@ -858,12 +858,12 @@
       {
         "rank": "20",
         "club": "レアル・バジャドリード",
-        "matches": "30",
+        "matches": "31",
         "wins": "4",
-        "draws": "4",
+        "draws": "5",
         "losses": "22",
         "goals_for_against": "19:69",
-        "points": "16"
+        "points": "17"
       }
     ]
   },

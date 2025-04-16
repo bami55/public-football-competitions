@@ -26,6 +26,16 @@
       },
       {
         "rank": "3",
+        "club": "ニューカッスル",
+        "matches": "32",
+        "wins": "18",
+        "draws": "5",
+        "losses": "9",
+        "goals_for_against": "58:40",
+        "points": "59"
+      },
+      {
+        "rank": "4",
         "club": "ノッテ・フォレスト",
         "matches": "32",
         "wins": "17",
@@ -33,16 +43,6 @@
         "losses": "9",
         "goals_for_against": "51:38",
         "points": "57"
-      },
-      {
-        "rank": "4",
-        "club": "ニューカッスル",
-        "matches": "31",
-        "wins": "17",
-        "draws": "5",
-        "losses": "9",
-        "goals_for_against": "56:40",
-        "points": "56"
       },
       {
         "rank": "5",
@@ -117,11 +117,11 @@
       {
         "rank": "12",
         "club": "クリスタル・パレス",
-        "matches": "31",
+        "matches": "32",
         "wins": "11",
         "draws": "10",
-        "losses": "10",
-        "goals_for_against": "41:40",
+        "losses": "11",
+        "goals_for_against": "41:42",
         "points": "43"
       },
       {

@@ -1931,7 +1931,7 @@
         "wins": "5",
         "draws": "3",
         "losses": "3",
-        "goals_for_against": "13:11",
+        "goals_for_against": "14:12",
         "points": "18"
       },
       {
@@ -2001,11 +2001,21 @@
         "wins": "4",
         "draws": "4",
         "losses": "3",
-        "goals_for_against": "10:9",
+        "goals_for_against": "11:10",
         "points": "16"
       },
       {
         "rank": "10",
+        "club": "清水エスパルス",
+        "matches": "11",
+        "wins": "4",
+        "draws": "3",
+        "losses": "4",
+        "goals_for_against": "14:12",
+        "points": "15"
+      },
+      {
+        "rank": "11",
         "club": "ヴィッセル神戸",
         "matches": "10",
         "wins": "4",
@@ -2015,7 +2025,7 @@
         "points": "15"
       },
       {
-        "rank": "11",
+        "rank": "12",
         "club": "湘南ベルマーレ",
         "matches": "10",
         "wins": "4",
@@ -2025,7 +2035,7 @@
         "points": "14"
       },
       {
-        "rank": "12",
+        "rank": "13",
         "club": "ガンバ大阪",
         "matches": "10",
         "wins": "4",
@@ -2035,23 +2045,13 @@
         "points": "13"
       },
       {
-        "rank": "13",
+        "rank": "14",
         "club": "セレッソ大阪",
         "matches": "10",
         "wins": "3",
         "draws": "3",
         "losses": "4",
         "goals_for_against": "15:15",
-        "points": "12"
-      },
-      {
-        "rank": "14",
-        "club": "清水エスパルス",
-        "matches": "11",
-        "wins": "3",
-        "draws": "3",
-        "losses": "5",
-        "goals_for_against": "12:12",
         "points": "12"
       },
       {
@@ -2066,16 +2066,6 @@
       },
       {
         "rank": "16",
-        "club": "横浜F・マリノス",
-        "matches": "11",
-        "wins": "2",
-        "draws": "5",
-        "losses": "4",
-        "goals_for_against": "10:12",
-        "points": "11"
-      },
-      {
-        "rank": "17",
         "club": "東京ヴェルディ",
         "matches": "10",
         "wins": "2",
@@ -2085,7 +2075,7 @@
         "points": "10"
       },
       {
-        "rank": "18",
+        "rank": "17",
         "club": "FC東京",
         "matches": "10",
         "wins": "2",
@@ -2095,7 +2085,17 @@
         "points": "9"
       },
       {
-        "rank": "19",
+        "rank": "18",
+        "club": "横浜F・マリノス",
+        "matches": "11",
+        "wins": "1",
+        "draws": "5",
+        "losses": "5",
+        "goals_for_against": "10:14",
+        "points": "8"
+      },
+      {
+        "rank": "18",
         "club": "アルビレックス新潟",
         "matches": "10",
         "wins": "1",

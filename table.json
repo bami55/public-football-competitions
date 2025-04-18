@@ -238,7 +238,7 @@
         "wins": "27",
         "draws": "7",
         "losses": "9",
-        "goals_for_against": "58:33",
+        "goals_for_against": "59:33",
         "points": "86"
       },
       {
@@ -438,7 +438,7 @@
         "wins": "9",
         "draws": "15",
         "losses": "19",
-        "goals_for_against": "45:67",
+        "goals_for_against": "45:68",
         "points": "42"
       },
       {
@@ -1457,11 +1457,11 @@
         "rank": "3",
         "club": "FCポルト",
         "matches": "30",
-        "wins": "18",
-        "draws": "6",
+        "wins": "19",
+        "draws": "5",
         "losses": "6",
-        "goals_for_against": "55:25",
-        "points": "60"
+        "goals_for_against": "57:25",
+        "points": "62"
       },
       {
         "rank": "4",
@@ -1498,10 +1498,10 @@
         "club": "ファマリカン",
         "matches": "30",
         "wins": "11",
-        "draws": "11",
-        "losses": "8",
-        "goals_for_against": "38:31",
-        "points": "44"
+        "draws": "10",
+        "losses": "9",
+        "goals_for_against": "38:33",
+        "points": "43"
       },
       {
         "rank": "8",

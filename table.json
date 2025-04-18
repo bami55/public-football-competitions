@@ -1151,6 +1151,16 @@
       },
       {
         "rank": "10",
+        "club": "レンヌ",
+        "matches": "30",
+        "wins": "12",
+        "draws": "2",
+        "losses": "16",
+        "goals_for_against": "45:40",
+        "points": "38"
+      },
+      {
+        "rank": "11",
         "club": "オセール",
         "matches": "29",
         "wins": "10",
@@ -1158,16 +1168,6 @@
         "losses": "11",
         "goals_for_against": "40:42",
         "points": "38"
-      },
-      {
-        "rank": "11",
-        "club": "レンヌ",
-        "matches": "30",
-        "wins": "11",
-        "draws": "3",
-        "losses": "16",
-        "goals_for_against": "44:40",
-        "points": "36"
       },
       {
         "rank": "12",
@@ -1184,10 +1184,10 @@
         "club": "ナント",
         "matches": "29",
         "wins": "7",
-        "draws": "10",
-        "losses": "12",
-        "goals_for_against": "34:48",
-        "points": "31"
+        "draws": "9",
+        "losses": "13",
+        "goals_for_against": "34:49",
+        "points": "30"
       },
       {
         "rank": "14",
@@ -1440,7 +1440,7 @@
         "wins": "22",
         "draws": "6",
         "losses": "2",
-        "goals_for_against": "77:24",
+        "goals_for_against": "78:25",
         "points": "72"
       },
       {
@@ -1530,7 +1530,7 @@
         "wins": "9",
         "draws": "8",
         "losses": "13",
-        "goals_for_against": "34:43",
+        "goals_for_against": "35:44",
         "points": "35"
       },
       {

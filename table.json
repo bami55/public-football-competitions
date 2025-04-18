@@ -414,15 +414,25 @@
       {
         "rank": "21",
         "club": "ダービー",
-        "matches": "42",
+        "matches": "43",
         "wins": "11",
         "draws": "10",
-        "losses": "21",
-        "goals_for_against": "44:54",
+        "losses": "22",
+        "goals_for_against": "44:55",
         "points": "43"
       },
       {
         "rank": "22",
+        "club": "ルートン",
+        "matches": "43",
+        "wins": "11",
+        "draws": "10",
+        "losses": "22",
+        "goals_for_against": "38:63",
+        "points": "43"
+      },
+      {
+        "rank": "23",
         "club": "カーディフ",
         "matches": "42",
         "wins": "9",
@@ -430,16 +440,6 @@
         "losses": "18",
         "goals_for_against": "45:66",
         "points": "42"
-      },
-      {
-        "rank": "23",
-        "club": "ルートン",
-        "matches": "42",
-        "wins": "10",
-        "draws": "10",
-        "losses": "22",
-        "goals_for_against": "37:63",
-        "points": "40"
       },
       {
         "rank": "24",

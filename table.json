@@ -2331,11 +2331,11 @@
       {
         "rank": "1",
         "club": "FC大阪",
-        "matches": "9",
+        "matches": "10",
         "wins": "6",
         "draws": "1",
-        "losses": "2",
-        "goals_for_against": "10:5",
+        "losses": "3",
+        "goals_for_against": "10:6",
         "points": "19"
       },
       {
@@ -2410,6 +2410,16 @@
       },
       {
         "rank": "9",
+        "club": "ザスパ群馬",
+        "matches": "10",
+        "wins": "3",
+        "draws": "3",
+        "losses": "4",
+        "goals_for_against": "11:14",
+        "points": "12"
+      },
+      {
+        "rank": "10",
         "club": "ヴァンラーレ八戸",
         "matches": "8",
         "wins": "3",
@@ -2419,7 +2429,7 @@
         "points": "11"
       },
       {
-        "rank": "10",
+        "rank": "11",
         "club": "栃木SC",
         "matches": "9",
         "wins": "3",
@@ -2429,7 +2439,7 @@
         "points": "11"
       },
       {
-        "rank": "11",
+        "rank": "12",
         "club": "カマタマーレ讃岐",
         "matches": "9",
         "wins": "2",
@@ -2439,7 +2449,7 @@
         "points": "10"
       },
       {
-        "rank": "12",
+        "rank": "13",
         "club": "長野パルセイロ",
         "matches": "8",
         "wins": "3",
@@ -2449,7 +2459,7 @@
         "points": "10"
       },
       {
-        "rank": "13",
+        "rank": "14",
         "club": "FC琉球OKINAWA",
         "matches": "9",
         "wins": "2",
@@ -2459,7 +2469,7 @@
         "points": "9"
       },
       {
-        "rank": "14",
+        "rank": "15",
         "club": "高知ユナイテッド",
         "matches": "9",
         "wins": "2",
@@ -2469,23 +2479,13 @@
         "points": "9"
       },
       {
-        "rank": "15",
+        "rank": "16",
         "club": "松本山雅",
         "matches": "7",
         "wins": "2",
         "draws": "3",
         "losses": "2",
         "goals_for_against": "7:9",
-        "points": "9"
-      },
-      {
-        "rank": "16",
-        "club": "ザスパ群馬",
-        "matches": "9",
-        "wins": "2",
-        "draws": "3",
-        "losses": "4",
-        "goals_for_against": "10:14",
         "points": "9"
       },
       {

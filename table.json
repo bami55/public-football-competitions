@@ -234,12 +234,12 @@
       {
         "rank": "3",
         "club": "シェフィールドU",
-        "matches": "42",
-        "wins": "26",
+        "matches": "43",
+        "wins": "27",
         "draws": "7",
         "losses": "9",
-        "goals_for_against": "57:33",
-        "points": "83"
+        "goals_for_against": "58:33",
+        "points": "86"
       },
       {
         "rank": "4",
@@ -434,11 +434,11 @@
       {
         "rank": "23",
         "club": "カーディフ",
-        "matches": "42",
+        "matches": "43",
         "wins": "9",
         "draws": "15",
-        "losses": "18",
-        "goals_for_against": "45:66",
+        "losses": "19",
+        "goals_for_against": "45:67",
         "points": "42"
       },
       {
@@ -1455,6 +1455,16 @@
       },
       {
         "rank": "3",
+        "club": "FCポルト",
+        "matches": "30",
+        "wins": "18",
+        "draws": "6",
+        "losses": "6",
+        "goals_for_against": "55:25",
+        "points": "60"
+      },
+      {
+        "rank": "4",
         "club": "SCブラガ",
         "matches": "29",
         "wins": "18",
@@ -1462,16 +1472,6 @@
         "losses": "5",
         "goals_for_against": "49:25",
         "points": "60"
-      },
-      {
-        "rank": "4",
-        "club": "FCポルト",
-        "matches": "29",
-        "wins": "18",
-        "draws": "5",
-        "losses": "6",
-        "goals_for_against": "55:25",
-        "points": "59"
       },
       {
         "rank": "5",
@@ -1496,12 +1496,12 @@
       {
         "rank": "7",
         "club": "ファマリカン",
-        "matches": "29",
+        "matches": "30",
         "wins": "11",
-        "draws": "10",
+        "draws": "11",
         "losses": "8",
         "goals_for_against": "38:31",
-        "points": "43"
+        "points": "44"
       },
       {
         "rank": "8",

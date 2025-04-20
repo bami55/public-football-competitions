@@ -679,11 +679,11 @@
         "rank": "2",
         "club": "レアル・マドリード",
         "matches": "32",
-        "wins": "20",
-        "draws": "7",
+        "wins": "21",
+        "draws": "6",
         "losses": "5",
-        "goals_for_against": "64:31",
-        "points": "67"
+        "goals_for_against": "65:31",
+        "points": "69"
       },
       {
         "rank": "3",
@@ -700,10 +700,10 @@
         "club": "ビルバオ",
         "matches": "32",
         "wins": "15",
-        "draws": "13",
-        "losses": "4",
-        "goals_for_against": "49:25",
-        "points": "58"
+        "draws": "12",
+        "losses": "5",
+        "goals_for_against": "49:26",
+        "points": "57"
       },
       {
         "rank": "5",
@@ -1116,7 +1116,7 @@
         "wins": "15",
         "draws": "6",
         "losses": "9",
-        "goals_for_against": "57:40",
+        "goals_for_against": "58:41",
         "points": "51"
       },
       {
@@ -1226,7 +1226,7 @@
         "wins": "7",
         "draws": "6",
         "losses": "17",
-        "goals_for_against": "32:67",
+        "goals_for_against": "33:68",
         "points": "27"
       },
       {

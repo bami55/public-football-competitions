@@ -1951,7 +1951,7 @@
         "wins": "5",
         "draws": "4",
         "losses": "3",
-        "goals_for_against": "13:10",
+        "goals_for_against": "14:11",
         "points": "19"
       },
       {
@@ -2111,7 +2111,7 @@
         "wins": "1",
         "draws": "5",
         "losses": "6",
-        "goals_for_against": "10:16",
+        "goals_for_against": "11:17",
         "points": "8"
       }
     ]
@@ -2380,16 +2380,6 @@
       },
       {
         "rank": "6",
-        "club": "テゲバジャーロ宮崎",
-        "matches": "10",
-        "wins": "4",
-        "draws": "4",
-        "losses": "2",
-        "goals_for_against": "11:8",
-        "points": "16"
-      },
-      {
-        "rank": "7",
         "club": "奈良クラブ",
         "matches": "10",
         "wins": "4",
@@ -2397,6 +2387,16 @@
         "losses": "2",
         "goals_for_against": "14:12",
         "points": "16"
+      },
+      {
+        "rank": "7",
+        "club": "テゲバジャーロ宮崎",
+        "matches": "10",
+        "wins": "4",
+        "draws": "3",
+        "losses": "3",
+        "goals_for_against": "11:9",
+        "points": "15"
       },
       {
         "rank": "8",
@@ -2420,6 +2420,16 @@
       },
       {
         "rank": "10",
+        "club": "FC琉球OKINAWA",
+        "matches": "10",
+        "wins": "3",
+        "draws": "3",
+        "losses": "4",
+        "goals_for_against": "8:8",
+        "points": "12"
+      },
+      {
+        "rank": "11",
         "club": "高知ユナイテッド",
         "matches": "10",
         "wins": "3",
@@ -2429,7 +2439,7 @@
         "points": "12"
       },
       {
-        "rank": "11",
+        "rank": "12",
         "club": "栃木SC",
         "matches": "10",
         "wins": "3",
@@ -2437,16 +2447,6 @@
         "losses": "5",
         "goals_for_against": "6:8",
         "points": "11"
-      },
-      {
-        "rank": "12",
-        "club": "FC琉球OKINAWA",
-        "matches": "10",
-        "wins": "2",
-        "draws": "4",
-        "losses": "4",
-        "goals_for_against": "7:8",
-        "points": "10"
       },
       {
         "rank": "13",

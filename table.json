@@ -767,6 +767,16 @@
       },
       {
         "rank": "11",
+        "club": "CA オサスナ",
+        "matches": "32",
+        "wins": "9",
+        "draws": "14",
+        "losses": "9",
+        "goals_for_against": "38:44",
+        "points": "41"
+      },
+      {
+        "rank": "12",
         "club": "ヘタフェ",
         "matches": "32",
         "wins": "10",
@@ -776,23 +786,13 @@
         "points": "39"
       },
       {
-        "rank": "12",
+        "rank": "13",
         "club": "エスパニョール",
         "matches": "31",
         "wins": "10",
         "draws": "8",
         "losses": "13",
         "goals_for_against": "34:40",
-        "points": "38"
-      },
-      {
-        "rank": "13",
-        "club": "CA オサスナ",
-        "matches": "31",
-        "wins": "8",
-        "draws": "14",
-        "losses": "9",
-        "goals_for_against": "36:44",
         "points": "38"
       },
       {
@@ -858,11 +858,11 @@
       {
         "rank": "20",
         "club": "レアル・バジャドリード",
-        "matches": "31",
+        "matches": "32",
         "wins": "4",
         "draws": "4",
-        "losses": "23",
-        "goals_for_against": "21:73",
+        "losses": "24",
+        "goals_for_against": "21:75",
         "points": "16"
       }
     ]
@@ -1253,7 +1253,7 @@
         "wins": "23",
         "draws": "4",
         "losses": "3",
-        "goals_for_against": "62:23",
+        "goals_for_against": "62:26",
         "points": "73"
       },
       {
@@ -1283,7 +1283,7 @@
         "wins": "17",
         "draws": "8",
         "losses": "5",
-        "goals_for_against": "54:42",
+        "goals_for_against": "57:42",
         "points": "59"
       },
       {

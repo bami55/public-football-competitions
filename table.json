@@ -463,10 +463,10 @@
         "club": "インテル",
         "matches": "33",
         "wins": "21",
-        "draws": "9",
-        "losses": "3",
-        "goals_for_against": "72:31",
-        "points": "72"
+        "draws": "8",
+        "losses": "4",
+        "goals_for_against": "72:32",
+        "points": "71"
       },
       {
         "rank": "2",
@@ -490,6 +490,16 @@
       },
       {
         "rank": "4",
+        "club": "ボローニャ",
+        "matches": "33",
+        "wins": "16",
+        "draws": "12",
+        "losses": "5",
+        "goals_for_against": "52:37",
+        "points": "60"
+      },
+      {
+        "rank": "5",
         "club": "ユヴェントス",
         "matches": "32",
         "wins": "15",
@@ -497,16 +507,6 @@
         "losses": "3",
         "goals_for_against": "49:30",
         "points": "59"
-      },
-      {
-        "rank": "5",
-        "club": "ボローニャ",
-        "matches": "33",
-        "wins": "15",
-        "draws": "13",
-        "losses": "5",
-        "goals_for_against": "51:37",
-        "points": "58"
       },
       {
         "rank": "6",
@@ -787,16 +787,6 @@
       },
       {
         "rank": "13",
-        "club": "セビージャ FC",
-        "matches": "32",
-        "wins": "10",
-        "draws": "9",
-        "losses": "13",
-        "goals_for_against": "35:42",
-        "points": "39"
-      },
-      {
-        "rank": "14",
         "club": "エスパニョール",
         "matches": "31",
         "wins": "10",
@@ -806,7 +796,7 @@
         "points": "38"
       },
       {
-        "rank": "15",
+        "rank": "14",
         "club": "バレンシア",
         "matches": "32",
         "wins": "9",
@@ -814,6 +804,16 @@
         "losses": "12",
         "goals_for_against": "36:48",
         "points": "38"
+      },
+      {
+        "rank": "15",
+        "club": "セビージャ FC",
+        "matches": "32",
+        "wins": "9",
+        "draws": "10",
+        "losses": "13",
+        "goals_for_against": "35:43",
+        "points": "37"
       },
       {
         "rank": "16",
@@ -840,10 +840,10 @@
         "club": "アラベス",
         "matches": "32",
         "wins": "7",
-        "draws": "9",
-        "losses": "16",
-        "goals_for_against": "33:46",
-        "points": "30"
+        "draws": "10",
+        "losses": "15",
+        "goals_for_against": "34:46",
+        "points": "31"
       },
       {
         "rank": "19",
@@ -885,12 +885,12 @@
       {
         "rank": "2",
         "club": "レバークーゼン",
-        "matches": "29",
-        "wins": "18",
+        "matches": "30",
+        "wins": "19",
         "draws": "9",
         "losses": "2",
-        "goals_for_against": "63:34",
-        "points": "63"
+        "goals_for_against": "64:34",
+        "points": "66"
       },
       {
         "rank": "3",
@@ -1015,11 +1015,11 @@
       {
         "rank": "15",
         "club": "ザンクトパウリ",
-        "matches": "29",
+        "matches": "30",
         "wins": "8",
         "draws": "5",
-        "losses": "16",
-        "goals_for_against": "25:35",
+        "losses": "17",
+        "goals_for_against": "25:36",
         "points": "29"
       },
       {

@@ -1251,10 +1251,10 @@
         "club": "アヤックス",
         "matches": "30",
         "wins": "23",
-        "draws": "5",
-        "losses": "2",
-        "goals_for_against": "62:22",
-        "points": "74"
+        "draws": "4",
+        "losses": "3",
+        "goals_for_against": "62:23",
+        "points": "73"
       },
       {
         "rank": "2",
@@ -1280,11 +1280,11 @@
         "rank": "4",
         "club": "ユトレヒト",
         "matches": "30",
-        "wins": "16",
-        "draws": "9",
+        "wins": "17",
+        "draws": "8",
         "losses": "5",
-        "goals_for_against": "53:42",
-        "points": "57"
+        "goals_for_against": "54:42",
+        "points": "59"
       },
       {
         "rank": "5",

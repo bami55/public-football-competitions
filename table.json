@@ -26,6 +26,16 @@
       },
       {
         "rank": "3",
+        "club": "ノッテ・フォレスト",
+        "matches": "33",
+        "wins": "18",
+        "draws": "6",
+        "losses": "9",
+        "goals_for_against": "52:38",
+        "points": "60"
+      },
+      {
+        "rank": "4",
         "club": "ニューカッスル",
         "matches": "33",
         "wins": "18",
@@ -35,7 +45,7 @@
         "points": "59"
       },
       {
-        "rank": "4",
+        "rank": "5",
         "club": "マンチェスターC",
         "matches": "33",
         "wins": "17",
@@ -45,23 +55,13 @@
         "points": "58"
       },
       {
-        "rank": "5",
+        "rank": "6",
         "club": "チェルシー",
         "matches": "33",
         "wins": "16",
         "draws": "9",
         "losses": "8",
         "goals_for_against": "58:40",
-        "points": "57"
-      },
-      {
-        "rank": "6",
-        "club": "ノッテ・フォレスト",
-        "matches": "32",
-        "wins": "17",
-        "draws": "6",
-        "losses": "9",
-        "goals_for_against": "51:38",
         "points": "57"
       },
       {
@@ -157,11 +157,11 @@
       {
         "rank": "16",
         "club": "トッテナム",
-        "matches": "32",
+        "matches": "33",
         "wins": "11",
         "draws": "4",
-        "losses": "17",
-        "goals_for_against": "60:49",
+        "losses": "18",
+        "goals_for_against": "60:50",
         "points": "37"
       },
       {
@@ -718,12 +718,12 @@
       {
         "rank": "6",
         "club": "レアル・ベティス",
-        "matches": "31",
-        "wins": "13",
+        "matches": "32",
+        "wins": "14",
         "draws": "9",
         "losses": "9",
-        "goals_for_against": "42:39",
-        "points": "48"
+        "goals_for_against": "43:39",
+        "points": "51"
       },
       {
         "rank": "7",
@@ -818,11 +818,11 @@
       {
         "rank": "16",
         "club": "ジローナ",
-        "matches": "31",
+        "matches": "32",
         "wins": "9",
         "draws": "7",
-        "losses": "15",
-        "goals_for_against": "38:48",
+        "losses": "16",
+        "goals_for_against": "38:49",
         "points": "34"
       },
       {

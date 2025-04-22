@@ -26,6 +26,16 @@
       },
       {
         "rank": "3",
+        "club": "マンチェスターC",
+        "matches": "34",
+        "wins": "18",
+        "draws": "7",
+        "losses": "9",
+        "goals_for_against": "66:43",
+        "points": "61"
+      },
+      {
+        "rank": "4",
         "club": "ノッテ・フォレスト",
         "matches": "33",
         "wins": "18",
@@ -33,16 +43,6 @@
         "losses": "9",
         "goals_for_against": "53:39",
         "points": "60"
-      },
-      {
-        "rank": "4",
-        "club": "マンチェスターC",
-        "matches": "34",
-        "wins": "17",
-        "draws": "8",
-        "losses": "9",
-        "goals_for_against": "65:43",
-        "points": "59"
       },
       {
         "rank": "5",
@@ -56,22 +56,22 @@
       },
       {
         "rank": "6",
-        "club": "アストン・ヴィラ",
-        "matches": "34",
-        "wins": "16",
-        "draws": "10",
-        "losses": "8",
-        "goals_for_against": "54:48",
-        "points": "58"
-      },
-      {
-        "rank": "7",
         "club": "チェルシー",
         "matches": "33",
         "wins": "16",
         "draws": "9",
         "losses": "8",
         "goals_for_against": "58:40",
+        "points": "57"
+      },
+      {
+        "rank": "7",
+        "club": "アストン・ヴィラ",
+        "matches": "34",
+        "wins": "16",
+        "draws": "9",
+        "losses": "9",
+        "goals_for_against": "54:49",
         "points": "57"
       },
       {
@@ -669,11 +669,11 @@
         "rank": "1",
         "club": "バルセロナ",
         "matches": "33",
-        "wins": "23",
-        "draws": "5",
+        "wins": "24",
+        "draws": "4",
         "losses": "5",
-        "goals_for_against": "88:32",
-        "points": "74"
+        "goals_for_against": "89:32",
+        "points": "76"
       },
       {
         "rank": "2",
@@ -730,10 +730,10 @@
         "club": "マジョルカ",
         "matches": "33",
         "wins": "12",
-        "draws": "9",
-        "losses": "12",
-        "goals_for_against": "31:37",
-        "points": "45"
+        "draws": "8",
+        "losses": "13",
+        "goals_for_against": "31:38",
+        "points": "44"
       },
       {
         "rank": "8",
@@ -1063,11 +1063,11 @@
         "rank": "1",
         "club": "PSG",
         "matches": "30",
-        "wins": "25",
-        "draws": "5",
+        "wins": "24",
+        "draws": "6",
         "losses": "0",
-        "goals_for_against": "83:27",
-        "points": "80"
+        "goals_for_against": "83:28",
+        "points": "78"
       },
       {
         "rank": "2",
@@ -1194,10 +1194,10 @@
         "club": "ナント",
         "matches": "30",
         "wins": "7",
-        "draws": "9",
-        "losses": "14",
-        "goals_for_against": "34:50",
-        "points": "30"
+        "draws": "10",
+        "losses": "13",
+        "goals_for_against": "35:50",
+        "points": "31"
       },
       {
         "rank": "15",

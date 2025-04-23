@@ -2370,16 +2370,6 @@
       },
       {
         "rank": "5",
-        "club": "福島ユナイテッド",
-        "matches": "10",
-        "wins": "5",
-        "draws": "2",
-        "losses": "3",
-        "goals_for_against": "18:16",
-        "points": "17"
-      },
-      {
-        "rank": "6",
         "club": "ギラヴァンツ北九州",
         "matches": "9",
         "wins": "5",
@@ -2389,7 +2379,7 @@
         "points": "16"
       },
       {
-        "rank": "7",
+        "rank": "6",
         "club": "テゲバジャーロ宮崎",
         "matches": "10",
         "wins": "4",
@@ -2399,7 +2389,7 @@
         "points": "16"
       },
       {
-        "rank": "8",
+        "rank": "7",
         "club": "奈良クラブ",
         "matches": "10",
         "wins": "4",
@@ -2407,6 +2397,16 @@
         "losses": "2",
         "goals_for_against": "14:12",
         "points": "16"
+      },
+      {
+        "rank": "8",
+        "club": "福島ユナイテッド",
+        "matches": "10",
+        "wins": "4",
+        "draws": "3",
+        "losses": "3",
+        "goals_for_against": "18:17",
+        "points": "15"
       },
       {
         "rank": "9",
@@ -2480,6 +2480,16 @@
       },
       {
         "rank": "16",
+        "club": "アスルクラロ沼津",
+        "matches": "10",
+        "wins": "1",
+        "draws": "6",
+        "losses": "3",
+        "goals_for_against": "8:9",
+        "points": "9"
+      },
+      {
+        "rank": "17",
         "club": "松本山雅",
         "matches": "8",
         "wins": "2",
@@ -2489,7 +2499,7 @@
         "points": "9"
       },
       {
-        "rank": "17",
+        "rank": "18",
         "club": "ザスパ群馬",
         "matches": "10",
         "wins": "2",
@@ -2499,7 +2509,7 @@
         "points": "9"
       },
       {
-        "rank": "18",
+        "rank": "19",
         "club": "FC岐阜",
         "matches": "10",
         "wins": "2",
@@ -2507,16 +2517,6 @@
         "losses": "5",
         "goals_for_against": "10:15",
         "points": "9"
-      },
-      {
-        "rank": "19",
-        "club": "アスルクラロ沼津",
-        "matches": "10",
-        "wins": "1",
-        "draws": "5",
-        "losses": "4",
-        "goals_for_against": "7:9",
-        "points": "8"
       },
       {
         "rank": "20",

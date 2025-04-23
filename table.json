@@ -17,12 +17,12 @@
       {
         "rank": "2",
         "club": "アーセナル",
-        "matches": "33",
-        "wins": "18",
+        "matches": "34",
+        "wins": "19",
         "draws": "12",
         "losses": "3",
-        "goals_for_against": "61:27",
-        "points": "66"
+        "goals_for_against": "63:28",
+        "points": "69"
       },
       {
         "rank": "3",
@@ -117,11 +117,11 @@
       {
         "rank": "12",
         "club": "クリスタル・パレス",
-        "matches": "33",
+        "matches": "34",
         "wins": "11",
         "draws": "11",
-        "losses": "11",
-        "goals_for_against": "41:45",
+        "losses": "12",
+        "goals_for_against": "42:47",
         "points": "44"
       },
       {
@@ -678,12 +678,12 @@
       {
         "rank": "2",
         "club": "レアル・マドリード",
-        "matches": "32",
-        "wins": "21",
+        "matches": "33",
+        "wins": "22",
         "draws": "6",
         "losses": "5",
-        "goals_for_against": "65:31",
-        "points": "69"
+        "goals_for_against": "66:31",
+        "points": "72"
       },
       {
         "rank": "3",
@@ -712,7 +712,7 @@
         "wins": "14",
         "draws": "10",
         "losses": "8",
-        "goals_for_against": "55:44",
+        "goals_for_against": "55:45",
         "points": "52"
       },
       {
@@ -732,7 +732,7 @@
         "wins": "13",
         "draws": "7",
         "losses": "13",
-        "goals_for_against": "49:49",
+        "goals_for_against": "50:49",
         "points": "46"
       },
       {
@@ -748,12 +748,12 @@
       {
         "rank": "9",
         "club": "レアル・ソシエダ",
-        "matches": "32",
+        "matches": "33",
         "wins": "12",
-        "draws": "6",
+        "draws": "7",
         "losses": "14",
         "goals_for_against": "32:36",
-        "points": "42"
+        "points": "43"
       },
       {
         "rank": "10",
@@ -778,11 +778,11 @@
       {
         "rank": "12",
         "club": "ヘタフェ",
-        "matches": "32",
+        "matches": "33",
         "wins": "10",
         "draws": "9",
-        "losses": "13",
-        "goals_for_against": "31:29",
+        "losses": "14",
+        "goals_for_against": "31:30",
         "points": "39"
       },
       {
@@ -827,6 +827,16 @@
       },
       {
         "rank": "17",
+        "club": "アラベス",
+        "matches": "33",
+        "wins": "7",
+        "draws": "11",
+        "losses": "15",
+        "goals_for_against": "34:46",
+        "points": "32"
+      },
+      {
+        "rank": "18",
         "club": "UD ラス・パルマス",
         "matches": "33",
         "wins": "8",
@@ -834,16 +844,6 @@
         "losses": "17",
         "goals_for_against": "38:53",
         "points": "32"
-      },
-      {
-        "rank": "18",
-        "club": "アラベス",
-        "matches": "32",
-        "wins": "7",
-        "draws": "10",
-        "losses": "15",
-        "goals_for_against": "34:46",
-        "points": "31"
       },
       {
         "rank": "19",
@@ -1328,22 +1328,22 @@
       },
       {
         "rank": "9",
-        "club": "ヘラクレス",
-        "matches": "30",
-        "wins": "8",
-        "draws": "11",
-        "losses": "11",
-        "goals_for_against": "37:50",
-        "points": "35"
-      },
-      {
-        "rank": "10",
         "club": "フローニンゲン",
         "matches": "30",
         "wins": "9",
         "draws": "8",
         "losses": "13",
-        "goals_for_against": "30:45",
+        "goals_for_against": "32:45",
+        "points": "35"
+      },
+      {
+        "rank": "10",
+        "club": "ヘラクレス",
+        "matches": "30",
+        "wins": "8",
+        "draws": "11",
+        "losses": "11",
+        "goals_for_against": "37:52",
         "points": "35"
       },
       {

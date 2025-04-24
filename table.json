@@ -688,12 +688,12 @@
       {
         "rank": "3",
         "club": "アトレティコ・マドリード",
-        "matches": "32",
-        "wins": "18",
+        "matches": "33",
+        "wins": "19",
         "draws": "9",
         "losses": "5",
-        "goals_for_against": "53:27",
-        "points": "63"
+        "goals_for_against": "55:27",
+        "points": "66"
       },
       {
         "rank": "4",
@@ -718,12 +718,12 @@
       {
         "rank": "6",
         "club": "レアル・ベティス",
-        "matches": "32",
+        "matches": "33",
         "wins": "14",
-        "draws": "9",
+        "draws": "10",
         "losses": "9",
-        "goals_for_against": "45:40",
-        "points": "51"
+        "goals_for_against": "46:41",
+        "points": "52"
       },
       {
         "rank": "7",
@@ -768,11 +768,11 @@
       {
         "rank": "11",
         "club": "バジェカーノ",
-        "matches": "32",
+        "matches": "33",
         "wins": "10",
         "draws": "11",
-        "losses": "11",
-        "goals_for_against": "35:39",
+        "losses": "12",
+        "goals_for_against": "35:41",
         "points": "41"
       },
       {
@@ -858,12 +858,12 @@
       {
         "rank": "20",
         "club": "レアル・バジャドリード",
-        "matches": "32",
+        "matches": "33",
         "wins": "4",
-        "draws": "4",
+        "draws": "5",
         "losses": "24",
-        "goals_for_against": "23:76",
-        "points": "16"
+        "goals_for_against": "24:77",
+        "points": "17"
       }
     ]
   },
@@ -1260,11 +1260,11 @@
         "rank": "2",
         "club": "アイントホーフェン",
         "matches": "30",
-        "wins": "20",
-        "draws": "5",
+        "wins": "21",
+        "draws": "4",
         "losses": "5",
-        "goals_for_against": "87:34",
-        "points": "65"
+        "goals_for_against": "89:34",
+        "points": "67"
       },
       {
         "rank": "3",
@@ -1291,10 +1291,10 @@
         "club": "トゥウェンテ",
         "matches": "30",
         "wins": "13",
-        "draws": "10",
-        "losses": "7",
-        "goals_for_against": "56:42",
-        "points": "49"
+        "draws": "9",
+        "losses": "8",
+        "goals_for_against": "56:44",
+        "points": "48"
       },
       {
         "rank": "6",

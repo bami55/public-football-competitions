@@ -234,12 +234,12 @@
       {
         "rank": "3",
         "club": "シェフィールドU",
-        "matches": "44",
+        "matches": "45",
         "wins": "27",
-        "draws": "7",
+        "draws": "8",
         "losses": "10",
         "goals_for_against": "60:35",
-        "points": "86"
+        "points": "87"
       },
       {
         "rank": "4",
@@ -374,12 +374,12 @@
       {
         "rank": "17",
         "club": "ストーク・シティ",
-        "matches": "44",
+        "matches": "45",
         "wins": "12",
-        "draws": "14",
+        "draws": "15",
         "losses": "18",
         "goals_for_against": "45:60",
-        "points": "50"
+        "points": "51"
       },
       {
         "rank": "18",
@@ -975,12 +975,12 @@
       {
         "rank": "11",
         "club": "シュトゥットガルト",
-        "matches": "30",
+        "matches": "31",
         "wins": "11",
-        "draws": "8",
+        "draws": "9",
         "losses": "11",
         "goals_for_against": "56:50",
-        "points": "41"
+        "points": "42"
       },
       {
         "rank": "12",
@@ -1025,12 +1025,12 @@
       {
         "rank": "16",
         "club": "ハイデンハイム",
-        "matches": "30",
+        "matches": "31",
         "wins": "6",
-        "draws": "4",
+        "draws": "5",
         "losses": "20",
         "goals_for_against": "32:60",
-        "points": "22"
+        "points": "23"
       },
       {
         "rank": "17",
@@ -1062,12 +1062,12 @@
       {
         "rank": "1",
         "club": "PSG",
-        "matches": "30",
+        "matches": "31",
         "wins": "24",
-        "draws": "6",
+        "draws": "7",
         "losses": "0",
         "goals_for_against": "83:28",
-        "points": "78"
+        "points": "79"
       },
       {
         "rank": "2",
@@ -1102,12 +1102,12 @@
       {
         "rank": "5",
         "club": "ニース",
-        "matches": "30",
+        "matches": "31",
         "wins": "14",
-        "draws": "9",
+        "draws": "10",
         "losses": "7",
         "goals_for_against": "56:38",
-        "points": "51"
+        "points": "52"
       },
       {
         "rank": "6",
@@ -1268,23 +1268,23 @@
       },
       {
         "rank": "3",
+        "club": "フェイエノールト",
+        "matches": "30",
+        "wins": "18",
+        "draws": "8",
+        "losses": "4",
+        "goals_for_against": "65:32",
+        "points": "62"
+      },
+      {
+        "rank": "4",
         "club": "ユトレヒト",
         "matches": "31",
         "wins": "18",
         "draws": "8",
         "losses": "5",
-        "goals_for_against": "60:42",
+        "goals_for_against": "61:42",
         "points": "62"
-      },
-      {
-        "rank": "4",
-        "club": "フェイエノールト",
-        "matches": "29",
-        "wins": "17",
-        "draws": "8",
-        "losses": "4",
-        "goals_for_against": "64:32",
-        "points": "59"
       },
       {
         "rank": "5",
@@ -1389,11 +1389,11 @@
       {
         "rank": "15",
         "club": "ズヴォレ",
-        "matches": "29",
+        "matches": "30",
         "wins": "7",
         "draws": "10",
-        "losses": "12",
-        "goals_for_against": "35:44",
+        "losses": "13",
+        "goals_for_against": "35:45",
         "points": "31"
       },
       {
@@ -1413,7 +1413,7 @@
         "wins": "4",
         "draws": "7",
         "losses": "19",
-        "goals_for_against": "35:61",
+        "goals_for_against": "35:62",
         "points": "19"
       },
       {

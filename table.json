@@ -1091,22 +1091,22 @@
       },
       {
         "rank": "4",
+        "club": "リヨン",
+        "matches": "31",
+        "wins": "16",
+        "draws": "6",
+        "losses": "9",
+        "goals_for_against": "62:42",
+        "points": "54"
+      },
+      {
+        "rank": "5",
         "club": "ニース",
         "matches": "31",
         "wins": "15",
         "draws": "9",
         "losses": "7",
         "goals_for_against": "59:39",
-        "points": "54"
-      },
-      {
-        "rank": "5",
-        "club": "リヨン",
-        "matches": "31",
-        "wins": "16",
-        "draws": "6",
-        "losses": "9",
-        "goals_for_against": "61:42",
         "points": "54"
       },
       {
@@ -1156,7 +1156,7 @@
         "wins": "12",
         "draws": "2",
         "losses": "17",
-        "goals_for_against": "46:43",
+        "goals_for_against": "46:44",
         "points": "38"
       },
       {
@@ -1470,7 +1470,7 @@
         "wins": "19",
         "draws": "5",
         "losses": "7",
-        "goals_for_against": "57:27",
+        "goals_for_against": "57:28",
         "points": "62"
       },
       {
@@ -1580,7 +1580,7 @@
         "wins": "7",
         "draws": "8",
         "losses": "16",
-        "goals_for_against": "23:43",
+        "goals_for_against": "24:43",
         "points": "29"
       },
       {

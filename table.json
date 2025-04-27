@@ -2360,16 +2360,26 @@
       },
       {
         "rank": "4",
-        "club": "ツエーゲン金沢",
-        "matches": "9",
+        "club": "ヴァンラーレ八戸",
+        "matches": "10",
         "wins": "5",
         "draws": "2",
-        "losses": "2",
-        "goals_for_against": "13:9",
+        "losses": "3",
+        "goals_for_against": "11:8",
         "points": "17"
       },
       {
         "rank": "5",
+        "club": "ツエーゲン金沢",
+        "matches": "10",
+        "wins": "5",
+        "draws": "2",
+        "losses": "3",
+        "goals_for_against": "13:11",
+        "points": "17"
+      },
+      {
+        "rank": "6",
         "club": "ギラヴァンツ北九州",
         "matches": "10",
         "wins": "5",
@@ -2379,7 +2389,7 @@
         "points": "16"
       },
       {
-        "rank": "6",
+        "rank": "7",
         "club": "テゲバジャーロ宮崎",
         "matches": "10",
         "wins": "4",
@@ -2389,7 +2399,7 @@
         "points": "16"
       },
       {
-        "rank": "7",
+        "rank": "8",
         "club": "奈良クラブ",
         "matches": "10",
         "wins": "4",
@@ -2399,7 +2409,7 @@
         "points": "16"
       },
       {
-        "rank": "8",
+        "rank": "9",
         "club": "福島ユナイテッド",
         "matches": "10",
         "wins": "4",
@@ -2407,16 +2417,6 @@
         "losses": "3",
         "goals_for_against": "18:17",
         "points": "15"
-      },
-      {
-        "rank": "9",
-        "club": "ヴァンラーレ八戸",
-        "matches": "9",
-        "wins": "4",
-        "draws": "2",
-        "losses": "3",
-        "goals_for_against": "9:8",
-        "points": "14"
       },
       {
         "rank": "10",

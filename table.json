@@ -1358,22 +1358,22 @@
       },
       {
         "rank": "12",
+        "club": "シッタート",
+        "matches": "30",
+        "wins": "9",
+        "draws": "7",
+        "losses": "14",
+        "goals_for_against": "33:49",
+        "points": "34"
+      },
+      {
+        "rank": "13",
         "club": "NECナイメヘン",
         "matches": "29",
         "wins": "9",
         "draws": "6",
         "losses": "14",
         "goals_for_against": "42:43",
-        "points": "33"
-      },
-      {
-        "rank": "13",
-        "club": "シッタート",
-        "matches": "29",
-        "wins": "9",
-        "draws": "6",
-        "losses": "14",
-        "goals_for_against": "33:49",
         "points": "33"
       },
       {
@@ -1399,12 +1399,12 @@
       {
         "rank": "16",
         "club": "ヴィレムII",
-        "matches": "29",
+        "matches": "30",
         "wins": "6",
-        "draws": "6",
+        "draws": "7",
         "losses": "17",
         "goals_for_against": "30:49",
-        "points": "24"
+        "points": "25"
       },
       {
         "rank": "17",

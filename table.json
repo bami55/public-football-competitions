@@ -1435,22 +1435,22 @@
     "results": [
       {
         "rank": "1",
+        "club": "スポルティングCP",
+        "matches": "31",
+        "wins": "23",
+        "draws": "6",
+        "losses": "2",
+        "goals_for_against": "82:25",
+        "points": "75"
+      },
+      {
+        "rank": "2",
         "club": "ベンフィカ",
         "matches": "31",
         "wins": "24",
         "draws": "3",
         "losses": "4",
         "goals_for_against": "80:25",
-        "points": "75"
-      },
-      {
-        "rank": "2",
-        "club": "スポルティングCP",
-        "matches": "31",
-        "wins": "23",
-        "draws": "6",
-        "losses": "2",
-        "goals_for_against": "79:25",
         "points": "75"
       },
       {
@@ -1610,7 +1610,7 @@
         "wins": "5",
         "draws": "6",
         "losses": "20",
-        "goals_for_against": "20:48",
+        "goals_for_against": "20:51",
         "points": "21"
       }
     ]

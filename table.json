@@ -1440,7 +1440,7 @@
         "wins": "24",
         "draws": "3",
         "losses": "4",
-        "goals_for_against": "75:25",
+        "goals_for_against": "78:25",
         "points": "75"
       },
       {
@@ -1475,6 +1475,16 @@
       },
       {
         "rank": "5",
+        "club": "ヴィトーリアSC",
+        "matches": "31",
+        "wins": "13",
+        "draws": "12",
+        "losses": "6",
+        "goals_for_against": "44:32",
+        "points": "51"
+      },
+      {
+        "rank": "6",
         "club": "サンタ・クララ",
         "matches": "31",
         "wins": "15",
@@ -1482,16 +1492,6 @@
         "losses": "11",
         "goals_for_against": "31:29",
         "points": "50"
-      },
-      {
-        "rank": "6",
-        "club": "ヴィトーリアSC",
-        "matches": "31",
-        "wins": "12",
-        "draws": "13",
-        "losses": "6",
-        "goals_for_against": "41:32",
-        "points": "49"
       },
       {
         "rank": "7",
@@ -1535,16 +1535,6 @@
       },
       {
         "rank": "11",
-        "club": "リオ・アヴェ",
-        "matches": "31",
-        "wins": "8",
-        "draws": "10",
-        "losses": "13",
-        "goals_for_against": "33:48",
-        "points": "34"
-      },
-      {
-        "rank": "12",
         "club": "ナシオナル",
         "matches": "31",
         "wins": "9",
@@ -1554,13 +1544,23 @@
         "points": "33"
       },
       {
-        "rank": "13",
+        "rank": "12",
         "club": "アロウカ",
         "matches": "31",
         "wins": "8",
         "draws": "9",
         "losses": "14",
         "goals_for_against": "30:47",
+        "points": "33"
+      },
+      {
+        "rank": "13",
+        "club": "リオ・アヴェ",
+        "matches": "31",
+        "wins": "8",
+        "draws": "9",
+        "losses": "14",
+        "goals_for_against": "33:51",
         "points": "33"
       },
       {
@@ -1590,7 +1590,7 @@
         "wins": "4",
         "draws": "12",
         "losses": "15",
-        "goals_for_against": "23:50",
+        "goals_for_against": "23:53",
         "points": "24"
       },
       {

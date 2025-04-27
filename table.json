@@ -465,7 +465,7 @@
         "wins": "22",
         "draws": "8",
         "losses": "4",
-        "goals_for_against": "53:25",
+        "goals_for_against": "54:25",
         "points": "74"
       },
       {
@@ -485,7 +485,7 @@
         "wins": "19",
         "draws": "8",
         "losses": "7",
-        "goals_for_against": "66:30",
+        "goals_for_against": "67:31",
         "points": "65"
       },
       {
@@ -555,7 +555,7 @@
         "wins": "10",
         "draws": "13",
         "losses": "11",
-        "goals_for_against": "38:38",
+        "goals_for_against": "38:39",
         "points": "43"
       },
       {
@@ -625,7 +625,7 @@
         "wins": "6",
         "draws": "9",
         "losses": "19",
-        "goals_for_against": "23:55",
+        "goals_for_against": "24:56",
         "points": "27"
       },
       {
@@ -1073,11 +1073,11 @@
         "rank": "2",
         "club": "マルセイユ",
         "matches": "31",
-        "wins": "17",
-        "draws": "5",
+        "wins": "18",
+        "draws": "4",
         "losses": "9",
-        "goals_for_against": "63:43",
-        "points": "56"
+        "goals_for_against": "66:43",
+        "points": "58"
       },
       {
         "rank": "3",
@@ -1131,16 +1131,6 @@
       },
       {
         "rank": "8",
-        "club": "ブレスト",
-        "matches": "31",
-        "wins": "13",
-        "draws": "6",
-        "losses": "12",
-        "goals_for_against": "49:50",
-        "points": "45"
-      },
-      {
-        "rank": "9",
         "club": "ランス",
         "matches": "31",
         "wins": "13",
@@ -1148,6 +1138,16 @@
         "losses": "12",
         "goals_for_against": "35:37",
         "points": "45"
+      },
+      {
+        "rank": "9",
+        "club": "ブレスト",
+        "matches": "31",
+        "wins": "13",
+        "draws": "5",
+        "losses": "13",
+        "goals_for_against": "49:53",
+        "points": "44"
       },
       {
         "rank": "10",
@@ -1446,12 +1446,12 @@
       {
         "rank": "2",
         "club": "スポルティングCP",
-        "matches": "30",
-        "wins": "22",
+        "matches": "31",
+        "wins": "23",
         "draws": "6",
         "losses": "2",
-        "goals_for_against": "78:25",
-        "points": "72"
+        "goals_for_against": "79:25",
+        "points": "75"
       },
       {
         "rank": "3",
@@ -1606,11 +1606,11 @@
       {
         "rank": "18",
         "club": "ボアヴィスタ",
-        "matches": "30",
+        "matches": "31",
         "wins": "5",
         "draws": "6",
-        "losses": "19",
-        "goals_for_against": "20:47",
+        "losses": "20",
+        "goals_for_against": "20:48",
         "points": "21"
       }
     ]

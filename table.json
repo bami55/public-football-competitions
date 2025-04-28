@@ -213,6 +213,16 @@
     "results": [
       {
         "rank": "1",
+        "club": "リーズ",
+        "matches": "45",
+        "wins": "28",
+        "draws": "13",
+        "losses": "4",
+        "goals_for_against": "91:29",
+        "points": "97"
+      },
+      {
+        "rank": "2",
         "club": "バーンリー",
         "matches": "45",
         "wins": "27",
@@ -220,16 +230,6 @@
         "losses": "2",
         "goals_for_against": "66:15",
         "points": "97"
-      },
-      {
-        "rank": "2",
-        "club": "リーズ",
-        "matches": "45",
-        "wins": "27",
-        "draws": "14",
-        "losses": "4",
-        "goals_for_against": "89:29",
-        "points": "95"
       },
       {
         "rank": "3",
@@ -256,10 +256,10 @@
         "club": "ブリストル・シティ",
         "matches": "45",
         "wins": "17",
-        "draws": "17",
-        "losses": "11",
-        "goals_for_against": "57:49",
-        "points": "68"
+        "draws": "16",
+        "losses": "12",
+        "goals_for_against": "57:51",
+        "points": "67"
       },
       {
         "rank": "6",
@@ -535,7 +535,7 @@
         "wins": "17",
         "draws": "8",
         "losses": "9",
-        "goals_for_against": "55:44",
+        "goals_for_against": "55:45",
         "points": "59"
       },
       {
@@ -595,28 +595,28 @@
         "wins": "7",
         "draws": "13",
         "losses": "14",
-        "goals_for_against": "39:51",
+        "goals_for_against": "40:51",
         "points": "34"
       },
       {
         "rank": "15",
-        "club": "エラス・ヴェローナ",
+        "club": "カリアリ・カルチョ",
         "matches": "34",
-        "wins": "9",
-        "draws": "6",
-        "losses": "19",
-        "goals_for_against": "30:60",
+        "wins": "8",
+        "draws": "9",
+        "losses": "17",
+        "goals_for_against": "34:49",
         "points": "33"
       },
       {
         "rank": "16",
-        "club": "カリアリ・カルチョ",
+        "club": "エラス・ヴェローナ",
         "matches": "34",
-        "wins": "7",
-        "draws": "10",
-        "losses": "17",
-        "goals_for_against": "33:49",
-        "points": "31"
+        "wins": "9",
+        "draws": "5",
+        "losses": "20",
+        "goals_for_against": "30:61",
+        "points": "32"
       },
       {
         "rank": "17",

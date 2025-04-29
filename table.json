@@ -1505,23 +1505,23 @@
       },
       {
         "rank": "8",
-        "club": "カーザ・ピア",
+        "club": "エストリル・プライア",
         "matches": "31",
         "wins": "11",
         "draws": "9",
         "losses": "11",
-        "goals_for_against": "36:39",
+        "goals_for_against": "41:49",
         "points": "42"
       },
       {
         "rank": "9",
-        "club": "エストリル・プライア",
+        "club": "カーザ・ピア",
         "matches": "31",
-        "wins": "10",
-        "draws": "10",
-        "losses": "11",
-        "goals_for_against": "39:49",
-        "points": "40"
+        "wins": "11",
+        "draws": "8",
+        "losses": "12",
+        "goals_for_against": "36:41",
+        "points": "41"
       },
       {
         "rank": "10",

@@ -28,11 +28,11 @@
         "rank": "3",
         "club": "マンチェスターC",
         "matches": "35",
-        "wins": "18",
-        "draws": "8",
+        "wins": "19",
+        "draws": "7",
         "losses": "9",
-        "goals_for_against": "66:43",
-        "points": "62"
+        "goals_for_against": "67:43",
+        "points": "64"
       },
       {
         "rank": "4",
@@ -129,10 +129,10 @@
         "club": "ウルバーハンプトン",
         "matches": "35",
         "wins": "12",
-        "draws": "6",
-        "losses": "17",
-        "goals_for_against": "51:61",
-        "points": "42"
+        "draws": "5",
+        "losses": "18",
+        "goals_for_against": "51:62",
+        "points": "41"
       },
       {
         "rank": "14",
@@ -553,10 +553,10 @@
         "club": "トリノ",
         "matches": "35",
         "wins": "10",
-        "draws": "14",
-        "losses": "11",
-        "goals_for_against": "38:39",
-        "points": "44"
+        "draws": "13",
+        "losses": "12",
+        "goals_for_against": "38:40",
+        "points": "43"
       },
       {
         "rank": "11",
@@ -620,6 +620,16 @@
       },
       {
         "rank": "17",
+        "club": "ヴェネツィア",
+        "matches": "35",
+        "wins": "5",
+        "draws": "13",
+        "losses": "17",
+        "goals_for_against": "28:48",
+        "points": "28"
+      },
+      {
+        "rank": "18",
         "club": "レッチェ",
         "matches": "34",
         "wins": "6",
@@ -627,16 +637,6 @@
         "losses": "19",
         "goals_for_against": "24:56",
         "points": "27"
-      },
-      {
-        "rank": "18",
-        "club": "ヴェネツィア",
-        "matches": "35",
-        "wins": "4",
-        "draws": "14",
-        "losses": "17",
-        "goals_for_against": "27:48",
-        "points": "26"
       },
       {
         "rank": "19",
@@ -1470,7 +1470,7 @@
         "wins": "19",
         "draws": "6",
         "losses": "7",
-        "goals_for_against": "57:28",
+        "goals_for_against": "58:29",
         "points": "63"
       },
       {
@@ -1530,7 +1530,7 @@
         "wins": "9",
         "draws": "10",
         "losses": "13",
-        "goals_for_against": "36:45",
+        "goals_for_against": "37:46",
         "points": "37"
       },
       {

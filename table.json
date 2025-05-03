@@ -1956,22 +1956,22 @@
       },
       {
         "rank": "5",
+        "club": "ヴィッセル神戸",
+        "matches": "12",
+        "wins": "6",
+        "draws": "3",
+        "losses": "3",
+        "goals_for_against": "12:8",
+        "points": "21"
+      },
+      {
+        "rank": "6",
         "club": "清水エスパルス",
         "matches": "14",
         "wins": "6",
         "draws": "3",
         "losses": "5",
         "goals_for_against": "19:16",
-        "points": "21"
-      },
-      {
-        "rank": "6",
-        "club": "ヴィッセル神戸",
-        "matches": "12",
-        "wins": "6",
-        "draws": "3",
-        "losses": "3",
-        "goals_for_against": "11:8",
         "points": "21"
       },
       {
@@ -2031,7 +2031,7 @@
         "wins": "5",
         "draws": "3",
         "losses": "6",
-        "goals_for_against": "11:10",
+        "goals_for_against": "11:11",
         "points": "18"
       },
       {
@@ -2193,16 +2193,6 @@
       },
       {
         "rank": "8",
-        "club": "V・ファーレン長崎",
-        "matches": "13",
-        "wins": "5",
-        "draws": "4",
-        "losses": "4",
-        "goals_for_against": "23:22",
-        "points": "19"
-      },
-      {
-        "rank": "9",
         "club": "サガン鳥栖",
         "matches": "13",
         "wins": "5",
@@ -2212,7 +2202,7 @@
         "points": "18"
       },
       {
-        "rank": "10",
+        "rank": "9",
         "club": "ジュビロ磐田",
         "matches": "13",
         "wins": "5",
@@ -2220,6 +2210,16 @@
         "losses": "5",
         "goals_for_against": "16:19",
         "points": "18"
+      },
+      {
+        "rank": "10",
+        "club": "V・ファーレン長崎",
+        "matches": "13",
+        "wins": "4",
+        "draws": "5",
+        "losses": "4",
+        "goals_for_against": "23:23",
+        "points": "17"
       },
       {
         "rank": "11",
@@ -2316,10 +2316,10 @@
         "club": "愛媛FC",
         "matches": "13",
         "wins": "1",
-        "draws": "4",
-        "losses": "8",
-        "goals_for_against": "13:24",
-        "points": "7"
+        "draws": "5",
+        "losses": "7",
+        "goals_for_against": "14:24",
+        "points": "8"
       }
     ]
   },

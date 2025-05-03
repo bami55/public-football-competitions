@@ -1926,6 +1926,16 @@
       },
       {
         "rank": "2",
+        "club": "京都サンガ",
+        "matches": "15",
+        "wins": "8",
+        "draws": "3",
+        "losses": "4",
+        "goals_for_against": "21:16",
+        "points": "27"
+      },
+      {
+        "rank": "3",
         "club": "浦和レッズ",
         "matches": "14",
         "wins": "7",
@@ -1935,23 +1945,13 @@
         "points": "25"
       },
       {
-        "rank": "3",
+        "rank": "4",
         "club": "柏レイソル",
         "matches": "13",
         "wins": "6",
         "draws": "6",
         "losses": "1",
         "goals_for_against": "15:10",
-        "points": "24"
-      },
-      {
-        "rank": "4",
-        "club": "京都サンガ",
-        "matches": "14",
-        "wins": "7",
-        "draws": "3",
-        "losses": "4",
-        "goals_for_against": "19:16",
         "points": "24"
       },
       {
@@ -2077,11 +2077,11 @@
       {
         "rank": "17",
         "club": "セレッソ大阪",
-        "matches": "13",
+        "matches": "14",
         "wins": "3",
         "draws": "4",
-        "losses": "6",
-        "goals_for_against": "17:19",
+        "losses": "7",
+        "goals_for_against": "17:21",
         "points": "13"
       },
       {

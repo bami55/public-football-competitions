@@ -669,11 +669,11 @@
         "rank": "1",
         "club": "バルセロナ",
         "matches": "34",
-        "wins": "24",
+        "wins": "25",
         "draws": "4",
-        "losses": "6",
-        "goals_for_against": "89:33",
-        "points": "76"
+        "losses": "5",
+        "goals_for_against": "91:33",
+        "points": "79"
       },
       {
         "rank": "2",
@@ -859,11 +859,11 @@
         "rank": "20",
         "club": "レアル・バジャドリード",
         "matches": "34",
-        "wins": "5",
+        "wins": "4",
         "draws": "4",
-        "losses": "25",
-        "goals_for_against": "25:81",
-        "points": "19"
+        "losses": "26",
+        "goals_for_against": "25:83",
+        "points": "16"
       }
     ]
   },
@@ -1260,11 +1260,11 @@
         "rank": "2",
         "club": "アイントホーフェン",
         "matches": "31",
-        "wins": "21",
-        "draws": "5",
+        "wins": "22",
+        "draws": "4",
         "losses": "5",
-        "goals_for_against": "89:34",
-        "points": "68"
+        "goals_for_against": "92:34",
+        "points": "70"
       },
       {
         "rank": "3",
@@ -1333,7 +1333,7 @@
         "wins": "10",
         "draws": "8",
         "losses": "13",
-        "goals_for_against": "36:45",
+        "goals_for_against": "38:46",
         "points": "38"
       },
       {
@@ -1341,10 +1341,10 @@
         "club": "シッタート",
         "matches": "31",
         "wins": "10",
-        "draws": "7",
-        "losses": "14",
-        "goals_for_against": "34:49",
-        "points": "37"
+        "draws": "6",
+        "losses": "15",
+        "goals_for_against": "34:52",
+        "points": "36"
       },
       {
         "rank": "11",
@@ -1423,7 +1423,7 @@
         "wins": "4",
         "draws": "7",
         "losses": "20",
-        "goals_for_against": "35:66",
+        "goals_for_against": "36:68",
         "points": "19"
       }
     ]
@@ -1435,22 +1435,22 @@
     "results": [
       {
         "rank": "1",
+        "club": "ベンフィカ",
+        "matches": "32",
+        "wins": "25",
+        "draws": "3",
+        "losses": "4",
+        "goals_for_against": "82:25",
+        "points": "78"
+      },
+      {
+        "rank": "2",
         "club": "スポルティングCP",
         "matches": "31",
         "wins": "23",
         "draws": "6",
         "losses": "2",
         "goals_for_against": "83:25",
-        "points": "75"
-      },
-      {
-        "rank": "2",
-        "club": "ベンフィカ",
-        "matches": "31",
-        "wins": "24",
-        "draws": "3",
-        "losses": "4",
-        "goals_for_against": "80:25",
         "points": "75"
       },
       {
@@ -1506,11 +1506,11 @@
       {
         "rank": "8",
         "club": "エストリル・プライア",
-        "matches": "31",
+        "matches": "32",
         "wins": "11",
         "draws": "9",
-        "losses": "11",
-        "goals_for_against": "41:49",
+        "losses": "12",
+        "goals_for_against": "41:51",
         "points": "42"
       },
       {

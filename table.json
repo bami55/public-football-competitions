@@ -39,10 +39,10 @@
         "club": "ニューカッスル",
         "matches": "35",
         "wins": "19",
-        "draws": "5",
-        "losses": "11",
-        "goals_for_against": "65:45",
-        "points": "62"
+        "draws": "6",
+        "losses": "10",
+        "goals_for_against": "66:45",
+        "points": "63"
       },
       {
         "rank": "5",
@@ -76,16 +76,6 @@
       },
       {
         "rank": "8",
-        "club": "ブライトン",
-        "matches": "35",
-        "wins": "14",
-        "draws": "12",
-        "losses": "9",
-        "goals_for_against": "57:55",
-        "points": "54"
-      },
-      {
-        "rank": "9",
         "club": "ボーンマス",
         "matches": "35",
         "wins": "14",
@@ -95,13 +85,23 @@
         "points": "53"
       },
       {
-        "rank": "10",
+        "rank": "9",
         "club": "ブレントフォード",
         "matches": "35",
         "wins": "15",
         "draws": "7",
         "losses": "13",
-        "goals_for_against": "60:51",
+        "goals_for_against": "62:53",
+        "points": "52"
+      },
+      {
+        "rank": "10",
+        "club": "ブライトン",
+        "matches": "35",
+        "wins": "13",
+        "draws": "13",
+        "losses": "9",
+        "goals_for_against": "57:56",
         "points": "52"
       },
       {
@@ -151,7 +151,7 @@
         "wins": "10",
         "draws": "9",
         "losses": "16",
-        "goals_for_against": "40:49",
+        "goals_for_against": "42:51",
         "points": "39"
       },
       {
@@ -485,7 +485,7 @@
         "wins": "20",
         "draws": "8",
         "losses": "7",
-        "goals_for_against": "70:31",
+        "goals_for_against": "71:31",
         "points": "68"
       },
       {
@@ -655,7 +655,7 @@
         "wins": "2",
         "draws": "9",
         "losses": "24",
-        "goals_for_against": "25:62",
+        "goals_for_against": "25:63",
         "points": "15"
       }
     ]
@@ -808,12 +808,12 @@
       {
         "rank": "15",
         "club": "セビージャ FC",
-        "matches": "33",
+        "matches": "34",
         "wins": "9",
-        "draws": "10",
+        "draws": "11",
         "losses": "14",
-        "goals_for_against": "35:44",
-        "points": "37"
+        "goals_for_against": "36:45",
+        "points": "38"
       },
       {
         "rank": "16",
@@ -848,12 +848,12 @@
       {
         "rank": "19",
         "club": "レガネス",
-        "matches": "33",
+        "matches": "34",
         "wins": "6",
-        "draws": "12",
+        "draws": "13",
         "losses": "15",
-        "goals_for_against": "30:49",
-        "points": "30"
+        "goals_for_against": "31:50",
+        "points": "31"
       },
       {
         "rank": "20",
@@ -979,7 +979,7 @@
         "wins": "11",
         "draws": "10",
         "losses": "11",
-        "goals_for_against": "33:44",
+        "goals_for_against": "34:45",
         "points": "43"
       },
       {
@@ -1039,7 +1039,7 @@
         "wins": "6",
         "draws": "7",
         "losses": "19",
-        "goals_for_against": "47:74",
+        "goals_for_against": "48:75",
         "points": "25"
       },
       {
@@ -1122,42 +1122,42 @@
       {
         "rank": "7",
         "club": "リヨン",
-        "matches": "31",
+        "matches": "32",
         "wins": "16",
-        "draws": "6",
+        "draws": "7",
         "losses": "9",
         "goals_for_against": "62:42",
-        "points": "54"
+        "points": "55"
       },
       {
         "rank": "8",
         "club": "ランス",
-        "matches": "31",
+        "matches": "32",
         "wins": "13",
-        "draws": "6",
+        "draws": "7",
         "losses": "12",
         "goals_for_against": "35:37",
-        "points": "45"
+        "points": "46"
       },
       {
         "rank": "9",
         "club": "ブレスト",
-        "matches": "31",
+        "matches": "32",
         "wins": "13",
-        "draws": "5",
+        "draws": "6",
         "losses": "13",
         "goals_for_against": "49:53",
-        "points": "44"
+        "points": "45"
       },
       {
         "rank": "10",
         "club": "オセール",
-        "matches": "31",
+        "matches": "32",
         "wins": "11",
-        "draws": "8",
+        "draws": "9",
         "losses": "12",
         "goals_for_against": "45:45",
-        "points": "41"
+        "points": "42"
       },
       {
         "rank": "11",
@@ -1212,12 +1212,12 @@
       {
         "rank": "16",
         "club": "ル・アーヴル",
-        "matches": "31",
+        "matches": "32",
         "wins": "8",
-        "draws": "4",
+        "draws": "5",
         "losses": "19",
         "goals_for_against": "34:65",
-        "points": "28"
+        "points": "29"
       },
       {
         "rank": "17",
@@ -1232,12 +1232,12 @@
       {
         "rank": "18",
         "club": "モンペリエ",
-        "matches": "31",
+        "matches": "32",
         "wins": "4",
-        "draws": "4",
+        "draws": "5",
         "losses": "23",
         "goals_for_against": "22:71",
-        "points": "16"
+        "points": "17"
       }
     ]
   },

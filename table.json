@@ -1435,6 +1435,16 @@
     "results": [
       {
         "rank": "1",
+        "club": "スポルティングCP",
+        "matches": "32",
+        "wins": "24",
+        "draws": "6",
+        "losses": "2",
+        "goals_for_against": "85:26",
+        "points": "78"
+      },
+      {
+        "rank": "2",
         "club": "ベンフィカ",
         "matches": "32",
         "wins": "25",
@@ -1442,16 +1452,6 @@
         "losses": "4",
         "goals_for_against": "82:26",
         "points": "78"
-      },
-      {
-        "rank": "2",
-        "club": "スポルティングCP",
-        "matches": "32",
-        "wins": "23",
-        "draws": "6",
-        "losses": "3",
-        "goals_for_against": "83:26",
-        "points": "75"
       },
       {
         "rank": "3",
@@ -1535,16 +1535,6 @@
       },
       {
         "rank": "11",
-        "club": "ジル・ヴィセンテ",
-        "matches": "32",
-        "wins": "9",
-        "draws": "8",
-        "losses": "15",
-        "goals_for_against": "32:43",
-        "points": "35"
-      },
-      {
-        "rank": "12",
         "club": "アロウカ",
         "matches": "32",
         "wins": "8",
@@ -1554,7 +1544,7 @@
         "points": "34"
       },
       {
-        "rank": "13",
+        "rank": "12",
         "club": "ナシオナル",
         "matches": "32",
         "wins": "9",
@@ -1564,7 +1554,7 @@
         "points": "33"
       },
       {
-        "rank": "14",
+        "rank": "13",
         "club": "リオ・アヴェ",
         "matches": "31",
         "wins": "8",
@@ -1572,6 +1562,16 @@
         "losses": "14",
         "goals_for_against": "33:51",
         "points": "33"
+      },
+      {
+        "rank": "14",
+        "club": "ジル・ヴィセンテ",
+        "matches": "32",
+        "wins": "8",
+        "draws": "8",
+        "losses": "16",
+        "goals_for_against": "32:45",
+        "points": "32"
       },
       {
         "rank": "15",

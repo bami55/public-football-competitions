@@ -39,10 +39,10 @@
         "club": "ニューカッスル",
         "matches": "35",
         "wins": "19",
-        "draws": "6",
-        "losses": "10",
-        "goals_for_against": "65:44",
-        "points": "63"
+        "draws": "5",
+        "losses": "11",
+        "goals_for_against": "65:45",
+        "points": "62"
       },
       {
         "rank": "5",
@@ -76,6 +76,16 @@
       },
       {
         "rank": "8",
+        "club": "ブライトン",
+        "matches": "35",
+        "wins": "14",
+        "draws": "12",
+        "losses": "9",
+        "goals_for_against": "57:55",
+        "points": "54"
+      },
+      {
+        "rank": "9",
         "club": "ボーンマス",
         "matches": "35",
         "wins": "14",
@@ -85,17 +95,17 @@
         "points": "53"
       },
       {
-        "rank": "9",
-        "club": "ブライトン",
+        "rank": "10",
+        "club": "ブレントフォード",
         "matches": "35",
-        "wins": "13",
-        "draws": "13",
-        "losses": "9",
-        "goals_for_against": "56:55",
+        "wins": "15",
+        "draws": "7",
+        "losses": "13",
+        "goals_for_against": "60:51",
         "points": "52"
       },
       {
-        "rank": "10",
+        "rank": "11",
         "club": "フラム",
         "matches": "35",
         "wins": "14",
@@ -103,16 +113,6 @@
         "losses": "12",
         "goals_for_against": "50:47",
         "points": "51"
-      },
-      {
-        "rank": "11",
-        "club": "ブレントフォード",
-        "matches": "35",
-        "wins": "14",
-        "draws": "7",
-        "losses": "14",
-        "goals_for_against": "58:51",
-        "points": "49"
       },
       {
         "rank": "12",
@@ -126,16 +126,6 @@
       },
       {
         "rank": "13",
-        "club": "マンチェスターU",
-        "matches": "35",
-        "wins": "11",
-        "draws": "9",
-        "losses": "15",
-        "goals_for_against": "40:47",
-        "points": "42"
-      },
-      {
-        "rank": "14",
         "club": "ウルバーハンプトン",
         "matches": "35",
         "wins": "12",
@@ -145,17 +135,7 @@
         "points": "41"
       },
       {
-        "rank": "15",
-        "club": "トッテナム",
-        "matches": "35",
-        "wins": "12",
-        "draws": "4",
-        "losses": "19",
-        "goals_for_against": "63:56",
-        "points": "40"
-      },
-      {
-        "rank": "16",
+        "rank": "14",
         "club": "エヴァートン",
         "matches": "35",
         "wins": "8",
@@ -165,14 +145,34 @@
         "points": "39"
       },
       {
+        "rank": "15",
+        "club": "マンチェスターU",
+        "matches": "35",
+        "wins": "10",
+        "draws": "9",
+        "losses": "16",
+        "goals_for_against": "40:49",
+        "points": "39"
+      },
+      {
+        "rank": "16",
+        "club": "トッテナム",
+        "matches": "35",
+        "wins": "11",
+        "draws": "5",
+        "losses": "19",
+        "goals_for_against": "63:57",
+        "points": "38"
+      },
+      {
         "rank": "17",
         "club": "ウェストハム",
         "matches": "35",
         "wins": "9",
-        "draws": "9",
-        "losses": "17",
-        "goals_for_against": "39:59",
-        "points": "36"
+        "draws": "10",
+        "losses": "16",
+        "goals_for_against": "40:59",
+        "points": "37"
       },
       {
         "rank": "18",
@@ -485,7 +485,7 @@
         "wins": "20",
         "draws": "8",
         "losses": "7",
-        "goals_for_against": "69:31",
+        "goals_for_against": "70:31",
         "points": "68"
       },
       {
@@ -655,7 +655,7 @@
         "wins": "2",
         "draws": "9",
         "losses": "24",
-        "goals_for_against": "25:61",
+        "goals_for_against": "25:62",
         "points": "15"
       }
     ]
@@ -682,7 +682,7 @@
         "wins": "23",
         "draws": "6",
         "losses": "5",
-        "goals_for_against": "69:31",
+        "goals_for_against": "69:33",
         "points": "75"
       },
       {
@@ -732,7 +732,7 @@
         "wins": "13",
         "draws": "7",
         "losses": "14",
-        "goals_for_against": "50:52",
+        "goals_for_against": "52:52",
         "points": "46"
       },
       {
@@ -975,11 +975,11 @@
       {
         "rank": "11",
         "club": "アウクスブルク",
-        "matches": "31",
+        "matches": "32",
         "wins": "11",
         "draws": "10",
-        "losses": "10",
-        "goals_for_against": "33:42",
+        "losses": "11",
+        "goals_for_against": "33:44",
         "points": "43"
       },
       {
@@ -1035,12 +1035,12 @@
       {
         "rank": "17",
         "club": "キール",
-        "matches": "31",
-        "wins": "5",
+        "matches": "32",
+        "wins": "6",
         "draws": "7",
         "losses": "19",
-        "goals_for_against": "45:74",
-        "points": "22"
+        "goals_for_against": "47:74",
+        "points": "25"
       },
       {
         "rank": "18",
@@ -1191,23 +1191,23 @@
       },
       {
         "rank": "14",
-        "club": "ナント",
+        "club": "アンジェ",
         "matches": "32",
-        "wins": "7",
-        "draws": "12",
-        "losses": "13",
-        "goals_for_against": "35:50",
+        "wins": "9",
+        "draws": "6",
+        "losses": "17",
+        "goals_for_against": "30:50",
         "points": "33"
       },
       {
         "rank": "15",
-        "club": "アンジェ",
+        "club": "ナント",
         "matches": "32",
-        "wins": "8",
-        "draws": "7",
-        "losses": "17",
-        "goals_for_against": "29:50",
-        "points": "31"
+        "wins": "7",
+        "draws": "11",
+        "losses": "14",
+        "goals_for_against": "35:51",
+        "points": "32"
       },
       {
         "rank": "16",
@@ -1303,7 +1303,7 @@
         "wins": "14",
         "draws": "8",
         "losses": "9",
-        "goals_for_against": "50:34",
+        "goals_for_against": "51:34",
         "points": "50"
       },
       {
@@ -1313,7 +1313,7 @@
         "wins": "13",
         "draws": "8",
         "losses": "10",
-        "goals_for_against": "52:48",
+        "goals_for_against": "52:49",
         "points": "47"
       },
       {

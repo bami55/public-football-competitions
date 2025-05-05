@@ -490,22 +490,22 @@
       },
       {
         "rank": "4",
-        "club": "ASローマ",
-        "matches": "35",
-        "wins": "18",
-        "draws": "9",
-        "losses": "8",
-        "goals_for_against": "50:32",
-        "points": "63"
-      },
-      {
-        "rank": "5",
         "club": "ユヴェントス",
         "matches": "35",
         "wins": "16",
         "draws": "15",
         "losses": "4",
         "goals_for_against": "52:32",
+        "points": "63"
+      },
+      {
+        "rank": "5",
+        "club": "ASローマ",
+        "matches": "35",
+        "wins": "18",
+        "draws": "9",
+        "losses": "8",
+        "goals_for_against": "50:32",
         "points": "63"
       },
       {

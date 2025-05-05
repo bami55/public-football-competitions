@@ -747,22 +747,22 @@
       },
       {
         "rank": "9",
-        "club": "CA オサスナ",
-        "matches": "34",
-        "wins": "10",
-        "draws": "14",
-        "losses": "10",
-        "goals_for_against": "42:50",
-        "points": "44"
-      },
-      {
-        "rank": "10",
         "club": "マジョルカ",
         "matches": "34",
         "wins": "12",
         "draws": "8",
         "losses": "14",
         "goals_for_against": "31:39",
+        "points": "44"
+      },
+      {
+        "rank": "10",
+        "club": "CA オサスナ",
+        "matches": "34",
+        "wins": "10",
+        "draws": "14",
+        "losses": "10",
+        "goals_for_against": "42:50",
         "points": "44"
       },
       {
@@ -807,22 +807,22 @@
       },
       {
         "rank": "15",
-        "club": "セビージャ FC",
-        "matches": "34",
-        "wins": "9",
-        "draws": "11",
-        "losses": "14",
-        "goals_for_against": "37:46",
-        "points": "38"
-      },
-      {
-        "rank": "16",
         "club": "ジローナ",
         "matches": "34",
         "wins": "10",
         "draws": "8",
         "losses": "16",
         "goals_for_against": "41:52",
+        "points": "38"
+      },
+      {
+        "rank": "16",
+        "club": "セビージャ FC",
+        "matches": "34",
+        "wins": "9",
+        "draws": "11",
+        "losses": "14",
+        "goals_for_against": "37:46",
         "points": "38"
       },
       {

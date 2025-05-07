@@ -1936,6 +1936,16 @@
       },
       {
         "rank": "3",
+        "club": "京都サンガ",
+        "matches": "16",
+        "wins": "8",
+        "draws": "3",
+        "losses": "5",
+        "goals_for_against": "23:20",
+        "points": "27"
+      },
+      {
+        "rank": "4",
         "club": "浦和レッズ",
         "matches": "15",
         "wins": "7",
@@ -1943,16 +1953,6 @@
         "losses": "4",
         "goals_for_against": "17:12",
         "points": "25"
-      },
-      {
-        "rank": "4",
-        "club": "京都サンガ",
-        "matches": "16",
-        "wins": "7",
-        "draws": "3",
-        "losses": "6",
-        "goals_for_against": "21:20",
-        "points": "24"
       },
       {
         "rank": "5",
@@ -1966,16 +1966,6 @@
       },
       {
         "rank": "6",
-        "club": "町田ゼルビア",
-        "matches": "15",
-        "wins": "7",
-        "draws": "2",
-        "losses": "6",
-        "goals_for_against": "15:14",
-        "points": "23"
-      },
-      {
-        "rank": "7",
         "club": "ガンバ大阪",
         "matches": "15",
         "wins": "7",
@@ -1985,7 +1975,7 @@
         "points": "23"
       },
       {
-        "rank": "8",
+        "rank": "7",
         "club": "清水エスパルス",
         "matches": "15",
         "wins": "6",
@@ -1995,7 +1985,7 @@
         "points": "21"
       },
       {
-        "rank": "9",
+        "rank": "8",
         "club": "ヴィッセル神戸",
         "matches": "13",
         "wins": "6",
@@ -2005,7 +1995,7 @@
         "points": "21"
       },
       {
-        "rank": "10",
+        "rank": "9",
         "club": "アビスパ福岡",
         "matches": "15",
         "wins": "6",
@@ -2013,6 +2003,16 @@
         "losses": "6",
         "goals_for_against": "14:15",
         "points": "21"
+      },
+      {
+        "rank": "10",
+        "club": "町田ゼルビア",
+        "matches": "15",
+        "wins": "6",
+        "draws": "2",
+        "losses": "7",
+        "goals_for_against": "15:16",
+        "points": "20"
       },
       {
         "rank": "11",

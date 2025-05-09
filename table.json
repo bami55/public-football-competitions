@@ -490,6 +490,16 @@
       },
       {
         "rank": "4",
+        "club": "ボローニャ",
+        "matches": "36",
+        "wins": "17",
+        "draws": "14",
+        "losses": "5",
+        "goals_for_against": "54:38",
+        "points": "65"
+      },
+      {
+        "rank": "5",
         "club": "ユヴェントス",
         "matches": "35",
         "wins": "16",
@@ -499,23 +509,13 @@
         "points": "63"
       },
       {
-        "rank": "5",
+        "rank": "6",
         "club": "ASローマ",
         "matches": "35",
         "wins": "18",
         "draws": "9",
         "losses": "8",
         "goals_for_against": "50:32",
-        "points": "63"
-      },
-      {
-        "rank": "6",
-        "club": "ボローニャ",
-        "matches": "36",
-        "wins": "16",
-        "draws": "15",
-        "losses": "5",
-        "goals_for_against": "53:38",
         "points": "63"
       },
       {
@@ -543,10 +543,10 @@
         "club": "ACミラン",
         "matches": "36",
         "wins": "16",
-        "draws": "10",
-        "losses": "10",
-        "goals_for_against": "55:39",
-        "points": "58"
+        "draws": "9",
+        "losses": "11",
+        "goals_for_against": "55:40",
+        "points": "57"
       },
       {
         "rank": "10",
@@ -989,7 +989,7 @@
         "wins": "10",
         "draws": "10",
         "losses": "13",
-        "goals_for_against": "54:53",
+        "goals_for_against": "55:54",
         "points": "40"
       },
       {
@@ -1009,7 +1009,7 @@
         "wins": "7",
         "draws": "11",
         "losses": "15",
-        "goals_for_against": "45:63",
+        "goals_for_against": "46:64",
         "points": "32"
       },
       {
@@ -1340,11 +1340,11 @@
         "rank": "10",
         "club": "ヘラクレス",
         "matches": "32",
-        "wins": "8",
-        "draws": "12",
+        "wins": "9",
+        "draws": "11",
         "losses": "12",
-        "goals_for_against": "39:57",
-        "points": "36"
+        "goals_for_against": "40:57",
+        "points": "38"
       },
       {
         "rank": "11",
@@ -1401,10 +1401,10 @@
         "club": "ヴィレムII",
         "matches": "32",
         "wins": "6",
-        "draws": "8",
-        "losses": "18",
-        "goals_for_against": "32:52",
-        "points": "26"
+        "draws": "7",
+        "losses": "19",
+        "goals_for_against": "32:53",
+        "points": "25"
       },
       {
         "rank": "17",

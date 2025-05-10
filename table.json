@@ -1976,12 +1976,12 @@
       },
       {
         "rank": "7",
-        "club": "アビスパ福岡",
-        "matches": "16",
+        "club": "ヴィッセル神戸",
+        "matches": "14",
         "wins": "6",
         "draws": "4",
-        "losses": "6",
-        "goals_for_against": "14:15",
+        "losses": "4",
+        "goals_for_against": "13:11",
         "points": "22"
       },
       {
@@ -1996,12 +1996,12 @@
       },
       {
         "rank": "9",
-        "club": "ヴィッセル神戸",
-        "matches": "13",
+        "club": "アビスパ福岡",
+        "matches": "16",
         "wins": "6",
         "draws": "3",
-        "losses": "4",
-        "goals_for_against": "13:11",
+        "losses": "7",
+        "goals_for_against": "14:16",
         "points": "21"
       },
       {
@@ -2067,12 +2067,12 @@
       {
         "rank": "16",
         "club": "FC東京",
-        "matches": "14",
+        "matches": "15",
         "wins": "4",
-        "draws": "4",
+        "draws": "5",
         "losses": "6",
         "goals_for_against": "14:17",
-        "points": "16"
+        "points": "17"
       },
       {
         "rank": "17",
@@ -2088,11 +2088,11 @@
         "rank": "18",
         "club": "横浜FC",
         "matches": "15",
-        "wins": "3",
-        "draws": "4",
+        "wins": "4",
+        "draws": "3",
         "losses": "8",
-        "goals_for_against": "8:15",
-        "points": "13"
+        "goals_for_against": "9:15",
+        "points": "15"
       },
       {
         "rank": "19",
@@ -2133,22 +2133,22 @@
       },
       {
         "rank": "2",
-        "club": "ベガルタ仙台",
+        "club": "RB 大宮",
         "matches": "15",
-        "wins": "8",
-        "draws": "5",
-        "losses": "2",
-        "goals_for_against": "19:11",
-        "points": "29"
+        "wins": "9",
+        "draws": "3",
+        "losses": "3",
+        "goals_for_against": "23:12",
+        "points": "30"
       },
       {
         "rank": "3",
-        "club": "RB 大宮",
+        "club": "ベガルタ仙台",
         "matches": "15",
         "wins": "8",
         "draws": "4",
         "losses": "3",
-        "goals_for_against": "21:12",
+        "goals_for_against": "19:13",
         "points": "28"
       },
       {

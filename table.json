@@ -1976,6 +1976,16 @@
       },
       {
         "rank": "7",
+        "club": "アビスパ福岡",
+        "matches": "16",
+        "wins": "6",
+        "draws": "4",
+        "losses": "6",
+        "goals_for_against": "14:15",
+        "points": "22"
+      },
+      {
+        "rank": "8",
         "club": "清水エスパルス",
         "matches": "15",
         "wins": "6",
@@ -1985,23 +1995,13 @@
         "points": "21"
       },
       {
-        "rank": "8",
+        "rank": "9",
         "club": "ヴィッセル神戸",
         "matches": "13",
         "wins": "6",
         "draws": "3",
         "losses": "4",
         "goals_for_against": "13:11",
-        "points": "21"
-      },
-      {
-        "rank": "9",
-        "club": "アビスパ福岡",
-        "matches": "15",
-        "wins": "6",
-        "draws": "3",
-        "losses": "6",
-        "goals_for_against": "14:15",
         "points": "21"
       },
       {
@@ -2086,22 +2086,22 @@
       },
       {
         "rank": "18",
+        "club": "横浜FC",
+        "matches": "15",
+        "wins": "3",
+        "draws": "4",
+        "losses": "8",
+        "goals_for_against": "8:15",
+        "points": "13"
+      },
+      {
+        "rank": "19",
         "club": "アルビレックス新潟",
         "matches": "14",
         "wins": "2",
         "draws": "6",
         "losses": "6",
         "goals_for_against": "15:20",
-        "points": "12"
-      },
-      {
-        "rank": "19",
-        "club": "横浜FC",
-        "matches": "14",
-        "wins": "3",
-        "draws": "3",
-        "losses": "8",
-        "goals_for_against": "8:15",
         "points": "12"
       },
       {
@@ -2134,22 +2134,22 @@
       {
         "rank": "2",
         "club": "ベガルタ仙台",
-        "matches": "14",
+        "matches": "15",
         "wins": "8",
-        "draws": "4",
+        "draws": "5",
         "losses": "2",
         "goals_for_against": "19:11",
-        "points": "28"
+        "points": "29"
       },
       {
         "rank": "3",
         "club": "RB 大宮",
-        "matches": "14",
+        "matches": "15",
         "wins": "8",
-        "draws": "3",
+        "draws": "4",
         "losses": "3",
         "goals_for_against": "21:12",
-        "points": "27"
+        "points": "28"
       },
       {
         "rank": "4",

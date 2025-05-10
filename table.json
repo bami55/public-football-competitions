@@ -1976,22 +1976,22 @@
       },
       {
         "rank": "7",
-        "club": "ヴィッセル神戸",
-        "matches": "14",
-        "wins": "6",
-        "draws": "4",
-        "losses": "4",
-        "goals_for_against": "13:11",
-        "points": "22"
-      },
-      {
-        "rank": "8",
         "club": "清水エスパルス",
         "matches": "15",
         "wins": "6",
         "draws": "3",
         "losses": "6",
         "goals_for_against": "19:17",
+        "points": "21"
+      },
+      {
+        "rank": "8",
+        "club": "ヴィッセル神戸",
+        "matches": "14",
+        "wins": "6",
+        "draws": "3",
+        "losses": "5",
+        "goals_for_against": "13:12",
         "points": "21"
       },
       {
@@ -2046,6 +2046,16 @@
       },
       {
         "rank": "14",
+        "club": "FC東京",
+        "matches": "15",
+        "wins": "5",
+        "draws": "4",
+        "losses": "6",
+        "goals_for_against": "15:17",
+        "points": "19"
+      },
+      {
+        "rank": "15",
         "club": "川崎フロンターレ",
         "matches": "12",
         "wins": "4",
@@ -2055,7 +2065,7 @@
         "points": "18"
       },
       {
-        "rank": "15",
+        "rank": "16",
         "club": "湘南ベルマーレ",
         "matches": "15",
         "wins": "5",
@@ -2063,16 +2073,6 @@
         "losses": "7",
         "goals_for_against": "10:19",
         "points": "18"
-      },
-      {
-        "rank": "16",
-        "club": "FC東京",
-        "matches": "15",
-        "wins": "4",
-        "draws": "5",
-        "losses": "6",
-        "goals_for_against": "14:17",
-        "points": "17"
       },
       {
         "rank": "17",

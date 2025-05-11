@@ -465,7 +465,7 @@
         "wins": "24",
         "draws": "8",
         "losses": "4",
-        "goals_for_against": "56:25",
+        "goals_for_against": "57:26",
         "points": "80"
       },
       {
@@ -585,7 +585,7 @@
         "wins": "9",
         "draws": "12",
         "losses": "15",
-        "goals_for_against": "30:44",
+        "goals_for_against": "31:45",
         "points": "39"
       },
       {
@@ -959,7 +959,7 @@
         "wins": "13",
         "draws": "8",
         "losses": "12",
-        "goals_for_against": "60:51",
+        "goals_for_against": "61:51",
         "points": "47"
       },
       {
@@ -979,7 +979,7 @@
         "wins": "11",
         "draws": "10",
         "losses": "12",
-        "goals_for_against": "34:48",
+        "goals_for_against": "34:49",
         "points": "43"
       },
       {
@@ -1456,12 +1456,12 @@
       {
         "rank": "3",
         "club": "FCポルト",
-        "matches": "32",
-        "wins": "20",
+        "matches": "33",
+        "wins": "21",
         "draws": "5",
         "losses": "7",
-        "goals_for_against": "60:29",
-        "points": "65"
+        "goals_for_against": "62:30",
+        "points": "68"
       },
       {
         "rank": "4",
@@ -1606,11 +1606,11 @@
       {
         "rank": "18",
         "club": "ボアヴィスタ",
-        "matches": "32",
+        "matches": "33",
         "wins": "6",
         "draws": "6",
-        "losses": "20",
-        "goals_for_against": "22:53",
+        "losses": "21",
+        "goals_for_against": "23:55",
         "points": "24"
       }
     ]

@@ -1309,12 +1309,12 @@
       {
         "rank": "7",
         "club": "ゴー・アヘッド・イーグルス",
-        "matches": "31",
+        "matches": "32",
         "wins": "13",
-        "draws": "8",
+        "draws": "9",
         "losses": "10",
         "goals_for_against": "52:49",
-        "points": "47"
+        "points": "48"
       },
       {
         "rank": "8",
@@ -1368,22 +1368,22 @@
       },
       {
         "rank": "13",
+        "club": "ズヴォレ",
+        "matches": "32",
+        "wins": "8",
+        "draws": "11",
+        "losses": "13",
+        "goals_for_against": "38:49",
+        "points": "35"
+      },
+      {
+        "rank": "14",
         "club": "NECナイメヘン",
         "matches": "31",
         "wins": "9",
         "draws": "7",
         "losses": "15",
         "goals_for_against": "43:45",
-        "points": "34"
-      },
-      {
-        "rank": "14",
-        "club": "ズヴォレ",
-        "matches": "31",
-        "wins": "8",
-        "draws": "10",
-        "losses": "13",
-        "goals_for_against": "38:49",
         "points": "34"
       },
       {

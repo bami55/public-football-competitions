@@ -462,11 +462,11 @@
         "rank": "1",
         "club": "ナポリ",
         "matches": "36",
-        "wins": "24",
-        "draws": "8",
+        "wins": "23",
+        "draws": "9",
         "losses": "4",
-        "goals_for_against": "57:26",
-        "points": "80"
+        "goals_for_against": "57:27",
+        "points": "78"
       },
       {
         "rank": "2",
@@ -583,10 +583,10 @@
         "club": "ジェノア",
         "matches": "36",
         "wins": "9",
-        "draws": "12",
-        "losses": "15",
-        "goals_for_against": "31:45",
-        "points": "39"
+        "draws": "13",
+        "losses": "14",
+        "goals_for_against": "32:45",
+        "points": "40"
       },
       {
         "rank": "14",
@@ -722,7 +722,7 @@
         "wins": "16",
         "draws": "10",
         "losses": "9",
-        "goals_for_against": "52:42",
+        "goals_for_against": "53:43",
         "points": "58"
       },
       {
@@ -757,22 +757,22 @@
       },
       {
         "rank": "10",
+        "club": "CA オサスナ",
+        "matches": "35",
+        "wins": "10",
+        "draws": "15",
+        "losses": "10",
+        "goals_for_against": "43:51",
+        "points": "45"
+      },
+      {
+        "rank": "10",
         "club": "バレンシア",
         "matches": "35",
         "wins": "11",
         "draws": "12",
         "losses": "12",
         "goals_for_against": "43:51",
-        "points": "45"
-      },
-      {
-        "rank": "11",
-        "club": "CA オサスナ",
-        "matches": "35",
-        "wins": "10",
-        "draws": "15",
-        "losses": "10",
-        "goals_for_against": "42:50",
         "points": "45"
       },
       {

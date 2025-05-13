@@ -787,6 +787,16 @@
       },
       {
         "rank": "13",
+        "club": "ジローナ",
+        "matches": "36",
+        "wins": "10",
+        "draws": "9",
+        "losses": "17",
+        "goals_for_against": "41:53",
+        "points": "39"
+      },
+      {
+        "rank": "14",
         "club": "ヘタフェ",
         "matches": "35",
         "wins": "10",
@@ -796,7 +806,7 @@
         "points": "39"
       },
       {
-        "rank": "14",
+        "rank": "15",
         "club": "エスパニョール",
         "matches": "35",
         "wins": "10",
@@ -804,16 +814,6 @@
         "losses": "16",
         "goals_for_against": "38:47",
         "points": "39"
-      },
-      {
-        "rank": "15",
-        "club": "ジローナ",
-        "matches": "35",
-        "wins": "10",
-        "draws": "8",
-        "losses": "17",
-        "goals_for_against": "41:53",
-        "points": "38"
       },
       {
         "rank": "16",
@@ -858,12 +858,12 @@
       {
         "rank": "20",
         "club": "レアル・バジャドリード",
-        "matches": "35",
+        "matches": "36",
         "wins": "4",
-        "draws": "4",
+        "draws": "5",
         "losses": "27",
         "goals_for_against": "26:85",
-        "points": "16"
+        "points": "17"
       }
     ]
   },

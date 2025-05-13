@@ -797,6 +797,16 @@
       },
       {
         "rank": "14",
+        "club": "セビージャ FC",
+        "matches": "36",
+        "wins": "9",
+        "draws": "12",
+        "losses": "15",
+        "goals_for_against": "39:49",
+        "points": "39"
+      },
+      {
+        "rank": "15",
         "club": "ヘタフェ",
         "matches": "35",
         "wins": "10",
@@ -806,7 +816,7 @@
         "points": "39"
       },
       {
-        "rank": "15",
+        "rank": "16",
         "club": "エスパニョール",
         "matches": "35",
         "wins": "10",
@@ -814,16 +824,6 @@
         "losses": "16",
         "goals_for_against": "38:47",
         "points": "39"
-      },
-      {
-        "rank": "16",
-        "club": "セビージャ FC",
-        "matches": "35",
-        "wins": "9",
-        "draws": "11",
-        "losses": "15",
-        "goals_for_against": "39:49",
-        "points": "38"
       },
       {
         "rank": "17",
@@ -848,12 +848,12 @@
       {
         "rank": "19",
         "club": "UD ラス・パルマス",
-        "matches": "35",
+        "matches": "36",
         "wins": "8",
-        "draws": "8",
+        "draws": "9",
         "losses": "19",
         "goals_for_against": "40:57",
-        "points": "32"
+        "points": "33"
       },
       {
         "rank": "20",

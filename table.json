@@ -1927,12 +1927,12 @@
       {
         "rank": "2",
         "club": "柏レイソル",
-        "matches": "15",
+        "matches": "16",
         "wins": "8",
-        "draws": "6",
+        "draws": "7",
         "losses": "1",
         "goals_for_against": "18:10",
-        "points": "30"
+        "points": "31"
       },
       {
         "rank": "3",
@@ -2067,15 +2067,25 @@
       {
         "rank": "16",
         "club": "川崎フロンターレ",
-        "matches": "13",
+        "matches": "14",
         "wins": "4",
         "draws": "6",
-        "losses": "3",
-        "goals_for_against": "20:13",
+        "losses": "4",
+        "goals_for_against": "20:14",
         "points": "18"
       },
       {
         "rank": "17",
+        "club": "横浜FC",
+        "matches": "16",
+        "wins": "5",
+        "draws": "3",
+        "losses": "8",
+        "goals_for_against": "10:15",
+        "points": "18"
+      },
+      {
+        "rank": "18",
         "club": "名古屋グランパス",
         "matches": "16",
         "wins": "4",
@@ -2083,16 +2093,6 @@
         "losses": "8",
         "goals_for_against": "18:24",
         "points": "16"
-      },
-      {
-        "rank": "18",
-        "club": "横浜FC",
-        "matches": "15",
-        "wins": "4",
-        "draws": "3",
-        "losses": "8",
-        "goals_for_against": "9:15",
-        "points": "15"
       },
       {
         "rank": "19",
@@ -2107,12 +2107,12 @@
       {
         "rank": "20",
         "club": "横浜F・マリノス",
-        "matches": "13",
+        "matches": "14",
         "wins": "1",
-        "draws": "5",
+        "draws": "6",
         "losses": "7",
         "goals_for_against": "11:18",
-        "points": "8"
+        "points": "9"
       }
     ]
   },
@@ -2420,22 +2420,22 @@
       },
       {
         "rank": "10",
+        "club": "松本山雅",
+        "matches": "12",
+        "wins": "4",
+        "draws": "4",
+        "losses": "4",
+        "goals_for_against": "11:13",
+        "points": "16"
+      },
+      {
+        "rank": "11",
         "club": "栃木SC",
         "matches": "12",
         "wins": "4",
         "draws": "3",
         "losses": "5",
         "goals_for_against": "7:8",
-        "points": "15"
-      },
-      {
-        "rank": "11",
-        "club": "松本山雅",
-        "matches": "11",
-        "wins": "4",
-        "draws": "3",
-        "losses": "4",
-        "goals_for_against": "11:13",
         "points": "15"
       },
       {
@@ -2491,12 +2491,12 @@
       {
         "rank": "17",
         "club": "長野パルセイロ",
-        "matches": "11",
+        "matches": "12",
         "wins": "3",
-        "draws": "2",
+        "draws": "3",
         "losses": "6",
         "goals_for_against": "11:16",
-        "points": "11"
+        "points": "12"
       },
       {
         "rank": "18",

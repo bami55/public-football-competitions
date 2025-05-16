@@ -1496,22 +1496,22 @@
       {
         "rank": "7",
         "club": "カーザ・ピア",
-        "matches": "33",
+        "matches": "34",
         "wins": "12",
-        "draws": "9",
+        "draws": "10",
         "losses": "12",
         "goals_for_against": "38:42",
-        "points": "45"
+        "points": "46"
       },
       {
         "rank": "8",
         "club": "ファマリカン",
-        "matches": "33",
+        "matches": "34",
         "wins": "11",
-        "draws": "11",
+        "draws": "12",
         "losses": "11",
         "goals_for_against": "42:38",
-        "points": "44"
+        "points": "45"
       },
       {
         "rank": "9",
@@ -1525,22 +1525,22 @@
       },
       {
         "rank": "10",
+        "club": "リオ・アヴェ",
+        "matches": "34",
+        "wins": "9",
+        "draws": "11",
+        "losses": "14",
+        "goals_for_against": "38:54",
+        "points": "38"
+      },
+      {
+        "rank": "11",
         "club": "モレイレンセ",
         "matches": "33",
         "wins": "9",
         "draws": "10",
         "losses": "14",
         "goals_for_against": "39:50",
-        "points": "37"
-      },
-      {
-        "rank": "11",
-        "club": "リオ・アヴェ",
-        "matches": "33",
-        "wins": "9",
-        "draws": "10",
-        "losses": "14",
-        "goals_for_against": "38:54",
         "points": "37"
       },
       {
@@ -1555,6 +1555,16 @@
       },
       {
         "rank": "13",
+        "club": "ジル・ヴィセンテ",
+        "matches": "34",
+        "wins": "8",
+        "draws": "10",
+        "losses": "16",
+        "goals_for_against": "33:46",
+        "points": "34"
+      },
+      {
+        "rank": "14",
         "club": "ナシオナル",
         "matches": "33",
         "wins": "9",
@@ -1562,16 +1572,6 @@
         "losses": "17",
         "goals_for_against": "32:47",
         "points": "34"
-      },
-      {
-        "rank": "14",
-        "club": "ジル・ヴィセンテ",
-        "matches": "33",
-        "wins": "8",
-        "draws": "9",
-        "losses": "16",
-        "goals_for_against": "33:46",
-        "points": "33"
       },
       {
         "rank": "15",

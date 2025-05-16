@@ -36,6 +36,16 @@
       },
       {
         "rank": "4",
+        "club": "アストン・ヴィラ",
+        "matches": "37",
+        "wins": "19",
+        "draws": "9",
+        "losses": "9",
+        "goals_for_against": "58:49",
+        "points": "66"
+      },
+      {
+        "rank": "5",
         "club": "マンチェスターC",
         "matches": "36",
         "wins": "19",
@@ -45,23 +55,13 @@
         "points": "65"
       },
       {
-        "rank": "5",
+        "rank": "6",
         "club": "チェルシー",
         "matches": "37",
         "wins": "18",
         "draws": "10",
         "losses": "9",
         "goals_for_against": "62:43",
-        "points": "64"
-      },
-      {
-        "rank": "6",
-        "club": "アストン・ヴィラ",
-        "matches": "37",
-        "wins": "18",
-        "draws": "10",
-        "losses": "9",
-        "goals_for_against": "56:49",
         "points": "64"
       },
       {
@@ -169,10 +169,10 @@
         "club": "トッテナム",
         "matches": "37",
         "wins": "11",
-        "draws": "6",
-        "losses": "20",
-        "goals_for_against": "63:59",
-        "points": "39"
+        "draws": "5",
+        "losses": "21",
+        "goals_for_against": "63:61",
+        "points": "38"
       },
       {
         "rank": "18",
@@ -1495,22 +1495,22 @@
       },
       {
         "rank": "7",
-        "club": "カーザ・ピア",
+        "club": "ファマリカン",
         "matches": "34",
         "wins": "12",
-        "draws": "10",
-        "losses": "12",
-        "goals_for_against": "39:43",
-        "points": "46"
+        "draws": "11",
+        "losses": "11",
+        "goals_for_against": "44:39",
+        "points": "47"
       },
       {
         "rank": "8",
-        "club": "ファマリカン",
+        "club": "カーザ・ピア",
         "matches": "34",
-        "wins": "11",
-        "draws": "12",
-        "losses": "11",
-        "goals_for_against": "43:39",
+        "wins": "12",
+        "draws": "9",
+        "losses": "13",
+        "goals_for_against": "39:44",
         "points": "45"
       },
       {

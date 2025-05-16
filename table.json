@@ -36,6 +36,16 @@
       },
       {
         "rank": "4",
+        "club": "チェルシー",
+        "matches": "37",
+        "wins": "19",
+        "draws": "9",
+        "losses": "9",
+        "goals_for_against": "63:43",
+        "points": "66"
+      },
+      {
+        "rank": "5",
         "club": "アストン・ヴィラ",
         "matches": "37",
         "wins": "19",
@@ -45,7 +55,7 @@
         "points": "66"
       },
       {
-        "rank": "5",
+        "rank": "6",
         "club": "マンチェスターC",
         "matches": "36",
         "wins": "19",
@@ -53,16 +63,6 @@
         "losses": "9",
         "goals_for_against": "67:43",
         "points": "65"
-      },
-      {
-        "rank": "6",
-        "club": "チェルシー",
-        "matches": "37",
-        "wins": "18",
-        "draws": "10",
-        "losses": "9",
-        "goals_for_against": "62:43",
-        "points": "64"
       },
       {
         "rank": "7",
@@ -146,16 +146,6 @@
       },
       {
         "rank": "15",
-        "club": "マンチェスターU",
-        "matches": "37",
-        "wins": "10",
-        "draws": "10",
-        "losses": "17",
-        "goals_for_against": "42:53",
-        "points": "40"
-      },
-      {
-        "rank": "16",
         "club": "ウェストハム",
         "matches": "36",
         "wins": "10",
@@ -163,6 +153,16 @@
         "losses": "16",
         "goals_for_against": "42:59",
         "points": "40"
+      },
+      {
+        "rank": "16",
+        "club": "マンチェスターU",
+        "matches": "37",
+        "wins": "10",
+        "draws": "9",
+        "losses": "18",
+        "goals_for_against": "42:54",
+        "points": "39"
       },
       {
         "rank": "17",

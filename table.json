@@ -2370,6 +2370,16 @@
       },
       {
         "rank": "5",
+        "club": "ギラヴァンツ北九州",
+        "matches": "13",
+        "wins": "6",
+        "draws": "3",
+        "losses": "4",
+        "goals_for_against": "12:7",
+        "points": "21"
+      },
+      {
+        "rank": "6",
         "club": "ヴァンラーレ八戸",
         "matches": "12",
         "wins": "6",
@@ -2377,16 +2387,6 @@
         "losses": "3",
         "goals_for_against": "12:8",
         "points": "21"
-      },
-      {
-        "rank": "6",
-        "club": "ギラヴァンツ北九州",
-        "matches": "12",
-        "wins": "6",
-        "draws": "2",
-        "losses": "4",
-        "goals_for_against": "12:7",
-        "points": "20"
       },
       {
         "rank": "7",
@@ -2501,12 +2501,12 @@
       {
         "rank": "18",
         "club": "FC琉球OKINAWA",
-        "matches": "12",
+        "matches": "13",
         "wins": "2",
-        "draws": "4",
+        "draws": "5",
         "losses": "6",
         "goals_for_against": "9:13",
-        "points": "10"
+        "points": "11"
       },
       {
         "rank": "19",

@@ -1959,10 +1959,10 @@
         "club": "浦和レッズ",
         "matches": "17",
         "wins": "7",
-        "draws": "5",
-        "losses": "5",
-        "goals_for_against": "18:14",
-        "points": "26"
+        "draws": "6",
+        "losses": "4",
+        "goals_for_against": "19:14",
+        "points": "27"
       },
       {
         "rank": "6",
@@ -2016,12 +2016,12 @@
       },
       {
         "rank": "11",
-        "club": "FC東京",
-        "matches": "16",
+        "club": "アビスパ福岡",
+        "matches": "17",
         "wins": "6",
         "draws": "4",
-        "losses": "6",
-        "goals_for_against": "16:17",
+        "losses": "7",
+        "goals_for_against": "15:17",
         "points": "22"
       },
       {
@@ -2036,16 +2036,6 @@
       },
       {
         "rank": "13",
-        "club": "アビスパ福岡",
-        "matches": "17",
-        "wins": "6",
-        "draws": "3",
-        "losses": "8",
-        "goals_for_against": "14:17",
-        "points": "21"
-      },
-      {
-        "rank": "14",
         "club": "湘南ベルマーレ",
         "matches": "17",
         "wins": "6",
@@ -2053,6 +2043,16 @@
         "losses": "8",
         "goals_for_against": "12:20",
         "points": "21"
+      },
+      {
+        "rank": "14",
+        "club": "FC東京",
+        "matches": "16",
+        "wins": "5",
+        "draws": "5",
+        "losses": "6",
+        "goals_for_against": "16:18",
+        "points": "20"
       },
       {
         "rank": "15",
@@ -2076,16 +2076,6 @@
       },
       {
         "rank": "17",
-        "club": "名古屋グランパス",
-        "matches": "17",
-        "wins": "5",
-        "draws": "4",
-        "losses": "8",
-        "goals_for_against": "19:24",
-        "points": "19"
-      },
-      {
-        "rank": "18",
         "club": "横浜FC",
         "matches": "17",
         "wins": "5",
@@ -2093,6 +2083,16 @@
         "losses": "9",
         "goals_for_against": "11:17",
         "points": "18"
+      },
+      {
+        "rank": "18",
+        "club": "名古屋グランパス",
+        "matches": "17",
+        "wins": "4",
+        "draws": "5",
+        "losses": "8",
+        "goals_for_against": "19:25",
+        "points": "17"
       },
       {
         "rank": "19",

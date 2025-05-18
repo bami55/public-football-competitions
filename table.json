@@ -1966,6 +1966,16 @@
       },
       {
         "rank": "6",
+        "club": "川崎フロンターレ",
+        "matches": "15",
+        "wins": "6",
+        "draws": "6",
+        "losses": "3",
+        "goals_for_against": "24:14",
+        "points": "24"
+      },
+      {
+        "rank": "7",
         "club": "町田ゼルビア",
         "matches": "17",
         "wins": "7",
@@ -1975,7 +1985,7 @@
         "points": "24"
       },
       {
-        "rank": "7",
+        "rank": "8",
         "club": "ヴィッセル神戸",
         "matches": "15",
         "wins": "7",
@@ -1983,16 +1993,6 @@
         "losses": "5",
         "goals_for_against": "16:14",
         "points": "24"
-      },
-      {
-        "rank": "8",
-        "club": "セレッソ大阪",
-        "matches": "17",
-        "wins": "6",
-        "draws": "5",
-        "losses": "6",
-        "goals_for_against": "24:22",
-        "points": "23"
       },
       {
         "rank": "9",
@@ -2006,16 +2006,6 @@
       },
       {
         "rank": "10",
-        "club": "川崎フロンターレ",
-        "matches": "15",
-        "wins": "5",
-        "draws": "7",
-        "losses": "3",
-        "goals_for_against": "22:14",
-        "points": "22"
-      },
-      {
-        "rank": "11",
         "club": "清水エスパルス",
         "matches": "17",
         "wins": "6",
@@ -2025,7 +2015,27 @@
         "points": "22"
       },
       {
+        "rank": "11",
+        "club": "セレッソ大阪",
+        "matches": "17",
+        "wins": "6",
+        "draws": "4",
+        "losses": "7",
+        "goals_for_against": "24:24",
+        "points": "22"
+      },
+      {
         "rank": "12",
+        "club": "ファジアーノ岡山",
+        "matches": "17",
+        "wins": "6",
+        "draws": "4",
+        "losses": "7",
+        "goals_for_against": "13:14",
+        "points": "22"
+      },
+      {
+        "rank": "13",
         "club": "アビスパ福岡",
         "matches": "17",
         "wins": "6",
@@ -2035,7 +2045,7 @@
         "points": "22"
       },
       {
-        "rank": "13",
+        "rank": "14",
         "club": "湘南ベルマーレ",
         "matches": "17",
         "wins": "6",
@@ -2043,16 +2053,6 @@
         "losses": "8",
         "goals_for_against": "12:20",
         "points": "21"
-      },
-      {
-        "rank": "14",
-        "club": "ファジアーノ岡山",
-        "matches": "17",
-        "wins": "5",
-        "draws": "5",
-        "losses": "7",
-        "goals_for_against": "12:14",
-        "points": "20"
       },
       {
         "rank": "15",
@@ -2099,10 +2099,10 @@
         "club": "アルビレックス新潟",
         "matches": "16",
         "wins": "2",
-        "draws": "8",
-        "losses": "6",
-        "goals_for_against": "17:22",
-        "points": "14"
+        "draws": "7",
+        "losses": "7",
+        "goals_for_against": "17:23",
+        "points": "13"
       },
       {
         "rank": "20",

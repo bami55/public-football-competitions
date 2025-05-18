@@ -2420,22 +2420,22 @@
       },
       {
         "rank": "10",
+        "club": "松本山雅",
+        "matches": "13",
+        "wins": "4",
+        "draws": "5",
+        "losses": "4",
+        "goals_for_against": "13:15",
+        "points": "17"
+      },
+      {
+        "rank": "11",
         "club": "栃木SC",
         "matches": "13",
         "wins": "4",
         "draws": "4",
         "losses": "5",
         "goals_for_against": "7:8",
-        "points": "16"
-      },
-      {
-        "rank": "11",
-        "club": "松本山雅",
-        "matches": "12",
-        "wins": "4",
-        "draws": "4",
-        "losses": "4",
-        "goals_for_against": "13:15",
         "points": "16"
       },
       {
@@ -2500,22 +2500,22 @@
       },
       {
         "rank": "18",
+        "club": "ガイナーレ鳥取",
+        "matches": "13",
+        "wins": "2",
+        "draws": "5",
+        "losses": "6",
+        "goals_for_against": "8:14",
+        "points": "11"
+      },
+      {
+        "rank": "19",
         "club": "FC琉球OKINAWA",
         "matches": "13",
         "wins": "2",
         "draws": "4",
         "losses": "7",
         "goals_for_against": "9:14",
-        "points": "10"
-      },
-      {
-        "rank": "19",
-        "club": "ガイナーレ鳥取",
-        "matches": "12",
-        "wins": "2",
-        "draws": "4",
-        "losses": "6",
-        "goals_for_against": "8:14",
         "points": "10"
       },
       {

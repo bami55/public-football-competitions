@@ -17,22 +17,22 @@
       {
         "rank": "2",
         "club": "アーセナル",
-        "matches": "36",
+        "matches": "37",
         "wins": "18",
-        "draws": "14",
+        "draws": "15",
         "losses": "4",
         "goals_for_against": "66:33",
-        "points": "68"
+        "points": "69"
       },
       {
         "rank": "3",
         "club": "ニューカッスル",
-        "matches": "36",
+        "matches": "37",
         "wins": "20",
-        "draws": "6",
+        "draws": "7",
         "losses": "10",
         "goals_for_against": "68:45",
-        "points": "66"
+        "points": "67"
       },
       {
         "rank": "4",
@@ -78,11 +78,11 @@
         "rank": "8",
         "club": "ブレントフォード",
         "matches": "37",
-        "wins": "17",
+        "wins": "16",
         "draws": "7",
-        "losses": "13",
-        "goals_for_against": "65:54",
-        "points": "58"
+        "losses": "14",
+        "goals_for_against": "65:56",
+        "points": "55"
       },
       {
         "rank": "9",
@@ -96,6 +96,16 @@
       },
       {
         "rank": "10",
+        "club": "フラム",
+        "matches": "37",
+        "wins": "15",
+        "draws": "9",
+        "losses": "13",
+        "goals_for_against": "54:52",
+        "points": "54"
+      },
+      {
+        "rank": "11",
         "club": "ボーンマス",
         "matches": "36",
         "wins": "14",
@@ -103,16 +113,6 @@
         "losses": "11",
         "goals_for_against": "55:43",
         "points": "53"
-      },
-      {
-        "rank": "11",
-        "club": "フラム",
-        "matches": "37",
-        "wins": "14",
-        "draws": "9",
-        "losses": "14",
-        "goals_for_against": "52:52",
-        "points": "51"
       },
       {
         "rank": "12",
@@ -181,7 +181,7 @@
         "wins": "6",
         "draws": "7",
         "losses": "24",
-        "goals_for_against": "32:78",
+        "goals_for_against": "33:78",
         "points": "25"
       },
       {
@@ -191,7 +191,7 @@
         "wins": "4",
         "draws": "10",
         "losses": "23",
-        "goals_for_against": "35:78",
+        "goals_for_against": "35:79",
         "points": "22"
       },
       {

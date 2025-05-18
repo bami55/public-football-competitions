@@ -127,12 +127,12 @@
       {
         "rank": "13",
         "club": "エヴァートン",
-        "matches": "36",
-        "wins": "9",
+        "matches": "37",
+        "wins": "10",
         "draws": "15",
         "losses": "12",
-        "goals_for_against": "39:44",
-        "points": "42"
+        "goals_for_against": "40:44",
+        "points": "45"
       },
       {
         "rank": "14",
@@ -197,11 +197,11 @@
       {
         "rank": "20",
         "club": "サウサンプトン",
-        "matches": "36",
+        "matches": "37",
         "wins": "2",
         "draws": "6",
-        "losses": "28",
-        "goals_for_against": "25:82",
+        "losses": "29",
+        "goals_for_against": "25:83",
         "points": "12"
       }
     ]
@@ -2168,7 +2168,7 @@
         "wins": "8",
         "draws": "4",
         "losses": "4",
-        "goals_for_against": "14:6",
+        "goals_for_against": "15:6",
         "points": "28"
       },
       {
@@ -2318,7 +2318,7 @@
         "wins": "1",
         "draws": "7",
         "losses": "8",
-        "goals_for_against": "17:28",
+        "goals_for_against": "17:29",
         "points": "10"
       }
     ]

@@ -2163,6 +2163,16 @@
       },
       {
         "rank": "5",
+        "club": "徳島ヴォルティス",
+        "matches": "16",
+        "wins": "8",
+        "draws": "4",
+        "losses": "4",
+        "goals_for_against": "14:6",
+        "points": "28"
+      },
+      {
+        "rank": "6",
         "club": "ジュビロ磐田",
         "matches": "16",
         "wins": "8",
@@ -2170,16 +2180,6 @@
         "losses": "5",
         "goals_for_against": "23:21",
         "points": "27"
-      },
-      {
-        "rank": "6",
-        "club": "徳島ヴォルティス",
-        "matches": "16",
-        "wins": "7",
-        "draws": "5",
-        "losses": "4",
-        "goals_for_against": "13:6",
-        "points": "26"
       },
       {
         "rank": "7",
@@ -2316,10 +2316,10 @@
         "club": "愛媛FC",
         "matches": "16",
         "wins": "1",
-        "draws": "8",
-        "losses": "7",
-        "goals_for_against": "17:27",
-        "points": "11"
+        "draws": "7",
+        "losses": "8",
+        "goals_for_against": "17:28",
+        "points": "10"
       }
     ]
   },

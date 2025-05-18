@@ -460,6 +460,16 @@
     "results": [
       {
         "rank": "1",
+        "club": "インテル",
+        "matches": "37",
+        "wins": "24",
+        "draws": "8",
+        "losses": "5",
+        "goals_for_against": "76:33",
+        "points": "80"
+      },
+      {
+        "rank": "2",
         "club": "ナポリ",
         "matches": "37",
         "wins": "23",
@@ -467,16 +477,6 @@
         "losses": "4",
         "goals_for_against": "57:27",
         "points": "79"
-      },
-      {
-        "rank": "2",
-        "club": "インテル",
-        "matches": "37",
-        "wins": "23",
-        "draws": "9",
-        "losses": "5",
-        "goals_for_against": "75:33",
-        "points": "78"
       },
       {
         "rank": "3",
@@ -490,33 +490,33 @@
       },
       {
         "rank": "4",
+        "club": "ユヴェントス",
+        "matches": "37",
+        "wins": "17",
+        "draws": "16",
+        "losses": "4",
+        "goals_for_against": "54:33",
+        "points": "67"
+      },
+      {
+        "rank": "5",
         "club": "ASローマ",
         "matches": "37",
         "wins": "19",
         "draws": "9",
         "losses": "9",
-        "goals_for_against": "52:34",
+        "goals_for_against": "53:35",
         "points": "66"
-      },
-      {
-        "rank": "5",
-        "club": "ユヴェントス",
-        "matches": "37",
-        "wins": "16",
-        "draws": "17",
-        "losses": "4",
-        "goals_for_against": "53:33",
-        "points": "65"
       },
       {
         "rank": "6",
         "club": "ラツィオ",
         "matches": "37",
         "wins": "18",
-        "draws": "11",
-        "losses": "8",
-        "goals_for_against": "59:46",
-        "points": "65"
+        "draws": "10",
+        "losses": "9",
+        "goals_for_against": "59:47",
+        "points": "64"
       },
       {
         "rank": "7",
@@ -525,7 +525,7 @@
         "wins": "18",
         "draws": "8",
         "losses": "11",
-        "goals_for_against": "55:37",
+        "goals_for_against": "56:38",
         "points": "62"
       },
       {
@@ -535,7 +535,7 @@
         "wins": "16",
         "draws": "14",
         "losses": "7",
-        "goals_for_against": "54:42",
+        "goals_for_against": "55:43",
         "points": "62"
       },
       {
@@ -545,7 +545,7 @@
         "wins": "17",
         "draws": "9",
         "losses": "11",
-        "goals_for_against": "58:41",
+        "goals_for_against": "59:42",
         "points": "60"
       },
       {
@@ -555,7 +555,7 @@
         "wins": "13",
         "draws": "10",
         "losses": "14",
-        "goals_for_against": "48:49",
+        "goals_for_against": "49:50",
         "points": "49"
       },
       {
@@ -563,20 +563,20 @@
         "club": "トリノ",
         "matches": "37",
         "wins": "10",
-        "draws": "15",
-        "losses": "12",
-        "goals_for_against": "39:42",
-        "points": "45"
+        "draws": "14",
+        "losses": "13",
+        "goals_for_against": "39:43",
+        "points": "44"
       },
       {
         "rank": "12",
         "club": "ウディネーゼ・カルチョ",
         "matches": "37",
         "wins": "12",
-        "draws": "9",
-        "losses": "16",
-        "goals_for_against": "39:51",
-        "points": "45"
+        "draws": "8",
+        "losses": "17",
+        "goals_for_against": "39:52",
+        "points": "44"
       },
       {
         "rank": "13",
@@ -595,7 +595,7 @@
         "wins": "9",
         "draws": "9",
         "losses": "19",
-        "goals_for_against": "38:54",
+        "goals_for_against": "39:54",
         "points": "36"
       },
       {
@@ -605,7 +605,7 @@
         "wins": "9",
         "draws": "7",
         "losses": "21",
-        "goals_for_against": "31:64",
+        "goals_for_against": "32:65",
         "points": "34"
       },
       {
@@ -620,32 +620,32 @@
       },
       {
         "rank": "17",
-        "club": "ヴェネツィア",
+        "club": "レッチェ",
         "matches": "37",
-        "wins": "5",
-        "draws": "14",
-        "losses": "18",
-        "goals_for_against": "30:51",
-        "points": "29"
+        "wins": "7",
+        "draws": "10",
+        "losses": "20",
+        "goals_for_against": "26:58",
+        "points": "31"
       },
       {
         "rank": "18",
         "club": "エンポリ",
         "matches": "37",
-        "wins": "5",
-        "draws": "14",
+        "wins": "6",
+        "draws": "13",
         "losses": "18",
-        "goals_for_against": "29:56",
-        "points": "29"
+        "goals_for_against": "32:57",
+        "points": "31"
       },
       {
         "rank": "19",
-        "club": "レッチェ",
+        "club": "ヴェネツィア",
         "matches": "37",
-        "wins": "6",
-        "draws": "11",
-        "losses": "20",
-        "goals_for_against": "25:58",
+        "wins": "5",
+        "draws": "14",
+        "losses": "18",
+        "goals_for_against": "30:52",
         "points": "29"
       },
       {
@@ -653,10 +653,10 @@
         "club": "モンツァ",
         "matches": "37",
         "wins": "3",
-        "draws": "10",
-        "losses": "24",
-        "goals_for_against": "27:64",
-        "points": "19"
+        "draws": "9",
+        "losses": "25",
+        "goals_for_against": "28:67",
+        "points": "18"
       }
     ]
   },

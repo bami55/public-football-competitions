@@ -8,11 +8,11 @@
         "rank": "1",
         "club": "リヴァプール",
         "matches": "37",
-        "wins": "26",
+        "wins": "25",
         "draws": "8",
-        "losses": "3",
-        "goals_for_against": "85:38",
-        "points": "86"
+        "losses": "4",
+        "goals_for_against": "85:40",
+        "points": "83"
       },
       {
         "rank": "2",
@@ -76,22 +76,22 @@
       },
       {
         "rank": "8",
+        "club": "ブライトン",
+        "matches": "37",
+        "wins": "15",
+        "draws": "13",
+        "losses": "9",
+        "goals_for_against": "62:58",
+        "points": "58"
+      },
+      {
+        "rank": "9",
         "club": "ブレントフォード",
         "matches": "37",
         "wins": "16",
         "draws": "7",
         "losses": "14",
         "goals_for_against": "65:56",
-        "points": "55"
-      },
-      {
-        "rank": "9",
-        "club": "ブライトン",
-        "matches": "37",
-        "wins": "14",
-        "draws": "13",
-        "losses": "10",
-        "goals_for_against": "60:58",
         "points": "55"
       },
       {

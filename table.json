@@ -31,7 +31,7 @@
         "wins": "20",
         "draws": "8",
         "losses": "9",
-        "goals_for_against": "68:43",
+        "goals_for_against": "69:43",
         "points": "68"
       },
       {
@@ -111,18 +111,18 @@
         "wins": "14",
         "draws": "11",
         "losses": "12",
-        "goals_for_against": "55:44",
+        "goals_for_against": "55:45",
         "points": "53"
       },
       {
         "rank": "12",
         "club": "クリスタル・パレス",
         "matches": "37",
-        "wins": "12",
-        "draws": "14",
+        "wins": "13",
+        "draws": "13",
         "losses": "11",
-        "goals_for_against": "46:48",
-        "points": "50"
+        "goals_for_against": "49:50",
+        "points": "52"
       },
       {
         "rank": "13",
@@ -139,10 +139,10 @@
         "club": "ウルバーハンプトン",
         "matches": "37",
         "wins": "12",
-        "draws": "6",
-        "losses": "19",
-        "goals_for_against": "51:64",
-        "points": "42"
+        "draws": "5",
+        "losses": "20",
+        "goals_for_against": "53:67",
+        "points": "41"
       },
       {
         "rank": "15",

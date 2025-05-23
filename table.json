@@ -1535,22 +1535,22 @@
       },
       {
         "rank": "11",
-        "club": "アロウカ",
-        "matches": "34",
-        "wins": "9",
-        "draws": "11",
-        "losses": "14",
-        "goals_for_against": "35:49",
-        "points": "38"
-      },
-      {
-        "rank": "12",
         "club": "リオ・アヴェ",
         "matches": "34",
         "wins": "9",
         "draws": "11",
         "losses": "14",
         "goals_for_against": "39:55",
+        "points": "38"
+      },
+      {
+        "rank": "12",
+        "club": "アロウカ",
+        "matches": "34",
+        "wins": "9",
+        "draws": "11",
+        "losses": "14",
+        "goals_for_against": "35:49",
         "points": "38"
       },
       {
@@ -1585,22 +1585,22 @@
       },
       {
         "rank": "16",
-        "club": "ファレンセ",
-        "matches": "34",
-        "wins": "6",
-        "draws": "9",
-        "losses": "19",
-        "goals_for_against": "25:46",
-        "points": "27"
-      },
-      {
-        "rank": "17",
         "club": "AVS",
         "matches": "34",
         "wins": "5",
         "draws": "12",
         "losses": "17",
         "goals_for_against": "25:60",
+        "points": "27"
+      },
+      {
+        "rank": "17",
+        "club": "ファレンセ",
+        "matches": "34",
+        "wins": "6",
+        "draws": "9",
+        "losses": "19",
+        "goals_for_against": "25:46",
         "points": "27"
       },
       {

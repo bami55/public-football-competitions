@@ -460,23 +460,23 @@
     "results": [
       {
         "rank": "1",
+        "club": "ナポリ",
+        "matches": "38",
+        "wins": "24",
+        "draws": "10",
+        "losses": "4",
+        "goals_for_against": "59:27",
+        "points": "82"
+      },
+      {
+        "rank": "2",
         "club": "インテル",
         "matches": "38",
         "wins": "24",
         "draws": "9",
         "losses": "5",
-        "goals_for_against": "78:35",
+        "goals_for_against": "79:35",
         "points": "81"
-      },
-      {
-        "rank": "2",
-        "club": "ナポリ",
-        "matches": "38",
-        "wins": "23",
-        "draws": "11",
-        "losses": "4",
-        "goals_for_against": "57:27",
-        "points": "80"
       },
       {
         "rank": "3",
@@ -555,7 +555,7 @@
         "wins": "13",
         "draws": "10",
         "losses": "15",
-        "goals_for_against": "49:51",
+        "goals_for_against": "49:52",
         "points": "49"
       },
       {
@@ -593,10 +593,10 @@
         "club": "カリアリ・カルチョ",
         "matches": "38",
         "wins": "9",
-        "draws": "10",
-        "losses": "19",
-        "goals_for_against": "40:54",
-        "points": "37"
+        "draws": "9",
+        "losses": "20",
+        "goals_for_against": "40:56",
+        "points": "36"
       },
       {
         "rank": "15",
@@ -719,11 +719,11 @@
         "rank": "6",
         "club": "レアル・ベティス",
         "matches": "38",
-        "wins": "16",
-        "draws": "12",
+        "wins": "17",
+        "draws": "11",
         "losses": "10",
-        "goals_for_against": "56:49",
-        "points": "60"
+        "goals_for_against": "57:49",
+        "points": "62"
       },
       {
         "rank": "7",
@@ -780,10 +780,10 @@
         "club": "バレンシア",
         "matches": "38",
         "wins": "11",
-        "draws": "13",
-        "losses": "14",
-        "goals_for_against": "43:53",
-        "points": "46"
+        "draws": "12",
+        "losses": "15",
+        "goals_for_against": "43:54",
+        "points": "45"
       },
       {
         "rank": "13",

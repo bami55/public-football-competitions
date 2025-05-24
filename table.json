@@ -535,7 +535,7 @@
         "wins": "16",
         "draws": "14",
         "losses": "8",
-        "goals_for_against": "56:45",
+        "goals_for_against": "56:47",
         "points": "62"
       },
       {
@@ -585,7 +585,7 @@
         "wins": "10",
         "draws": "13",
         "losses": "15",
-        "goals_for_against": "35:48",
+        "goals_for_against": "37:48",
         "points": "43"
       },
       {
@@ -827,42 +827,42 @@
       },
       {
         "rank": "17",
-        "club": "エスパニョール",
-        "matches": "37",
-        "wins": "10",
-        "draws": "9",
-        "losses": "18",
-        "goals_for_against": "38:51",
-        "points": "39"
+        "club": "レガネス",
+        "matches": "38",
+        "wins": "9",
+        "draws": "13",
+        "losses": "16",
+        "goals_for_against": "39:56",
+        "points": "40"
       },
       {
         "rank": "18",
-        "club": "レガネス",
-        "matches": "37",
-        "wins": "8",
-        "draws": "13",
-        "losses": "16",
-        "goals_for_against": "36:56",
-        "points": "37"
+        "club": "エスパニョール",
+        "matches": "38",
+        "wins": "10",
+        "draws": "10",
+        "losses": "18",
+        "goals_for_against": "38:51",
+        "points": "40"
       },
       {
         "rank": "19",
         "club": "UD ラス・パルマス",
-        "matches": "37",
+        "matches": "38",
         "wins": "8",
-        "draws": "8",
+        "draws": "9",
         "losses": "21",
         "goals_for_against": "40:59",
-        "points": "32"
+        "points": "33"
       },
       {
         "rank": "20",
         "club": "レアル・バジャドリード",
-        "matches": "37",
+        "matches": "38",
         "wins": "4",
         "draws": "4",
-        "losses": "29",
-        "goals_for_against": "26:87",
+        "losses": "30",
+        "goals_for_against": "26:90",
         "points": "16"
       }
     ]

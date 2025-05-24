@@ -1949,10 +1949,10 @@
         "club": "浦和レッズ",
         "matches": "19",
         "wins": "8",
-        "draws": "7",
-        "losses": "4",
-        "goals_for_against": "24:18",
-        "points": "31"
+        "draws": "6",
+        "losses": "5",
+        "goals_for_against": "24:19",
+        "points": "30"
       },
       {
         "rank": "5",
@@ -2056,6 +2056,16 @@
       },
       {
         "rank": "15",
+        "club": "名古屋グランパス",
+        "matches": "18",
+        "wins": "5",
+        "draws": "5",
+        "losses": "8",
+        "goals_for_against": "21:26",
+        "points": "20"
+      },
+      {
+        "rank": "16",
         "club": "東京ヴェルディ",
         "matches": "17",
         "wins": "5",
@@ -2065,7 +2075,7 @@
         "points": "20"
       },
       {
-        "rank": "16",
+        "rank": "17",
         "club": "FC東京",
         "matches": "16",
         "wins": "5",
@@ -2073,16 +2083,6 @@
         "losses": "7",
         "goals_for_against": "17:20",
         "points": "19"
-      },
-      {
-        "rank": "17",
-        "club": "名古屋グランパス",
-        "matches": "18",
-        "wins": "4",
-        "draws": "6",
-        "losses": "8",
-        "goals_for_against": "20:26",
-        "points": "18"
       },
       {
         "rank": "18",

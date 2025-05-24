@@ -1996,6 +1996,26 @@
       },
       {
         "rank": "9",
+        "club": "セレッソ大阪",
+        "matches": "18",
+        "wins": "6",
+        "draws": "5",
+        "losses": "7",
+        "goals_for_against": "24:24",
+        "points": "23"
+      },
+      {
+        "rank": "10",
+        "club": "アビスパ福岡",
+        "matches": "18",
+        "wins": "6",
+        "draws": "5",
+        "losses": "7",
+        "goals_for_against": "15:17",
+        "points": "23"
+      },
+      {
+        "rank": "11",
         "club": "ガンバ大阪",
         "matches": "17",
         "wins": "7",
@@ -2005,7 +2025,7 @@
         "points": "23"
       },
       {
-        "rank": "10",
+        "rank": "12",
         "club": "清水エスパルス",
         "matches": "17",
         "wins": "6",
@@ -2015,33 +2035,13 @@
         "points": "22"
       },
       {
-        "rank": "11",
-        "club": "セレッソ大阪",
-        "matches": "17",
-        "wins": "6",
-        "draws": "4",
-        "losses": "7",
-        "goals_for_against": "24:24",
-        "points": "22"
-      },
-      {
-        "rank": "12",
+        "rank": "13",
         "club": "ファジアーノ岡山",
         "matches": "17",
         "wins": "6",
         "draws": "4",
         "losses": "7",
         "goals_for_against": "13:14",
-        "points": "22"
-      },
-      {
-        "rank": "13",
-        "club": "アビスパ福岡",
-        "matches": "17",
-        "wins": "6",
-        "draws": "4",
-        "losses": "7",
-        "goals_for_against": "15:17",
         "points": "22"
       },
       {

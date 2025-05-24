@@ -541,12 +541,12 @@
       {
         "rank": "9",
         "club": "ACミラン",
-        "matches": "37",
+        "matches": "38",
         "wins": "17",
-        "draws": "9",
+        "draws": "10",
         "losses": "11",
         "goals_for_against": "59:43",
-        "points": "60"
+        "points": "61"
       },
       {
         "rank": "10",
@@ -651,12 +651,12 @@
       {
         "rank": "20",
         "club": "モンツァ",
-        "matches": "37",
+        "matches": "38",
         "wins": "3",
-        "draws": "9",
+        "draws": "10",
         "losses": "25",
         "goals_for_against": "28:67",
-        "points": "18"
+        "points": "19"
       }
     ]
   },
@@ -727,43 +727,43 @@
       },
       {
         "rank": "7",
-        "club": "セルタ・デ・ビーゴ",
-        "matches": "37",
-        "wins": "15",
-        "draws": "7",
-        "losses": "15",
-        "goals_for_against": "57:56",
+        "club": "バジェカーノ",
+        "matches": "38",
+        "wins": "13",
+        "draws": "13",
+        "losses": "12",
+        "goals_for_against": "41:45",
         "points": "52"
       },
       {
         "rank": "8",
-        "club": "バジェカーノ",
-        "matches": "37",
-        "wins": "13",
-        "draws": "12",
-        "losses": "12",
-        "goals_for_against": "41:45",
-        "points": "51"
+        "club": "セルタ・デ・ビーゴ",
+        "matches": "38",
+        "wins": "15",
+        "draws": "7",
+        "losses": "16",
+        "goals_for_against": "57:57",
+        "points": "52"
       },
       {
         "rank": "9",
         "club": "CA オサスナ",
-        "matches": "37",
+        "matches": "38",
         "wins": "12",
-        "draws": "15",
+        "draws": "16",
         "losses": "10",
         "goals_for_against": "47:51",
-        "points": "51"
+        "points": "52"
       },
       {
         "rank": "10",
         "club": "マジョルカ",
-        "matches": "37",
+        "matches": "38",
         "wins": "13",
-        "draws": "8",
+        "draws": "9",
         "losses": "16",
         "goals_for_against": "35:44",
-        "points": "47"
+        "points": "48"
       },
       {
         "rank": "11",
@@ -788,12 +788,12 @@
       {
         "rank": "13",
         "club": "ヘタフェ",
-        "matches": "37",
-        "wins": "11",
+        "matches": "38",
+        "wins": "12",
         "draws": "9",
         "losses": "17",
-        "goals_for_against": "33:37",
-        "points": "42"
+        "goals_for_against": "34:37",
+        "points": "45"
       },
       {
         "rank": "14",
@@ -808,12 +808,12 @@
       {
         "rank": "15",
         "club": "アラベス",
-        "matches": "37",
+        "matches": "38",
         "wins": "10",
-        "draws": "11",
+        "draws": "12",
         "losses": "16",
         "goals_for_against": "37:47",
-        "points": "41"
+        "points": "42"
       },
       {
         "rank": "16",

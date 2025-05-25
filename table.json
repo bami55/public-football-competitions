@@ -689,11 +689,11 @@
         "rank": "3",
         "club": "アトレティコ・マドリード",
         "matches": "38",
-        "wins": "21",
-        "draws": "11",
+        "wins": "22",
+        "draws": "10",
         "losses": "6",
-        "goals_for_against": "64:30",
-        "points": "74"
+        "goals_for_against": "68:30",
+        "points": "76"
       },
       {
         "rank": "4",
@@ -797,16 +797,6 @@
       },
       {
         "rank": "14",
-        "club": "ジローナ",
-        "matches": "38",
-        "wins": "11",
-        "draws": "9",
-        "losses": "18",
-        "goals_for_against": "44:56",
-        "points": "42"
-      },
-      {
-        "rank": "15",
         "club": "エスパニョール",
         "matches": "38",
         "wins": "11",
@@ -816,7 +806,7 @@
         "points": "42"
       },
       {
-        "rank": "16",
+        "rank": "15",
         "club": "アラベス",
         "matches": "38",
         "wins": "10",
@@ -824,6 +814,16 @@
         "losses": "16",
         "goals_for_against": "38:48",
         "points": "42"
+      },
+      {
+        "rank": "16",
+        "club": "ジローナ",
+        "matches": "38",
+        "wins": "11",
+        "draws": "8",
+        "losses": "19",
+        "goals_for_against": "44:60",
+        "points": "41"
       },
       {
         "rank": "17",

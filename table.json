@@ -1929,10 +1929,10 @@
         "club": "柏レイソル",
         "matches": "19",
         "wins": "9",
-        "draws": "8",
-        "losses": "2",
-        "goals_for_against": "21:14",
-        "points": "35"
+        "draws": "7",
+        "losses": "3",
+        "goals_for_against": "22:16",
+        "points": "34"
       },
       {
         "rank": "3",
@@ -1968,11 +1968,11 @@
         "rank": "6",
         "club": "ヴィッセル神戸",
         "matches": "18",
-        "wins": "8",
-        "draws": "4",
+        "wins": "9",
+        "draws": "3",
         "losses": "6",
-        "goals_for_against": "20:18",
-        "points": "28"
+        "goals_for_against": "22:19",
+        "points": "30"
       },
       {
         "rank": "7",
@@ -2135,21 +2135,21 @@
         "rank": "2",
         "club": "RB 大宮",
         "matches": "17",
-        "wins": "11",
-        "draws": "3",
+        "wins": "10",
+        "draws": "4",
         "losses": "3",
-        "goals_for_against": "27:13",
-        "points": "36"
+        "goals_for_against": "27:14",
+        "points": "34"
       },
       {
         "rank": "3",
         "club": "ベガルタ仙台",
         "matches": "18",
-        "wins": "10",
-        "draws": "5",
+        "wins": "9",
+        "draws": "6",
         "losses": "3",
-        "goals_for_against": "22:15",
-        "points": "35"
+        "goals_for_against": "22:16",
+        "points": "33"
       },
       {
         "rank": "4",
@@ -2173,6 +2173,16 @@
       },
       {
         "rank": "6",
+        "club": "ジュビロ磐田",
+        "matches": "18",
+        "wins": "8",
+        "draws": "5",
+        "losses": "5",
+        "goals_for_against": "26:24",
+        "points": "29"
+      },
+      {
+        "rank": "7",
         "club": "サガン鳥栖",
         "matches": "18",
         "wins": "8",
@@ -2180,16 +2190,6 @@
         "losses": "5",
         "goals_for_against": "20:19",
         "points": "29"
-      },
-      {
-        "rank": "7",
-        "club": "ジュビロ磐田",
-        "matches": "18",
-        "wins": "8",
-        "draws": "4",
-        "losses": "6",
-        "goals_for_against": "25:24",
-        "points": "28"
       },
       {
         "rank": "8",
@@ -2236,10 +2236,10 @@
         "club": "コンサドーレ札幌",
         "matches": "18",
         "wins": "6",
-        "draws": "2",
-        "losses": "10",
-        "goals_for_against": "19:29",
-        "points": "20"
+        "draws": "3",
+        "losses": "9",
+        "goals_for_against": "20:29",
+        "points": "21"
       },
       {
         "rank": "13",

@@ -1917,12 +1917,12 @@
       {
         "rank": "1",
         "club": "鹿島アントラーズ",
-        "matches": "18",
-        "wins": "12",
+        "matches": "19",
+        "wins": "13",
         "draws": "1",
         "losses": "5",
-        "goals_for_against": "28:15",
-        "points": "37"
+        "goals_for_against": "29:15",
+        "points": "40"
       },
       {
         "rank": "2",
@@ -1931,18 +1931,18 @@
         "wins": "9",
         "draws": "7",
         "losses": "3",
-        "goals_for_against": "22:16",
+        "goals_for_against": "22:17",
         "points": "34"
       },
       {
         "rank": "3",
         "club": "サンフレッチェ広島",
-        "matches": "17",
+        "matches": "18",
         "wins": "10",
-        "draws": "2",
+        "draws": "3",
         "losses": "5",
         "goals_for_against": "19:12",
-        "points": "32"
+        "points": "33"
       },
       {
         "rank": "4",
@@ -1971,18 +1971,18 @@
         "wins": "9",
         "draws": "3",
         "losses": "6",
-        "goals_for_against": "22:19",
+        "goals_for_against": "23:19",
         "points": "30"
       },
       {
         "rank": "7",
         "club": "川崎フロンターレ",
-        "matches": "17",
+        "matches": "18",
         "wins": "6",
-        "draws": "8",
+        "draws": "9",
         "losses": "3",
         "goals_for_against": "28:18",
-        "points": "26"
+        "points": "27"
       },
       {
         "rank": "8",
@@ -2017,11 +2017,11 @@
       {
         "rank": "11",
         "club": "ガンバ大阪",
-        "matches": "18",
+        "matches": "19",
         "wins": "7",
         "draws": "3",
-        "losses": "8",
-        "goals_for_against": "23:26",
+        "losses": "9",
+        "goals_for_against": "23:27",
         "points": "24"
       },
       {
@@ -2164,12 +2164,12 @@
       {
         "rank": "5",
         "club": "徳島ヴォルティス",
-        "matches": "17",
+        "matches": "18",
         "wins": "8",
-        "draws": "5",
+        "draws": "6",
         "losses": "4",
         "goals_for_against": "16:7",
-        "points": "29"
+        "points": "30"
       },
       {
         "rank": "6",
@@ -2204,12 +2204,12 @@
       {
         "rank": "9",
         "club": "FC今治",
-        "matches": "16",
+        "matches": "17",
         "wins": "6",
-        "draws": "7",
+        "draws": "8",
         "losses": "3",
         "goals_for_against": "20:13",
-        "points": "25"
+        "points": "26"
       },
       {
         "rank": "10",

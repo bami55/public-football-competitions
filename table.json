@@ -2481,31 +2481,31 @@
       {
         "rank": "16",
         "club": "高知ユナイテッド",
-        "matches": "13",
+        "matches": "14",
         "wins": "3",
-        "draws": "4",
+        "draws": "5",
         "losses": "6",
         "goals_for_against": "21:25",
-        "points": "13"
+        "points": "14"
       },
       {
         "rank": "17",
+        "club": "FC岐阜",
+        "matches": "14",
+        "wins": "3",
+        "draws": "5",
+        "losses": "6",
+        "goals_for_against": "14:19",
+        "points": "14"
+      },
+      {
+        "rank": "18",
         "club": "FC琉球OKINAWA",
         "matches": "14",
         "wins": "3",
         "draws": "4",
         "losses": "7",
         "goals_for_against": "11:15",
-        "points": "13"
-      },
-      {
-        "rank": "18",
-        "club": "FC岐阜",
-        "matches": "13",
-        "wins": "3",
-        "draws": "4",
-        "losses": "6",
-        "goals_for_against": "14:19",
         "points": "13"
       },
       {

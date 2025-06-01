@@ -1936,6 +1936,16 @@
       },
       {
         "rank": "3",
+        "club": "浦和レッズ",
+        "matches": "21",
+        "wins": "9",
+        "draws": "7",
+        "losses": "5",
+        "goals_for_against": "26:20",
+        "points": "34"
+      },
+      {
+        "rank": "4",
         "club": "柏レイソル",
         "matches": "19",
         "wins": "9",
@@ -1945,23 +1955,13 @@
         "points": "34"
       },
       {
-        "rank": "4",
+        "rank": "5",
         "club": "サンフレッチェ広島",
         "matches": "18",
         "wins": "10",
         "draws": "2",
         "losses": "6",
         "goals_for_against": "20:14",
-        "points": "32"
-      },
-      {
-        "rank": "5",
-        "club": "浦和レッズ",
-        "matches": "21",
-        "wins": "8",
-        "draws": "8",
-        "losses": "5",
-        "goals_for_against": "25:20",
         "points": "32"
       },
       {
@@ -2079,10 +2079,10 @@
         "club": "横浜FC",
         "matches": "19",
         "wins": "5",
-        "draws": "5",
-        "losses": "9",
-        "goals_for_against": "13:19",
-        "points": "20"
+        "draws": "4",
+        "losses": "10",
+        "goals_for_against": "13:20",
+        "points": "19"
       },
       {
         "rank": "18",

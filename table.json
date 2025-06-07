@@ -2331,12 +2331,12 @@
       {
         "rank": "1",
         "club": "FC大阪",
-        "matches": "14",
+        "matches": "15",
         "wins": "10",
-        "draws": "1",
+        "draws": "2",
         "losses": "3",
         "goals_for_against": "21:11",
-        "points": "31"
+        "points": "32"
       },
       {
         "rank": "2",
@@ -2390,6 +2390,16 @@
       },
       {
         "rank": "7",
+        "club": "福島ユナイテッド",
+        "matches": "15",
+        "wins": "6",
+        "draws": "4",
+        "losses": "5",
+        "goals_for_against": "26:30",
+        "points": "22"
+      },
+      {
+        "rank": "8",
         "club": "奈良クラブ",
         "matches": "14",
         "wins": "5",
@@ -2399,7 +2409,7 @@
         "points": "20"
       },
       {
-        "rank": "8",
+        "rank": "9",
         "club": "栃木SC",
         "matches": "14",
         "wins": "5",
@@ -2409,23 +2419,13 @@
         "points": "19"
       },
       {
-        "rank": "9",
-        "club": "松本山雅",
-        "matches": "14",
-        "wins": "5",
-        "draws": "4",
-        "losses": "5",
-        "goals_for_against": "14:17",
-        "points": "19"
-      },
-      {
         "rank": "10",
-        "club": "福島ユナイテッド",
-        "matches": "14",
+        "club": "松本山雅",
+        "matches": "15",
         "wins": "5",
         "draws": "4",
-        "losses": "5",
-        "goals_for_against": "25:30",
+        "losses": "6",
+        "goals_for_against": "14:18",
         "points": "19"
       },
       {
@@ -2441,12 +2441,12 @@
       {
         "rank": "12",
         "club": "カマタマーレ讃岐",
-        "matches": "14",
+        "matches": "15",
         "wins": "4",
-        "draws": "4",
+        "draws": "5",
         "losses": "6",
         "goals_for_against": "12:14",
-        "points": "16"
+        "points": "17"
       },
       {
         "rank": "13",

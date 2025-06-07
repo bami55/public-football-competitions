@@ -2332,11 +2332,11 @@
         "rank": "1",
         "club": "FC大阪",
         "matches": "15",
-        "wins": "10",
-        "draws": "2",
+        "wins": "11",
+        "draws": "1",
         "losses": "3",
-        "goals_for_against": "21:11",
-        "points": "32"
+        "goals_for_against": "22:11",
+        "points": "34"
       },
       {
         "rank": "2",
@@ -2390,16 +2390,6 @@
       },
       {
         "rank": "7",
-        "club": "福島ユナイテッド",
-        "matches": "15",
-        "wins": "6",
-        "draws": "4",
-        "losses": "5",
-        "goals_for_against": "26:30",
-        "points": "22"
-      },
-      {
-        "rank": "8",
         "club": "奈良クラブ",
         "matches": "14",
         "wins": "5",
@@ -2409,23 +2399,33 @@
         "points": "20"
       },
       {
+        "rank": "8",
+        "club": "松本山雅",
+        "matches": "15",
+        "wins": "5",
+        "draws": "5",
+        "losses": "5",
+        "goals_for_against": "15:18",
+        "points": "20"
+      },
+      {
         "rank": "9",
+        "club": "福島ユナイテッド",
+        "matches": "15",
+        "wins": "5",
+        "draws": "5",
+        "losses": "5",
+        "goals_for_against": "26:31",
+        "points": "20"
+      },
+      {
+        "rank": "10",
         "club": "栃木SC",
         "matches": "14",
         "wins": "5",
         "draws": "4",
         "losses": "5",
         "goals_for_against": "8:8",
-        "points": "19"
-      },
-      {
-        "rank": "10",
-        "club": "松本山雅",
-        "matches": "15",
-        "wins": "5",
-        "draws": "4",
-        "losses": "6",
-        "goals_for_against": "14:18",
         "points": "19"
       },
       {
@@ -2443,10 +2443,10 @@
         "club": "カマタマーレ讃岐",
         "matches": "15",
         "wins": "4",
-        "draws": "5",
-        "losses": "6",
-        "goals_for_against": "12:14",
-        "points": "17"
+        "draws": "4",
+        "losses": "7",
+        "goals_for_against": "12:15",
+        "points": "16"
       },
       {
         "rank": "13",

@@ -2381,12 +2381,12 @@
       {
         "rank": "6",
         "club": "ギラヴァンツ北九州",
-        "matches": "15",
+        "matches": "16",
         "wins": "7",
-        "draws": "3",
+        "draws": "4",
         "losses": "5",
         "goals_for_against": "14:9",
-        "points": "24"
+        "points": "25"
       },
       {
         "rank": "7",
@@ -2490,6 +2490,16 @@
       },
       {
         "rank": "17",
+        "club": "アスルクラロ沼津",
+        "matches": "16",
+        "wins": "2",
+        "draws": "9",
+        "losses": "5",
+        "goals_for_against": "13:14",
+        "points": "15"
+      },
+      {
+        "rank": "18",
         "club": "SC相模原",
         "matches": "15",
         "wins": "3",
@@ -2497,16 +2507,6 @@
         "losses": "6",
         "goals_for_against": "16:23",
         "points": "15"
-      },
-      {
-        "rank": "18",
-        "club": "アスルクラロ沼津",
-        "matches": "15",
-        "wins": "2",
-        "draws": "8",
-        "losses": "5",
-        "goals_for_against": "13:14",
-        "points": "14"
       },
       {
         "rank": "19",

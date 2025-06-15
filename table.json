@@ -2198,7 +2198,7 @@
         "wins": "6",
         "draws": "9",
         "losses": "4",
-        "goals_for_against": "21:15",
+        "goals_for_against": "22:16",
         "points": "27"
       },
       {
@@ -2233,33 +2233,33 @@
       },
       {
         "rank": "12",
+        "club": "藤枝MYFC",
+        "matches": "19",
+        "wins": "6",
+        "draws": "4",
+        "losses": "9",
+        "goals_for_against": "22:26",
+        "points": "22"
+      },
+      {
+        "rank": "13",
         "club": "コンサドーレ札幌",
         "matches": "19",
         "wins": "6",
         "draws": "4",
         "losses": "9",
-        "goals_for_against": "20:29",
+        "goals_for_against": "21:30",
         "points": "22"
       },
       {
-        "rank": "13",
+        "rank": "14",
         "club": "いわきFC",
         "matches": "19",
-        "wins": "5",
-        "draws": "6",
+        "wins": "4",
+        "draws": "7",
         "losses": "8",
-        "goals_for_against": "21:26",
-        "points": "21"
-      },
-      {
-        "rank": "14",
-        "club": "藤枝MYFC",
-        "matches": "19",
-        "wins": "5",
-        "draws": "5",
-        "losses": "9",
-        "goals_for_against": "21:26",
-        "points": "20"
+        "goals_for_against": "21:27",
+        "points": "19"
       },
       {
         "rank": "15",
@@ -2273,12 +2273,12 @@
       },
       {
         "rank": "16",
-        "club": "カターレ富山",
+        "club": "レノファ山口",
         "matches": "19",
         "wins": "3",
         "draws": "8",
         "losses": "8",
-        "goals_for_against": "16:20",
+        "goals_for_against": "17:23",
         "points": "17"
       },
       {
@@ -2303,12 +2303,12 @@
       },
       {
         "rank": "19",
-        "club": "レノファ山口",
+        "club": "カターレ富山",
         "matches": "19",
         "wins": "3",
         "draws": "7",
         "losses": "9",
-        "goals_for_against": "16:23",
+        "goals_for_against": "16:21",
         "points": "16"
       },
       {

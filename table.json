@@ -2370,22 +2370,22 @@
       },
       {
         "rank": "5",
-        "club": "ギラヴァンツ北九州",
-        "matches": "17",
-        "wins": "8",
-        "draws": "4",
-        "losses": "5",
-        "goals_for_against": "15:9",
-        "points": "28"
-      },
-      {
-        "rank": "6",
         "club": "鹿児島ユナイテッド",
         "matches": "16",
         "wins": "7",
         "draws": "6",
         "losses": "3",
         "goals_for_against": "29:19",
+        "points": "27"
+      },
+      {
+        "rank": "6",
+        "club": "ギラヴァンツ北九州",
+        "matches": "17",
+        "wins": "8",
+        "draws": "3",
+        "losses": "6",
+        "goals_for_against": "16:11",
         "points": "27"
       },
       {
@@ -2420,6 +2420,16 @@
       },
       {
         "rank": "10",
+        "club": "高知ユナイテッド",
+        "matches": "17",
+        "wins": "5",
+        "draws": "6",
+        "losses": "6",
+        "goals_for_against": "27:29",
+        "points": "21"
+      },
+      {
+        "rank": "11",
         "club": "栃木SC",
         "matches": "16",
         "wins": "5",
@@ -2429,7 +2439,7 @@
         "points": "20"
       },
       {
-        "rank": "11",
+        "rank": "12",
         "club": "ザスパ群馬",
         "matches": "16",
         "wins": "4",
@@ -2439,33 +2449,23 @@
         "points": "19"
       },
       {
-        "rank": "12",
-        "club": "高知ユナイテッド",
+        "rank": "13",
+        "club": "長野パルセイロ",
         "matches": "17",
-        "wins": "4",
-        "draws": "7",
-        "losses": "6",
-        "goals_for_against": "25:28",
+        "wins": "5",
+        "draws": "4",
+        "losses": "8",
+        "goals_for_against": "16:22",
         "points": "19"
       },
       {
-        "rank": "13",
+        "rank": "14",
         "club": "ツエーゲン金沢",
         "matches": "16",
         "wins": "5",
         "draws": "3",
         "losses": "8",
         "goals_for_against": "18:22",
-        "points": "18"
-      },
-      {
-        "rank": "14",
-        "club": "カマタマーレ讃岐",
-        "matches": "17",
-        "wins": "4",
-        "draws": "6",
-        "losses": "7",
-        "goals_for_against": "15:20",
         "points": "18"
       },
       {
@@ -2480,12 +2480,12 @@
       },
       {
         "rank": "16",
-        "club": "長野パルセイロ",
+        "club": "カマタマーレ讃岐",
         "matches": "17",
         "wins": "4",
         "draws": "5",
         "losses": "8",
-        "goals_for_against": "15:22",
+        "goals_for_against": "15:21",
         "points": "17"
       },
       {

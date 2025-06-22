@@ -2331,12 +2331,12 @@
       {
         "rank": "1",
         "club": "FC大阪",
-        "matches": "16",
-        "wins": "11",
+        "matches": "17",
+        "wins": "12",
         "draws": "2",
         "losses": "3",
-        "goals_for_against": "24:11",
-        "points": "35"
+        "goals_for_against": "28:11",
+        "points": "38"
       },
       {
         "rank": "2",
@@ -2362,11 +2362,11 @@
         "rank": "4",
         "club": "ヴァンラーレ八戸",
         "matches": "17",
-        "wins": "8",
-        "draws": "5",
+        "wins": "9",
+        "draws": "4",
         "losses": "4",
-        "goals_for_against": "17:11",
-        "points": "29"
+        "goals_for_against": "19:11",
+        "points": "31"
       },
       {
         "rank": "5",
@@ -2411,11 +2411,11 @@
       {
         "rank": "9",
         "club": "福島ユナイテッド",
-        "matches": "16",
+        "matches": "17",
         "wins": "6",
         "draws": "5",
-        "losses": "5",
-        "goals_for_against": "29:33",
+        "losses": "6",
+        "goals_for_against": "29:37",
         "points": "23"
       },
       {
@@ -2430,16 +2430,6 @@
       },
       {
         "rank": "11",
-        "club": "ザスパ群馬",
-        "matches": "17",
-        "wins": "4",
-        "draws": "8",
-        "losses": "5",
-        "goals_for_against": "24:26",
-        "points": "20"
-      },
-      {
-        "rank": "12",
         "club": "栃木SC",
         "matches": "17",
         "wins": "5",
@@ -2447,6 +2437,16 @@
         "losses": "7",
         "goals_for_against": "11:13",
         "points": "20"
+      },
+      {
+        "rank": "12",
+        "club": "ザスパ群馬",
+        "matches": "17",
+        "wins": "4",
+        "draws": "7",
+        "losses": "6",
+        "goals_for_against": "24:28",
+        "points": "19"
       },
       {
         "rank": "13",

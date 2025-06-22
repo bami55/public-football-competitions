@@ -1941,7 +1941,7 @@
         "wins": "11",
         "draws": "3",
         "losses": "6",
-        "goals_for_against": "22:15",
+        "goals_for_against": "24:15",
         "points": "36"
       },
       {
@@ -2016,6 +2016,16 @@
       },
       {
         "rank": "11",
+        "club": "ガンバ大阪",
+        "matches": "21",
+        "wins": "8",
+        "draws": "4",
+        "losses": "9",
+        "goals_for_against": "24:27",
+        "points": "28"
+      },
+      {
+        "rank": "12",
         "club": "清水エスパルス",
         "matches": "21",
         "wins": "7",
@@ -2025,7 +2035,7 @@
         "points": "27"
       },
       {
-        "rank": "12",
+        "rank": "13",
         "club": "ファジアーノ岡山",
         "matches": "21",
         "wins": "7",
@@ -2033,16 +2043,6 @@
         "losses": "8",
         "goals_for_against": "17:18",
         "points": "27"
-      },
-      {
-        "rank": "13",
-        "club": "ガンバ大阪",
-        "matches": "20",
-        "wins": "7",
-        "draws": "4",
-        "losses": "9",
-        "goals_for_against": "23:27",
-        "points": "25"
       },
       {
         "rank": "14",
@@ -2077,11 +2077,11 @@
       {
         "rank": "17",
         "club": "FC東京",
-        "matches": "19",
+        "matches": "20",
         "wins": "5",
         "draws": "5",
-        "losses": "9",
-        "goals_for_against": "19:28",
+        "losses": "10",
+        "goals_for_against": "19:29",
         "points": "20"
       },
       {
@@ -2101,7 +2101,7 @@
         "wins": "5",
         "draws": "4",
         "losses": "12",
-        "goals_for_against": "13:22",
+        "goals_for_against": "13:24",
         "points": "19"
       },
       {

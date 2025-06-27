@@ -2350,22 +2350,22 @@
       },
       {
         "rank": "3",
+        "club": "ヴァンラーレ八戸",
+        "matches": "18",
+        "wins": "9",
+        "draws": "5",
+        "losses": "4",
+        "goals_for_against": "19:11",
+        "points": "32"
+      },
+      {
+        "rank": "4",
         "club": "テゲバジャーロ宮崎",
         "matches": "17",
         "wins": "8",
         "draws": "7",
         "losses": "2",
         "goals_for_against": "25:17",
-        "points": "31"
-      },
-      {
-        "rank": "4",
-        "club": "ヴァンラーレ八戸",
-        "matches": "17",
-        "wins": "9",
-        "draws": "4",
-        "losses": "4",
-        "goals_for_against": "19:11",
         "points": "31"
       },
       {
@@ -2400,22 +2400,22 @@
       },
       {
         "rank": "8",
+        "club": "福島ユナイテッド",
+        "matches": "18",
+        "wins": "6",
+        "draws": "6",
+        "losses": "6",
+        "goals_for_against": "30:40",
+        "points": "24"
+      },
+      {
+        "rank": "9",
         "club": "松本山雅",
         "matches": "17",
         "wins": "6",
         "draws": "5",
         "losses": "6",
         "goals_for_against": "19:20",
-        "points": "23"
-      },
-      {
-        "rank": "9",
-        "club": "福島ユナイテッド",
-        "matches": "17",
-        "wins": "6",
-        "draws": "5",
-        "losses": "6",
-        "goals_for_against": "30:40",
         "points": "23"
       },
       {

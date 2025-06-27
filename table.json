@@ -2352,11 +2352,11 @@
         "rank": "3",
         "club": "ヴァンラーレ八戸",
         "matches": "18",
-        "wins": "9",
-        "draws": "5",
+        "wins": "10",
+        "draws": "4",
         "losses": "4",
-        "goals_for_against": "19:11",
-        "points": "32"
+        "goals_for_against": "20:11",
+        "points": "34"
       },
       {
         "rank": "4",
@@ -2400,22 +2400,22 @@
       },
       {
         "rank": "8",
-        "club": "福島ユナイテッド",
-        "matches": "18",
-        "wins": "6",
-        "draws": "6",
-        "losses": "6",
-        "goals_for_against": "30:40",
-        "points": "24"
-      },
-      {
-        "rank": "9",
         "club": "松本山雅",
         "matches": "17",
         "wins": "6",
         "draws": "5",
         "losses": "6",
         "goals_for_against": "19:20",
+        "points": "23"
+      },
+      {
+        "rank": "9",
+        "club": "福島ユナイテッド",
+        "matches": "18",
+        "wins": "6",
+        "draws": "5",
+        "losses": "7",
+        "goals_for_against": "30:41",
         "points": "23"
       },
       {

@@ -1991,7 +1991,7 @@
         "wins": "10",
         "draws": "4",
         "losses": "8",
-        "goals_for_against": "28:25",
+        "goals_for_against": "30:25",
         "points": "34"
       },
       {
@@ -2086,22 +2086,22 @@
       },
       {
         "rank": "18",
-        "club": "アルビレックス新潟",
-        "matches": "22",
-        "wins": "4",
-        "draws": "7",
-        "losses": "11",
-        "goals_for_against": "23:35",
-        "points": "19"
-      },
-      {
-        "rank": "19",
         "club": "横浜FC",
         "matches": "22",
         "wins": "5",
         "draws": "4",
         "losses": "13",
         "goals_for_against": "14:27",
+        "points": "19"
+      },
+      {
+        "rank": "19",
+        "club": "アルビレックス新潟",
+        "matches": "22",
+        "wins": "4",
+        "draws": "7",
+        "losses": "11",
+        "goals_for_against": "23:37",
         "points": "19"
       },
       {

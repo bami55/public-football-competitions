@@ -2203,22 +2203,22 @@
       },
       {
         "rank": "9",
+        "club": "コンサドーレ札幌",
+        "matches": "22",
+        "wins": "8",
+        "draws": "5",
+        "losses": "9",
+        "goals_for_against": "28:34",
+        "points": "29"
+      },
+      {
+        "rank": "10",
         "club": "FC今治",
         "matches": "21",
         "wins": "6",
         "draws": "10",
         "losses": "5",
         "goals_for_against": "24:19",
-        "points": "28"
-      },
-      {
-        "rank": "10",
-        "club": "コンサドーレ札幌",
-        "matches": "21",
-        "wins": "8",
-        "draws": "4",
-        "losses": "9",
-        "goals_for_against": "28:34",
         "points": "28"
       },
       {
@@ -2294,12 +2294,12 @@
       {
         "rank": "18",
         "club": "レノファ山口",
-        "matches": "21",
+        "matches": "22",
         "wins": "3",
-        "draws": "9",
+        "draws": "10",
         "losses": "9",
         "goals_for_against": "19:27",
-        "points": "18"
+        "points": "19"
       },
       {
         "rank": "19",

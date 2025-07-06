@@ -2268,7 +2268,7 @@
         "wins": "6",
         "draws": "5",
         "losses": "11",
-        "goals_for_against": "29:33",
+        "goals_for_against": "31:34",
         "points": "23"
       },
       {
@@ -2318,7 +2318,7 @@
         "wins": "2",
         "draws": "10",
         "losses": "10",
-        "goals_for_against": "22:37",
+        "goals_for_against": "23:39",
         "points": "16"
       }
     ]
@@ -2470,26 +2470,16 @@
       },
       {
         "rank": "15",
-        "club": "FC岐阜",
-        "matches": "19",
-        "wins": "5",
-        "draws": "5",
-        "losses": "9",
-        "goals_for_against": "22:28",
-        "points": "20"
-      },
-      {
-        "rank": "16",
         "club": "SC相模原",
         "matches": "19",
         "wins": "4",
-        "draws": "8",
-        "losses": "7",
-        "goals_for_against": "19:25",
-        "points": "20"
+        "draws": "9",
+        "losses": "6",
+        "goals_for_against": "20:25",
+        "points": "21"
       },
       {
-        "rank": "17",
+        "rank": "16",
         "club": "長野パルセイロ",
         "matches": "19",
         "wins": "5",
@@ -2499,7 +2489,7 @@
         "points": "20"
       },
       {
-        "rank": "18",
+        "rank": "17",
         "club": "FC琉球OKINAWA",
         "matches": "19",
         "wins": "5",
@@ -2507,6 +2497,16 @@
         "losses": "10",
         "goals_for_against": "16:22",
         "points": "19"
+      },
+      {
+        "rank": "18",
+        "club": "FC岐阜",
+        "matches": "19",
+        "wins": "4",
+        "draws": "6",
+        "losses": "9",
+        "goals_for_against": "22:29",
+        "points": "18"
       },
       {
         "rank": "19",

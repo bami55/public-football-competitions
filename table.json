@@ -2183,16 +2183,6 @@
       },
       {
         "rank": "7",
-        "club": "ジュビロ磐田",
-        "matches": "22",
-        "wins": "10",
-        "draws": "6",
-        "losses": "6",
-        "goals_for_against": "31:25",
-        "points": "36"
-      },
-      {
-        "rank": "8",
         "club": "サガン鳥栖",
         "matches": "22",
         "wins": "10",
@@ -2200,6 +2190,16 @@
         "losses": "6",
         "goals_for_against": "23:20",
         "points": "36"
+      },
+      {
+        "rank": "8",
+        "club": "ジュビロ磐田",
+        "matches": "22",
+        "wins": "10",
+        "draws": "5",
+        "losses": "7",
+        "goals_for_against": "31:27",
+        "points": "35"
       },
       {
         "rank": "9",
@@ -2283,6 +2283,16 @@
       },
       {
         "rank": "17",
+        "club": "ロアッソ熊本",
+        "matches": "22",
+        "wins": "5",
+        "draws": "6",
+        "losses": "11",
+        "goals_for_against": "24:33",
+        "points": "21"
+      },
+      {
+        "rank": "18",
         "club": "ブラウブリッツ秋田",
         "matches": "22",
         "wins": "6",
@@ -2290,16 +2300,6 @@
         "losses": "13",
         "goals_for_against": "25:40",
         "points": "21"
-      },
-      {
-        "rank": "18",
-        "club": "ロアッソ熊本",
-        "matches": "22",
-        "wins": "4",
-        "draws": "7",
-        "losses": "11",
-        "goals_for_against": "22:33",
-        "points": "19"
       },
       {
         "rank": "19",

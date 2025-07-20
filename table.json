@@ -1921,7 +1921,7 @@
         "wins": "14",
         "draws": "4",
         "losses": "6",
-        "goals_for_against": "33:21",
+        "goals_for_against": "34:22",
         "points": "46"
       },
       {
@@ -1979,10 +1979,10 @@
         "club": "川崎フロンターレ",
         "matches": "24",
         "wins": "10",
-        "draws": "9",
-        "losses": "5",
-        "goals_for_against": "38:25",
-        "points": "39"
+        "draws": "8",
+        "losses": "6",
+        "goals_for_against": "38:26",
+        "points": "38"
       },
       {
         "rank": "8",
@@ -2008,11 +2008,11 @@
         "rank": "10",
         "club": "ガンバ大阪",
         "matches": "24",
-        "wins": "9",
-        "draws": "5",
+        "wins": "10",
+        "draws": "4",
         "losses": "10",
-        "goals_for_against": "28:31",
-        "points": "32"
+        "goals_for_against": "29:31",
+        "points": "34"
       },
       {
         "rank": "11",
@@ -2021,11 +2021,11 @@
         "wins": "8",
         "draws": "6",
         "losses": "10",
-        "goals_for_against": "19:21",
+        "goals_for_against": "20:22",
         "points": "30"
       },
       {
-        "rank": "11",
+        "rank": "12",
         "club": "アビスパ福岡",
         "matches": "22",
         "wins": "8",
@@ -2061,7 +2061,7 @@
         "wins": "7",
         "draws": "7",
         "losses": "10",
-        "goals_for_against": "28:32",
+        "goals_for_against": "28:33",
         "points": "28"
       },
       {
@@ -2091,7 +2091,7 @@
         "wins": "5",
         "draws": "6",
         "losses": "13",
-        "goals_for_against": "22:32",
+        "goals_for_against": "23:32",
         "points": "21"
       },
       {
@@ -2460,12 +2460,12 @@
       },
       {
         "rank": "14",
-        "club": "栃木SC",
+        "club": "SC相模原",
         "matches": "21",
-        "wins": "6",
-        "draws": "6",
-        "losses": "9",
-        "goals_for_against": "16:20",
+        "wins": "5",
+        "draws": "9",
+        "losses": "7",
+        "goals_for_against": "22:27",
         "points": "24"
       },
       {
@@ -2490,13 +2490,13 @@
       },
       {
         "rank": "17",
-        "club": "SC相模原",
+        "club": "栃木SC",
         "matches": "21",
-        "wins": "4",
-        "draws": "10",
-        "losses": "7",
-        "goals_for_against": "21:27",
-        "points": "22"
+        "wins": "6",
+        "draws": "5",
+        "losses": "10",
+        "goals_for_against": "16:21",
+        "points": "23"
       },
       {
         "rank": "18",

@@ -1946,6 +1946,16 @@
       },
       {
         "rank": "4",
+        "club": "京都サンガ",
+        "matches": "24",
+        "wins": "12",
+        "draws": "6",
+        "losses": "6",
+        "goals_for_against": "38:27",
+        "points": "42"
+      },
+      {
+        "rank": "5",
         "club": "サンフレッチェ広島",
         "matches": "24",
         "wins": "13",
@@ -1953,16 +1963,6 @@
         "losses": "8",
         "goals_for_against": "29:18",
         "points": "42"
-      },
-      {
-        "rank": "5",
-        "club": "京都サンガ",
-        "matches": "23",
-        "wins": "12",
-        "draws": "5",
-        "losses": "6",
-        "goals_for_against": "38:27",
-        "points": "41"
       },
       {
         "rank": "6",
@@ -2016,22 +2016,22 @@
       },
       {
         "rank": "11",
+        "club": "アビスパ福岡",
+        "matches": "23",
+        "wins": "8",
+        "draws": "7",
+        "losses": "8",
+        "goals_for_against": "19:21",
+        "points": "31"
+      },
+      {
+        "rank": "12",
         "club": "ファジアーノ岡山",
         "matches": "24",
         "wins": "8",
         "draws": "6",
         "losses": "10",
         "goals_for_against": "20:22",
-        "points": "30"
-      },
-      {
-        "rank": "12",
-        "club": "アビスパ福岡",
-        "matches": "22",
-        "wins": "8",
-        "draws": "6",
-        "losses": "8",
-        "goals_for_against": "19:21",
         "points": "30"
       },
       {

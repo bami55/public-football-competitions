@@ -2156,10 +2156,10 @@
         "club": "サガン鳥栖",
         "matches": "24",
         "wins": "11",
-        "draws": "7",
-        "losses": "6",
-        "goals_for_against": "25:21",
-        "points": "40"
+        "draws": "6",
+        "losses": "7",
+        "goals_for_against": "25:22",
+        "points": "39"
       },
       {
         "rank": "5",
@@ -2203,22 +2203,22 @@
       },
       {
         "rank": "9",
+        "club": "コンサドーレ札幌",
+        "matches": "24",
+        "wins": "10",
+        "draws": "4",
+        "losses": "10",
+        "goals_for_against": "31:39",
+        "points": "34"
+      },
+      {
+        "rank": "10",
         "club": "ヴァンフォーレ甲府",
         "matches": "23",
         "wins": "8",
         "draws": "8",
         "losses": "7",
         "goals_for_against": "23:20",
-        "points": "32"
-      },
-      {
-        "rank": "10",
-        "club": "コンサドーレ札幌",
-        "matches": "24",
-        "wins": "9",
-        "draws": "5",
-        "losses": "10",
-        "goals_for_against": "30:39",
         "points": "32"
       },
       {

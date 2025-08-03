@@ -2125,11 +2125,11 @@
         "rank": "1",
         "club": "水戸ホーリーホック",
         "matches": "24",
-        "wins": "15",
+        "wins": "14",
         "draws": "6",
-        "losses": "3",
-        "goals_for_against": "37:17",
-        "points": "51"
+        "losses": "4",
+        "goals_for_against": "37:19",
+        "points": "48"
       },
       {
         "rank": "2",
@@ -2283,6 +2283,16 @@
       },
       {
         "rank": "17",
+        "club": "ロアッソ熊本",
+        "matches": "24",
+        "wins": "6",
+        "draws": "6",
+        "losses": "12",
+        "goals_for_against": "28:37",
+        "points": "24"
+      },
+      {
+        "rank": "18",
         "club": "カターレ富山",
         "matches": "24",
         "wins": "5",
@@ -2290,16 +2300,6 @@
         "losses": "12",
         "goals_for_against": "19:29",
         "points": "22"
-      },
-      {
-        "rank": "18",
-        "club": "ロアッソ熊本",
-        "matches": "24",
-        "wins": "5",
-        "draws": "6",
-        "losses": "13",
-        "goals_for_against": "26:37",
-        "points": "21"
       },
       {
         "rank": "19",

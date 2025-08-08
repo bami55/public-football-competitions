@@ -1440,7 +1440,7 @@
         "wins": "1",
         "draws": "0",
         "losses": "0",
-        "goals_for_against": "1:0",
+        "goals_for_against": "2:0",
         "points": "3"
       },
       {
@@ -1610,7 +1610,7 @@
         "wins": "0",
         "draws": "0",
         "losses": "1",
-        "goals_for_against": "0:1",
+        "goals_for_against": "0:2",
         "points": "0"
       }
     ]

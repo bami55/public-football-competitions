@@ -1455,6 +1455,16 @@
       },
       {
         "rank": "3",
+        "club": "アロウカ",
+        "matches": "1",
+        "wins": "1",
+        "draws": "0",
+        "losses": "0",
+        "goals_for_against": "1:0",
+        "points": "3"
+      },
+      {
+        "rank": "4",
         "club": "ベンフィカ",
         "matches": "0",
         "wins": "0",
@@ -1464,7 +1474,7 @@
         "points": "0"
       },
       {
-        "rank": "3",
+        "rank": "4",
         "club": "FCポルト",
         "matches": "0",
         "wins": "0",
@@ -1474,7 +1484,7 @@
         "points": "0"
       },
       {
-        "rank": "3",
+        "rank": "4",
         "club": "SCブラガ",
         "matches": "0",
         "wins": "0",
@@ -1484,7 +1494,7 @@
         "points": "0"
       },
       {
-        "rank": "3",
+        "rank": "4",
         "club": "サンタ・クララ",
         "matches": "0",
         "wins": "0",
@@ -1494,7 +1504,7 @@
         "points": "0"
       },
       {
-        "rank": "3",
+        "rank": "4",
         "club": "ヴィトーリアSC",
         "matches": "0",
         "wins": "0",
@@ -1504,7 +1514,7 @@
         "points": "0"
       },
       {
-        "rank": "3",
+        "rank": "4",
         "club": "ファマリカン",
         "matches": "0",
         "wins": "0",
@@ -1514,7 +1524,7 @@
         "points": "0"
       },
       {
-        "rank": "3",
+        "rank": "4",
         "club": "エストリル・プライア",
         "matches": "0",
         "wins": "0",
@@ -1524,7 +1534,7 @@
         "points": "0"
       },
       {
-        "rank": "3",
+        "rank": "4",
         "club": "モレイレンセ",
         "matches": "0",
         "wins": "0",
@@ -1534,7 +1544,7 @@
         "points": "0"
       },
       {
-        "rank": "3",
+        "rank": "4",
         "club": "リオ・アヴェ",
         "matches": "0",
         "wins": "0",
@@ -1544,17 +1554,7 @@
         "points": "0"
       },
       {
-        "rank": "3",
-        "club": "アロウカ",
-        "matches": "0",
-        "wins": "0",
-        "draws": "0",
-        "losses": "0",
-        "goals_for_against": "0:0",
-        "points": "0"
-      },
-      {
-        "rank": "3",
+        "rank": "4",
         "club": "CFエストレラ",
         "matches": "0",
         "wins": "0",
@@ -1564,17 +1564,7 @@
         "points": "0"
       },
       {
-        "rank": "3",
-        "club": "AVS",
-        "matches": "0",
-        "wins": "0",
-        "draws": "0",
-        "losses": "0",
-        "goals_for_against": "0:0",
-        "points": "0"
-      },
-      {
-        "rank": "3",
+        "rank": "4",
         "club": "トンデラ",
         "matches": "0",
         "wins": "0",
@@ -1584,13 +1574,23 @@
         "points": "0"
       },
       {
-        "rank": "3",
+        "rank": "4",
         "club": "Alverca",
         "matches": "0",
         "wins": "0",
         "draws": "0",
         "losses": "0",
         "goals_for_against": "0:0",
+        "points": "0"
+      },
+      {
+        "rank": "16",
+        "club": "AVS",
+        "matches": "1",
+        "wins": "0",
+        "draws": "0",
+        "losses": "1",
+        "goals_for_against": "0:1",
         "points": "0"
       },
       {

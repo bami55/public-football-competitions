@@ -2183,6 +2183,16 @@
       },
       {
         "rank": "7",
+        "club": "ジュビロ磐田",
+        "matches": "25",
+        "wins": "11",
+        "draws": "6",
+        "losses": "8",
+        "goals_for_against": "37:32",
+        "points": "39"
+      },
+      {
+        "rank": "8",
         "club": "サガン鳥栖",
         "matches": "24",
         "wins": "11",
@@ -2190,16 +2200,6 @@
         "losses": "7",
         "goals_for_against": "25:22",
         "points": "39"
-      },
-      {
-        "rank": "8",
-        "club": "ジュビロ磐田",
-        "matches": "24",
-        "wins": "11",
-        "draws": "5",
-        "losses": "8",
-        "goals_for_against": "37:32",
-        "points": "38"
       },
       {
         "rank": "9",
@@ -2243,6 +2243,16 @@
       },
       {
         "rank": "13",
+        "club": "いわきFC",
+        "matches": "25",
+        "wins": "6",
+        "draws": "10",
+        "losses": "9",
+        "goals_for_against": "30:34",
+        "points": "28"
+      },
+      {
+        "rank": "14",
         "club": "大分トリニータ",
         "matches": "25",
         "wins": "6",
@@ -2252,7 +2262,7 @@
         "points": "28"
       },
       {
-        "rank": "14",
+        "rank": "15",
         "club": "ブラウブリッツ秋田",
         "matches": "25",
         "wins": "8",
@@ -2260,16 +2270,6 @@
         "losses": "13",
         "goals_for_against": "32:43",
         "points": "28"
-      },
-      {
-        "rank": "15",
-        "club": "いわきFC",
-        "matches": "24",
-        "wins": "6",
-        "draws": "9",
-        "losses": "9",
-        "goals_for_against": "30:34",
-        "points": "27"
       },
       {
         "rank": "16",

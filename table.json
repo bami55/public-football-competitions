@@ -1487,24 +1487,14 @@
         "rank": "6",
         "club": "モレイレンセ",
         "matches": "1",
-        "wins": "0",
-        "draws": "1",
+        "wins": "1",
+        "draws": "0",
         "losses": "0",
-        "goals_for_against": "1:1",
-        "points": "1"
+        "goals_for_against": "2:1",
+        "points": "3"
       },
       {
-        "rank": "6",
-        "club": "Alverca",
-        "matches": "1",
-        "wins": "0",
-        "draws": "1",
-        "losses": "0",
-        "goals_for_against": "1:1",
-        "points": "1"
-      },
-      {
-        "rank": "8",
+        "rank": "7",
         "club": "ベンフィカ",
         "matches": "0",
         "wins": "0",
@@ -1514,7 +1504,7 @@
         "points": "0"
       },
       {
-        "rank": "8",
+        "rank": "7",
         "club": "FCポルト",
         "matches": "0",
         "wins": "0",
@@ -1524,7 +1514,7 @@
         "points": "0"
       },
       {
-        "rank": "8",
+        "rank": "7",
         "club": "ヴィトーリアSC",
         "matches": "0",
         "wins": "0",
@@ -1534,7 +1524,7 @@
         "points": "0"
       },
       {
-        "rank": "8",
+        "rank": "7",
         "club": "エストリル・プライア",
         "matches": "0",
         "wins": "0",
@@ -1544,7 +1534,7 @@
         "points": "0"
       },
       {
-        "rank": "8",
+        "rank": "7",
         "club": "リオ・アヴェ",
         "matches": "0",
         "wins": "0",
@@ -1554,13 +1544,23 @@
         "points": "0"
       },
       {
-        "rank": "8",
+        "rank": "7",
         "club": "CFエストレラ",
         "matches": "0",
         "wins": "0",
         "draws": "0",
         "losses": "0",
         "goals_for_against": "0:0",
+        "points": "0"
+      },
+      {
+        "rank": "13",
+        "club": "Alverca",
+        "matches": "1",
+        "wins": "0",
+        "draws": "0",
+        "losses": "1",
+        "goals_for_against": "1:2",
         "points": "0"
       },
       {

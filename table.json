@@ -1916,32 +1916,32 @@
     "results": [
       {
         "rank": "1",
+        "club": "柏レイソル",
+        "matches": "25",
+        "wins": "13",
+        "draws": "8",
+        "losses": "4",
+        "goals_for_against": "34:23",
+        "points": "47"
+      },
+      {
+        "rank": "2",
         "club": "ヴィッセル神戸",
         "matches": "25",
         "wins": "14",
         "draws": "4",
         "losses": "7",
-        "goals_for_against": "34:23",
+        "goals_for_against": "34:24",
         "points": "46"
       },
       {
-        "rank": "2",
+        "rank": "3",
         "club": "鹿島アントラーズ",
         "matches": "25",
         "wins": "14",
         "draws": "3",
         "losses": "8",
         "goals_for_against": "36:24",
-        "points": "45"
-      },
-      {
-        "rank": "3",
-        "club": "柏レイソル",
-        "matches": "25",
-        "wins": "12",
-        "draws": "9",
-        "losses": "4",
-        "goals_for_against": "33:23",
         "points": "45"
       },
       {
@@ -1956,22 +1956,22 @@
       },
       {
         "rank": "5",
+        "club": "町田ゼルビア",
+        "matches": "25",
+        "wins": "13",
+        "draws": "4",
+        "losses": "8",
+        "goals_for_against": "36:25",
+        "points": "43"
+      },
+      {
+        "rank": "6",
         "club": "サンフレッチェ広島",
         "matches": "25",
         "wins": "13",
         "draws": "4",
         "losses": "8",
         "goals_for_against": "29:18",
-        "points": "43"
-      },
-      {
-        "rank": "6",
-        "club": "町田ゼルビア",
-        "matches": "25",
-        "wins": "13",
-        "draws": "4",
-        "losses": "8",
-        "goals_for_against": "35:25",
         "points": "43"
       },
       {
@@ -2021,7 +2021,7 @@
         "wins": "10",
         "draws": "4",
         "losses": "11",
-        "goals_for_against": "29:32",
+        "goals_for_against": "29:33",
         "points": "34"
       },
       {
@@ -2031,7 +2031,7 @@
         "wins": "9",
         "draws": "6",
         "losses": "10",
-        "goals_for_against": "21:22",
+        "goals_for_against": "22:22",
         "points": "33"
       },
       {
@@ -2079,10 +2079,10 @@
         "club": "湘南ベルマーレ",
         "matches": "25",
         "wins": "6",
-        "draws": "7",
-        "losses": "12",
-        "goals_for_against": "20:37",
-        "points": "25"
+        "draws": "6",
+        "losses": "13",
+        "goals_for_against": "20:38",
+        "points": "24"
       },
       {
         "rank": "18",
@@ -2128,7 +2128,7 @@
         "wins": "15",
         "draws": "6",
         "losses": "4",
-        "goals_for_against": "38:19",
+        "goals_for_against": "39:19",
         "points": "51"
       },
       {
@@ -2143,22 +2143,22 @@
       },
       {
         "rank": "3",
-        "club": "ベガルタ仙台",
+        "club": "徳島ヴォルティス",
         "matches": "25",
-        "wins": "11",
-        "draws": "10",
-        "losses": "4",
-        "goals_for_against": "28:21",
-        "points": "43"
+        "wins": "12",
+        "draws": "8",
+        "losses": "5",
+        "goals_for_against": "25:13",
+        "points": "44"
       },
       {
         "rank": "4",
-        "club": "徳島ヴォルティス",
+        "club": "ベガルタ仙台",
         "matches": "25",
         "wins": "11",
         "draws": "9",
         "losses": "5",
-        "goals_for_against": "24:13",
+        "goals_for_against": "28:22",
         "points": "42"
       },
       {
@@ -2198,7 +2198,7 @@
         "wins": "11",
         "draws": "5",
         "losses": "9",
-        "goals_for_against": "37:34",
+        "goals_for_against": "38:35",
         "points": "38"
       },
       {
@@ -2238,7 +2238,7 @@
         "wins": "7",
         "draws": "9",
         "losses": "9",
-        "goals_for_against": "32:34",
+        "goals_for_against": "33:35",
         "points": "30"
       },
       {
@@ -2278,7 +2278,7 @@
         "wins": "7",
         "draws": "5",
         "losses": "13",
-        "goals_for_against": "34:37",
+        "goals_for_against": "34:38",
         "points": "26"
       },
       {

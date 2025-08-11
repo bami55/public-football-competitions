@@ -1435,6 +1435,16 @@
     "results": [
       {
         "rank": "1",
+        "club": "FCポルト",
+        "matches": "1",
+        "wins": "1",
+        "draws": "0",
+        "losses": "0",
+        "goals_for_against": "3:0",
+        "points": "3"
+      },
+      {
+        "rank": "1",
         "club": "SCブラガ",
         "matches": "1",
         "wins": "1",
@@ -1454,7 +1464,7 @@
         "points": "3"
       },
       {
-        "rank": "3",
+        "rank": "4",
         "club": "アロウカ",
         "matches": "1",
         "wins": "1",
@@ -1464,7 +1474,7 @@
         "points": "3"
       },
       {
-        "rank": "4",
+        "rank": "5",
         "club": "スポルティングCP",
         "matches": "1",
         "wins": "1",
@@ -1474,17 +1484,7 @@
         "points": "3"
       },
       {
-        "rank": "4",
-        "club": "FCポルト",
-        "matches": "1",
-        "wins": "1",
-        "draws": "0",
-        "losses": "0",
-        "goals_for_against": "2:0",
-        "points": "3"
-      },
-      {
-        "rank": "4",
+        "rank": "5",
         "club": "ジル・ヴィセンテ",
         "matches": "1",
         "wins": "1",
@@ -1565,16 +1565,6 @@
       },
       {
         "rank": "14",
-        "club": "ヴィトーリアSC",
-        "matches": "1",
-        "wins": "0",
-        "draws": "0",
-        "losses": "1",
-        "goals_for_against": "0:2",
-        "points": "0"
-      },
-      {
-        "rank": "14",
         "club": "カーザ・ピア",
         "matches": "1",
         "wins": "0",
@@ -1594,7 +1584,7 @@
         "points": "0"
       },
       {
-        "rank": "17",
+        "rank": "16",
         "club": "サンタ・クララ",
         "matches": "1",
         "wins": "0",
@@ -1604,7 +1594,17 @@
         "points": "0"
       },
       {
-        "rank": "17",
+        "rank": "16",
+        "club": "ヴィトーリアSC",
+        "matches": "1",
+        "wins": "0",
+        "draws": "0",
+        "losses": "1",
+        "goals_for_against": "0:3",
+        "points": "0"
+      },
+      {
+        "rank": "16",
         "club": "トンデラ",
         "matches": "1",
         "wins": "0",

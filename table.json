@@ -1510,7 +1510,7 @@
         "wins": "1",
         "draws": "0",
         "losses": "1",
-        "goals_for_against": "1:2",
+        "goals_for_against": "2:2",
         "points": "3"
       },
       {
@@ -1575,16 +1575,6 @@
       },
       {
         "rank": "15",
-        "club": "AVS",
-        "matches": "2",
-        "wins": "0",
-        "draws": "0",
-        "losses": "2",
-        "goals_for_against": "1:4",
-        "points": "0"
-      },
-      {
-        "rank": "16",
         "club": "サンタ・クララ",
         "matches": "1",
         "wins": "0",
@@ -1594,7 +1584,7 @@
         "points": "0"
       },
       {
-        "rank": "16",
+        "rank": "15",
         "club": "ヴィトーリアSC",
         "matches": "1",
         "wins": "0",
@@ -1604,13 +1594,23 @@
         "points": "0"
       },
       {
-        "rank": "16",
+        "rank": "15",
         "club": "トンデラ",
         "matches": "1",
         "wins": "0",
         "draws": "0",
         "losses": "1",
         "goals_for_against": "0:3",
+        "points": "0"
+      },
+      {
+        "rank": "18",
+        "club": "AVS",
+        "matches": "2",
+        "wins": "0",
+        "draws": "0",
+        "losses": "2",
+        "goals_for_against": "1:5",
         "points": "0"
       }
     ]

@@ -1435,6 +1435,16 @@
     "results": [
       {
         "rank": "1",
+        "club": "ファマリカン",
+        "matches": "2",
+        "wins": "1",
+        "draws": "1",
+        "losses": "0",
+        "goals_for_against": "3:0",
+        "points": "4"
+      },
+      {
+        "rank": "2",
         "club": "FCポルト",
         "matches": "1",
         "wins": "1",
@@ -1444,18 +1454,8 @@
         "points": "3"
       },
       {
-        "rank": "1",
+        "rank": "2",
         "club": "SCブラガ",
-        "matches": "1",
-        "wins": "1",
-        "draws": "0",
-        "losses": "0",
-        "goals_for_against": "3:0",
-        "points": "3"
-      },
-      {
-        "rank": "1",
-        "club": "ファマリカン",
         "matches": "1",
         "wins": "1",
         "draws": "0",
@@ -1535,6 +1535,16 @@
       },
       {
         "rank": "11",
+        "club": "トンデラ",
+        "matches": "2",
+        "wins": "0",
+        "draws": "1",
+        "losses": "1",
+        "goals_for_against": "0:3",
+        "points": "1"
+      },
+      {
+        "rank": "12",
         "club": "ベンフィカ",
         "matches": "0",
         "wins": "0",
@@ -1544,7 +1554,7 @@
         "points": "0"
       },
       {
-        "rank": "11",
+        "rank": "12",
         "club": "リオ・アヴェ",
         "matches": "0",
         "wins": "0",
@@ -1554,7 +1564,7 @@
         "points": "0"
       },
       {
-        "rank": "13",
+        "rank": "14",
         "club": "Alverca",
         "matches": "1",
         "wins": "0",
@@ -1564,7 +1574,7 @@
         "points": "0"
       },
       {
-        "rank": "14",
+        "rank": "15",
         "club": "ナシオナル",
         "matches": "1",
         "wins": "0",
@@ -1574,7 +1584,7 @@
         "points": "0"
       },
       {
-        "rank": "15",
+        "rank": "16",
         "club": "サンタ・クララ",
         "matches": "1",
         "wins": "0",
@@ -1584,18 +1594,8 @@
         "points": "0"
       },
       {
-        "rank": "15",
+        "rank": "16",
         "club": "ヴィトーリアSC",
-        "matches": "1",
-        "wins": "0",
-        "draws": "0",
-        "losses": "1",
-        "goals_for_against": "0:3",
-        "points": "0"
-      },
-      {
-        "rank": "15",
-        "club": "トンデラ",
         "matches": "1",
         "wins": "0",
         "draws": "0",

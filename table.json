@@ -2224,12 +2224,12 @@
       {
         "rank": "11",
         "club": "コンサドーレ札幌",
-        "matches": "25",
+        "matches": "26",
         "wins": "10",
-        "draws": "4",
+        "draws": "5",
         "losses": "11",
         "goals_for_against": "32:41",
-        "points": "34"
+        "points": "35"
       },
       {
         "rank": "12",
@@ -2253,22 +2253,22 @@
       },
       {
         "rank": "14",
+        "club": "ブラウブリッツ秋田",
+        "matches": "26",
+        "wins": "8",
+        "draws": "5",
+        "losses": "13",
+        "goals_for_against": "32:43",
+        "points": "29"
+      },
+      {
+        "rank": "15",
         "club": "大分トリニータ",
         "matches": "25",
         "wins": "6",
         "draws": "10",
         "losses": "9",
         "goals_for_against": "22:26",
-        "points": "28"
-      },
-      {
-        "rank": "15",
-        "club": "ブラウブリッツ秋田",
-        "matches": "25",
-        "wins": "8",
-        "draws": "4",
-        "losses": "13",
-        "goals_for_against": "32:43",
         "points": "28"
       },
       {

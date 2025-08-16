@@ -1505,6 +1505,16 @@
       },
       {
         "rank": "8",
+        "club": "ベンフィカ",
+        "matches": "1",
+        "wins": "1",
+        "draws": "0",
+        "losses": "0",
+        "goals_for_against": "1:0",
+        "points": "3"
+      },
+      {
+        "rank": "9",
         "club": "カーザ・ピア",
         "matches": "2",
         "wins": "1",
@@ -1514,7 +1524,7 @@
         "points": "3"
       },
       {
-        "rank": "9",
+        "rank": "10",
         "club": "ヴィトーリアSC",
         "matches": "2",
         "wins": "1",
@@ -1524,33 +1534,23 @@
         "points": "3"
       },
       {
-        "rank": "10",
-        "club": "CFエストレラ",
-        "matches": "2",
-        "wins": "0",
-        "draws": "2",
-        "losses": "0",
-        "goals_for_against": "1:1",
-        "points": "2"
-      },
-      {
         "rank": "11",
-        "club": "ベンフィカ",
-        "matches": "1",
-        "wins": "0",
-        "draws": "1",
-        "losses": "0",
-        "goals_for_against": "0:0",
-        "points": "1"
-      },
-      {
-        "rank": "12",
         "club": "エストリル・プライア",
         "matches": "2",
         "wins": "0",
         "draws": "1",
         "losses": "1",
         "goals_for_against": "3:4",
+        "points": "1"
+      },
+      {
+        "rank": "12",
+        "club": "CFエストレラ",
+        "matches": "2",
+        "wins": "0",
+        "draws": "1",
+        "losses": "1",
+        "goals_for_against": "1:2",
         "points": "1"
       },
       {

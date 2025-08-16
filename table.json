@@ -1526,15 +1526,25 @@
       {
         "rank": "10",
         "club": "CFエストレラ",
+        "matches": "2",
+        "wins": "0",
+        "draws": "2",
+        "losses": "0",
+        "goals_for_against": "1:1",
+        "points": "2"
+      },
+      {
+        "rank": "11",
+        "club": "ベンフィカ",
         "matches": "1",
         "wins": "0",
         "draws": "1",
         "losses": "0",
-        "goals_for_against": "1:1",
+        "goals_for_against": "0:0",
         "points": "1"
       },
       {
-        "rank": "11",
+        "rank": "12",
         "club": "エストリル・プライア",
         "matches": "2",
         "wins": "0",
@@ -1544,17 +1554,7 @@
         "points": "1"
       },
       {
-        "rank": "12",
-        "club": "ベンフィカ",
-        "matches": "0",
-        "wins": "0",
-        "draws": "0",
-        "losses": "0",
-        "goals_for_against": "0:0",
-        "points": "0"
-      },
-      {
-        "rank": "12",
+        "rank": "13",
         "club": "リオ・アヴェ",
         "matches": "0",
         "wins": "0",

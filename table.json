@@ -2226,13 +2226,23 @@
         "club": "コンサドーレ札幌",
         "matches": "26",
         "wins": "10",
-        "draws": "5",
-        "losses": "11",
-        "goals_for_against": "32:41",
-        "points": "35"
+        "draws": "4",
+        "losses": "12",
+        "goals_for_against": "32:43",
+        "points": "34"
       },
       {
         "rank": "12",
+        "club": "ブラウブリッツ秋田",
+        "matches": "26",
+        "wins": "9",
+        "draws": "4",
+        "losses": "13",
+        "goals_for_against": "34:43",
+        "points": "31"
+      },
+      {
+        "rank": "13",
         "club": "いわきFC",
         "matches": "25",
         "wins": "7",
@@ -2242,23 +2252,13 @@
         "points": "30"
       },
       {
-        "rank": "13",
+        "rank": "14",
         "club": "藤枝MYFC",
         "matches": "25",
         "wins": "7",
         "draws": "8",
         "losses": "10",
         "goals_for_against": "28:32",
-        "points": "29"
-      },
-      {
-        "rank": "14",
-        "club": "ブラウブリッツ秋田",
-        "matches": "26",
-        "wins": "8",
-        "draws": "5",
-        "losses": "13",
-        "goals_for_against": "32:43",
         "points": "29"
       },
       {

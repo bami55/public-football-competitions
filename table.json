@@ -1515,13 +1515,13 @@
       },
       {
         "rank": "9",
-        "club": "エストリル・プライア",
+        "club": "ヴィトーリアSC",
         "matches": "2",
-        "wins": "0",
-        "draws": "2",
-        "losses": "0",
-        "goals_for_against": "1:1",
-        "points": "2"
+        "wins": "1",
+        "draws": "0",
+        "losses": "1",
+        "goals_for_against": "2:4",
+        "points": "3"
       },
       {
         "rank": "10",
@@ -1535,12 +1535,12 @@
       },
       {
         "rank": "11",
-        "club": "ヴィトーリアSC",
+        "club": "エストリル・プライア",
         "matches": "2",
         "wins": "0",
         "draws": "1",
         "losses": "1",
-        "goals_for_against": "0:3",
+        "goals_for_against": "2:3",
         "points": "1"
       },
       {

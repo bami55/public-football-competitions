@@ -1941,7 +1941,7 @@
         "wins": "13",
         "draws": "8",
         "losses": "5",
-        "goals_for_against": "35:24",
+        "goals_for_against": "36:25",
         "points": "47"
       },
       {
@@ -2011,7 +2011,7 @@
         "wins": "10",
         "draws": "6",
         "losses": "10",
-        "goals_for_against": "24:22",
+        "goals_for_against": "25:23",
         "points": "36"
       },
       {
@@ -2143,16 +2143,26 @@
       },
       {
         "rank": "3",
+        "club": "V・ファーレン長崎",
+        "matches": "26",
+        "wins": "12",
+        "draws": "9",
+        "losses": "5",
+        "goals_for_against": "43:37",
+        "points": "45"
+      },
+      {
+        "rank": "4",
         "club": "RB 大宮",
         "matches": "26",
         "wins": "12",
         "draws": "8",
         "losses": "6",
-        "goals_for_against": "35:22",
+        "goals_for_against": "37:22",
         "points": "44"
       },
       {
-        "rank": "4",
+        "rank": "5",
         "club": "徳島ヴォルティス",
         "matches": "26",
         "wins": "12",
@@ -2160,16 +2170,6 @@
         "losses": "6",
         "goals_for_against": "26:14",
         "points": "44"
-      },
-      {
-        "rank": "5",
-        "club": "V・ファーレン長崎",
-        "matches": "26",
-        "wins": "11",
-        "draws": "10",
-        "losses": "5",
-        "goals_for_against": "42:37",
-        "points": "43"
       },
       {
         "rank": "6",
@@ -2186,10 +2186,10 @@
         "club": "サガン鳥栖",
         "matches": "26",
         "wins": "12",
-        "draws": "7",
-        "losses": "7",
-        "goals_for_against": "27:23",
-        "points": "43"
+        "draws": "6",
+        "losses": "8",
+        "goals_for_against": "27:24",
+        "points": "42"
       },
       {
         "rank": "8",
@@ -2218,7 +2218,7 @@
         "wins": "10",
         "draws": "8",
         "losses": "8",
-        "goals_for_against": "26:23",
+        "goals_for_against": "27:23",
         "points": "38"
       },
       {
@@ -2278,7 +2278,7 @@
         "wins": "6",
         "draws": "10",
         "losses": "10",
-        "goals_for_against": "22:27",
+        "goals_for_against": "22:28",
         "points": "28"
       },
       {
@@ -2318,7 +2318,7 @@
         "wins": "2",
         "draws": "10",
         "losses": "14",
-        "goals_for_against": "23:43",
+        "goals_for_against": "23:45",
         "points": "16"
       }
     ]

@@ -1445,6 +1445,16 @@
       },
       {
         "rank": "2",
+        "club": "スポルティングCP",
+        "matches": "2",
+        "wins": "2",
+        "draws": "0",
+        "losses": "0",
+        "goals_for_against": "5:0",
+        "points": "6"
+      },
+      {
+        "rank": "3",
         "club": "ファマリカン",
         "matches": "2",
         "wins": "2",
@@ -1454,7 +1464,7 @@
         "points": "6"
       },
       {
-        "rank": "3",
+        "rank": "4",
         "club": "モレイレンセ",
         "matches": "2",
         "wins": "2",
@@ -1464,33 +1474,13 @@
         "points": "6"
       },
       {
-        "rank": "4",
+        "rank": "5",
         "club": "FCポルト",
         "matches": "1",
         "wins": "1",
         "draws": "0",
         "losses": "0",
         "goals_for_against": "3:0",
-        "points": "3"
-      },
-      {
-        "rank": "5",
-        "club": "アロウカ",
-        "matches": "1",
-        "wins": "1",
-        "draws": "0",
-        "losses": "0",
-        "goals_for_against": "3:1",
-        "points": "3"
-      },
-      {
-        "rank": "6",
-        "club": "スポルティングCP",
-        "matches": "1",
-        "wins": "1",
-        "draws": "0",
-        "losses": "0",
-        "goals_for_against": "2:0",
         "points": "3"
       },
       {
@@ -1504,7 +1494,7 @@
         "points": "3"
       },
       {
-        "rank": "8",
+        "rank": "7",
         "club": "ベンフィカ",
         "matches": "1",
         "wins": "1",
@@ -1514,13 +1504,23 @@
         "points": "3"
       },
       {
-        "rank": "9",
+        "rank": "8",
         "club": "カーザ・ピア",
         "matches": "2",
         "wins": "1",
         "draws": "0",
         "losses": "1",
         "goals_for_against": "2:2",
+        "points": "3"
+      },
+      {
+        "rank": "9",
+        "club": "アロウカ",
+        "matches": "2",
+        "wins": "1",
+        "draws": "0",
+        "losses": "1",
+        "goals_for_against": "3:4",
         "points": "3"
       },
       {

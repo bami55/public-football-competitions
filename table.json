@@ -1435,22 +1435,22 @@
     "results": [
       {
         "rank": "1",
+        "club": "スポルティングCP",
+        "matches": "2",
+        "wins": "2",
+        "draws": "0",
+        "losses": "0",
+        "goals_for_against": "8:0",
+        "points": "6"
+      },
+      {
+        "rank": "2",
         "club": "SCブラガ",
         "matches": "2",
         "wins": "2",
         "draws": "0",
         "losses": "0",
         "goals_for_against": "6:0",
-        "points": "6"
-      },
-      {
-        "rank": "2",
-        "club": "スポルティングCP",
-        "matches": "2",
-        "wins": "2",
-        "draws": "0",
-        "losses": "0",
-        "goals_for_against": "5:0",
         "points": "6"
       },
       {
@@ -1515,22 +1515,22 @@
       },
       {
         "rank": "9",
-        "club": "アロウカ",
-        "matches": "2",
-        "wins": "1",
-        "draws": "0",
-        "losses": "1",
-        "goals_for_against": "3:4",
-        "points": "3"
-      },
-      {
-        "rank": "10",
         "club": "ヴィトーリアSC",
         "matches": "2",
         "wins": "1",
         "draws": "0",
         "losses": "1",
         "goals_for_against": "3:5",
+        "points": "3"
+      },
+      {
+        "rank": "10",
+        "club": "アロウカ",
+        "matches": "2",
+        "wins": "1",
+        "draws": "0",
+        "losses": "1",
+        "goals_for_against": "3:7",
         "points": "3"
       },
       {

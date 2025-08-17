@@ -1937,11 +1937,11 @@
       {
         "rank": "3",
         "club": "柏レイソル",
-        "matches": "25",
+        "matches": "26",
         "wins": "13",
         "draws": "8",
-        "losses": "4",
-        "goals_for_against": "35:23",
+        "losses": "5",
+        "goals_for_against": "35:24",
         "points": "47"
       },
       {
@@ -2006,6 +2006,16 @@
       },
       {
         "rank": "10",
+        "club": "ファジアーノ岡山",
+        "matches": "26",
+        "wins": "10",
+        "draws": "6",
+        "losses": "10",
+        "goals_for_against": "24:22",
+        "points": "36"
+      },
+      {
+        "rank": "11",
         "club": "アビスパ福岡",
         "matches": "26",
         "wins": "9",
@@ -2015,7 +2025,7 @@
         "points": "36"
       },
       {
-        "rank": "11",
+        "rank": "12",
         "club": "ガンバ大阪",
         "matches": "26",
         "wins": "10",
@@ -2023,16 +2033,6 @@
         "losses": "12",
         "goals_for_against": "29:35",
         "points": "34"
-      },
-      {
-        "rank": "12",
-        "club": "ファジアーノ岡山",
-        "matches": "25",
-        "wins": "9",
-        "draws": "6",
-        "losses": "10",
-        "goals_for_against": "23:22",
-        "points": "33"
       },
       {
         "rank": "13",
@@ -2143,13 +2143,13 @@
       },
       {
         "rank": "3",
-        "club": "V・ファーレン長崎",
+        "club": "RB 大宮",
         "matches": "26",
         "wins": "12",
-        "draws": "9",
-        "losses": "5",
-        "goals_for_against": "42:36",
-        "points": "45"
+        "draws": "8",
+        "losses": "6",
+        "goals_for_against": "35:22",
+        "points": "44"
       },
       {
         "rank": "4",
@@ -2163,6 +2163,16 @@
       },
       {
         "rank": "5",
+        "club": "V・ファーレン長崎",
+        "matches": "26",
+        "wins": "11",
+        "draws": "10",
+        "losses": "5",
+        "goals_for_against": "42:37",
+        "points": "43"
+      },
+      {
+        "rank": "6",
         "club": "ベガルタ仙台",
         "matches": "26",
         "wins": "11",
@@ -2172,24 +2182,14 @@
         "points": "43"
       },
       {
-        "rank": "6",
-        "club": "RB 大宮",
-        "matches": "26",
-        "wins": "11",
-        "draws": "9",
-        "losses": "6",
-        "goals_for_against": "34:22",
-        "points": "42"
-      },
-      {
         "rank": "7",
         "club": "サガン鳥栖",
         "matches": "26",
         "wins": "12",
-        "draws": "6",
-        "losses": "8",
-        "goals_for_against": "26:23",
-        "points": "42"
+        "draws": "7",
+        "losses": "7",
+        "goals_for_against": "27:23",
+        "points": "43"
       },
       {
         "rank": "8",
@@ -2215,11 +2215,11 @@
         "rank": "10",
         "club": "ヴァンフォーレ甲府",
         "matches": "26",
-        "wins": "9",
-        "draws": "9",
+        "wins": "10",
+        "draws": "8",
         "losses": "8",
-        "goals_for_against": "25:23",
-        "points": "36"
+        "goals_for_against": "26:23",
+        "points": "38"
       },
       {
         "rank": "11",
@@ -2263,16 +2263,6 @@
       },
       {
         "rank": "15",
-        "club": "大分トリニータ",
-        "matches": "26",
-        "wins": "6",
-        "draws": "11",
-        "losses": "9",
-        "goals_for_against": "22:26",
-        "points": "29"
-      },
-      {
-        "rank": "16",
         "club": "藤枝MYFC",
         "matches": "26",
         "wins": "7",
@@ -2280,6 +2270,16 @@
         "losses": "11",
         "goals_for_against": "29:34",
         "points": "29"
+      },
+      {
+        "rank": "16",
+        "club": "大分トリニータ",
+        "matches": "26",
+        "wins": "6",
+        "draws": "10",
+        "losses": "10",
+        "goals_for_against": "22:27",
+        "points": "28"
       },
       {
         "rank": "17",
@@ -2316,10 +2316,10 @@
         "club": "愛媛FC",
         "matches": "26",
         "wins": "2",
-        "draws": "11",
-        "losses": "13",
-        "goals_for_against": "23:42",
-        "points": "17"
+        "draws": "10",
+        "losses": "14",
+        "goals_for_against": "23:43",
+        "points": "16"
       }
     ]
   },

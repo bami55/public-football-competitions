@@ -1460,11 +1460,11 @@
         "wins": "2",
         "draws": "0",
         "losses": "0",
-        "goals_for_against": "4:0",
+        "goals_for_against": "5:0",
         "points": "6"
       },
       {
-        "rank": "3",
+        "rank": "4",
         "club": "ファマリカン",
         "matches": "2",
         "wins": "2",
@@ -1485,16 +1485,6 @@
       },
       {
         "rank": "6",
-        "club": "ジル・ヴィセンテ",
-        "matches": "2",
-        "wins": "1",
-        "draws": "0",
-        "losses": "1",
-        "goals_for_against": "2:1",
-        "points": "3"
-      },
-      {
-        "rank": "7",
         "club": "ベンフィカ",
         "matches": "1",
         "wins": "1",
@@ -1504,8 +1494,18 @@
         "points": "3"
       },
       {
-        "rank": "8",
+        "rank": "7",
         "club": "カーザ・ピア",
+        "matches": "2",
+        "wins": "1",
+        "draws": "0",
+        "losses": "1",
+        "goals_for_against": "2:2",
+        "points": "3"
+      },
+      {
+        "rank": "7",
+        "club": "ジル・ヴィセンテ",
         "matches": "2",
         "wins": "1",
         "draws": "0",

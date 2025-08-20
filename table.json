@@ -1921,11 +1921,21 @@
         "wins": "15",
         "draws": "4",
         "losses": "8",
-        "goals_for_against": "40:25",
+        "goals_for_against": "42:26",
         "points": "49"
       },
       {
         "rank": "2",
+        "club": "ヴィッセル神戸",
+        "matches": "27",
+        "wins": "15",
+        "draws": "4",
+        "losses": "8",
+        "goals_for_against": "35:25",
+        "points": "49"
+      },
+      {
+        "rank": "3",
         "club": "京都サンガ",
         "matches": "26",
         "wins": "14",
@@ -1935,7 +1945,7 @@
         "points": "48"
       },
       {
-        "rank": "3",
+        "rank": "4",
         "club": "鹿島アントラーズ",
         "matches": "26",
         "wins": "15",
@@ -1943,16 +1953,6 @@
         "losses": "8",
         "goals_for_against": "38:25",
         "points": "48"
-      },
-      {
-        "rank": "4",
-        "club": "サンフレッチェ広島",
-        "matches": "27",
-        "wins": "14",
-        "draws": "5",
-        "losses": "8",
-        "goals_for_against": "30:18",
-        "points": "47"
       },
       {
         "rank": "5",
@@ -1966,13 +1966,13 @@
       },
       {
         "rank": "6",
-        "club": "ヴィッセル神戸",
+        "club": "サンフレッチェ広島",
         "matches": "27",
         "wins": "14",
-        "draws": "5",
-        "losses": "8",
-        "goals_for_against": "34:25",
-        "points": "47"
+        "draws": "4",
+        "losses": "9",
+        "goals_for_against": "30:19",
+        "points": "46"
       },
       {
         "rank": "7",
@@ -2031,7 +2031,7 @@
         "wins": "10",
         "draws": "4",
         "losses": "13",
-        "goals_for_against": "29:36",
+        "goals_for_against": "30:38",
         "points": "34"
       },
       {

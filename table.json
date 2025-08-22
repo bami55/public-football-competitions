@@ -1956,16 +1956,26 @@
       },
       {
         "rank": "5",
-        "club": "柏レイソル",
-        "matches": "26",
+        "club": "浦和レッズ",
+        "matches": "27",
         "wins": "13",
         "draws": "8",
-        "losses": "5",
-        "goals_for_against": "36:25",
+        "losses": "6",
+        "goals_for_against": "37:26",
         "points": "47"
       },
       {
         "rank": "6",
+        "club": "柏レイソル",
+        "matches": "27",
+        "wins": "13",
+        "draws": "8",
+        "losses": "6",
+        "goals_for_against": "36:26",
+        "points": "47"
+      },
+      {
+        "rank": "7",
         "club": "サンフレッチェ広島",
         "matches": "27",
         "wins": "14",
@@ -1973,16 +1983,6 @@
         "losses": "9",
         "goals_for_against": "30:19",
         "points": "46"
-      },
-      {
-        "rank": "7",
-        "club": "浦和レッズ",
-        "matches": "26",
-        "wins": "12",
-        "draws": "8",
-        "losses": "6",
-        "goals_for_against": "36:26",
-        "points": "44"
       },
       {
         "rank": "8",

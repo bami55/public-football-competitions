@@ -1448,10 +1448,10 @@
         "club": "スポルティングCP",
         "matches": "3",
         "wins": "2",
-        "draws": "0",
-        "losses": "1",
-        "goals_for_against": "8:1",
-        "points": "6"
+        "draws": "1",
+        "losses": "0",
+        "goals_for_against": "9:1",
+        "points": "7"
       },
       {
         "rank": "3",
@@ -1485,16 +1485,6 @@
       },
       {
         "rank": "6",
-        "club": "ナシオナル",
-        "matches": "3",
-        "wins": "1",
-        "draws": "1",
-        "losses": "1",
-        "goals_for_against": "2:3",
-        "points": "4"
-      },
-      {
-        "rank": "7",
         "club": "ベンフィカ",
         "matches": "1",
         "wins": "1",
@@ -1504,7 +1494,7 @@
         "points": "3"
       },
       {
-        "rank": "8",
+        "rank": "7",
         "club": "カーザ・ピア",
         "matches": "2",
         "wins": "1",
@@ -1514,7 +1504,7 @@
         "points": "3"
       },
       {
-        "rank": "8",
+        "rank": "7",
         "club": "ジル・ヴィセンテ",
         "matches": "2",
         "wins": "1",
@@ -1524,7 +1514,7 @@
         "points": "3"
       },
       {
-        "rank": "10",
+        "rank": "9",
         "club": "ヴィトーリアSC",
         "matches": "3",
         "wins": "1",
@@ -1534,7 +1524,7 @@
         "points": "3"
       },
       {
-        "rank": "10",
+        "rank": "9",
         "club": "アロウカ",
         "matches": "2",
         "wins": "1",
@@ -1542,6 +1532,16 @@
         "losses": "1",
         "goals_for_against": "3:7",
         "points": "3"
+      },
+      {
+        "rank": "11",
+        "club": "ナシオナル",
+        "matches": "3",
+        "wins": "0",
+        "draws": "2",
+        "losses": "1",
+        "goals_for_against": "2:4",
+        "points": "2"
       },
       {
         "rank": "12",

@@ -1435,6 +1435,16 @@
     "results": [
       {
         "rank": "1",
+        "club": "モレイレンセ",
+        "matches": "3",
+        "wins": "2",
+        "draws": "1",
+        "losses": "0",
+        "goals_for_against": "3:1",
+        "points": "7"
+      },
+      {
+        "rank": "2",
         "club": "スポルティングCP",
         "matches": "2",
         "wins": "2",
@@ -1444,7 +1454,7 @@
         "points": "6"
       },
       {
-        "rank": "2",
+        "rank": "3",
         "club": "SCブラガ",
         "matches": "2",
         "wins": "2",
@@ -1454,7 +1464,7 @@
         "points": "6"
       },
       {
-        "rank": "3",
+        "rank": "4",
         "club": "FCポルト",
         "matches": "2",
         "wins": "2",
@@ -1464,7 +1474,7 @@
         "points": "6"
       },
       {
-        "rank": "4",
+        "rank": "5",
         "club": "ファマリカン",
         "matches": "2",
         "wins": "2",
@@ -1474,17 +1484,17 @@
         "points": "6"
       },
       {
-        "rank": "5",
-        "club": "モレイレンセ",
-        "matches": "2",
-        "wins": "2",
-        "draws": "0",
-        "losses": "0",
-        "goals_for_against": "3:1",
-        "points": "6"
+        "rank": "6",
+        "club": "ヴィトーリアSC",
+        "matches": "3",
+        "wins": "1",
+        "draws": "1",
+        "losses": "1",
+        "goals_for_against": "3:5",
+        "points": "4"
       },
       {
-        "rank": "6",
+        "rank": "7",
         "club": "ベンフィカ",
         "matches": "1",
         "wins": "1",
@@ -1494,7 +1504,7 @@
         "points": "3"
       },
       {
-        "rank": "7",
+        "rank": "8",
         "club": "カーザ・ピア",
         "matches": "2",
         "wins": "1",
@@ -1504,23 +1514,13 @@
         "points": "3"
       },
       {
-        "rank": "7",
+        "rank": "8",
         "club": "ジル・ヴィセンテ",
         "matches": "2",
         "wins": "1",
         "draws": "0",
         "losses": "1",
         "goals_for_against": "2:2",
-        "points": "3"
-      },
-      {
-        "rank": "9",
-        "club": "ヴィトーリアSC",
-        "matches": "2",
-        "wins": "1",
-        "draws": "0",
-        "losses": "1",
-        "goals_for_against": "3:5",
         "points": "3"
       },
       {

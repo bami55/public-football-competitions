@@ -1486,15 +1486,25 @@
       {
         "rank": "6",
         "club": "ベンフィカ",
-        "matches": "1",
-        "wins": "1",
+        "matches": "2",
+        "wins": "2",
         "draws": "0",
         "losses": "0",
-        "goals_for_against": "1:0",
-        "points": "3"
+        "goals_for_against": "3:0",
+        "points": "6"
       },
       {
         "rank": "7",
+        "club": "アロウカ",
+        "matches": "3",
+        "wins": "2",
+        "draws": "0",
+        "losses": "1",
+        "goals_for_against": "4:7",
+        "points": "6"
+      },
+      {
+        "rank": "8",
         "club": "カーザ・ピア",
         "matches": "2",
         "wins": "1",
@@ -1504,7 +1514,7 @@
         "points": "3"
       },
       {
-        "rank": "7",
+        "rank": "8",
         "club": "ジル・ヴィセンテ",
         "matches": "2",
         "wins": "1",
@@ -1514,7 +1524,7 @@
         "points": "3"
       },
       {
-        "rank": "9",
+        "rank": "10",
         "club": "ヴィトーリアSC",
         "matches": "3",
         "wins": "1",
@@ -1524,27 +1534,7 @@
         "points": "3"
       },
       {
-        "rank": "9",
-        "club": "アロウカ",
-        "matches": "2",
-        "wins": "1",
-        "draws": "0",
-        "losses": "1",
-        "goals_for_against": "3:7",
-        "points": "3"
-      },
-      {
         "rank": "11",
-        "club": "リオ・アヴェ",
-        "matches": "1",
-        "wins": "0",
-        "draws": "1",
-        "losses": "0",
-        "goals_for_against": "1:1",
-        "points": "1"
-      },
-      {
-        "rank": "12",
         "club": "エストリル・プライア",
         "matches": "2",
         "wins": "0",
@@ -1554,7 +1544,17 @@
         "points": "1"
       },
       {
-        "rank": "13",
+        "rank": "12",
+        "club": "リオ・アヴェ",
+        "matches": "2",
+        "wins": "0",
+        "draws": "1",
+        "losses": "1",
+        "goals_for_against": "1:2",
+        "points": "1"
+      },
+      {
+        "rank": "12",
         "club": "CFエストレラ",
         "matches": "2",
         "wins": "0",
@@ -1604,13 +1604,13 @@
         "points": "0"
       },
       {
-        "rank": "17",
+        "rank": "18",
         "club": "トンデラ",
-        "matches": "2",
+        "matches": "3",
         "wins": "0",
         "draws": "0",
-        "losses": "2",
-        "goals_for_against": "0:4",
+        "losses": "3",
+        "goals_for_against": "0:6",
         "points": "0"
       }
     ]

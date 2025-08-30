@@ -1465,22 +1465,22 @@
       },
       {
         "rank": "4",
+        "club": "ファマリカン",
+        "matches": "4",
+        "wins": "2",
+        "draws": "2",
+        "losses": "0",
+        "goals_for_against": "4:0",
+        "points": "8"
+      },
+      {
+        "rank": "5",
         "club": "SCブラガ",
         "matches": "3",
         "wins": "2",
         "draws": "1",
         "losses": "0",
         "goals_for_against": "8:2",
-        "points": "7"
-      },
-      {
-        "rank": "5",
-        "club": "ファマリカン",
-        "matches": "3",
-        "wins": "2",
-        "draws": "1",
-        "losses": "0",
-        "goals_for_against": "4:0",
         "points": "7"
       },
       {
@@ -1505,6 +1505,16 @@
       },
       {
         "rank": "8",
+        "club": "アロウカ",
+        "matches": "4",
+        "wins": "1",
+        "draws": "2",
+        "losses": "1",
+        "goals_for_against": "6:10",
+        "points": "5"
+      },
+      {
+        "rank": "9",
         "club": "ナシオナル",
         "matches": "4",
         "wins": "1",
@@ -1514,24 +1524,14 @@
         "points": "4"
       },
       {
-        "rank": "9",
-        "club": "アロウカ",
-        "matches": "3",
-        "wins": "1",
-        "draws": "1",
-        "losses": "1",
-        "goals_for_against": "6:10",
-        "points": "4"
-      },
-      {
         "rank": "10",
         "club": "ヴィトーリアSC",
-        "matches": "3",
+        "matches": "4",
         "wins": "1",
-        "draws": "0",
+        "draws": "1",
         "losses": "2",
         "goals_for_against": "3:7",
-        "points": "3"
+        "points": "4"
       },
       {
         "rank": "11",
@@ -1565,6 +1565,16 @@
       },
       {
         "rank": "14",
+        "club": "AVS",
+        "matches": "4",
+        "wins": "0",
+        "draws": "2",
+        "losses": "2",
+        "goals_for_against": "3:7",
+        "points": "2"
+      },
+      {
+        "rank": "15",
         "club": "エストリル・プライア",
         "matches": "2",
         "wins": "0",
@@ -1574,17 +1584,7 @@
         "points": "1"
       },
       {
-        "rank": "15",
-        "club": "AVS",
-        "matches": "3",
-        "wins": "0",
-        "draws": "1",
-        "losses": "2",
-        "goals_for_against": "3:7",
-        "points": "1"
-      },
-      {
-        "rank": "15",
+        "rank": "16",
         "club": "Alverca",
         "matches": "3",
         "wins": "0",

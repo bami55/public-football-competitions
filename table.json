@@ -1505,6 +1505,16 @@
       },
       {
         "rank": "8",
+        "club": "ナシオナル",
+        "matches": "4",
+        "wins": "1",
+        "draws": "1",
+        "losses": "2",
+        "goals_for_against": "4:7",
+        "points": "4"
+      },
+      {
+        "rank": "9",
         "club": "アロウカ",
         "matches": "3",
         "wins": "1",
@@ -1514,7 +1524,7 @@
         "points": "4"
       },
       {
-        "rank": "9",
+        "rank": "10",
         "club": "ヴィトーリアSC",
         "matches": "3",
         "wins": "1",
@@ -1524,17 +1534,17 @@
         "points": "3"
       },
       {
-        "rank": "10",
+        "rank": "11",
         "club": "カーザ・ピア",
-        "matches": "3",
+        "matches": "4",
         "wins": "1",
         "draws": "0",
-        "losses": "2",
-        "goals_for_against": "2:6",
+        "losses": "3",
+        "goals_for_against": "2:8",
         "points": "3"
       },
       {
-        "rank": "11",
+        "rank": "12",
         "club": "リオ・アヴェ",
         "matches": "2",
         "wins": "0",
@@ -1544,7 +1554,7 @@
         "points": "2"
       },
       {
-        "rank": "12",
+        "rank": "13",
         "club": "CFエストレラ",
         "matches": "3",
         "wins": "0",
@@ -1554,7 +1564,7 @@
         "points": "2"
       },
       {
-        "rank": "13",
+        "rank": "14",
         "club": "エストリル・プライア",
         "matches": "2",
         "wins": "0",
@@ -1564,7 +1574,7 @@
         "points": "1"
       },
       {
-        "rank": "14",
+        "rank": "15",
         "club": "AVS",
         "matches": "3",
         "wins": "0",
@@ -1574,23 +1584,13 @@
         "points": "1"
       },
       {
-        "rank": "14",
+        "rank": "15",
         "club": "Alverca",
         "matches": "3",
         "wins": "0",
         "draws": "1",
         "losses": "2",
         "goals_for_against": "3:7",
-        "points": "1"
-      },
-      {
-        "rank": "16",
-        "club": "ナシオナル",
-        "matches": "3",
-        "wins": "0",
-        "draws": "1",
-        "losses": "2",
-        "goals_for_against": "2:7",
         "points": "1"
       },
       {

@@ -2133,6 +2133,16 @@
       },
       {
         "rank": "2",
+        "club": "RB 大宮",
+        "matches": "28",
+        "wins": "13",
+        "draws": "9",
+        "losses": "6",
+        "goals_for_against": "38:22",
+        "points": "48"
+      },
+      {
+        "rank": "3",
         "club": "ジェフ千葉",
         "matches": "27",
         "wins": "14",
@@ -2142,7 +2152,7 @@
         "points": "48"
       },
       {
-        "rank": "3",
+        "rank": "4",
         "club": "V・ファーレン長崎",
         "matches": "27",
         "wins": "13",
@@ -2150,16 +2160,6 @@
         "losses": "5",
         "goals_for_against": "44:37",
         "points": "48"
-      },
-      {
-        "rank": "4",
-        "club": "RB 大宮",
-        "matches": "27",
-        "wins": "13",
-        "draws": "8",
-        "losses": "6",
-        "goals_for_against": "38:22",
-        "points": "47"
       },
       {
         "rank": "5",
@@ -2224,12 +2224,12 @@
       {
         "rank": "11",
         "club": "コンサドーレ札幌",
-        "matches": "27",
+        "matches": "28",
         "wins": "11",
-        "draws": "4",
+        "draws": "5",
         "losses": "12",
         "goals_for_against": "34:44",
-        "points": "37"
+        "points": "38"
       },
       {
         "rank": "12",

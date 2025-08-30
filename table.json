@@ -1435,6 +1435,26 @@
     "results": [
       {
         "rank": "1",
+        "club": "スポルティングCP",
+        "matches": "4",
+        "wins": "3",
+        "draws": "1",
+        "losses": "0",
+        "goals_for_against": "12:1",
+        "points": "10"
+      },
+      {
+        "rank": "2",
+        "club": "FCポルト",
+        "matches": "4",
+        "wins": "3",
+        "draws": "1",
+        "losses": "0",
+        "goals_for_against": "9:0",
+        "points": "10"
+      },
+      {
+        "rank": "3",
         "club": "ファマリカン",
         "matches": "4",
         "wins": "3",
@@ -1442,26 +1462,6 @@
         "losses": "0",
         "goals_for_against": "5:0",
         "points": "10"
-      },
-      {
-        "rank": "2",
-        "club": "スポルティングCP",
-        "matches": "3",
-        "wins": "3",
-        "draws": "0",
-        "losses": "0",
-        "goals_for_against": "12:1",
-        "points": "9"
-      },
-      {
-        "rank": "3",
-        "club": "FCポルト",
-        "matches": "3",
-        "wins": "3",
-        "draws": "0",
-        "losses": "0",
-        "goals_for_against": "9:0",
-        "points": "9"
       },
       {
         "rank": "4",

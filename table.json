@@ -2154,11 +2154,11 @@
       {
         "rank": "4",
         "club": "V・ファーレン長崎",
-        "matches": "27",
+        "matches": "28",
         "wins": "13",
         "draws": "9",
-        "losses": "5",
-        "goals_for_against": "44:37",
+        "losses": "6",
+        "goals_for_against": "44:38",
         "points": "48"
       },
       {
@@ -2243,22 +2243,22 @@
       },
       {
         "rank": "13",
+        "club": "藤枝MYFC",
+        "matches": "28",
+        "wins": "9",
+        "draws": "8",
+        "losses": "11",
+        "goals_for_against": "34:35",
+        "points": "35"
+      },
+      {
+        "rank": "14",
         "club": "モンテディオ山形",
         "matches": "28",
         "wins": "9",
         "draws": "5",
         "losses": "14",
         "goals_for_against": "39:41",
-        "points": "32"
-      },
-      {
-        "rank": "14",
-        "club": "藤枝MYFC",
-        "matches": "27",
-        "wins": "8",
-        "draws": "8",
-        "losses": "11",
-        "goals_for_against": "33:35",
         "points": "32"
       },
       {
@@ -2481,15 +2481,25 @@
       {
         "rank": "16",
         "club": "ザスパ群馬",
-        "matches": "24",
+        "matches": "25",
         "wins": "6",
         "draws": "9",
-        "losses": "9",
-        "goals_for_against": "32:35",
+        "losses": "10",
+        "goals_for_against": "32:36",
         "points": "27"
       },
       {
         "rank": "17",
+        "club": "カマタマーレ讃岐",
+        "matches": "25",
+        "wins": "6",
+        "draws": "7",
+        "losses": "12",
+        "goals_for_against": "24:30",
+        "points": "25"
+      },
+      {
+        "rank": "18",
         "club": "長野パルセイロ",
         "matches": "25",
         "wins": "6",
@@ -2499,7 +2509,7 @@
         "points": "25"
       },
       {
-        "rank": "18",
+        "rank": "19",
         "club": "FC岐阜",
         "matches": "25",
         "wins": "5",
@@ -2507,16 +2517,6 @@
         "losses": "12",
         "goals_for_against": "26:39",
         "points": "23"
-      },
-      {
-        "rank": "19",
-        "club": "カマタマーレ讃岐",
-        "matches": "24",
-        "wins": "5",
-        "draws": "7",
-        "losses": "12",
-        "goals_for_against": "23:30",
-        "points": "22"
       },
       {
         "rank": "20",

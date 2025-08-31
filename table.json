@@ -1488,10 +1488,10 @@
         "club": "SCブラガ",
         "matches": "4",
         "wins": "2",
-        "draws": "1",
-        "losses": "1",
-        "goals_for_against": "9:4",
-        "points": "7"
+        "draws": "2",
+        "losses": "0",
+        "goals_for_against": "10:4",
+        "points": "8"
       },
       {
         "rank": "7",
@@ -1505,16 +1505,6 @@
       },
       {
         "rank": "8",
-        "club": "リオ・アヴェ",
-        "matches": "3",
-        "wins": "1",
-        "draws": "2",
-        "losses": "0",
-        "goals_for_against": "6:5",
-        "points": "5"
-      },
-      {
-        "rank": "9",
         "club": "アロウカ",
         "matches": "4",
         "wins": "1",
@@ -1524,7 +1514,7 @@
         "points": "5"
       },
       {
-        "rank": "10",
+        "rank": "9",
         "club": "ナシオナル",
         "matches": "4",
         "wins": "1",
@@ -1534,7 +1524,7 @@
         "points": "4"
       },
       {
-        "rank": "11",
+        "rank": "10",
         "club": "ヴィトーリアSC",
         "matches": "4",
         "wins": "1",
@@ -1542,6 +1532,16 @@
         "losses": "2",
         "goals_for_against": "4:8",
         "points": "4"
+      },
+      {
+        "rank": "11",
+        "club": "リオ・アヴェ",
+        "matches": "3",
+        "wins": "0",
+        "draws": "3",
+        "losses": "0",
+        "goals_for_against": "6:6",
+        "points": "3"
       },
       {
         "rank": "12",

@@ -1465,6 +1465,16 @@
       },
       {
         "rank": "4",
+        "club": "ベンフィカ",
+        "matches": "3",
+        "wins": "3",
+        "draws": "0",
+        "losses": "0",
+        "goals_for_against": "5:0",
+        "points": "9"
+      },
+      {
+        "rank": "5",
         "club": "モレイレンセ",
         "matches": "4",
         "wins": "3",
@@ -1474,7 +1484,7 @@
         "points": "9"
       },
       {
-        "rank": "5",
+        "rank": "6",
         "club": "SCブラガ",
         "matches": "3",
         "wins": "2",
@@ -1484,7 +1494,7 @@
         "points": "7"
       },
       {
-        "rank": "6",
+        "rank": "7",
         "club": "ジル・ヴィセンテ",
         "matches": "4",
         "wins": "2",
@@ -1492,16 +1502,6 @@
         "losses": "1",
         "goals_for_against": "4:2",
         "points": "7"
-      },
-      {
-        "rank": "7",
-        "club": "ベンフィカ",
-        "matches": "2",
-        "wins": "2",
-        "draws": "0",
-        "losses": "0",
-        "goals_for_against": "4:0",
-        "points": "6"
       },
       {
         "rank": "8",
@@ -1560,7 +1560,7 @@
         "wins": "0",
         "draws": "2",
         "losses": "1",
-        "goals_for_against": "4:5",
+        "goals_for_against": "5:6",
         "points": "2"
       },
       {
@@ -1575,17 +1575,17 @@
       },
       {
         "rank": "15",
-        "club": "Alverca",
-        "matches": "3",
+        "club": "AVS",
+        "matches": "4",
         "wins": "0",
         "draws": "1",
-        "losses": "2",
-        "goals_for_against": "3:7",
+        "losses": "3",
+        "goals_for_against": "3:8",
         "points": "1"
       },
       {
-        "rank": "16",
-        "club": "AVS",
+        "rank": "15",
+        "club": "Alverca",
         "matches": "4",
         "wins": "0",
         "draws": "1",
@@ -1600,7 +1600,7 @@
         "wins": "0",
         "draws": "1",
         "losses": "3",
-        "goals_for_against": "1:8",
+        "goals_for_against": "2:9",
         "points": "1"
       },
       {

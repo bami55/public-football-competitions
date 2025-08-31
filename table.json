@@ -1470,7 +1470,7 @@
         "wins": "3",
         "draws": "0",
         "losses": "0",
-        "goals_for_against": "6:0",
+        "goals_for_against": "6:1",
         "points": "9"
       },
       {
@@ -1575,22 +1575,22 @@
       },
       {
         "rank": "15",
+        "club": "Alverca",
+        "matches": "4",
+        "wins": "0",
+        "draws": "1",
+        "losses": "3",
+        "goals_for_against": "4:9",
+        "points": "1"
+      },
+      {
+        "rank": "16",
         "club": "AVS",
         "matches": "4",
         "wins": "0",
         "draws": "1",
         "losses": "3",
         "goals_for_against": "3:8",
-        "points": "1"
-      },
-      {
-        "rank": "16",
-        "club": "Alverca",
-        "matches": "4",
-        "wins": "0",
-        "draws": "1",
-        "losses": "3",
-        "goals_for_against": "3:9",
         "points": "1"
       },
       {

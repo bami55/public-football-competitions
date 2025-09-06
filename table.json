@@ -1525,6 +1525,16 @@
       },
       {
         "rank": "10",
+        "club": "サンタ・クララ",
+        "matches": "4",
+        "wins": "1",
+        "draws": "1",
+        "losses": "2",
+        "goals_for_against": "1:4",
+        "points": "4"
+      },
+      {
+        "rank": "11",
         "club": "ヴィトーリアSC",
         "matches": "4",
         "wins": "1",
@@ -1534,23 +1544,13 @@
         "points": "4"
       },
       {
-        "rank": "11",
+        "rank": "12",
         "club": "リオ・アヴェ",
         "matches": "3",
         "wins": "0",
         "draws": "3",
         "losses": "0",
         "goals_for_against": "6:6",
-        "points": "3"
-      },
-      {
-        "rank": "12",
-        "club": "エストリル・プライア",
-        "matches": "4",
-        "wins": "0",
-        "draws": "3",
-        "losses": "1",
-        "goals_for_against": "5:6",
         "points": "3"
       },
       {
@@ -1575,12 +1575,12 @@
       },
       {
         "rank": "15",
-        "club": "サンタ・クララ",
+        "club": "エストリル・プライア",
         "matches": "4",
         "wins": "0",
         "draws": "2",
         "losses": "2",
-        "goals_for_against": "0:4",
+        "goals_for_against": "5:7",
         "points": "2"
       },
       {

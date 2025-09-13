@@ -1455,6 +1455,26 @@
       },
       {
         "rank": "3",
+        "club": "ファマリカン",
+        "matches": "5",
+        "wins": "3",
+        "draws": "2",
+        "losses": "0",
+        "goals_for_against": "6:1",
+        "points": "11"
+      },
+      {
+        "rank": "4",
+        "club": "スポルティングCP",
+        "matches": "5",
+        "wins": "3",
+        "draws": "1",
+        "losses": "1",
+        "goals_for_against": "14:4",
+        "points": "10"
+      },
+      {
+        "rank": "5",
         "club": "ベンフィカ",
         "matches": "4",
         "wins": "3",
@@ -1462,26 +1482,6 @@
         "losses": "0",
         "goals_for_against": "7:2",
         "points": "10"
-      },
-      {
-        "rank": "4",
-        "club": "ファマリカン",
-        "matches": "4",
-        "wins": "3",
-        "draws": "1",
-        "losses": "0",
-        "goals_for_against": "5:0",
-        "points": "10"
-      },
-      {
-        "rank": "5",
-        "club": "スポルティングCP",
-        "matches": "4",
-        "wins": "3",
-        "draws": "0",
-        "losses": "1",
-        "goals_for_against": "13:3",
-        "points": "9"
       },
       {
         "rank": "6",

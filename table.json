@@ -1437,11 +1437,11 @@
         "rank": "1",
         "club": "FCポルト",
         "matches": "5",
-        "wins": "4",
-        "draws": "1",
+        "wins": "5",
+        "draws": "0",
         "losses": "0",
-        "goals_for_against": "11:1",
-        "points": "13"
+        "goals_for_against": "12:1",
+        "points": "15"
       },
       {
         "rank": "2",
@@ -1515,16 +1515,6 @@
       },
       {
         "rank": "9",
-        "club": "ナシオナル",
-        "matches": "5",
-        "wins": "1",
-        "draws": "2",
-        "losses": "2",
-        "goals_for_against": "4:7",
-        "points": "5"
-      },
-      {
-        "rank": "10",
         "club": "サンタ・クララ",
         "matches": "5",
         "wins": "1",
@@ -1534,7 +1524,7 @@
         "points": "5"
       },
       {
-        "rank": "11",
+        "rank": "10",
         "club": "アロウカ",
         "matches": "4",
         "wins": "1",
@@ -1544,7 +1534,7 @@
         "points": "5"
       },
       {
-        "rank": "12",
+        "rank": "11",
         "club": "Alverca",
         "matches": "5",
         "wins": "1",
@@ -1554,12 +1544,22 @@
         "points": "4"
       },
       {
-        "rank": "13",
+        "rank": "12",
         "club": "ヴィトーリアSC",
         "matches": "4",
         "wins": "1",
         "draws": "1",
         "losses": "2",
+        "goals_for_against": "4:8",
+        "points": "4"
+      },
+      {
+        "rank": "12",
+        "club": "ナシオナル",
+        "matches": "5",
+        "wins": "1",
+        "draws": "1",
+        "losses": "3",
         "goals_for_against": "4:8",
         "points": "4"
       },

@@ -2411,12 +2411,12 @@
       {
         "rank": "9",
         "club": "栃木SC",
-        "matches": "26",
+        "matches": "27",
         "wins": "10",
-        "draws": "6",
+        "draws": "7",
         "losses": "10",
         "goals_for_against": "25:26",
-        "points": "36"
+        "points": "37"
       },
       {
         "rank": "10",
@@ -2460,22 +2460,22 @@
       },
       {
         "rank": "14",
+        "club": "高知ユナイテッド",
+        "matches": "27",
+        "wins": "8",
+        "draws": "8",
+        "losses": "11",
+        "goals_for_against": "35:46",
+        "points": "32"
+      },
+      {
+        "rank": "15",
         "club": "FC琉球OKINAWA",
         "matches": "26",
         "wins": "8",
         "draws": "7",
         "losses": "11",
         "goals_for_against": "27:30",
-        "points": "31"
-      },
-      {
-        "rank": "15",
-        "club": "高知ユナイテッド",
-        "matches": "26",
-        "wins": "8",
-        "draws": "7",
-        "losses": "11",
-        "goals_for_against": "35:46",
         "points": "31"
       },
       {

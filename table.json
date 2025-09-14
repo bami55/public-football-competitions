@@ -2148,7 +2148,7 @@
         "wins": "15",
         "draws": "6",
         "losses": "8",
-        "goals_for_against": "39:26",
+        "goals_for_against": "40:27",
         "points": "51"
       },
       {
@@ -2248,7 +2248,7 @@
         "wins": "10",
         "draws": "5",
         "losses": "14",
-        "goals_for_against": "41:41",
+        "goals_for_against": "42:41",
         "points": "35"
       },
       {
@@ -2258,7 +2258,7 @@
         "wins": "10",
         "draws": "5",
         "losses": "14",
-        "goals_for_against": "39:47",
+        "goals_for_against": "39:48",
         "points": "35"
       },
       {
@@ -2298,7 +2298,7 @@
         "wins": "4",
         "draws": "13",
         "losses": "12",
-        "goals_for_against": "26:36",
+        "goals_for_against": "27:37",
         "points": "25"
       },
       {
@@ -2308,7 +2308,7 @@
         "wins": "5",
         "draws": "8",
         "losses": "16",
-        "goals_for_against": "22:38",
+        "goals_for_against": "22:39",
         "points": "23"
       },
       {
@@ -2318,7 +2318,7 @@
         "wins": "2",
         "draws": "11",
         "losses": "16",
-        "goals_for_against": "26:53",
+        "goals_for_against": "27:53",
         "points": "17"
       }
     ]
@@ -2333,10 +2333,10 @@
         "club": "ヴァンラーレ八戸",
         "matches": "27",
         "wins": "16",
-        "draws": "7",
-        "losses": "4",
-        "goals_for_against": "34:16",
-        "points": "55"
+        "draws": "6",
+        "losses": "5",
+        "goals_for_against": "34:17",
+        "points": "54"
       },
       {
         "rank": "2",
@@ -2360,22 +2360,22 @@
       },
       {
         "rank": "4",
+        "club": "テゲバジャーロ宮崎",
+        "matches": "27",
+        "wins": "13",
+        "draws": "8",
+        "losses": "6",
+        "goals_for_against": "38:30",
+        "points": "47"
+      },
+      {
+        "rank": "5",
         "club": "FC大阪",
         "matches": "26",
         "wins": "13",
         "draws": "6",
         "losses": "7",
         "goals_for_against": "37:23",
-        "points": "45"
-      },
-      {
-        "rank": "5",
-        "club": "テゲバジャーロ宮崎",
-        "matches": "27",
-        "wins": "12",
-        "draws": "9",
-        "losses": "6",
-        "goals_for_against": "37:30",
         "points": "45"
       },
       {

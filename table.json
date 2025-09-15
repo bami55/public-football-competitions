@@ -2340,16 +2340,6 @@
       },
       {
         "rank": "2",
-        "club": "栃木シティ",
-        "matches": "27",
-        "wins": "15",
-        "draws": "7",
-        "losses": "5",
-        "goals_for_against": "44:30",
-        "points": "52"
-      },
-      {
-        "rank": "3",
         "club": "鹿児島ユナイテッド",
         "matches": "27",
         "wins": "14",
@@ -2359,7 +2349,27 @@
         "points": "51"
       },
       {
+        "rank": "3",
+        "club": "栃木シティ",
+        "matches": "27",
+        "wins": "15",
+        "draws": "6",
+        "losses": "6",
+        "goals_for_against": "44:31",
+        "points": "51"
+      },
+      {
         "rank": "4",
+        "club": "FC大阪",
+        "matches": "27",
+        "wins": "14",
+        "draws": "6",
+        "losses": "7",
+        "goals_for_against": "38:23",
+        "points": "48"
+      },
+      {
+        "rank": "5",
         "club": "テゲバジャーロ宮崎",
         "matches": "27",
         "wins": "13",
@@ -2367,16 +2377,6 @@
         "losses": "6",
         "goals_for_against": "38:30",
         "points": "47"
-      },
-      {
-        "rank": "5",
-        "club": "FC大阪",
-        "matches": "27",
-        "wins": "13",
-        "draws": "7",
-        "losses": "7",
-        "goals_for_against": "37:23",
-        "points": "46"
       },
       {
         "rank": "6",
@@ -2420,6 +2420,16 @@
       },
       {
         "rank": "10",
+        "club": "ツエーゲン金沢",
+        "matches": "27",
+        "wins": "10",
+        "draws": "6",
+        "losses": "11",
+        "goals_for_against": "31:32",
+        "points": "36"
+      },
+      {
+        "rank": "11",
         "club": "SC相模原",
         "matches": "27",
         "wins": "9",
@@ -2427,16 +2437,6 @@
         "losses": "9",
         "goals_for_against": "28:36",
         "points": "36"
-      },
-      {
-        "rank": "11",
-        "club": "ツエーゲン金沢",
-        "matches": "26",
-        "wins": "10",
-        "draws": "5",
-        "losses": "11",
-        "goals_for_against": "31:32",
-        "points": "35"
       },
       {
         "rank": "12",
@@ -2461,12 +2461,12 @@
       {
         "rank": "14",
         "club": "FC琉球OKINAWA",
-        "matches": "26",
+        "matches": "27",
         "wins": "8",
-        "draws": "7",
+        "draws": "8",
         "losses": "11",
         "goals_for_against": "27:30",
-        "points": "31"
+        "points": "32"
       },
       {
         "rank": "15",

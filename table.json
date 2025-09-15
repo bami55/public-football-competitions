@@ -2340,22 +2340,22 @@
       },
       {
         "rank": "2",
+        "club": "栃木シティ",
+        "matches": "27",
+        "wins": "15",
+        "draws": "7",
+        "losses": "5",
+        "goals_for_against": "44:30",
+        "points": "52"
+      },
+      {
+        "rank": "3",
         "club": "鹿児島ユナイテッド",
         "matches": "27",
         "wins": "14",
         "draws": "9",
         "losses": "4",
         "goals_for_against": "54:28",
-        "points": "51"
-      },
-      {
-        "rank": "3",
-        "club": "栃木シティ",
-        "matches": "26",
-        "wins": "15",
-        "draws": "6",
-        "losses": "5",
-        "goals_for_against": "44:30",
         "points": "51"
       },
       {
@@ -2371,12 +2371,12 @@
       {
         "rank": "5",
         "club": "FC大阪",
-        "matches": "26",
+        "matches": "27",
         "wins": "13",
-        "draws": "6",
+        "draws": "7",
         "losses": "7",
         "goals_for_against": "37:23",
-        "points": "45"
+        "points": "46"
       },
       {
         "rank": "6",

@@ -2046,6 +2046,16 @@
       },
       {
         "rank": "14",
+        "club": "名古屋グランパス",
+        "matches": "30",
+        "wins": "9",
+        "draws": "8",
+        "losses": "13",
+        "goals_for_against": "36:42",
+        "points": "35"
+      },
+      {
+        "rank": "15",
         "club": "FC東京",
         "matches": "29",
         "wins": "9",
@@ -2053,16 +2063,6 @@
         "losses": "13",
         "goals_for_against": "31:42",
         "points": "34"
-      },
-      {
-        "rank": "15",
-        "club": "名古屋グランパス",
-        "matches": "29",
-        "wins": "8",
-        "draws": "8",
-        "losses": "13",
-        "goals_for_against": "35:42",
-        "points": "32"
       },
       {
         "rank": "16",
@@ -2087,11 +2087,11 @@
       {
         "rank": "18",
         "club": "湘南ベルマーレ",
-        "matches": "29",
+        "matches": "30",
         "wins": "6",
         "draws": "7",
-        "losses": "16",
-        "goals_for_against": "26:50",
+        "losses": "17",
+        "goals_for_against": "26:51",
         "points": "25"
       },
       {

@@ -2164,11 +2164,11 @@
       {
         "rank": "5",
         "club": "ジュビロ磐田",
-        "matches": "29",
+        "matches": "30",
         "wins": "14",
         "draws": "6",
-        "losses": "9",
-        "goals_for_against": "44:36",
+        "losses": "10",
+        "goals_for_against": "44:37",
         "points": "48"
       },
       {
@@ -2243,6 +2243,16 @@
       },
       {
         "rank": "13",
+        "club": "藤枝MYFC",
+        "matches": "30",
+        "wins": "9",
+        "draws": "9",
+        "losses": "12",
+        "goals_for_against": "36:38",
+        "points": "36"
+      },
+      {
+        "rank": "14",
         "club": "モンテディオ山形",
         "matches": "29",
         "wins": "10",
@@ -2252,7 +2262,7 @@
         "points": "35"
       },
       {
-        "rank": "14",
+        "rank": "15",
         "club": "ブラウブリッツ秋田",
         "matches": "29",
         "wins": "10",
@@ -2260,16 +2270,6 @@
         "losses": "14",
         "goals_for_against": "39:48",
         "points": "35"
-      },
-      {
-        "rank": "15",
-        "club": "藤枝MYFC",
-        "matches": "29",
-        "wins": "8",
-        "draws": "9",
-        "losses": "12",
-        "goals_for_against": "35:38",
-        "points": "33"
       },
       {
         "rank": "16",

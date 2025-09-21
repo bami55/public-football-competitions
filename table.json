@@ -1555,6 +1555,16 @@
       },
       {
         "rank": "13",
+        "club": "CFエストレラ",
+        "matches": "6",
+        "wins": "0",
+        "draws": "4",
+        "losses": "2",
+        "goals_for_against": "3:6",
+        "points": "4"
+      },
+      {
+        "rank": "14",
         "club": "Alverca",
         "matches": "6",
         "wins": "1",
@@ -1564,7 +1574,7 @@
         "points": "4"
       },
       {
-        "rank": "14",
+        "rank": "15",
         "club": "ナシオナル",
         "matches": "6",
         "wins": "1",
@@ -1572,16 +1582,6 @@
         "losses": "4",
         "goals_for_against": "5:10",
         "points": "4"
-      },
-      {
-        "rank": "15",
-        "club": "CFエストレラ",
-        "matches": "5",
-        "wins": "0",
-        "draws": "3",
-        "losses": "2",
-        "goals_for_against": "3:6",
-        "points": "3"
       },
       {
         "rank": "16",
@@ -1596,12 +1596,12 @@
       {
         "rank": "17",
         "club": "トンデラ",
-        "matches": "5",
+        "matches": "6",
         "wins": "0",
-        "draws": "1",
+        "draws": "2",
         "losses": "4",
         "goals_for_against": "2:10",
-        "points": "1"
+        "points": "2"
       },
       {
         "rank": "18",

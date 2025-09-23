@@ -2057,12 +2057,12 @@
       {
         "rank": "15",
         "club": "名古屋グランパス",
-        "matches": "30",
+        "matches": "31",
         "wins": "9",
-        "draws": "8",
+        "draws": "9",
         "losses": "13",
         "goals_for_against": "38:43",
-        "points": "35"
+        "points": "36"
       },
       {
         "rank": "16",
@@ -2107,12 +2107,12 @@
       {
         "rank": "20",
         "club": "アルビレックス新潟",
-        "matches": "30",
+        "matches": "31",
         "wins": "4",
-        "draws": "8",
+        "draws": "9",
         "losses": "18",
         "goals_for_against": "27:50",
-        "points": "20"
+        "points": "21"
       }
     ]
   },

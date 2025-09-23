@@ -1918,71 +1918,71 @@
         "rank": "1",
         "club": "鹿島アントラーズ",
         "matches": "31",
-        "wins": "18",
-        "draws": "5",
+        "wins": "19",
+        "draws": "4",
         "losses": "8",
-        "goals_for_against": "45:27",
-        "points": "59"
+        "goals_for_against": "47:28",
+        "points": "61"
       },
       {
         "rank": "2",
-        "club": "京都サンガ",
-        "matches": "30",
-        "wins": "16",
-        "draws": "7",
-        "losses": "7",
-        "goals_for_against": "53:32",
-        "points": "55"
+        "club": "ヴィッセル神戸",
+        "matches": "31",
+        "wins": "17",
+        "draws": "6",
+        "losses": "8",
+        "goals_for_against": "38:26",
+        "points": "57"
       },
       {
         "rank": "3",
         "club": "柏レイソル",
-        "matches": "30",
+        "matches": "31",
         "wins": "15",
-        "draws": "10",
+        "draws": "11",
         "losses": "5",
         "goals_for_against": "43:29",
-        "points": "55"
+        "points": "56"
       },
       {
         "rank": "4",
-        "club": "ヴィッセル神戸",
-        "matches": "30",
+        "club": "京都サンガ",
+        "matches": "31",
         "wins": "16",
-        "draws": "6",
+        "draws": "7",
         "losses": "8",
-        "goals_for_against": "37:26",
-        "points": "54"
+        "goals_for_against": "53:33",
+        "points": "55"
       },
       {
         "rank": "5",
         "club": "町田ゼルビア",
-        "matches": "30",
-        "wins": "15",
+        "matches": "31",
+        "wins": "16",
         "draws": "6",
         "losses": "9",
-        "goals_for_against": "46:32",
-        "points": "51"
+        "goals_for_against": "47:32",
+        "points": "54"
       },
       {
         "rank": "6",
         "club": "サンフレッチェ広島",
-        "matches": "30",
+        "matches": "31",
         "wins": "15",
-        "draws": "6",
+        "draws": "7",
         "losses": "9",
         "goals_for_against": "35:21",
-        "points": "51"
+        "points": "52"
       },
       {
         "rank": "7",
         "club": "川崎フロンターレ",
-        "matches": "30",
+        "matches": "31",
         "wins": "13",
-        "draws": "9",
+        "draws": "10",
         "losses": "8",
         "goals_for_against": "53:39",
-        "points": "48"
+        "points": "49"
       },
       {
         "rank": "8",
@@ -1996,22 +1996,22 @@
       },
       {
         "rank": "9",
-        "club": "セレッソ大阪",
+        "club": "ガンバ大阪",
         "matches": "31",
-        "wins": "11",
-        "draws": "11",
-        "losses": "9",
-        "goals_for_against": "47:42",
+        "wins": "13",
+        "draws": "5",
+        "losses": "13",
+        "goals_for_against": "39:44",
         "points": "44"
       },
       {
         "rank": "10",
-        "club": "ガンバ大阪",
-        "matches": "30",
-        "wins": "13",
-        "draws": "4",
-        "losses": "13",
-        "goals_for_against": "39:44",
+        "club": "セレッソ大阪",
+        "matches": "31",
+        "wins": "11",
+        "draws": "10",
+        "losses": "10",
+        "goals_for_against": "48:44",
         "points": "43"
       },
       {
@@ -2036,23 +2036,23 @@
       },
       {
         "rank": "13",
-        "club": "アビスパ福岡",
+        "club": "FC東京",
         "matches": "31",
-        "wins": "9",
-        "draws": "11",
-        "losses": "11",
-        "goals_for_against": "30:34",
-        "points": "38"
+        "wins": "11",
+        "draws": "7",
+        "losses": "13",
+        "goals_for_against": "33:42",
+        "points": "40"
       },
       {
         "rank": "14",
-        "club": "FC東京",
+        "club": "アビスパ福岡",
         "matches": "31",
-        "wins": "10",
-        "draws": "8",
-        "losses": "13",
-        "goals_for_against": "32:42",
-        "points": "38"
+        "wins": "9",
+        "draws": "10",
+        "losses": "12",
+        "goals_for_against": "30:35",
+        "points": "37"
       },
       {
         "rank": "15",
@@ -2067,22 +2067,22 @@
       {
         "rank": "16",
         "club": "東京ヴェルディ",
-        "matches": "30",
+        "matches": "31",
         "wins": "9",
         "draws": "8",
-        "losses": "13",
-        "goals_for_against": "20:31",
+        "losses": "14",
+        "goals_for_against": "20:32",
         "points": "35"
       },
       {
         "rank": "17",
         "club": "横浜F・マリノス",
-        "matches": "30",
+        "matches": "31",
         "wins": "7",
-        "draws": "7",
+        "draws": "8",
         "losses": "16",
         "goals_for_against": "28:38",
-        "points": "28"
+        "points": "29"
       },
       {
         "rank": "18",
@@ -2097,12 +2097,12 @@
       {
         "rank": "19",
         "club": "湘南ベルマーレ",
-        "matches": "30",
+        "matches": "31",
         "wins": "6",
-        "draws": "7",
+        "draws": "8",
         "losses": "17",
         "goals_for_against": "27:53",
-        "points": "25"
+        "points": "26"
       },
       {
         "rank": "20",

@@ -1456,12 +1456,12 @@
       {
         "rank": "3",
         "club": "ベンフィカ",
-        "matches": "5",
+        "matches": "6",
         "wins": "4",
-        "draws": "1",
+        "draws": "2",
         "losses": "0",
         "goals_for_against": "10:2",
-        "points": "13"
+        "points": "14"
       },
       {
         "rank": "4",
@@ -1565,6 +1565,16 @@
       },
       {
         "rank": "14",
+        "club": "リオ・アヴェ",
+        "matches": "6",
+        "wins": "0",
+        "draws": "4",
+        "losses": "2",
+        "goals_for_against": "7:12",
+        "points": "4"
+      },
+      {
+        "rank": "15",
         "club": "Alverca",
         "matches": "6",
         "wins": "1",
@@ -1574,7 +1584,7 @@
         "points": "4"
       },
       {
-        "rank": "15",
+        "rank": "16",
         "club": "ナシオナル",
         "matches": "6",
         "wins": "1",
@@ -1582,16 +1592,6 @@
         "losses": "4",
         "goals_for_against": "5:10",
         "points": "4"
-      },
-      {
-        "rank": "16",
-        "club": "リオ・アヴェ",
-        "matches": "5",
-        "wins": "0",
-        "draws": "3",
-        "losses": "2",
-        "goals_for_against": "7:12",
-        "points": "3"
       },
       {
         "rank": "17",

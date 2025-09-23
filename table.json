@@ -1931,11 +1931,21 @@
         "wins": "17",
         "draws": "6",
         "losses": "8",
-        "goals_for_against": "39:26",
+        "goals_for_against": "41:26",
         "points": "57"
       },
       {
         "rank": "3",
+        "club": "京都サンガ",
+        "matches": "31",
+        "wins": "16",
+        "draws": "8",
+        "losses": "7",
+        "goals_for_against": "54:33",
+        "points": "56"
+      },
+      {
+        "rank": "4",
         "club": "柏レイソル",
         "matches": "31",
         "wins": "15",
@@ -1945,24 +1955,14 @@
         "points": "56"
       },
       {
-        "rank": "4",
-        "club": "京都サンガ",
-        "matches": "31",
-        "wins": "16",
-        "draws": "7",
-        "losses": "8",
-        "goals_for_against": "53:33",
-        "points": "55"
-      },
-      {
         "rank": "5",
         "club": "町田ゼルビア",
         "matches": "31",
-        "wins": "16",
-        "draws": "6",
+        "wins": "15",
+        "draws": "7",
         "losses": "9",
-        "goals_for_against": "47:32",
-        "points": "54"
+        "goals_for_against": "47:33",
+        "points": "52"
       },
       {
         "rank": "6",
@@ -1981,7 +1981,7 @@
         "wins": "14",
         "draws": "9",
         "losses": "8",
-        "goals_for_against": "54:39",
+        "goals_for_against": "55:40",
         "points": "51"
       },
       {
@@ -1998,11 +1998,11 @@
         "rank": "9",
         "club": "ガンバ大阪",
         "matches": "31",
-        "wins": "13",
-        "draws": "5",
+        "wins": "14",
+        "draws": "4",
         "losses": "13",
-        "goals_for_against": "39:44",
-        "points": "44"
+        "goals_for_against": "42:45",
+        "points": "46"
       },
       {
         "rank": "10",
@@ -2071,7 +2071,7 @@
         "wins": "9",
         "draws": "8",
         "losses": "14",
-        "goals_for_against": "20:33",
+        "goals_for_against": "20:35",
         "points": "35"
       },
       {
@@ -2079,10 +2079,10 @@
         "club": "横浜F・マリノス",
         "matches": "31",
         "wins": "7",
-        "draws": "8",
-        "losses": "16",
-        "goals_for_against": "28:38",
-        "points": "29"
+        "draws": "7",
+        "losses": "17",
+        "goals_for_against": "29:41",
+        "points": "28"
       },
       {
         "rank": "18",
@@ -2101,7 +2101,7 @@
         "wins": "6",
         "draws": "7",
         "losses": "18",
-        "goals_for_against": "27:54",
+        "goals_for_against": "28:55",
         "points": "25"
       },
       {

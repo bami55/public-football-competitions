@@ -1445,6 +1445,16 @@
       },
       {
         "rank": "2",
+        "club": "ベンフィカ",
+        "matches": "7",
+        "wins": "5",
+        "draws": "2",
+        "losses": "0",
+        "goals_for_against": "13:4",
+        "points": "17"
+      },
+      {
+        "rank": "3",
         "club": "スポルティングCP",
         "matches": "6",
         "wins": "5",
@@ -1454,23 +1464,13 @@
         "points": "15"
       },
       {
-        "rank": "3",
-        "club": "ベンフィカ",
-        "matches": "6",
-        "wins": "4",
-        "draws": "2",
-        "losses": "0",
-        "goals_for_against": "11:3",
-        "points": "14"
-      },
-      {
         "rank": "4",
         "club": "ジル・ヴィセンテ",
-        "matches": "6",
+        "matches": "7",
         "wins": "4",
         "draws": "1",
-        "losses": "1",
-        "goals_for_against": "7:2",
+        "losses": "2",
+        "goals_for_against": "8:4",
         "points": "13"
       },
       {

@@ -1505,22 +1505,22 @@
       },
       {
         "rank": "8",
-        "club": "サンタ・クララ",
-        "matches": "7",
-        "wins": "2",
-        "draws": "3",
-        "losses": "2",
-        "goals_for_against": "4:6",
-        "points": "9"
-      },
-      {
-        "rank": "9",
         "club": "ヴィトーリアSC",
         "matches": "6",
         "wins": "2",
         "draws": "2",
         "losses": "2",
         "goals_for_against": "7:9",
+        "points": "8"
+      },
+      {
+        "rank": "9",
+        "club": "サンタ・クララ",
+        "matches": "7",
+        "wins": "2",
+        "draws": "2",
+        "losses": "3",
+        "goals_for_against": "5:8",
         "points": "8"
       },
       {
@@ -1556,15 +1556,25 @@
       {
         "rank": "13",
         "club": "CFエストレラ",
-        "matches": "6",
+        "matches": "7",
         "wins": "0",
-        "draws": "4",
+        "draws": "5",
         "losses": "2",
         "goals_for_against": "3:6",
-        "points": "4"
+        "points": "5"
       },
       {
         "rank": "14",
+        "club": "トンデラ",
+        "matches": "7",
+        "wins": "1",
+        "draws": "2",
+        "losses": "4",
+        "goals_for_against": "4:11",
+        "points": "5"
+      },
+      {
+        "rank": "15",
         "club": "リオ・アヴェ",
         "matches": "6",
         "wins": "0",
@@ -1574,7 +1584,7 @@
         "points": "4"
       },
       {
-        "rank": "15",
+        "rank": "16",
         "club": "Alverca",
         "matches": "6",
         "wins": "1",
@@ -1584,7 +1594,7 @@
         "points": "4"
       },
       {
-        "rank": "16",
+        "rank": "17",
         "club": "ナシオナル",
         "matches": "6",
         "wins": "1",
@@ -1594,24 +1604,14 @@
         "points": "4"
       },
       {
-        "rank": "17",
-        "club": "トンデラ",
-        "matches": "7",
-        "wins": "0",
-        "draws": "3",
-        "losses": "4",
-        "goals_for_against": "2:10",
-        "points": "3"
-      },
-      {
         "rank": "18",
         "club": "AVS",
-        "matches": "6",
+        "matches": "7",
         "wins": "0",
-        "draws": "1",
+        "draws": "2",
         "losses": "5",
         "goals_for_against": "4:14",
-        "points": "1"
+        "points": "2"
       }
     ]
   },

@@ -1535,6 +1535,16 @@
       },
       {
         "rank": "11",
+        "club": "CFエストレラ",
+        "matches": "7",
+        "wins": "1",
+        "draws": "4",
+        "losses": "2",
+        "goals_for_against": "6:6",
+        "points": "7"
+      },
+      {
+        "rank": "12",
         "club": "カーザ・ピア",
         "matches": "7",
         "wins": "2",
@@ -1544,23 +1554,13 @@
         "points": "7"
       },
       {
-        "rank": "12",
+        "rank": "13",
         "club": "エストリル・プライア",
         "matches": "6",
         "wins": "1",
         "draws": "2",
         "losses": "3",
         "goals_for_against": "8:10",
-        "points": "5"
-      },
-      {
-        "rank": "13",
-        "club": "CFエストレラ",
-        "matches": "7",
-        "wins": "0",
-        "draws": "5",
-        "losses": "2",
-        "goals_for_against": "3:6",
         "points": "5"
       },
       {
@@ -1608,10 +1608,10 @@
         "club": "AVS",
         "matches": "7",
         "wins": "0",
-        "draws": "2",
-        "losses": "5",
-        "goals_for_against": "4:14",
-        "points": "2"
+        "draws": "1",
+        "losses": "6",
+        "goals_for_against": "4:17",
+        "points": "1"
       }
     ]
   },

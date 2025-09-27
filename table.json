@@ -2155,11 +2155,11 @@
         "rank": "4",
         "club": "ベガルタ仙台",
         "matches": "31",
-        "wins": "13",
-        "draws": "13",
+        "wins": "14",
+        "draws": "12",
         "losses": "5",
-        "goals_for_against": "36:28",
-        "points": "52"
+        "goals_for_against": "38:28",
+        "points": "54"
       },
       {
         "rank": "5",
@@ -2216,10 +2216,10 @@
         "club": "コンサドーレ札幌",
         "matches": "31",
         "wins": "13",
-        "draws": "5",
-        "losses": "13",
-        "goals_for_against": "38:50",
-        "points": "44"
+        "draws": "4",
+        "losses": "14",
+        "goals_for_against": "38:52",
+        "points": "43"
       },
       {
         "rank": "11",

@@ -1435,6 +1435,16 @@
     "results": [
       {
         "rank": "1",
+        "club": "スポルティングCP",
+        "matches": "7",
+        "wins": "6",
+        "draws": "0",
+        "losses": "1",
+        "goals_for_against": "19:4",
+        "points": "18"
+      },
+      {
+        "rank": "2",
         "club": "FCポルト",
         "matches": "6",
         "wins": "6",
@@ -1444,7 +1454,7 @@
         "points": "18"
       },
       {
-        "rank": "2",
+        "rank": "3",
         "club": "ベンフィカ",
         "matches": "7",
         "wins": "5",
@@ -1452,16 +1462,6 @@
         "losses": "0",
         "goals_for_against": "13:4",
         "points": "17"
-      },
-      {
-        "rank": "3",
-        "club": "スポルティングCP",
-        "matches": "6",
-        "wins": "5",
-        "draws": "0",
-        "losses": "1",
-        "goals_for_against": "18:4",
-        "points": "15"
       },
       {
         "rank": "4",
@@ -1556,11 +1556,11 @@
       {
         "rank": "13",
         "club": "エストリル・プライア",
-        "matches": "6",
+        "matches": "7",
         "wins": "1",
         "draws": "2",
-        "losses": "3",
-        "goals_for_against": "8:10",
+        "losses": "4",
+        "goals_for_against": "8:11",
         "points": "5"
       },
       {

@@ -1465,22 +1465,22 @@
       },
       {
         "rank": "4",
+        "club": "モレイレンセ",
+        "matches": "7",
+        "wins": "5",
+        "draws": "0",
+        "losses": "2",
+        "goals_for_against": "10:8",
+        "points": "15"
+      },
+      {
+        "rank": "5",
         "club": "ジル・ヴィセンテ",
         "matches": "7",
         "wins": "4",
         "draws": "1",
         "losses": "2",
         "goals_for_against": "8:4",
-        "points": "13"
-      },
-      {
-        "rank": "5",
-        "club": "モレイレンセ",
-        "matches": "7",
-        "wins": "4",
-        "draws": "1",
-        "losses": "2",
-        "goals_for_against": "9:8",
         "points": "13"
       },
       {
@@ -1505,6 +1505,16 @@
       },
       {
         "rank": "8",
+        "club": "サンタ・クララ",
+        "matches": "7",
+        "wins": "2",
+        "draws": "3",
+        "losses": "2",
+        "goals_for_against": "4:6",
+        "points": "9"
+      },
+      {
+        "rank": "9",
         "club": "ヴィトーリアSC",
         "matches": "6",
         "wins": "2",
@@ -1514,27 +1524,7 @@
         "points": "8"
       },
       {
-        "rank": "9",
-        "club": "サンタ・クララ",
-        "matches": "6",
-        "wins": "2",
-        "draws": "2",
-        "losses": "2",
-        "goals_for_against": "4:6",
-        "points": "8"
-      },
-      {
         "rank": "10",
-        "club": "カーザ・ピア",
-        "matches": "7",
-        "wins": "2",
-        "draws": "2",
-        "losses": "3",
-        "goals_for_against": "6:10",
-        "points": "8"
-      },
-      {
-        "rank": "11",
         "club": "アロウカ",
         "matches": "6",
         "wins": "2",
@@ -1542,6 +1532,16 @@
         "losses": "2",
         "goals_for_against": "9:14",
         "points": "8"
+      },
+      {
+        "rank": "11",
+        "club": "カーザ・ピア",
+        "matches": "7",
+        "wins": "2",
+        "draws": "1",
+        "losses": "4",
+        "goals_for_against": "6:11",
+        "points": "7"
       },
       {
         "rank": "12",
@@ -1596,12 +1596,12 @@
       {
         "rank": "17",
         "club": "トンデラ",
-        "matches": "6",
+        "matches": "7",
         "wins": "0",
-        "draws": "2",
+        "draws": "3",
         "losses": "4",
         "goals_for_against": "2:10",
-        "points": "2"
+        "points": "3"
       },
       {
         "rank": "18",

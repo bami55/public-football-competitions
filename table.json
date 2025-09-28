@@ -1938,11 +1938,11 @@
         "rank": "3",
         "club": "京都サンガ",
         "matches": "32",
-        "wins": "17",
-        "draws": "8",
+        "wins": "16",
+        "draws": "9",
         "losses": "7",
-        "goals_for_against": "55:33",
-        "points": "59"
+        "goals_for_against": "55:34",
+        "points": "57"
       },
       {
         "rank": "4",
@@ -1951,7 +1951,7 @@
         "wins": "15",
         "draws": "12",
         "losses": "5",
-        "goals_for_against": "44:30",
+        "goals_for_against": "45:31",
         "points": "57"
       },
       {
@@ -1981,7 +1981,7 @@
         "wins": "14",
         "draws": "10",
         "losses": "8",
-        "goals_for_against": "56:41",
+        "goals_for_against": "57:42",
         "points": "52"
       },
       {
@@ -2009,10 +2009,10 @@
         "club": "セレッソ大阪",
         "matches": "32",
         "wins": "11",
-        "draws": "10",
-        "losses": "11",
-        "goals_for_against": "48:46",
-        "points": "43"
+        "draws": "11",
+        "losses": "10",
+        "goals_for_against": "49:46",
+        "points": "44"
       },
       {
         "rank": "11",
@@ -2041,7 +2041,7 @@
         "wins": "11",
         "draws": "7",
         "losses": "14",
-        "goals_for_against": "33:43",
+        "goals_for_against": "35:45",
         "points": "40"
       },
       {
@@ -2081,7 +2081,7 @@
         "wins": "8",
         "draws": "7",
         "losses": "17",
-        "goals_for_against": "30:41",
+        "goals_for_against": "32:43",
         "points": "31"
       },
       {

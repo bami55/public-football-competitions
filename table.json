@@ -1496,31 +1496,31 @@
       {
         "rank": "7",
         "club": "SCブラガ",
-        "matches": "6",
+        "matches": "7",
         "wins": "2",
         "draws": "3",
-        "losses": "1",
-        "goals_for_against": "11:6",
+        "losses": "2",
+        "goals_for_against": "11:7",
         "points": "9"
       },
       {
         "rank": "8",
-        "club": "ヴィトーリアSC",
-        "matches": "7",
-        "wins": "2",
-        "draws": "2",
-        "losses": "3",
-        "goals_for_against": "7:10",
-        "points": "8"
-      },
-      {
-        "rank": "9",
         "club": "サンタ・クララ",
         "matches": "7",
         "wins": "2",
         "draws": "2",
         "losses": "3",
         "goals_for_against": "5:8",
+        "points": "8"
+      },
+      {
+        "rank": "9",
+        "club": "ヴィトーリアSC",
+        "matches": "7",
+        "wins": "2",
+        "draws": "2",
+        "losses": "3",
+        "goals_for_against": "7:11",
         "points": "8"
       },
       {
@@ -1550,11 +1550,21 @@
         "wins": "2",
         "draws": "1",
         "losses": "4",
-        "goals_for_against": "7:11",
+        "goals_for_against": "8:11",
         "points": "7"
       },
       {
         "rank": "13",
+        "club": "ナシオナル",
+        "matches": "7",
+        "wins": "2",
+        "draws": "1",
+        "losses": "4",
+        "goals_for_against": "6:10",
+        "points": "7"
+      },
+      {
+        "rank": "14",
         "club": "カーザ・ピア",
         "matches": "7",
         "wins": "2",
@@ -1564,7 +1574,7 @@
         "points": "7"
       },
       {
-        "rank": "14",
+        "rank": "15",
         "club": "エストリル・プライア",
         "matches": "7",
         "wins": "1",
@@ -1574,7 +1584,7 @@
         "points": "5"
       },
       {
-        "rank": "15",
+        "rank": "16",
         "club": "トンデラ",
         "matches": "7",
         "wins": "1",
@@ -1584,23 +1594,13 @@
         "points": "5"
       },
       {
-        "rank": "16",
+        "rank": "17",
         "club": "リオ・アヴェ",
         "matches": "6",
         "wins": "0",
         "draws": "4",
         "losses": "2",
         "goals_for_against": "8:13",
-        "points": "4"
-      },
-      {
-        "rank": "17",
-        "club": "ナシオナル",
-        "matches": "6",
-        "wins": "1",
-        "draws": "1",
-        "losses": "4",
-        "goals_for_against": "5:10",
         "points": "4"
       },
       {

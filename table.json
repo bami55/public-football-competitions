@@ -2076,6 +2076,16 @@
       },
       {
         "rank": "17",
+        "club": "横浜FC",
+        "matches": "32",
+        "wins": "7",
+        "draws": "8",
+        "losses": "17",
+        "goals_for_against": "20:36",
+        "points": "29"
+      },
+      {
+        "rank": "18",
         "club": "横浜F・マリノス",
         "matches": "31",
         "wins": "7",
@@ -2085,24 +2095,14 @@
         "points": "28"
       },
       {
-        "rank": "18",
-        "club": "横浜FC",
-        "matches": "31",
-        "wins": "7",
-        "draws": "7",
-        "losses": "17",
-        "goals_for_against": "20:36",
-        "points": "28"
-      },
-      {
         "rank": "19",
         "club": "湘南ベルマーレ",
-        "matches": "31",
+        "matches": "32",
         "wins": "6",
-        "draws": "7",
+        "draws": "8",
         "losses": "18",
         "goals_for_against": "28:55",
-        "points": "25"
+        "points": "26"
       },
       {
         "rank": "20",
@@ -2168,7 +2168,7 @@
         "wins": "14",
         "draws": "9",
         "losses": "8",
-        "goals_for_against": "32:19",
+        "goals_for_against": "33:20",
         "points": "51"
       },
       {
@@ -2308,7 +2308,7 @@
         "wins": "5",
         "draws": "9",
         "losses": "17",
-        "goals_for_against": "23:42",
+        "goals_for_against": "24:43",
         "points": "24"
       },
       {

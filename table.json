@@ -2128,7 +2128,7 @@
         "wins": "16",
         "draws": "10",
         "losses": "5",
-        "goals_for_against": "46:28",
+        "goals_for_against": "47:28",
         "points": "58"
       },
       {
@@ -2163,6 +2163,16 @@
       },
       {
         "rank": "5",
+        "club": "徳島ヴォルティス",
+        "matches": "31",
+        "wins": "14",
+        "draws": "9",
+        "losses": "8",
+        "goals_for_against": "32:19",
+        "points": "51"
+      },
+      {
+        "rank": "6",
         "club": "RB 大宮",
         "matches": "31",
         "wins": "14",
@@ -2172,7 +2182,7 @@
         "points": "50"
       },
       {
-        "rank": "6",
+        "rank": "7",
         "club": "サガン鳥栖",
         "matches": "31",
         "wins": "14",
@@ -2180,16 +2190,6 @@
         "losses": "9",
         "goals_for_against": "39:34",
         "points": "50"
-      },
-      {
-        "rank": "7",
-        "club": "徳島ヴォルティス",
-        "matches": "31",
-        "wins": "13",
-        "draws": "10",
-        "losses": "8",
-        "goals_for_against": "30:19",
-        "points": "49"
       },
       {
         "rank": "8",
@@ -2268,7 +2268,7 @@
         "wins": "9",
         "draws": "9",
         "losses": "13",
-        "goals_for_against": "37:40",
+        "goals_for_against": "37:41",
         "points": "36"
       },
       {
@@ -2306,10 +2306,10 @@
         "club": "カターレ富山",
         "matches": "31",
         "wins": "5",
-        "draws": "10",
-        "losses": "16",
-        "goals_for_against": "23:40",
-        "points": "25"
+        "draws": "9",
+        "losses": "17",
+        "goals_for_against": "23:42",
+        "points": "24"
       },
       {
         "rank": "20",

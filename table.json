@@ -1486,12 +1486,12 @@
       {
         "rank": "6",
         "club": "ファマリカン",
-        "matches": "6",
+        "matches": "7",
         "wins": "3",
-        "draws": "2",
+        "draws": "3",
         "losses": "1",
         "goals_for_against": "7:3",
-        "points": "11"
+        "points": "12"
       },
       {
         "rank": "7",
@@ -1585,6 +1585,16 @@
       },
       {
         "rank": "16",
+        "club": "リオ・アヴェ",
+        "matches": "7",
+        "wins": "0",
+        "draws": "5",
+        "losses": "2",
+        "goals_for_against": "8:13",
+        "points": "5"
+      },
+      {
+        "rank": "17",
         "club": "トンデラ",
         "matches": "7",
         "wins": "1",
@@ -1592,16 +1602,6 @@
         "losses": "4",
         "goals_for_against": "4:11",
         "points": "5"
-      },
-      {
-        "rank": "17",
-        "club": "リオ・アヴェ",
-        "matches": "6",
-        "wins": "0",
-        "draws": "4",
-        "losses": "2",
-        "goals_for_against": "8:13",
-        "points": "4"
       },
       {
         "rank": "18",

@@ -1525,6 +1525,16 @@
       },
       {
         "rank": "10",
+        "club": "カーザ・ピア",
+        "matches": "8",
+        "wins": "2",
+        "draws": "2",
+        "losses": "4",
+        "goals_for_against": "6:11",
+        "points": "8"
+      },
+      {
+        "rank": "11",
         "club": "アロウカ",
         "matches": "7",
         "wins": "2",
@@ -1534,7 +1544,7 @@
         "points": "8"
       },
       {
-        "rank": "11",
+        "rank": "12",
         "club": "CFエストレラ",
         "matches": "7",
         "wins": "1",
@@ -1544,7 +1554,7 @@
         "points": "7"
       },
       {
-        "rank": "12",
+        "rank": "13",
         "club": "Alverca",
         "matches": "7",
         "wins": "2",
@@ -1554,7 +1564,7 @@
         "points": "7"
       },
       {
-        "rank": "13",
+        "rank": "14",
         "club": "ナシオナル",
         "matches": "7",
         "wins": "2",
@@ -1564,24 +1574,14 @@
         "points": "7"
       },
       {
-        "rank": "14",
-        "club": "カーザ・ピア",
-        "matches": "7",
-        "wins": "2",
-        "draws": "1",
-        "losses": "4",
-        "goals_for_against": "6:11",
-        "points": "7"
-      },
-      {
         "rank": "15",
         "club": "エストリル・プライア",
-        "matches": "7",
+        "matches": "8",
         "wins": "1",
-        "draws": "2",
+        "draws": "3",
         "losses": "4",
         "goals_for_against": "8:11",
-        "points": "5"
+        "points": "6"
       },
       {
         "rank": "16",

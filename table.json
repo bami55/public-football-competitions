@@ -2046,22 +2046,22 @@
       },
       {
         "rank": "14",
+        "club": "東京ヴェルディ",
+        "matches": "33",
+        "wins": "10",
+        "draws": "9",
+        "losses": "14",
+        "goals_for_against": "21:35",
+        "points": "39"
+      },
+      {
+        "rank": "15",
         "club": "アビスパ福岡",
         "matches": "32",
         "wins": "9",
         "draws": "10",
         "losses": "13",
         "goals_for_against": "31:37",
-        "points": "37"
-      },
-      {
-        "rank": "15",
-        "club": "東京ヴェルディ",
-        "matches": "33",
-        "wins": "9",
-        "draws": "10",
-        "losses": "14",
-        "goals_for_against": "20:35",
         "points": "37"
       },
       {
@@ -2099,10 +2099,10 @@
         "club": "湘南ベルマーレ",
         "matches": "33",
         "wins": "6",
-        "draws": "8",
-        "losses": "19",
-        "goals_for_against": "28:56",
-        "points": "26"
+        "draws": "7",
+        "losses": "20",
+        "goals_for_against": "28:57",
+        "points": "25"
       },
       {
         "rank": "20",

@@ -1947,11 +1947,11 @@
       {
         "rank": "4",
         "club": "京都サンガ",
-        "matches": "32",
+        "matches": "33",
         "wins": "17",
         "draws": "8",
-        "losses": "7",
-        "goals_for_against": "56:34",
+        "losses": "8",
+        "goals_for_against": "56:35",
         "points": "59"
       },
       {
@@ -1966,6 +1966,16 @@
       },
       {
         "rank": "6",
+        "club": "川崎フロンターレ",
+        "matches": "33",
+        "wins": "15",
+        "draws": "10",
+        "losses": "8",
+        "goals_for_against": "60:44",
+        "points": "55"
+      },
+      {
+        "rank": "7",
         "club": "町田ゼルビア",
         "matches": "33",
         "wins": "16",
@@ -1973,16 +1983,6 @@
         "losses": "10",
         "goals_for_against": "49:35",
         "points": "55"
-      },
-      {
-        "rank": "7",
-        "club": "川崎フロンターレ",
-        "matches": "32",
-        "wins": "14",
-        "draws": "10",
-        "losses": "8",
-        "goals_for_against": "59:44",
-        "points": "52"
       },
       {
         "rank": "8",
@@ -2345,7 +2345,7 @@
         "wins": "18",
         "draws": "6",
         "losses": "6",
-        "goals_for_against": "49:31",
+        "goals_for_against": "50:31",
         "points": "60"
       },
       {
@@ -2355,7 +2355,7 @@
         "wins": "15",
         "draws": "9",
         "losses": "6",
-        "goals_for_against": "56:30",
+        "goals_for_against": "56:31",
         "points": "54"
       },
       {
@@ -2382,11 +2382,11 @@
         "rank": "6",
         "club": "奈良クラブ",
         "matches": "30",
-        "wins": "12",
-        "draws": "10",
+        "wins": "13",
+        "draws": "9",
         "losses": "8",
-        "goals_for_against": "39:33",
-        "points": "46"
+        "goals_for_against": "40:33",
+        "points": "48"
       },
       {
         "rank": "7",
@@ -2473,10 +2473,10 @@
         "club": "FC琉球OKINAWA",
         "matches": "30",
         "wins": "9",
-        "draws": "8",
-        "losses": "13",
-        "goals_for_against": "31:38",
-        "points": "35"
+        "draws": "7",
+        "losses": "14",
+        "goals_for_against": "31:39",
+        "points": "34"
       },
       {
         "rank": "16",

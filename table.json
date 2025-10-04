@@ -1465,23 +1465,23 @@
       },
       {
         "rank": "4",
-        "club": "モレイレンセ",
-        "matches": "7",
+        "club": "ジル・ヴィセンテ",
+        "matches": "8",
         "wins": "5",
-        "draws": "0",
+        "draws": "1",
         "losses": "2",
-        "goals_for_against": "10:8",
-        "points": "15"
+        "goals_for_against": "10:4",
+        "points": "16"
       },
       {
         "rank": "5",
-        "club": "ジル・ヴィセンテ",
-        "matches": "7",
-        "wins": "4",
+        "club": "モレイレンセ",
+        "matches": "8",
+        "wins": "5",
         "draws": "1",
         "losses": "2",
-        "goals_for_against": "8:4",
-        "points": "13"
+        "goals_for_against": "11:9",
+        "points": "16"
       },
       {
         "rank": "6",
@@ -1524,7 +1524,17 @@
         "points": "8"
       },
       {
-        "rank": "10",
+        "rank": "9",
+        "club": "ナシオナル",
+        "matches": "8",
+        "wins": "2",
+        "draws": "2",
+        "losses": "4",
+        "goals_for_against": "7:11",
+        "points": "8"
+      },
+      {
+        "rank": "11",
         "club": "カーザ・ピア",
         "matches": "8",
         "wins": "2",
@@ -1534,7 +1544,7 @@
         "points": "8"
       },
       {
-        "rank": "11",
+        "rank": "12",
         "club": "アロウカ",
         "matches": "7",
         "wins": "2",
@@ -1544,33 +1554,23 @@
         "points": "8"
       },
       {
-        "rank": "12",
+        "rank": "13",
         "club": "CFエストレラ",
-        "matches": "7",
+        "matches": "8",
         "wins": "1",
         "draws": "4",
-        "losses": "2",
-        "goals_for_against": "6:6",
+        "losses": "3",
+        "goals_for_against": "6:8",
         "points": "7"
       },
       {
-        "rank": "13",
+        "rank": "14",
         "club": "Alverca",
         "matches": "7",
         "wins": "2",
         "draws": "1",
         "losses": "4",
         "goals_for_against": "8:11",
-        "points": "7"
-      },
-      {
-        "rank": "14",
-        "club": "ナシオナル",
-        "matches": "7",
-        "wins": "2",
-        "draws": "1",
-        "losses": "4",
-        "goals_for_against": "6:10",
         "points": "7"
       },
       {

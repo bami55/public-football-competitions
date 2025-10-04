@@ -1495,12 +1495,12 @@
       },
       {
         "rank": "7",
-        "club": "サンタ・クララ",
+        "club": "ヴィトーリアSC",
         "matches": "8",
         "wins": "3",
         "draws": "2",
         "losses": "3",
-        "goals_for_against": "6:8",
+        "goals_for_against": "9:12",
         "points": "11"
       },
       {
@@ -1535,22 +1535,22 @@
       },
       {
         "rank": "11",
+        "club": "サンタ・クララ",
+        "matches": "8",
+        "wins": "2",
+        "draws": "2",
+        "losses": "4",
+        "goals_for_against": "6:10",
+        "points": "8"
+      },
+      {
+        "rank": "12",
         "club": "カーザ・ピア",
         "matches": "8",
         "wins": "2",
         "draws": "2",
         "losses": "4",
         "goals_for_against": "8:13",
-        "points": "8"
-      },
-      {
-        "rank": "12",
-        "club": "ヴィトーリアSC",
-        "matches": "8",
-        "wins": "2",
-        "draws": "2",
-        "losses": "4",
-        "goals_for_against": "7:12",
         "points": "8"
       },
       {

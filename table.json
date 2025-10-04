@@ -1566,11 +1566,11 @@
       {
         "rank": "14",
         "club": "Alverca",
-        "matches": "7",
+        "matches": "8",
         "wins": "2",
         "draws": "1",
-        "losses": "4",
-        "goals_for_against": "8:11",
+        "losses": "5",
+        "goals_for_against": "8:12",
         "points": "7"
       },
       {
@@ -1606,12 +1606,12 @@
       {
         "rank": "18",
         "club": "AVS",
-        "matches": "7",
-        "wins": "0",
+        "matches": "8",
+        "wins": "1",
         "draws": "1",
         "losses": "6",
-        "goals_for_against": "4:17",
-        "points": "1"
+        "goals_for_against": "5:17",
+        "points": "4"
       }
     ]
   },

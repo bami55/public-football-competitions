@@ -2420,6 +2420,16 @@
       },
       {
         "rank": "10",
+        "club": "福島ユナイテッド",
+        "matches": "30",
+        "wins": "10",
+        "draws": "9",
+        "losses": "11",
+        "goals_for_against": "48:59",
+        "points": "39"
+      },
+      {
+        "rank": "11",
         "club": "FC岐阜",
         "matches": "30",
         "wins": "10",
@@ -2429,17 +2439,17 @@
         "points": "38"
       },
       {
-        "rank": "11",
-        "club": "福島ユナイテッド",
+        "rank": "12",
+        "club": "松本山雅",
         "matches": "29",
-        "wins": "10",
-        "draws": "8",
-        "losses": "11",
-        "goals_for_against": "48:59",
-        "points": "38"
+        "wins": "9",
+        "draws": "10",
+        "losses": "10",
+        "goals_for_against": "31:32",
+        "points": "37"
       },
       {
-        "rank": "12",
+        "rank": "13",
         "club": "SC相模原",
         "matches": "30",
         "wins": "9",
@@ -2447,16 +2457,6 @@
         "losses": "11",
         "goals_for_against": "29:40",
         "points": "37"
-      },
-      {
-        "rank": "13",
-        "club": "松本山雅",
-        "matches": "28",
-        "wins": "9",
-        "draws": "9",
-        "losses": "10",
-        "goals_for_against": "31:32",
-        "points": "36"
       },
       {
         "rank": "14",

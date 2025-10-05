@@ -1436,32 +1436,32 @@
       {
         "rank": "1",
         "club": "FCポルト",
-        "matches": "7",
+        "matches": "8",
         "wins": "7",
-        "draws": "0",
+        "draws": "1",
         "losses": "0",
         "goals_for_against": "19:1",
-        "points": "21"
+        "points": "22"
       },
       {
         "rank": "2",
         "club": "スポルティングCP",
         "matches": "8",
-        "wins": "7",
-        "draws": "0",
+        "wins": "6",
+        "draws": "1",
         "losses": "1",
-        "goals_for_against": "20:4",
-        "points": "21"
+        "goals_for_against": "20:5",
+        "points": "19"
       },
       {
         "rank": "3",
         "club": "ベンフィカ",
-        "matches": "7",
+        "matches": "8",
         "wins": "5",
-        "draws": "2",
+        "draws": "3",
         "losses": "0",
         "goals_for_against": "13:4",
-        "points": "17"
+        "points": "18"
       },
       {
         "rank": "4",
@@ -1505,6 +1505,16 @@
       },
       {
         "rank": "8",
+        "club": "SCブラガ",
+        "matches": "8",
+        "wins": "2",
+        "draws": "4",
+        "losses": "2",
+        "goals_for_against": "12:8",
+        "points": "10"
+      },
+      {
+        "rank": "9",
         "club": "Alverca",
         "matches": "8",
         "wins": "3",
@@ -1514,7 +1524,7 @@
         "points": "10"
       },
       {
-        "rank": "9",
+        "rank": "10",
         "club": "ナシオナル",
         "matches": "8",
         "wins": "3",
@@ -1522,16 +1532,6 @@
         "losses": "4",
         "goals_for_against": "9:12",
         "points": "10"
-      },
-      {
-        "rank": "10",
-        "club": "SCブラガ",
-        "matches": "8",
-        "wins": "2",
-        "draws": "3",
-        "losses": "3",
-        "goals_for_against": "11:8",
-        "points": "9"
       },
       {
         "rank": "11",

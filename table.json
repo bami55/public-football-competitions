@@ -1446,12 +1446,12 @@
       {
         "rank": "2",
         "club": "スポルティングCP",
-        "matches": "7",
+        "matches": "8",
         "wins": "6",
-        "draws": "0",
+        "draws": "1",
         "losses": "1",
         "goals_for_against": "19:4",
-        "points": "18"
+        "points": "19"
       },
       {
         "rank": "3",
@@ -1505,6 +1505,16 @@
       },
       {
         "rank": "8",
+        "club": "SCブラガ",
+        "matches": "8",
+        "wins": "2",
+        "draws": "4",
+        "losses": "2",
+        "goals_for_against": "11:7",
+        "points": "10"
+      },
+      {
+        "rank": "9",
         "club": "Alverca",
         "matches": "8",
         "wins": "3",
@@ -1514,7 +1524,7 @@
         "points": "10"
       },
       {
-        "rank": "9",
+        "rank": "10",
         "club": "ナシオナル",
         "matches": "8",
         "wins": "3",
@@ -1522,16 +1532,6 @@
         "losses": "4",
         "goals_for_against": "9:12",
         "points": "10"
-      },
-      {
-        "rank": "10",
-        "club": "SCブラガ",
-        "matches": "7",
-        "wins": "2",
-        "draws": "3",
-        "losses": "2",
-        "goals_for_against": "11:7",
-        "points": "9"
       },
       {
         "rank": "11",
@@ -1550,7 +1550,7 @@
         "wins": "1",
         "draws": "5",
         "losses": "2",
-        "goals_for_against": "10:13",
+        "goals_for_against": "11:13",
         "points": "8"
       },
       {
@@ -1600,7 +1600,7 @@
         "wins": "1",
         "draws": "2",
         "losses": "5",
-        "goals_for_against": "4:13",
+        "goals_for_against": "4:14",
         "points": "5"
       },
       {

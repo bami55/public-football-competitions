@@ -1486,12 +1486,12 @@
       {
         "rank": "6",
         "club": "ファマリカン",
-        "matches": "7",
+        "matches": "8",
         "wins": "3",
-        "draws": "3",
+        "draws": "4",
         "losses": "1",
         "goals_for_against": "7:3",
-        "points": "12"
+        "points": "13"
       },
       {
         "rank": "7",
@@ -1535,6 +1535,16 @@
       },
       {
         "rank": "11",
+        "club": "アロウカ",
+        "matches": "8",
+        "wins": "2",
+        "draws": "3",
+        "losses": "3",
+        "goals_for_against": "9:18",
+        "points": "9"
+      },
+      {
+        "rank": "12",
         "club": "サンタ・クララ",
         "matches": "8",
         "wins": "2",
@@ -1544,23 +1554,13 @@
         "points": "8"
       },
       {
-        "rank": "12",
+        "rank": "13",
         "club": "カーザ・ピア",
         "matches": "8",
         "wins": "2",
         "draws": "2",
         "losses": "4",
         "goals_for_against": "8:13",
-        "points": "8"
-      },
-      {
-        "rank": "13",
-        "club": "アロウカ",
-        "matches": "7",
-        "wins": "2",
-        "draws": "2",
-        "losses": "3",
-        "goals_for_against": "9:18",
         "points": "8"
       },
       {

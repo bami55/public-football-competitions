@@ -2330,6 +2330,16 @@
     "results": [
       {
         "rank": "1",
+        "club": "栃木シティ",
+        "matches": "31",
+        "wins": "19",
+        "draws": "6",
+        "losses": "6",
+        "goals_for_against": "53:31",
+        "points": "63"
+      },
+      {
+        "rank": "2",
         "club": "ヴァンラーレ八戸",
         "matches": "30",
         "wins": "19",
@@ -2337,16 +2347,6 @@
         "losses": "5",
         "goals_for_against": "37:17",
         "points": "63"
-      },
-      {
-        "rank": "2",
-        "club": "栃木シティ",
-        "matches": "31",
-        "wins": "18",
-        "draws": "7",
-        "losses": "6",
-        "goals_for_against": "51:31",
-        "points": "61"
       },
       {
         "rank": "3",
@@ -2383,10 +2383,10 @@
         "club": "奈良クラブ",
         "matches": "31",
         "wins": "13",
-        "draws": "10",
-        "losses": "8",
-        "goals_for_against": "41:33",
-        "points": "49"
+        "draws": "9",
+        "losses": "9",
+        "goals_for_against": "41:35",
+        "points": "48"
       },
       {
         "rank": "7",

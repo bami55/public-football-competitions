@@ -2390,6 +2390,16 @@
       },
       {
         "rank": "7",
+        "club": "ツエーゲン金沢",
+        "matches": "31",
+        "wins": "14",
+        "draws": "5",
+        "losses": "12",
+        "goals_for_against": "40:36",
+        "points": "47"
+      },
+      {
+        "rank": "8",
         "club": "栃木SC",
         "matches": "31",
         "wins": "13",
@@ -2397,16 +2407,6 @@
         "losses": "11",
         "goals_for_against": "32:29",
         "points": "46"
-      },
-      {
-        "rank": "8",
-        "club": "ツエーゲン金沢",
-        "matches": "30",
-        "wins": "13",
-        "draws": "5",
-        "losses": "12",
-        "goals_for_against": "39:36",
-        "points": "44"
       },
       {
         "rank": "9",
@@ -2461,11 +2461,11 @@
       {
         "rank": "14",
         "club": "松本山雅",
-        "matches": "29",
+        "matches": "30",
         "wins": "9",
         "draws": "9",
-        "losses": "11",
-        "goals_for_against": "31:33",
+        "losses": "12",
+        "goals_for_against": "31:34",
         "points": "36"
       },
       {

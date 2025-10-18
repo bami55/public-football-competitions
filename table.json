@@ -1931,7 +1931,7 @@
         "wins": "17",
         "draws": "12",
         "losses": "5",
-        "goals_for_against": "52:33",
+        "goals_for_against": "53:33",
         "points": "63"
       },
       {
@@ -1971,7 +1971,7 @@
         "wins": "15",
         "draws": "11",
         "losses": "8",
-        "goals_for_against": "64:47",
+        "goals_for_against": "65:48",
         "points": "56"
       },
       {
@@ -2001,7 +2001,7 @@
         "wins": "15",
         "draws": "5",
         "losses": "14",
-        "goals_for_against": "46:51",
+        "goals_for_against": "46:52",
         "points": "50"
       },
       {
@@ -2051,7 +2051,7 @@
         "wins": "10",
         "draws": "11",
         "losses": "13",
-        "goals_for_against": "37:43",
+        "goals_for_against": "38:44",
         "points": "41"
       },
       {
@@ -2069,10 +2069,10 @@
         "club": "名古屋グランパス",
         "matches": "34",
         "wins": "10",
-        "draws": "9",
-        "losses": "15",
-        "goals_for_against": "40:49",
-        "points": "39"
+        "draws": "10",
+        "losses": "14",
+        "goals_for_against": "42:50",
+        "points": "40"
       },
       {
         "rank": "17",
@@ -2088,11 +2088,11 @@
         "rank": "18",
         "club": "横浜FC",
         "matches": "34",
-        "wins": "9",
-        "draws": "7",
+        "wins": "8",
+        "draws": "8",
         "losses": "18",
-        "goals_for_against": "22:37",
-        "points": "34"
+        "goals_for_against": "23:39",
+        "points": "32"
       },
       {
         "rank": "19",
@@ -2215,11 +2215,11 @@
         "rank": "10",
         "club": "いわきFC",
         "matches": "33",
-        "wins": "11",
-        "draws": "11",
+        "wins": "12",
+        "draws": "10",
         "losses": "11",
-        "goals_for_against": "49:41",
-        "points": "44"
+        "goals_for_against": "50:41",
+        "points": "46"
       },
       {
         "rank": "11",
@@ -2316,10 +2316,10 @@
         "club": "愛媛FC",
         "matches": "33",
         "wins": "3",
-        "draws": "12",
-        "losses": "18",
-        "goals_for_against": "32:58",
-        "points": "21"
+        "draws": "11",
+        "losses": "19",
+        "goals_for_against": "32:59",
+        "points": "20"
       }
     ]
   },
@@ -2355,7 +2355,7 @@
         "wins": "15",
         "draws": "11",
         "losses": "6",
-        "goals_for_against": "57:33",
+        "goals_for_against": "58:34",
         "points": "56"
       },
       {
@@ -2385,7 +2385,7 @@
         "wins": "14",
         "draws": "9",
         "losses": "9",
-        "goals_for_against": "42:36",
+        "goals_for_against": "43:36",
         "points": "51"
       },
       {
@@ -2425,7 +2425,7 @@
         "wins": "12",
         "draws": "8",
         "losses": "12",
-        "goals_for_against": "51:60",
+        "goals_for_against": "51:61",
         "points": "44"
       },
       {
@@ -2445,7 +2445,7 @@
         "wins": "11",
         "draws": "7",
         "losses": "14",
-        "goals_for_against": "31:35",
+        "goals_for_against": "32:36",
         "points": "40"
       },
       {
@@ -2495,7 +2495,7 @@
         "wins": "8",
         "draws": "8",
         "losses": "16",
-        "goals_for_against": "27:43",
+        "goals_for_against": "27:44",
         "points": "32"
       },
       {
@@ -2515,7 +2515,7 @@
         "wins": "6",
         "draws": "10",
         "losses": "16",
-        "goals_for_against": "39:54",
+        "goals_for_against": "40:54",
         "points": "28"
       },
       {

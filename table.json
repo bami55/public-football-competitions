@@ -2128,7 +2128,7 @@
         "wins": "17",
         "draws": "11",
         "losses": "5",
-        "goals_for_against": "53:40",
+        "goals_for_against": "55:40",
         "points": "62"
       },
       {
@@ -2238,7 +2238,7 @@
         "wins": "11",
         "draws": "9",
         "losses": "13",
-        "goals_for_against": "35:36",
+        "goals_for_against": "35:38",
         "points": "42"
       },
       {
@@ -2450,6 +2450,16 @@
       },
       {
         "rank": "13",
+        "club": "FC琉球OKINAWA",
+        "matches": "32",
+        "wins": "10",
+        "draws": "7",
+        "losses": "15",
+        "goals_for_against": "33:43",
+        "points": "37"
+      },
+      {
+        "rank": "14",
         "club": "SC相模原",
         "matches": "31",
         "wins": "9",
@@ -2459,7 +2469,7 @@
         "points": "37"
       },
       {
-        "rank": "14",
+        "rank": "15",
         "club": "松本山雅",
         "matches": "30",
         "wins": "9",
@@ -2469,24 +2479,14 @@
         "points": "36"
       },
       {
-        "rank": "15",
-        "club": "FC琉球OKINAWA",
-        "matches": "32",
-        "wins": "9",
-        "draws": "8",
-        "losses": "15",
-        "goals_for_against": "31:43",
-        "points": "35"
-      },
-      {
         "rank": "16",
         "club": "高知ユナイテッド",
         "matches": "32",
         "wins": "9",
-        "draws": "8",
-        "losses": "15",
-        "goals_for_against": "38:54",
-        "points": "35"
+        "draws": "7",
+        "losses": "16",
+        "goals_for_against": "38:56",
+        "points": "34"
       },
       {
         "rank": "17",

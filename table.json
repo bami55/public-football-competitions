@@ -2123,16 +2123,6 @@
     "results": [
       {
         "rank": "1",
-        "club": "水戸ホーリーホック",
-        "matches": "33",
-        "wins": "17",
-        "draws": "11",
-        "losses": "5",
-        "goals_for_against": "50:29",
-        "points": "62"
-      },
-      {
-        "rank": "2",
         "club": "V・ファーレン長崎",
         "matches": "33",
         "wins": "17",
@@ -2142,7 +2132,27 @@
         "points": "62"
       },
       {
+        "rank": "2",
+        "club": "水戸ホーリーホック",
+        "matches": "33",
+        "wins": "17",
+        "draws": "10",
+        "losses": "6",
+        "goals_for_against": "50:30",
+        "points": "61"
+      },
+      {
         "rank": "3",
+        "club": "ジェフ千葉",
+        "matches": "33",
+        "wins": "17",
+        "draws": "7",
+        "losses": "9",
+        "goals_for_against": "44:31",
+        "points": "58"
+      },
+      {
+        "rank": "4",
         "club": "徳島ヴォルティス",
         "matches": "33",
         "wins": "16",
@@ -2152,23 +2162,13 @@
         "points": "57"
       },
       {
-        "rank": "4",
+        "rank": "5",
         "club": "RB 大宮",
         "matches": "33",
         "wins": "16",
         "draws": "8",
         "losses": "9",
         "goals_for_against": "48:32",
-        "points": "56"
-      },
-      {
-        "rank": "5",
-        "club": "ジェフ千葉",
-        "matches": "33",
-        "wins": "16",
-        "draws": "8",
-        "losses": "9",
-        "goals_for_against": "43:31",
         "points": "56"
       },
       {

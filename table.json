@@ -1466,12 +1466,12 @@
       {
         "rank": "4",
         "club": "ジル・ヴィセンテ",
-        "matches": "8",
+        "matches": "9",
         "wins": "5",
-        "draws": "1",
+        "draws": "2",
         "losses": "2",
         "goals_for_against": "10:4",
-        "points": "16"
+        "points": "17"
       },
       {
         "rank": "5",
@@ -1495,6 +1495,16 @@
       },
       {
         "rank": "7",
+        "club": "Alverca",
+        "matches": "9",
+        "wins": "3",
+        "draws": "2",
+        "losses": "4",
+        "goals_for_against": "11:12",
+        "points": "11"
+      },
+      {
+        "rank": "8",
         "club": "ヴィトーリアSC",
         "matches": "8",
         "wins": "3",
@@ -1504,23 +1514,13 @@
         "points": "11"
       },
       {
-        "rank": "8",
+        "rank": "9",
         "club": "SCブラガ",
         "matches": "8",
         "wins": "2",
         "draws": "4",
         "losses": "2",
         "goals_for_against": "12:8",
-        "points": "10"
-      },
-      {
-        "rank": "9",
-        "club": "Alverca",
-        "matches": "8",
-        "wins": "3",
-        "draws": "1",
-        "losses": "4",
-        "goals_for_against": "11:12",
         "points": "10"
       },
       {

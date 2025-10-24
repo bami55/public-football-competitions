@@ -1460,7 +1460,7 @@
         "wins": "6",
         "draws": "1",
         "losses": "2",
-        "goals_for_against": "12:4",
+        "goals_for_against": "14:4",
         "points": "19"
       },
       {
@@ -1515,22 +1515,22 @@
       },
       {
         "rank": "9",
-        "club": "Alverca",
-        "matches": "9",
-        "wins": "3",
-        "draws": "1",
-        "losses": "5",
-        "goals_for_against": "11:14",
-        "points": "10"
-      },
-      {
-        "rank": "10",
         "club": "ナシオナル",
         "matches": "8",
         "wins": "3",
         "draws": "1",
         "losses": "4",
         "goals_for_against": "9:12",
+        "points": "10"
+      },
+      {
+        "rank": "10",
+        "club": "Alverca",
+        "matches": "9",
+        "wins": "3",
+        "draws": "1",
+        "losses": "5",
+        "goals_for_against": "11:16",
         "points": "10"
       },
       {

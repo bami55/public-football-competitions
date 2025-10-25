@@ -1450,7 +1450,7 @@
         "wins": "6",
         "draws": "3",
         "losses": "0",
-        "goals_for_against": "16:4",
+        "goals_for_against": "17:4",
         "points": "21"
       },
       {
@@ -1495,6 +1495,16 @@
       },
       {
         "rank": "7",
+        "club": "リオ・アヴェ",
+        "matches": "9",
+        "wins": "2",
+        "draws": "5",
+        "losses": "2",
+        "goals_for_against": "13:14",
+        "points": "11"
+      },
+      {
+        "rank": "8",
         "club": "サンタ・クララ",
         "matches": "9",
         "wins": "3",
@@ -1504,7 +1514,7 @@
         "points": "11"
       },
       {
-        "rank": "8",
+        "rank": "9",
         "club": "ヴィトーリアSC",
         "matches": "8",
         "wins": "3",
@@ -1514,23 +1524,13 @@
         "points": "11"
       },
       {
-        "rank": "9",
+        "rank": "10",
         "club": "SCブラガ",
         "matches": "8",
         "wins": "2",
         "draws": "4",
         "losses": "2",
         "goals_for_against": "12:8",
-        "points": "10"
-      },
-      {
-        "rank": "10",
-        "club": "CFエストレラ",
-        "matches": "9",
-        "wins": "2",
-        "draws": "4",
-        "losses": "3",
-        "goals_for_against": "7:8",
         "points": "10"
       },
       {
@@ -1560,21 +1560,11 @@
         "wins": "2",
         "draws": "3",
         "losses": "4",
-        "goals_for_against": "10:22",
+        "goals_for_against": "10:23",
         "points": "9"
       },
       {
         "rank": "14",
-        "club": "リオ・アヴェ",
-        "matches": "9",
-        "wins": "1",
-        "draws": "5",
-        "losses": "3",
-        "goals_for_against": "11:14",
-        "points": "8"
-      },
-      {
-        "rank": "15",
         "club": "カーザ・ピア",
         "matches": "8",
         "wins": "2",
@@ -1582,6 +1572,16 @@
         "losses": "4",
         "goals_for_against": "8:13",
         "points": "8"
+      },
+      {
+        "rank": "15",
+        "club": "CFエストレラ",
+        "matches": "9",
+        "wins": "1",
+        "draws": "4",
+        "losses": "4",
+        "goals_for_against": "7:10",
+        "points": "7"
       },
       {
         "rank": "16",

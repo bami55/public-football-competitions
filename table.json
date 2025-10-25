@@ -1535,6 +1535,16 @@
       },
       {
         "rank": "11",
+        "club": "サンタ・クララ",
+        "matches": "9",
+        "wins": "2",
+        "draws": "3",
+        "losses": "4",
+        "goals_for_against": "6:10",
+        "points": "9"
+      },
+      {
+        "rank": "12",
         "club": "アロウカ",
         "matches": "8",
         "wins": "2",
@@ -1544,23 +1554,13 @@
         "points": "9"
       },
       {
-        "rank": "12",
+        "rank": "13",
         "club": "リオ・アヴェ",
         "matches": "8",
         "wins": "1",
         "draws": "5",
         "losses": "2",
         "goals_for_against": "11:13",
-        "points": "8"
-      },
-      {
-        "rank": "13",
-        "club": "サンタ・クララ",
-        "matches": "8",
-        "wins": "2",
-        "draws": "2",
-        "losses": "4",
-        "goals_for_against": "6:10",
         "points": "8"
       },
       {
@@ -1606,12 +1606,12 @@
       {
         "rank": "18",
         "club": "AVS",
-        "matches": "8",
+        "matches": "9",
         "wins": "0",
-        "draws": "1",
+        "draws": "2",
         "losses": "7",
         "goals_for_against": "5:20",
-        "points": "1"
+        "points": "2"
       }
     ]
   },

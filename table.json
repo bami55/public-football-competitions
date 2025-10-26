@@ -1435,22 +1435,22 @@
     "results": [
       {
         "rank": "1",
+        "club": "スポルティングCP",
+        "matches": "9",
+        "wins": "7",
+        "draws": "1",
+        "losses": "1",
+        "goals_for_against": "23:5",
+        "points": "22"
+      },
+      {
+        "rank": "2",
         "club": "FCポルト",
         "matches": "8",
         "wins": "7",
         "draws": "1",
         "losses": "0",
         "goals_for_against": "19:1",
-        "points": "22"
-      },
-      {
-        "rank": "2",
-        "club": "スポルティングCP",
-        "matches": "9",
-        "wins": "7",
-        "draws": "1",
-        "losses": "1",
-        "goals_for_against": "21:5",
         "points": "22"
       },
       {
@@ -1600,7 +1600,7 @@
         "wins": "1",
         "draws": "2",
         "losses": "6",
-        "goals_for_against": "4:15",
+        "goals_for_against": "4:17",
         "points": "5"
       },
       {

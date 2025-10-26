@@ -1445,6 +1445,16 @@
       },
       {
         "rank": "2",
+        "club": "スポルティングCP",
+        "matches": "9",
+        "wins": "7",
+        "draws": "1",
+        "losses": "1",
+        "goals_for_against": "21:5",
+        "points": "22"
+      },
+      {
+        "rank": "3",
         "club": "ベンフィカ",
         "matches": "9",
         "wins": "6",
@@ -1452,16 +1462,6 @@
         "losses": "0",
         "goals_for_against": "18:4",
         "points": "21"
-      },
-      {
-        "rank": "3",
-        "club": "スポルティングCP",
-        "matches": "8",
-        "wins": "6",
-        "draws": "1",
-        "losses": "1",
-        "goals_for_against": "20:5",
-        "points": "19"
       },
       {
         "rank": "4",
@@ -1480,7 +1480,7 @@
         "wins": "4",
         "draws": "4",
         "losses": "1",
-        "goals_for_against": "9:4",
+        "goals_for_against": "10:4",
         "points": "16"
       },
       {
@@ -1530,7 +1530,7 @@
         "wins": "3",
         "draws": "2",
         "losses": "4",
-        "goals_for_against": "9:13",
+        "goals_for_against": "9:14",
         "points": "11"
       },
       {
@@ -1596,11 +1596,11 @@
       {
         "rank": "17",
         "club": "トンデラ",
-        "matches": "8",
+        "matches": "9",
         "wins": "1",
         "draws": "2",
-        "losses": "5",
-        "goals_for_against": "4:14",
+        "losses": "6",
+        "goals_for_against": "4:15",
         "points": "5"
       },
       {

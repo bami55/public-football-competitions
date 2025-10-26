@@ -1475,6 +1475,16 @@
       },
       {
         "rank": "5",
+        "club": "ファマリカン",
+        "matches": "9",
+        "wins": "4",
+        "draws": "4",
+        "losses": "1",
+        "goals_for_against": "9:4",
+        "points": "16"
+      },
+      {
+        "rank": "6",
         "club": "モレイレンセ",
         "matches": "8",
         "wins": "5",
@@ -1482,16 +1492,6 @@
         "losses": "3",
         "goals_for_against": "12:11",
         "points": "15"
-      },
-      {
-        "rank": "6",
-        "club": "ファマリカン",
-        "matches": "8",
-        "wins": "3",
-        "draws": "4",
-        "losses": "1",
-        "goals_for_against": "8:4",
-        "points": "13"
       },
       {
         "rank": "7",
@@ -1515,32 +1515,32 @@
       },
       {
         "rank": "9",
-        "club": "ヴィトーリアSC",
-        "matches": "8",
+        "club": "ナシオナル",
+        "matches": "9",
         "wins": "3",
         "draws": "2",
-        "losses": "3",
-        "goals_for_against": "9:12",
+        "losses": "4",
+        "goals_for_against": "10:13",
         "points": "11"
       },
       {
         "rank": "10",
+        "club": "ヴィトーリアSC",
+        "matches": "9",
+        "wins": "3",
+        "draws": "2",
+        "losses": "4",
+        "goals_for_against": "9:13",
+        "points": "11"
+      },
+      {
+        "rank": "11",
         "club": "SCブラガ",
         "matches": "8",
         "wins": "2",
         "draws": "4",
         "losses": "2",
         "goals_for_against": "12:8",
-        "points": "10"
-      },
-      {
-        "rank": "11",
-        "club": "ナシオナル",
-        "matches": "8",
-        "wins": "3",
-        "draws": "1",
-        "losses": "4",
-        "goals_for_against": "9:12",
         "points": "10"
       },
       {
@@ -1575,6 +1575,16 @@
       },
       {
         "rank": "15",
+        "club": "エストリル・プライア",
+        "matches": "9",
+        "wins": "1",
+        "draws": "4",
+        "losses": "4",
+        "goals_for_against": "11:14",
+        "points": "7"
+      },
+      {
+        "rank": "16",
         "club": "CFエストレラ",
         "matches": "9",
         "wins": "1",
@@ -1582,16 +1592,6 @@
         "losses": "4",
         "goals_for_against": "7:10",
         "points": "7"
-      },
-      {
-        "rank": "16",
-        "club": "エストリル・プライア",
-        "matches": "8",
-        "wins": "1",
-        "draws": "3",
-        "losses": "4",
-        "goals_for_against": "10:13",
-        "points": "6"
       },
       {
         "rank": "17",

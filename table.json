@@ -1435,6 +1435,16 @@
     "results": [
       {
         "rank": "1",
+        "club": "スポルティングCP",
+        "matches": "10",
+        "wins": "8",
+        "draws": "1",
+        "losses": "1",
+        "goals_for_against": "25:5",
+        "points": "25"
+      },
+      {
+        "rank": "2",
         "club": "FCポルト",
         "matches": "9",
         "wins": "8",
@@ -1442,16 +1452,6 @@
         "losses": "0",
         "goals_for_against": "21:2",
         "points": "25"
-      },
-      {
-        "rank": "2",
-        "club": "スポルティングCP",
-        "matches": "9",
-        "wins": "7",
-        "draws": "1",
-        "losses": "1",
-        "goals_for_against": "23:5",
-        "points": "22"
       },
       {
         "rank": "3",
@@ -1546,11 +1546,11 @@
       {
         "rank": "12",
         "club": "Alverca",
-        "matches": "9",
+        "matches": "10",
         "wins": "3",
         "draws": "1",
-        "losses": "5",
-        "goals_for_against": "11:16",
+        "losses": "6",
+        "goals_for_against": "11:18",
         "points": "10"
       },
       {

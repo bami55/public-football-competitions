@@ -1476,12 +1476,12 @@
       {
         "rank": "5",
         "club": "ファマリカン",
-        "matches": "9",
-        "wins": "4",
+        "matches": "10",
+        "wins": "5",
         "draws": "4",
         "losses": "1",
-        "goals_for_against": "10:4",
-        "points": "16"
+        "goals_for_against": "11:4",
+        "points": "19"
       },
       {
         "rank": "6",
@@ -1526,11 +1526,11 @@
       {
         "rank": "10",
         "club": "ナシオナル",
-        "matches": "9",
+        "matches": "10",
         "wins": "3",
         "draws": "2",
-        "losses": "4",
-        "goals_for_against": "10:13",
+        "losses": "5",
+        "goals_for_against": "10:14",
         "points": "11"
       },
       {

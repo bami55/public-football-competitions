@@ -1505,22 +1505,22 @@
       },
       {
         "rank": "8",
-        "club": "リオ・アヴェ",
-        "matches": "10",
-        "wins": "2",
-        "draws": "6",
-        "losses": "2",
-        "goals_for_against": "13:14",
-        "points": "12"
-      },
-      {
-        "rank": "9",
         "club": "サンタ・クララ",
         "matches": "9",
         "wins": "3",
         "draws": "2",
         "losses": "4",
         "goals_for_against": "8:10",
+        "points": "11"
+      },
+      {
+        "rank": "9",
+        "club": "リオ・アヴェ",
+        "matches": "10",
+        "wins": "2",
+        "draws": "5",
+        "losses": "3",
+        "goals_for_against": "13:16",
         "points": "11"
       },
       {
@@ -1545,12 +1545,12 @@
       },
       {
         "rank": "12",
-        "club": "CFエストレラ",
+        "club": "エストリル・プライア",
         "matches": "10",
         "wins": "2",
         "draws": "4",
         "losses": "4",
-        "goals_for_against": "8:10",
+        "goals_for_against": "13:14",
         "points": "10"
       },
       {
@@ -1565,6 +1565,16 @@
       },
       {
         "rank": "14",
+        "club": "カーザ・ピア",
+        "matches": "10",
+        "wins": "2",
+        "draws": "3",
+        "losses": "5",
+        "goals_for_against": "10:19",
+        "points": "9"
+      },
+      {
+        "rank": "15",
         "club": "アロウカ",
         "matches": "9",
         "wins": "2",
@@ -1574,23 +1584,13 @@
         "points": "9"
       },
       {
-        "rank": "15",
-        "club": "エストリル・プライア",
+        "rank": "16",
+        "club": "CFエストレラ",
         "matches": "10",
         "wins": "1",
         "draws": "5",
         "losses": "4",
-        "goals_for_against": "11:14",
-        "points": "8"
-      },
-      {
-        "rank": "16",
-        "club": "カーザ・ピア",
-        "matches": "10",
-        "wins": "2",
-        "draws": "2",
-        "losses": "6",
-        "goals_for_against": "8:18",
+        "goals_for_against": "9:12",
         "points": "8"
       },
       {

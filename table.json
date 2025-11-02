@@ -2331,12 +2331,12 @@
       {
         "rank": "1",
         "club": "ヴァンラーレ八戸",
-        "matches": "33",
+        "matches": "34",
         "wins": "21",
-        "draws": "6",
+        "draws": "7",
         "losses": "6",
         "goals_for_against": "43:18",
-        "points": "69"
+        "points": "70"
       },
       {
         "rank": "2",
@@ -2381,15 +2381,25 @@
       {
         "rank": "6",
         "club": "ツエーゲン金沢",
-        "matches": "33",
-        "wins": "16",
+        "matches": "34",
+        "wins": "17",
         "draws": "5",
         "losses": "12",
-        "goals_for_against": "45:37",
-        "points": "53"
+        "goals_for_against": "46:37",
+        "points": "56"
       },
       {
         "rank": "7",
+        "club": "ギラヴァンツ北九州",
+        "matches": "34",
+        "wins": "15",
+        "draws": "6",
+        "losses": "13",
+        "goals_for_against": "38:32",
+        "points": "51"
+      },
+      {
+        "rank": "8",
         "club": "奈良クラブ",
         "matches": "33",
         "wins": "14",
@@ -2397,16 +2407,6 @@
         "losses": "10",
         "goals_for_against": "43:38",
         "points": "51"
-      },
-      {
-        "rank": "8",
-        "club": "ギラヴァンツ北九州",
-        "matches": "33",
-        "wins": "15",
-        "draws": "5",
-        "losses": "13",
-        "goals_for_against": "38:32",
-        "points": "50"
       },
       {
         "rank": "9",
@@ -2501,11 +2501,11 @@
       {
         "rank": "18",
         "club": "ザスパ群馬",
-        "matches": "33",
+        "matches": "34",
         "wins": "7",
         "draws": "10",
-        "losses": "16",
-        "goals_for_against": "42:54",
+        "losses": "17",
+        "goals_for_against": "42:55",
         "points": "31"
       },
       {

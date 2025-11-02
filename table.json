@@ -1435,22 +1435,22 @@
     "results": [
       {
         "rank": "1",
+        "club": "FCポルト",
+        "matches": "10",
+        "wins": "9",
+        "draws": "1",
+        "losses": "0",
+        "goals_for_against": "22:2",
+        "points": "28"
+      },
+      {
+        "rank": "2",
         "club": "スポルティングCP",
         "matches": "10",
         "wins": "8",
         "draws": "1",
         "losses": "1",
         "goals_for_against": "25:5",
-        "points": "25"
-      },
-      {
-        "rank": "2",
-        "club": "FCポルト",
-        "matches": "9",
-        "wins": "8",
-        "draws": "1",
-        "losses": "0",
-        "goals_for_against": "21:2",
         "points": "25"
       },
       {
@@ -1496,11 +1496,11 @@
       {
         "rank": "7",
         "club": "SCブラガ",
-        "matches": "9",
+        "matches": "10",
         "wins": "3",
         "draws": "4",
-        "losses": "2",
-        "goals_for_against": "16:8",
+        "losses": "3",
+        "goals_for_against": "16:9",
         "points": "13"
       },
       {

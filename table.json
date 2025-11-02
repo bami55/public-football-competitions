@@ -2470,6 +2470,16 @@
       },
       {
         "rank": "15",
+        "club": "高知ユナイテッド",
+        "matches": "34",
+        "wins": "10",
+        "draws": "7",
+        "losses": "17",
+        "goals_for_against": "40:57",
+        "points": "37"
+      },
+      {
+        "rank": "16",
         "club": "松本山雅",
         "matches": "33",
         "wins": "9",
@@ -2479,23 +2489,13 @@
         "points": "36"
       },
       {
-        "rank": "16",
-        "club": "長野パルセイロ",
-        "matches": "34",
-        "wins": "9",
-        "draws": "9",
-        "losses": "16",
-        "goals_for_against": "29:45",
-        "points": "36"
-      },
-      {
         "rank": "17",
-        "club": "高知ユナイテッド",
+        "club": "長野パルセイロ",
         "matches": "34",
         "wins": "9",
         "draws": "8",
         "losses": "17",
-        "goals_for_against": "39:57",
+        "goals_for_against": "29:46",
         "points": "35"
       },
       {

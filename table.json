@@ -2372,11 +2372,11 @@
         "rank": "5",
         "club": "テゲバジャーロ宮崎",
         "matches": "34",
-        "wins": "16",
-        "draws": "11",
+        "wins": "17",
+        "draws": "10",
         "losses": "7",
-        "goals_for_against": "54:39",
-        "points": "59"
+        "goals_for_against": "56:40",
+        "points": "61"
       },
       {
         "rank": "6",
@@ -2470,16 +2470,6 @@
       },
       {
         "rank": "15",
-        "club": "松本山雅",
-        "matches": "34",
-        "wins": "9",
-        "draws": "10",
-        "losses": "15",
-        "goals_for_against": "34:40",
-        "points": "37"
-      },
-      {
-        "rank": "16",
         "club": "高知ユナイテッド",
         "matches": "34",
         "wins": "10",
@@ -2487,6 +2477,16 @@
         "losses": "17",
         "goals_for_against": "40:57",
         "points": "37"
+      },
+      {
+        "rank": "16",
+        "club": "松本山雅",
+        "matches": "34",
+        "wins": "9",
+        "draws": "9",
+        "losses": "16",
+        "goals_for_against": "35:42",
+        "points": "36"
       },
       {
         "rank": "17",

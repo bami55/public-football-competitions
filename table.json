@@ -1435,6 +1435,16 @@
     "results": [
       {
         "rank": "1",
+        "club": "スポルティングCP",
+        "matches": "11",
+        "wins": "9",
+        "draws": "1",
+        "losses": "1",
+        "goals_for_against": "27:6",
+        "points": "28"
+      },
+      {
+        "rank": "2",
         "club": "FCポルト",
         "matches": "10",
         "wins": "9",
@@ -1442,16 +1452,6 @@
         "losses": "0",
         "goals_for_against": "23:3",
         "points": "28"
-      },
-      {
-        "rank": "2",
-        "club": "スポルティングCP",
-        "matches": "11",
-        "wins": "8",
-        "draws": "2",
-        "losses": "1",
-        "goals_for_against": "26:6",
-        "points": "26"
       },
       {
         "rank": "3",
@@ -1525,16 +1525,6 @@
       },
       {
         "rank": "10",
-        "club": "サンタ・クララ",
-        "matches": "11",
-        "wins": "3",
-        "draws": "3",
-        "losses": "5",
-        "goals_for_against": "9:12",
-        "points": "12"
-      },
-      {
-        "rank": "11",
         "club": "リオ・アヴェ",
         "matches": "11",
         "wins": "2",
@@ -1544,13 +1534,23 @@
         "points": "12"
       },
       {
-        "rank": "12",
+        "rank": "11",
         "club": "ナシオナル",
         "matches": "10",
         "wins": "3",
         "draws": "2",
         "losses": "5",
         "goals_for_against": "10:14",
+        "points": "11"
+      },
+      {
+        "rank": "12",
+        "club": "サンタ・クララ",
+        "matches": "11",
+        "wins": "3",
+        "draws": "2",
+        "losses": "6",
+        "goals_for_against": "9:13",
         "points": "11"
       },
       {

@@ -1917,12 +1917,12 @@
       {
         "rank": "1",
         "club": "鹿島アントラーズ",
-        "matches": "35",
+        "matches": "36",
         "wins": "20",
-        "draws": "7",
+        "draws": "8",
         "losses": "8",
         "goals_for_against": "53:29",
-        "points": "67"
+        "points": "68"
       },
       {
         "rank": "2",
@@ -2016,6 +2016,16 @@
       },
       {
         "rank": "11",
+        "club": "アビスパ福岡",
+        "matches": "36",
+        "wins": "11",
+        "draws": "12",
+        "losses": "13",
+        "goals_for_against": "33:37",
+        "points": "45"
+      },
+      {
+        "rank": "12",
         "club": "FC東京",
         "matches": "35",
         "wins": "12",
@@ -2023,16 +2033,6 @@
         "losses": "14",
         "goals_for_against": "39:47",
         "points": "45"
-      },
-      {
-        "rank": "12",
-        "club": "アビスパ福岡",
-        "matches": "35",
-        "wins": "11",
-        "draws": "11",
-        "losses": "13",
-        "goals_for_against": "33:37",
-        "points": "44"
       },
       {
         "rank": "13",
@@ -2047,12 +2047,12 @@
       {
         "rank": "14",
         "club": "東京ヴェルディ",
-        "matches": "35",
+        "matches": "36",
         "wins": "11",
-        "draws": "9",
+        "draws": "10",
         "losses": "15",
         "goals_for_against": "22:36",
-        "points": "42"
+        "points": "43"
       },
       {
         "rank": "15",
@@ -2087,12 +2087,12 @@
       {
         "rank": "18",
         "club": "横浜FC",
-        "matches": "35",
+        "matches": "36",
         "wins": "8",
-        "draws": "8",
+        "draws": "9",
         "losses": "19",
         "goals_for_against": "23:41",
-        "points": "32"
+        "points": "33"
       },
       {
         "rank": "19",
@@ -2223,22 +2223,22 @@
       },
       {
         "rank": "11",
+        "club": "コンサドーレ札幌",
+        "matches": "36",
+        "wins": "15",
+        "draws": "4",
+        "losses": "17",
+        "goals_for_against": "44:61",
+        "points": "49"
+      },
+      {
+        "rank": "12",
         "club": "モンテディオ山形",
         "matches": "35",
         "wins": "13",
         "draws": "7",
         "losses": "15",
         "goals_for_against": "52:50",
-        "points": "46"
-      },
-      {
-        "rank": "12",
-        "club": "コンサドーレ札幌",
-        "matches": "35",
-        "wins": "14",
-        "draws": "4",
-        "losses": "17",
-        "goals_for_against": "43:61",
         "points": "46"
       },
       {
@@ -2264,11 +2264,11 @@
       {
         "rank": "15",
         "club": "大分トリニータ",
-        "matches": "35",
+        "matches": "36",
         "wins": "8",
         "draws": "14",
-        "losses": "13",
-        "goals_for_against": "26:38",
+        "losses": "14",
+        "goals_for_against": "26:39",
         "points": "38"
       },
       {
@@ -2331,22 +2331,22 @@
       {
         "rank": "1",
         "club": "ヴァンラーレ八戸",
-        "matches": "34",
+        "matches": "35",
         "wins": "21",
-        "draws": "6",
+        "draws": "7",
         "losses": "7",
         "goals_for_against": "44:20",
-        "points": "69"
+        "points": "70"
       },
       {
         "rank": "2",
         "club": "栃木シティ",
-        "matches": "34",
+        "matches": "35",
         "wins": "20",
-        "draws": "8",
+        "draws": "9",
         "losses": "6",
         "goals_for_against": "58:34",
-        "points": "68"
+        "points": "69"
       },
       {
         "rank": "3",
@@ -2401,12 +2401,12 @@
       {
         "rank": "8",
         "club": "奈良クラブ",
-        "matches": "34",
+        "matches": "35",
         "wins": "14",
-        "draws": "10",
+        "draws": "11",
         "losses": "10",
         "goals_for_against": "45:40",
-        "points": "52"
+        "points": "53"
       },
       {
         "rank": "9",
@@ -2511,12 +2511,12 @@
       {
         "rank": "19",
         "club": "カマタマーレ讃岐",
-        "matches": "34",
+        "matches": "35",
         "wins": "8",
-        "draws": "7",
+        "draws": "8",
         "losses": "19",
         "goals_for_against": "38:54",
-        "points": "31"
+        "points": "32"
       },
       {
         "rank": "20",

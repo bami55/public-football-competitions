@@ -1495,6 +1495,16 @@
       },
       {
         "rank": "7",
+        "club": "リオ・アヴェ",
+        "matches": "11",
+        "wins": "3",
+        "draws": "5",
+        "losses": "3",
+        "goals_for_against": "14:18",
+        "points": "14"
+      },
+      {
+        "rank": "8",
         "club": "SCブラガ",
         "matches": "10",
         "wins": "3",
@@ -1504,7 +1514,7 @@
         "points": "13"
       },
       {
-        "rank": "8",
+        "rank": "9",
         "club": "エストリル・プライア",
         "matches": "11",
         "wins": "3",
@@ -1514,7 +1524,7 @@
         "points": "13"
       },
       {
-        "rank": "9",
+        "rank": "10",
         "club": "サンタ・クララ",
         "matches": "10",
         "wins": "3",
@@ -1524,23 +1534,13 @@
         "points": "11"
       },
       {
-        "rank": "10",
+        "rank": "11",
         "club": "ナシオナル",
         "matches": "10",
         "wins": "3",
         "draws": "2",
         "losses": "5",
         "goals_for_against": "10:14",
-        "points": "11"
-      },
-      {
-        "rank": "11",
-        "club": "リオ・アヴェ",
-        "matches": "10",
-        "wins": "2",
-        "draws": "5",
-        "losses": "3",
-        "goals_for_against": "13:18",
         "points": "11"
       },
       {
@@ -1566,11 +1566,11 @@
       {
         "rank": "14",
         "club": "Alverca",
-        "matches": "10",
+        "matches": "11",
         "wins": "3",
         "draws": "1",
-        "losses": "6",
-        "goals_for_against": "11:18",
+        "losses": "7",
+        "goals_for_against": "11:19",
         "points": "10"
       },
       {

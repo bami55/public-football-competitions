@@ -1457,11 +1457,11 @@
         "rank": "3",
         "club": "ベンフィカ",
         "matches": "11",
-        "wins": "8",
-        "draws": "3",
+        "wins": "7",
+        "draws": "4",
         "losses": "0",
-        "goals_for_against": "23:5",
-        "points": "27"
+        "goals_for_against": "23:6",
+        "points": "25"
       },
       {
         "rank": "4",
@@ -1575,6 +1575,16 @@
       },
       {
         "rank": "15",
+        "club": "カーザ・ピア",
+        "matches": "11",
+        "wins": "2",
+        "draws": "3",
+        "losses": "6",
+        "goals_for_against": "13:24",
+        "points": "9"
+      },
+      {
+        "rank": "16",
         "club": "アロウカ",
         "matches": "11",
         "wins": "2",
@@ -1582,16 +1592,6 @@
         "losses": "6",
         "goals_for_against": "13:30",
         "points": "9"
-      },
-      {
-        "rank": "16",
-        "club": "カーザ・ピア",
-        "matches": "11",
-        "wins": "2",
-        "draws": "2",
-        "losses": "7",
-        "goals_for_against": "12:24",
-        "points": "8"
       },
       {
         "rank": "17",

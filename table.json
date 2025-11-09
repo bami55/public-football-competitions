@@ -1435,6 +1435,16 @@
     "results": [
       {
         "rank": "1",
+        "club": "FCポルト",
+        "matches": "11",
+        "wins": "9",
+        "draws": "2",
+        "losses": "0",
+        "goals_for_against": "23:3",
+        "points": "29"
+      },
+      {
+        "rank": "2",
         "club": "スポルティングCP",
         "matches": "11",
         "wins": "9",
@@ -1444,27 +1454,7 @@
         "points": "28"
       },
       {
-        "rank": "2",
-        "club": "FCポルト",
-        "matches": "10",
-        "wins": "9",
-        "draws": "1",
-        "losses": "0",
-        "goals_for_against": "23:3",
-        "points": "28"
-      },
-      {
         "rank": "3",
-        "club": "ジル・ヴィセンテ",
-        "matches": "11",
-        "wins": "8",
-        "draws": "1",
-        "losses": "2",
-        "goals_for_against": "16:4",
-        "points": "25"
-      },
-      {
-        "rank": "4",
         "club": "ベンフィカ",
         "matches": "10",
         "wins": "7",
@@ -1474,14 +1464,24 @@
         "points": "24"
       },
       {
+        "rank": "4",
+        "club": "ジル・ヴィセンテ",
+        "matches": "11",
+        "wins": "7",
+        "draws": "2",
+        "losses": "2",
+        "goals_for_against": "16:5",
+        "points": "23"
+      },
+      {
         "rank": "5",
         "club": "ファマリカン",
-        "matches": "10",
+        "matches": "11",
         "wins": "5",
-        "draws": "4",
+        "draws": "5",
         "losses": "1",
         "goals_for_against": "11:4",
-        "points": "19"
+        "points": "20"
       },
       {
         "rank": "6",
@@ -1608,10 +1608,10 @@
         "club": "AVS",
         "matches": "11",
         "wins": "0",
-        "draws": "2",
-        "losses": "9",
-        "goals_for_against": "7:25",
-        "points": "2"
+        "draws": "3",
+        "losses": "8",
+        "goals_for_against": "8:25",
+        "points": "3"
       }
     ]
   },

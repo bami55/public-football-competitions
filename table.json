@@ -2333,10 +2333,10 @@
         "club": "栃木シティ",
         "matches": "36",
         "wins": "21",
-        "draws": "9",
-        "losses": "6",
-        "goals_for_against": "61:35",
-        "points": "72"
+        "draws": "8",
+        "losses": "7",
+        "goals_for_against": "61:36",
+        "points": "71"
       },
       {
         "rank": "2",
@@ -2372,11 +2372,11 @@
         "rank": "5",
         "club": "テゲバジャーロ宮崎",
         "matches": "36",
-        "wins": "17",
-        "draws": "11",
+        "wins": "18",
+        "draws": "10",
         "losses": "8",
-        "goals_for_against": "57:42",
-        "points": "62"
+        "goals_for_against": "58:42",
+        "points": "64"
       },
       {
         "rank": "6",
@@ -2420,6 +2420,16 @@
       },
       {
         "rank": "10",
+        "club": "FC岐阜",
+        "matches": "36",
+        "wins": "13",
+        "draws": "8",
+        "losses": "15",
+        "goals_for_against": "48:55",
+        "points": "47"
+      },
+      {
+        "rank": "11",
         "club": "SC相模原",
         "matches": "35",
         "wins": "12",
@@ -2429,7 +2439,7 @@
         "points": "47"
       },
       {
-        "rank": "11",
+        "rank": "12",
         "club": "福島ユナイテッド",
         "matches": "35",
         "wins": "13",
@@ -2439,23 +2449,13 @@
         "points": "47"
       },
       {
-        "rank": "12",
+        "rank": "13",
         "club": "ガイナーレ鳥取",
         "matches": "35",
         "wins": "13",
         "draws": "6",
         "losses": "16",
         "goals_for_against": "38:44",
-        "points": "45"
-      },
-      {
-        "rank": "13",
-        "club": "FC岐阜",
-        "matches": "36",
-        "wins": "12",
-        "draws": "9",
-        "losses": "15",
-        "goals_for_against": "47:55",
         "points": "45"
       },
       {
@@ -2503,10 +2503,10 @@
         "club": "長野パルセイロ",
         "matches": "36",
         "wins": "9",
-        "draws": "9",
-        "losses": "18",
-        "goals_for_against": "29:49",
-        "points": "36"
+        "draws": "8",
+        "losses": "19",
+        "goals_for_against": "29:50",
+        "points": "35"
       },
       {
         "rank": "19",

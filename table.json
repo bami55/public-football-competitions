@@ -2331,22 +2331,22 @@
       {
         "rank": "1",
         "club": "栃木シティ",
-        "matches": "35",
+        "matches": "36",
         "wins": "21",
-        "draws": "8",
+        "draws": "9",
         "losses": "6",
         "goals_for_against": "61:35",
-        "points": "71"
+        "points": "72"
       },
       {
         "rank": "2",
         "club": "ヴァンラーレ八戸",
-        "matches": "35",
+        "matches": "36",
         "wins": "21",
-        "draws": "7",
+        "draws": "8",
         "losses": "7",
         "goals_for_against": "45:21",
-        "points": "70"
+        "points": "71"
       },
       {
         "rank": "3",
@@ -2371,12 +2371,12 @@
       {
         "rank": "5",
         "club": "テゲバジャーロ宮崎",
-        "matches": "35",
+        "matches": "36",
         "wins": "17",
-        "draws": "10",
+        "draws": "11",
         "losses": "8",
         "goals_for_against": "57:42",
-        "points": "61"
+        "points": "62"
       },
       {
         "rank": "6",
@@ -2451,12 +2451,12 @@
       {
         "rank": "13",
         "club": "FC岐阜",
-        "matches": "35",
+        "matches": "36",
         "wins": "12",
-        "draws": "8",
+        "draws": "9",
         "losses": "15",
         "goals_for_against": "47:55",
-        "points": "44"
+        "points": "45"
       },
       {
         "rank": "14",
@@ -2480,6 +2480,16 @@
       },
       {
         "rank": "16",
+        "club": "高知ユナイテッド",
+        "matches": "36",
+        "wins": "10",
+        "draws": "8",
+        "losses": "18",
+        "goals_for_against": "40:58",
+        "points": "38"
+      },
+      {
+        "rank": "17",
         "club": "ザスパ群馬",
         "matches": "35",
         "wins": "9",
@@ -2489,24 +2499,14 @@
         "points": "37"
       },
       {
-        "rank": "17",
-        "club": "高知ユナイテッド",
-        "matches": "35",
-        "wins": "10",
-        "draws": "7",
-        "losses": "18",
-        "goals_for_against": "40:58",
-        "points": "37"
-      },
-      {
         "rank": "18",
         "club": "長野パルセイロ",
-        "matches": "35",
+        "matches": "36",
         "wins": "9",
-        "draws": "8",
+        "draws": "9",
         "losses": "18",
         "goals_for_against": "29:49",
-        "points": "35"
+        "points": "36"
       },
       {
         "rank": "19",

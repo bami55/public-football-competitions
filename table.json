@@ -1495,6 +1495,16 @@
       },
       {
         "rank": "7",
+        "club": "SCブラガ",
+        "matches": "12",
+        "wins": "4",
+        "draws": "5",
+        "losses": "3",
+        "goals_for_against": "19:11",
+        "points": "17"
+      },
+      {
+        "rank": "8",
         "club": "ヴィトーリアSC",
         "matches": "12",
         "wins": "5",
@@ -1502,16 +1512,6 @@
         "losses": "5",
         "goals_for_against": "14:17",
         "points": "17"
-      },
-      {
-        "rank": "8",
-        "club": "SCブラガ",
-        "matches": "11",
-        "wins": "4",
-        "draws": "4",
-        "losses": "3",
-        "goals_for_against": "19:11",
-        "points": "16"
       },
       {
         "rank": "9",
@@ -1575,6 +1575,16 @@
       },
       {
         "rank": "15",
+        "club": "アロウカ",
+        "matches": "12",
+        "wins": "2",
+        "draws": "4",
+        "losses": "6",
+        "goals_for_against": "13:30",
+        "points": "10"
+      },
+      {
+        "rank": "16",
         "club": "カーザ・ピア",
         "matches": "12",
         "wins": "2",
@@ -1584,23 +1594,13 @@
         "points": "9"
       },
       {
-        "rank": "16",
+        "rank": "17",
         "club": "トンデラ",
         "matches": "12",
         "wins": "2",
         "draws": "3",
         "losses": "7",
         "goals_for_against": "7:20",
-        "points": "9"
-      },
-      {
-        "rank": "17",
-        "club": "アロウカ",
-        "matches": "11",
-        "wins": "2",
-        "draws": "3",
-        "losses": "6",
-        "goals_for_against": "13:30",
         "points": "9"
       },
       {

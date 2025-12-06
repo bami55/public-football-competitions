@@ -1515,6 +1515,16 @@
       },
       {
         "rank": "9",
+        "club": "サンタ・クララ",
+        "matches": "13",
+        "wins": "4",
+        "draws": "3",
+        "losses": "6",
+        "goals_for_against": "11:14",
+        "points": "15"
+      },
+      {
+        "rank": "10",
         "club": "Alverca",
         "matches": "12",
         "wins": "4",
@@ -1524,7 +1534,7 @@
         "points": "14"
       },
       {
-        "rank": "10",
+        "rank": "11",
         "club": "エストリル・プライア",
         "matches": "12",
         "wins": "3",
@@ -1534,7 +1544,7 @@
         "points": "13"
       },
       {
-        "rank": "11",
+        "rank": "12",
         "club": "リオ・アヴェ",
         "matches": "12",
         "wins": "2",
@@ -1542,16 +1552,6 @@
         "losses": "3",
         "goals_for_against": "15:20",
         "points": "13"
-      },
-      {
-        "rank": "12",
-        "club": "サンタ・クララ",
-        "matches": "12",
-        "wins": "3",
-        "draws": "3",
-        "losses": "6",
-        "goals_for_against": "10:14",
-        "points": "12"
       },
       {
         "rank": "13",
@@ -1575,22 +1575,22 @@
       },
       {
         "rank": "15",
-        "club": "カーザ・ピア",
-        "matches": "12",
-        "wins": "2",
-        "draws": "3",
-        "losses": "7",
-        "goals_for_against": "13:26",
-        "points": "9"
-      },
-      {
-        "rank": "16",
         "club": "トンデラ",
         "matches": "12",
         "wins": "2",
         "draws": "3",
         "losses": "7",
         "goals_for_against": "7:20",
+        "points": "9"
+      },
+      {
+        "rank": "16",
+        "club": "カーザ・ピア",
+        "matches": "13",
+        "wins": "2",
+        "draws": "3",
+        "losses": "8",
+        "goals_for_against": "13:27",
         "points": "9"
       },
       {

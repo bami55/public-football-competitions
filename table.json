@@ -1921,7 +1921,7 @@
         "wins": "23",
         "draws": "7",
         "losses": "8",
-        "goals_for_against": "58:30",
+        "goals_for_against": "58:31",
         "points": "76"
       },
       {
@@ -1941,18 +1941,18 @@
         "wins": "19",
         "draws": "11",
         "losses": "8",
-        "goals_for_against": "61:40",
+        "goals_for_against": "62:40",
         "points": "68"
       },
       {
         "rank": "4",
         "club": "サンフレッチェ広島",
         "matches": "38",
-        "wins": "19",
-        "draws": "9",
+        "wins": "20",
+        "draws": "8",
         "losses": "10",
-        "goals_for_against": "44:27",
-        "points": "66"
+        "goals_for_against": "46:28",
+        "points": "68"
       },
       {
         "rank": "5",
@@ -1961,7 +1961,7 @@
         "wins": "18",
         "draws": "10",
         "losses": "10",
-        "goals_for_against": "46:32",
+        "goals_for_against": "46:33",
         "points": "64"
       },
       {
@@ -1981,7 +1981,7 @@
         "wins": "16",
         "draws": "11",
         "losses": "11",
-        "goals_for_against": "44:39",
+        "goals_for_against": "45:39",
         "points": "59"
       },
       {
@@ -1991,7 +1991,7 @@
         "wins": "15",
         "draws": "12",
         "losses": "11",
-        "goals_for_against": "67:56",
+        "goals_for_against": "67:57",
         "points": "57"
       },
       {
@@ -2001,7 +2001,7 @@
         "wins": "17",
         "draws": "6",
         "losses": "15",
-        "goals_for_against": "52:54",
+        "goals_for_against": "53:55",
         "points": "57"
       },
       {
@@ -2029,10 +2029,10 @@
         "club": "アビスパ福岡",
         "matches": "38",
         "wins": "12",
-        "draws": "13",
-        "losses": "13",
-        "goals_for_against": "34:37",
-        "points": "49"
+        "draws": "12",
+        "losses": "14",
+        "goals_for_against": "34:38",
+        "points": "48"
       },
       {
         "rank": "13",
@@ -2041,7 +2041,7 @@
         "wins": "12",
         "draws": "9",
         "losses": "17",
-        "goals_for_against": "33:42",
+        "goals_for_against": "34:43",
         "points": "45"
       },
       {
@@ -2051,7 +2051,7 @@
         "wins": "11",
         "draws": "11",
         "losses": "16",
-        "goals_for_against": "40:50",
+        "goals_for_against": "41:51",
         "points": "44"
       },
       {
@@ -2061,28 +2061,28 @@
         "wins": "12",
         "draws": "7",
         "losses": "19",
-        "goals_for_against": "45:47",
+        "goals_for_against": "46:47",
         "points": "43"
       },
       {
         "rank": "16",
+        "club": "名古屋グランパス",
+        "matches": "38",
+        "wins": "11",
+        "draws": "10",
+        "losses": "17",
+        "goals_for_against": "44:56",
+        "points": "43"
+      },
+      {
+        "rank": "17",
         "club": "東京ヴェルディ",
         "matches": "38",
         "wins": "11",
         "draws": "10",
         "losses": "17",
-        "goals_for_against": "22:40",
+        "goals_for_against": "23:41",
         "points": "43"
-      },
-      {
-        "rank": "17",
-        "club": "名古屋グランパス",
-        "matches": "38",
-        "wins": "10",
-        "draws": "11",
-        "losses": "17",
-        "goals_for_against": "43:56",
-        "points": "41"
       },
       {
         "rank": "18",
@@ -2099,10 +2099,10 @@
         "club": "湘南ベルマーレ",
         "matches": "38",
         "wins": "8",
-        "draws": "9",
-        "losses": "21",
-        "goals_for_against": "35:61",
-        "points": "33"
+        "draws": "8",
+        "losses": "22",
+        "goals_for_against": "36:63",
+        "points": "32"
       },
       {
         "rank": "20",

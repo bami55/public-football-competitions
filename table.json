@@ -1437,11 +1437,11 @@
         "rank": "1",
         "club": "FCポルト",
         "matches": "13",
-        "wins": "11",
-        "draws": "2",
+        "wins": "12",
+        "draws": "1",
         "losses": "0",
-        "goals_for_against": "25:3",
-        "points": "35"
+        "goals_for_against": "27:3",
+        "points": "37"
       },
       {
         "rank": "2",
@@ -1575,22 +1575,22 @@
       },
       {
         "rank": "15",
-        "club": "トンデラ",
-        "matches": "13",
-        "wins": "2",
-        "draws": "4",
-        "losses": "7",
-        "goals_for_against": "7:20",
-        "points": "10"
-      },
-      {
-        "rank": "16",
         "club": "カーザ・ピア",
         "matches": "13",
         "wins": "2",
         "draws": "3",
         "losses": "8",
         "goals_for_against": "13:27",
+        "points": "9"
+      },
+      {
+        "rank": "16",
+        "club": "トンデラ",
+        "matches": "13",
+        "wins": "2",
+        "draws": "3",
+        "losses": "8",
+        "goals_for_against": "7:22",
         "points": "9"
       },
       {

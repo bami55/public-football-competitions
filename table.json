@@ -1496,12 +1496,12 @@
       {
         "rank": "7",
         "club": "モレイレンセ",
-        "matches": "12",
+        "matches": "13",
         "wins": "6",
-        "draws": "1",
+        "draws": "2",
         "losses": "5",
-        "goals_for_against": "18:17",
-        "points": "19"
+        "goals_for_against": "19:18",
+        "points": "20"
       },
       {
         "rank": "8",
@@ -1535,6 +1535,16 @@
       },
       {
         "rank": "11",
+        "club": "エストリル・プライア",
+        "matches": "13",
+        "wins": "3",
+        "draws": "5",
+        "losses": "5",
+        "goals_for_against": "20:19",
+        "points": "14"
+      },
+      {
+        "rank": "12",
         "club": "Alverca",
         "matches": "12",
         "wins": "4",
@@ -1542,16 +1552,6 @@
         "losses": "6",
         "goals_for_against": "14:19",
         "points": "14"
-      },
-      {
-        "rank": "12",
-        "club": "エストリル・プライア",
-        "matches": "12",
-        "wins": "3",
-        "draws": "4",
-        "losses": "5",
-        "goals_for_against": "19:18",
-        "points": "13"
       },
       {
         "rank": "13",

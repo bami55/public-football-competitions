@@ -1516,12 +1516,12 @@
       {
         "rank": "9",
         "club": "Alverca",
-        "matches": "13",
+        "matches": "14",
         "wins": "5",
-        "draws": "2",
+        "draws": "3",
         "losses": "6",
         "goals_for_against": "15:19",
-        "points": "17"
+        "points": "18"
       },
       {
         "rank": "10",
@@ -1585,22 +1585,22 @@
       },
       {
         "rank": "16",
+        "club": "アロウカ",
+        "matches": "14",
+        "wins": "2",
+        "draws": "4",
+        "losses": "8",
+        "goals_for_against": "14:37",
+        "points": "10"
+      },
+      {
+        "rank": "17",
         "club": "トンデラ",
         "matches": "13",
         "wins": "2",
         "draws": "3",
         "losses": "8",
         "goals_for_against": "7:22",
-        "points": "9"
-      },
-      {
-        "rank": "17",
-        "club": "アロウカ",
-        "matches": "13",
-        "wins": "2",
-        "draws": "3",
-        "losses": "8",
-        "goals_for_against": "14:37",
         "points": "9"
       },
       {

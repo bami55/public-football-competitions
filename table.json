@@ -1518,10 +1518,10 @@
         "club": "Alverca",
         "matches": "14",
         "wins": "5",
-        "draws": "3",
-        "losses": "6",
-        "goals_for_against": "15:19",
-        "points": "18"
+        "draws": "2",
+        "losses": "7",
+        "goals_for_against": "15:20",
+        "points": "17"
       },
       {
         "rank": "10",
@@ -1575,22 +1575,22 @@
       },
       {
         "rank": "15",
+        "club": "アロウカ",
+        "matches": "14",
+        "wins": "3",
+        "draws": "3",
+        "losses": "8",
+        "goals_for_against": "15:37",
+        "points": "12"
+      },
+      {
+        "rank": "16",
         "club": "カーザ・ピア",
         "matches": "14",
         "wins": "2",
         "draws": "4",
         "losses": "8",
         "goals_for_against": "14:28",
-        "points": "10"
-      },
-      {
-        "rank": "16",
-        "club": "アロウカ",
-        "matches": "14",
-        "wins": "2",
-        "draws": "4",
-        "losses": "8",
-        "goals_for_against": "14:37",
         "points": "10"
       },
       {

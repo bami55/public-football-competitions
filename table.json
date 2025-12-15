@@ -1436,12 +1436,12 @@
       {
         "rank": "1",
         "club": "FCポルト",
-        "matches": "13",
-        "wins": "12",
+        "matches": "14",
+        "wins": "13",
         "draws": "1",
         "losses": "0",
-        "goals_for_against": "27:3",
-        "points": "37"
+        "goals_for_against": "28:3",
+        "points": "40"
       },
       {
         "rank": "2",
@@ -1566,11 +1566,11 @@
       {
         "rank": "14",
         "club": "CFエストレラ",
-        "matches": "13",
+        "matches": "14",
         "wins": "3",
         "draws": "5",
-        "losses": "5",
-        "goals_for_against": "16:19",
+        "losses": "6",
+        "goals_for_against": "16:20",
         "points": "14"
       },
       {

@@ -1465,22 +1465,22 @@
       },
       {
         "rank": "4",
+        "club": "ジル・ヴィセンテ",
+        "matches": "15",
+        "wins": "7",
+        "draws": "5",
+        "losses": "3",
+        "goals_for_against": "18:8",
+        "points": "26"
+      },
+      {
+        "rank": "5",
         "club": "SCブラガ",
         "matches": "15",
         "wins": "7",
         "draws": "4",
         "losses": "4",
         "goals_for_against": "26:13",
-        "points": "25"
-      },
-      {
-        "rank": "5",
-        "club": "ジル・ヴィセンテ",
-        "matches": "14",
-        "wins": "7",
-        "draws": "4",
-        "losses": "3",
-        "goals_for_against": "17:7",
         "points": "25"
       },
       {
@@ -1525,6 +1525,16 @@
       },
       {
         "rank": "10",
+        "club": "リオ・アヴェ",
+        "matches": "15",
+        "wins": "3",
+        "draws": "8",
+        "losses": "4",
+        "goals_for_against": "18:23",
+        "points": "17"
+      },
+      {
+        "rank": "11",
         "club": "Alverca",
         "matches": "14",
         "wins": "5",
@@ -1532,16 +1542,6 @@
         "losses": "7",
         "goals_for_against": "15:20",
         "points": "17"
-      },
-      {
-        "rank": "11",
-        "club": "リオ・アヴェ",
-        "matches": "14",
-        "wins": "3",
-        "draws": "7",
-        "losses": "4",
-        "goals_for_against": "17:22",
-        "points": "16"
       },
       {
         "rank": "12",

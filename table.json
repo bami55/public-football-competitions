@@ -1446,12 +1446,12 @@
       {
         "rank": "2",
         "club": "スポルティングCP",
-        "matches": "14",
-        "wins": "11",
+        "matches": "15",
+        "wins": "12",
         "draws": "2",
         "losses": "1",
-        "goals_for_against": "38:7",
-        "points": "35"
+        "goals_for_against": "39:7",
+        "points": "38"
       },
       {
         "rank": "3",
@@ -1495,22 +1495,22 @@
       },
       {
         "rank": "7",
-        "club": "ヴィトーリアSC",
-        "matches": "14",
-        "wins": "6",
-        "draws": "3",
-        "losses": "5",
-        "goals_for_against": "15:17",
-        "points": "21"
-      },
-      {
-        "rank": "8",
         "club": "モレイレンセ",
         "matches": "15",
         "wins": "6",
         "draws": "3",
         "losses": "6",
         "goals_for_against": "21:24",
+        "points": "21"
+      },
+      {
+        "rank": "8",
+        "club": "ヴィトーリアSC",
+        "matches": "15",
+        "wins": "6",
+        "draws": "3",
+        "losses": "6",
+        "goals_for_against": "15:18",
         "points": "21"
       },
       {

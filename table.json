@@ -1436,22 +1436,22 @@
       {
         "rank": "1",
         "club": "FCポルト",
-        "matches": "16",
-        "wins": "15",
+        "matches": "15",
+        "wins": "14",
         "draws": "1",
         "losses": "0",
-        "goals_for_against": "35:4",
-        "points": "46"
+        "goals_for_against": "33:4",
+        "points": "43"
       },
       {
         "rank": "2",
         "club": "スポルティングCP",
-        "matches": "16",
-        "wins": "13",
+        "matches": "15",
+        "wins": "12",
         "draws": "2",
         "losses": "1",
-        "goals_for_against": "46:8",
-        "points": "41"
+        "goals_for_against": "42:8",
+        "points": "38"
       },
       {
         "rank": "3",
@@ -1536,11 +1536,11 @@
       {
         "rank": "11",
         "club": "リオ・アヴェ",
-        "matches": "16",
+        "matches": "15",
         "wins": "3",
         "draws": "8",
-        "losses": "5",
-        "goals_for_against": "19:28",
+        "losses": "4",
+        "goals_for_against": "19:24",
         "points": "17"
       },
       {
@@ -1606,11 +1606,11 @@
       {
         "rank": "18",
         "club": "AVS",
-        "matches": "16",
+        "matches": "15",
         "wins": "0",
         "draws": "4",
-        "losses": "12",
-        "goals_for_against": "11:41",
+        "losses": "11",
+        "goals_for_against": "11:39",
         "points": "4"
       }
     ]

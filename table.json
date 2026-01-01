@@ -1486,11 +1486,11 @@
       {
         "rank": "6",
         "club": "ファマリカン",
-        "matches": "16",
+        "matches": "15",
         "wins": "6",
         "draws": "5",
-        "losses": "5",
-        "goals_for_against": "20:13",
+        "losses": "4",
+        "goals_for_against": "18:10",
         "points": "23"
       },
       {
@@ -1516,25 +1516,15 @@
       {
         "rank": "9",
         "club": "エストリル・プライア",
-        "matches": "16",
-        "wins": "5",
+        "matches": "15",
+        "wins": "4",
         "draws": "5",
         "losses": "6",
-        "goals_for_against": "27:26",
-        "points": "20"
+        "goals_for_against": "23:25",
+        "points": "17"
       },
       {
         "rank": "10",
-        "club": "CFエストレラ",
-        "matches": "16",
-        "wins": "4",
-        "draws": "6",
-        "losses": "6",
-        "goals_for_against": "20:24",
-        "points": "18"
-      },
-      {
-        "rank": "11",
         "club": "リオ・アヴェ",
         "matches": "15",
         "wins": "3",
@@ -1544,17 +1534,17 @@
         "points": "17"
       },
       {
-        "rank": "12",
+        "rank": "11",
         "club": "Alverca",
-        "matches": "16",
+        "matches": "15",
         "wins": "5",
         "draws": "2",
-        "losses": "9",
-        "goals_for_against": "16:27",
+        "losses": "8",
+        "goals_for_against": "15:23",
         "points": "17"
       },
       {
-        "rank": "13",
+        "rank": "12",
         "club": "ナシオナル",
         "matches": "15",
         "wins": "4",
@@ -1564,7 +1554,7 @@
         "points": "16"
       },
       {
-        "rank": "14",
+        "rank": "13",
         "club": "サンタ・クララ",
         "matches": "15",
         "wins": "4",
@@ -1572,6 +1562,16 @@
         "losses": "7",
         "goals_for_against": "11:15",
         "points": "16"
+      },
+      {
+        "rank": "14",
+        "club": "CFエストレラ",
+        "matches": "15",
+        "wins": "3",
+        "draws": "6",
+        "losses": "6",
+        "goals_for_against": "17:22",
+        "points": "15"
       },
       {
         "rank": "15",

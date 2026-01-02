@@ -1450,7 +1450,7 @@
         "wins": "13",
         "draws": "3",
         "losses": "1",
-        "goals_for_against": "46:8",
+        "goals_for_against": "47:9",
         "points": "42"
       },
       {
@@ -1470,7 +1470,7 @@
         "wins": "7",
         "draws": "7",
         "losses": "3",
-        "goals_for_against": "21:11",
+        "goals_for_against": "22:12",
         "points": "28"
       },
       {
@@ -1496,12 +1496,12 @@
       {
         "rank": "7",
         "club": "ヴィトーリアSC",
-        "matches": "16",
+        "matches": "17",
         "wins": "6",
-        "draws": "4",
+        "draws": "5",
         "losses": "6",
         "goals_for_against": "16:21",
-        "points": "22"
+        "points": "23"
       },
       {
         "rank": "8",
@@ -1535,6 +1535,16 @@
       },
       {
         "rank": "11",
+        "club": "ナシオナル",
+        "matches": "16",
+        "wins": "4",
+        "draws": "5",
+        "losses": "7",
+        "goals_for_against": "17:21",
+        "points": "17"
+      },
+      {
+        "rank": "12",
         "club": "リオ・アヴェ",
         "matches": "16",
         "wins": "3",
@@ -1544,7 +1554,7 @@
         "points": "17"
       },
       {
-        "rank": "12",
+        "rank": "13",
         "club": "Alverca",
         "matches": "16",
         "wins": "5",
@@ -1552,16 +1562,6 @@
         "losses": "9",
         "goals_for_against": "16:27",
         "points": "17"
-      },
-      {
-        "rank": "13",
-        "club": "ナシオナル",
-        "matches": "15",
-        "wins": "4",
-        "draws": "4",
-        "losses": "7",
-        "goals_for_against": "17:21",
-        "points": "16"
       },
       {
         "rank": "14",

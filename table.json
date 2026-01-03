@@ -1456,12 +1456,12 @@
       {
         "rank": "3",
         "club": "ベンフィカ",
-        "matches": "16",
+        "matches": "17",
         "wins": "10",
-        "draws": "6",
+        "draws": "7",
         "losses": "0",
         "goals_for_against": "33:10",
-        "points": "36"
+        "points": "37"
       },
       {
         "rank": "4",
@@ -1476,12 +1476,12 @@
       {
         "rank": "5",
         "club": "SCブラガ",
-        "matches": "16",
+        "matches": "17",
         "wins": "7",
-        "draws": "5",
+        "draws": "6",
         "losses": "4",
-        "goals_for_against": "28:15",
-        "points": "26"
+        "goals_for_against": "29:16",
+        "points": "27"
       },
       {
         "rank": "6",
@@ -1496,15 +1496,25 @@
       {
         "rank": "7",
         "club": "ファマリカン",
-        "matches": "16",
+        "matches": "15",
         "wins": "6",
         "draws": "5",
-        "losses": "5",
-        "goals_for_against": "20:13",
+        "losses": "4",
+        "goals_for_against": "18:10",
         "points": "23"
       },
       {
         "rank": "8",
+        "club": "エストリル・プライア",
+        "matches": "17",
+        "wins": "5",
+        "draws": "6",
+        "losses": "6",
+        "goals_for_against": "27:26",
+        "points": "21"
+      },
+      {
+        "rank": "9",
         "club": "モレイレンセ",
         "matches": "15",
         "wins": "6",
@@ -1514,27 +1524,7 @@
         "points": "21"
       },
       {
-        "rank": "9",
-        "club": "エストリル・プライア",
-        "matches": "16",
-        "wins": "5",
-        "draws": "5",
-        "losses": "6",
-        "goals_for_against": "27:26",
-        "points": "20"
-      },
-      {
         "rank": "10",
-        "club": "CFエストレラ",
-        "matches": "16",
-        "wins": "4",
-        "draws": "6",
-        "losses": "6",
-        "goals_for_against": "20:24",
-        "points": "18"
-      },
-      {
-        "rank": "11",
         "club": "リオ・アヴェ",
         "matches": "16",
         "wins": "3",
@@ -1544,7 +1534,7 @@
         "points": "17"
       },
       {
-        "rank": "12",
+        "rank": "11",
         "club": "Alverca",
         "matches": "16",
         "wins": "5",
@@ -1554,7 +1544,7 @@
         "points": "17"
       },
       {
-        "rank": "13",
+        "rank": "12",
         "club": "サンタ・クララ",
         "matches": "15",
         "wins": "4",
@@ -1564,12 +1554,22 @@
         "points": "16"
       },
       {
-        "rank": "14",
+        "rank": "13",
         "club": "ナシオナル",
         "matches": "16",
         "wins": "4",
         "draws": "4",
         "losses": "8",
+        "goals_for_against": "18:23",
+        "points": "16"
+      },
+      {
+        "rank": "13",
+        "club": "CFエストレラ",
+        "matches": "16",
+        "wins": "3",
+        "draws": "7",
+        "losses": "6",
         "goals_for_against": "18:23",
         "points": "16"
       },

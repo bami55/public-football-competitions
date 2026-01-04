@@ -1437,11 +1437,11 @@
         "rank": "1",
         "club": "FCポルト",
         "matches": "17",
-        "wins": "15",
-        "draws": "2",
+        "wins": "16",
+        "draws": "1",
         "losses": "0",
-        "goals_for_against": "35:4",
-        "points": "47"
+        "goals_for_against": "36:4",
+        "points": "49"
       },
       {
         "rank": "2",
@@ -1545,16 +1545,6 @@
       },
       {
         "rank": "12",
-        "club": "サンタ・クララ",
-        "matches": "16",
-        "wins": "4",
-        "draws": "5",
-        "losses": "7",
-        "goals_for_against": "11:15",
-        "points": "17"
-      },
-      {
-        "rank": "13",
         "club": "Alverca",
         "matches": "16",
         "wins": "5",
@@ -1564,13 +1554,23 @@
         "points": "17"
       },
       {
-        "rank": "14",
+        "rank": "13",
         "club": "ナシオナル",
         "matches": "16",
         "wins": "4",
         "draws": "4",
         "losses": "8",
         "goals_for_against": "18:23",
+        "points": "16"
+      },
+      {
+        "rank": "14",
+        "club": "サンタ・クララ",
+        "matches": "16",
+        "wins": "4",
+        "draws": "4",
+        "losses": "8",
+        "goals_for_against": "11:16",
         "points": "16"
       },
       {

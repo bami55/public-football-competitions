@@ -1495,16 +1495,6 @@
       },
       {
         "rank": "7",
-        "club": "ファマリカン",
-        "matches": "17",
-        "wins": "6",
-        "draws": "6",
-        "losses": "5",
-        "goals_for_against": "20:13",
-        "points": "24"
-      },
-      {
-        "rank": "8",
         "club": "モレイレンセ",
         "matches": "16",
         "wins": "7",
@@ -1512,6 +1502,16 @@
         "losses": "6",
         "goals_for_against": "23:24",
         "points": "24"
+      },
+      {
+        "rank": "8",
+        "club": "ファマリカン",
+        "matches": "17",
+        "wins": "6",
+        "draws": "5",
+        "losses": "6",
+        "goals_for_against": "20:14",
+        "points": "23"
       },
       {
         "rank": "9",
@@ -1535,6 +1535,16 @@
       },
       {
         "rank": "11",
+        "club": "Alverca",
+        "matches": "17",
+        "wins": "6",
+        "draws": "2",
+        "losses": "9",
+        "goals_for_against": "17:27",
+        "points": "20"
+      },
+      {
+        "rank": "12",
         "club": "CFエストレラ",
         "matches": "17",
         "wins": "4",
@@ -1542,16 +1552,6 @@
         "losses": "6",
         "goals_for_against": "23:27",
         "points": "19"
-      },
-      {
-        "rank": "12",
-        "club": "Alverca",
-        "matches": "17",
-        "wins": "5",
-        "draws": "3",
-        "losses": "9",
-        "goals_for_against": "16:27",
-        "points": "18"
       },
       {
         "rank": "13",

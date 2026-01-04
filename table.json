@@ -1436,12 +1436,12 @@
       {
         "rank": "1",
         "club": "FCポルト",
-        "matches": "16",
+        "matches": "17",
         "wins": "15",
-        "draws": "1",
+        "draws": "2",
         "losses": "0",
         "goals_for_against": "35:4",
-        "points": "46"
+        "points": "47"
       },
       {
         "rank": "2",
@@ -1525,6 +1525,16 @@
       },
       {
         "rank": "10",
+        "club": "リオ・アヴェ",
+        "matches": "17",
+        "wins": "4",
+        "draws": "8",
+        "losses": "5",
+        "goals_for_against": "22:29",
+        "points": "20"
+      },
+      {
+        "rank": "11",
         "club": "CFエストレラ",
         "matches": "17",
         "wins": "4",
@@ -1534,17 +1544,17 @@
         "points": "19"
       },
       {
-        "rank": "11",
-        "club": "リオ・アヴェ",
-        "matches": "17",
-        "wins": "3",
-        "draws": "9",
-        "losses": "5",
-        "goals_for_against": "19:28",
-        "points": "18"
+        "rank": "12",
+        "club": "サンタ・クララ",
+        "matches": "16",
+        "wins": "4",
+        "draws": "5",
+        "losses": "7",
+        "goals_for_against": "11:15",
+        "points": "17"
       },
       {
-        "rank": "12",
+        "rank": "13",
         "club": "Alverca",
         "matches": "16",
         "wins": "5",
@@ -1552,16 +1562,6 @@
         "losses": "9",
         "goals_for_against": "16:27",
         "points": "17"
-      },
-      {
-        "rank": "13",
-        "club": "サンタ・クララ",
-        "matches": "15",
-        "wins": "4",
-        "draws": "4",
-        "losses": "7",
-        "goals_for_against": "11:15",
-        "points": "16"
       },
       {
         "rank": "14",
@@ -1578,10 +1578,10 @@
         "club": "カーザ・ピア",
         "matches": "17",
         "wins": "3",
-        "draws": "6",
-        "losses": "8",
-        "goals_for_against": "16:29",
-        "points": "15"
+        "draws": "5",
+        "losses": "9",
+        "goals_for_against": "17:32",
+        "points": "14"
       },
       {
         "rank": "16",

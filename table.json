@@ -1475,22 +1475,22 @@
       },
       {
         "rank": "5",
-        "club": "モレイレンセ",
-        "matches": "18",
-        "wins": "8",
-        "draws": "4",
-        "losses": "6",
-        "goals_for_against": "24:24",
-        "points": "28"
-      },
-      {
-        "rank": "6",
         "club": "SCブラガ",
         "matches": "17",
         "wins": "7",
         "draws": "6",
         "losses": "4",
         "goals_for_against": "31:18",
+        "points": "27"
+      },
+      {
+        "rank": "6",
+        "club": "モレイレンセ",
+        "matches": "18",
+        "wins": "8",
+        "draws": "3",
+        "losses": "7",
+        "goals_for_against": "25:26",
         "points": "27"
       },
       {
@@ -1517,11 +1517,11 @@
         "rank": "9",
         "club": "Alverca",
         "matches": "18",
-        "wins": "6",
-        "draws": "3",
+        "wins": "7",
+        "draws": "2",
         "losses": "9",
-        "goals_for_against": "17:27",
-        "points": "21"
+        "goals_for_against": "19:28",
+        "points": "23"
       },
       {
         "rank": "10",

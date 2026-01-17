@@ -1577,11 +1577,11 @@
         "rank": "15",
         "club": "アロウカ",
         "matches": "18",
-        "wins": "3",
-        "draws": "6",
+        "wins": "4",
+        "draws": "5",
         "losses": "9",
-        "goals_for_against": "18:42",
-        "points": "15"
+        "goals_for_against": "19:42",
+        "points": "17"
       },
       {
         "rank": "16",
@@ -1608,10 +1608,10 @@
         "club": "AVS",
         "matches": "18",
         "wins": "0",
-        "draws": "5",
-        "losses": "13",
-        "goals_for_against": "11:43",
-        "points": "5"
+        "draws": "4",
+        "losses": "14",
+        "goals_for_against": "11:44",
+        "points": "4"
       }
     ]
   },

@@ -1475,22 +1475,22 @@
       },
       {
         "rank": "5",
+        "club": "モレイレンセ",
+        "matches": "18",
+        "wins": "8",
+        "draws": "4",
+        "losses": "6",
+        "goals_for_against": "24:24",
+        "points": "28"
+      },
+      {
+        "rank": "6",
         "club": "SCブラガ",
         "matches": "17",
         "wins": "7",
         "draws": "6",
         "losses": "4",
         "goals_for_against": "31:18",
-        "points": "27"
-      },
-      {
-        "rank": "6",
-        "club": "モレイレンセ",
-        "matches": "17",
-        "wins": "8",
-        "draws": "3",
-        "losses": "6",
-        "goals_for_against": "24:24",
         "points": "27"
       },
       {
@@ -1515,6 +1515,16 @@
       },
       {
         "rank": "9",
+        "club": "Alverca",
+        "matches": "18",
+        "wins": "6",
+        "draws": "3",
+        "losses": "9",
+        "goals_for_against": "17:27",
+        "points": "21"
+      },
+      {
+        "rank": "10",
         "club": "エストリル・プライア",
         "matches": "17",
         "wins": "5",
@@ -1524,23 +1534,13 @@
         "points": "20"
       },
       {
-        "rank": "10",
+        "rank": "11",
         "club": "リオ・アヴェ",
         "matches": "17",
         "wins": "4",
         "draws": "8",
         "losses": "5",
         "goals_for_against": "22:29",
-        "points": "20"
-      },
-      {
-        "rank": "11",
-        "club": "Alverca",
-        "matches": "17",
-        "wins": "6",
-        "draws": "2",
-        "losses": "9",
-        "goals_for_against": "17:27",
         "points": "20"
       },
       {
@@ -1575,22 +1575,22 @@
       },
       {
         "rank": "15",
+        "club": "アロウカ",
+        "matches": "18",
+        "wins": "3",
+        "draws": "6",
+        "losses": "9",
+        "goals_for_against": "18:42",
+        "points": "15"
+      },
+      {
+        "rank": "16",
         "club": "カーザ・ピア",
         "matches": "18",
         "wins": "3",
         "draws": "5",
         "losses": "10",
         "goals_for_against": "17:35",
-        "points": "14"
-      },
-      {
-        "rank": "16",
-        "club": "アロウカ",
-        "matches": "17",
-        "wins": "3",
-        "draws": "5",
-        "losses": "9",
-        "goals_for_against": "18:42",
         "points": "14"
       },
       {
@@ -1606,12 +1606,12 @@
       {
         "rank": "18",
         "club": "AVS",
-        "matches": "17",
+        "matches": "18",
         "wins": "0",
-        "draws": "4",
+        "draws": "5",
         "losses": "13",
         "goals_for_against": "11:43",
-        "points": "4"
+        "points": "5"
       }
     ]
   },

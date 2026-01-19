@@ -1515,6 +1515,16 @@
       },
       {
         "rank": "9",
+        "club": "エストリル・プライア",
+        "matches": "18",
+        "wins": "6",
+        "draws": "5",
+        "losses": "7",
+        "goals_for_against": "29:29",
+        "points": "23"
+      },
+      {
+        "rank": "10",
         "club": "Alverca",
         "matches": "18",
         "wins": "7",
@@ -1522,16 +1532,6 @@
         "losses": "9",
         "goals_for_against": "19:28",
         "points": "23"
-      },
-      {
-        "rank": "10",
-        "club": "エストリル・プライア",
-        "matches": "17",
-        "wins": "5",
-        "draws": "5",
-        "losses": "7",
-        "goals_for_against": "28:29",
-        "points": "20"
       },
       {
         "rank": "11",
@@ -1546,11 +1546,11 @@
       {
         "rank": "12",
         "club": "CFエストレラ",
-        "matches": "17",
+        "matches": "18",
         "wins": "4",
         "draws": "7",
-        "losses": "6",
-        "goals_for_against": "23:27",
+        "losses": "7",
+        "goals_for_against": "23:28",
         "points": "19"
       },
       {

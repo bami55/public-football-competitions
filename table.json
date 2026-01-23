@@ -1575,6 +1575,16 @@
       },
       {
         "rank": "15",
+        "club": "カーザ・ピア",
+        "matches": "19",
+        "wins": "4",
+        "draws": "5",
+        "losses": "10",
+        "goals_for_against": "18:35",
+        "points": "17"
+      },
+      {
+        "rank": "16",
         "club": "アロウカ",
         "matches": "18",
         "wins": "4",
@@ -1582,16 +1592,6 @@
         "losses": "9",
         "goals_for_against": "19:42",
         "points": "17"
-      },
-      {
-        "rank": "16",
-        "club": "カーザ・ピア",
-        "matches": "18",
-        "wins": "3",
-        "draws": "5",
-        "losses": "10",
-        "goals_for_against": "17:35",
-        "points": "14"
       },
       {
         "rank": "17",
@@ -1606,11 +1606,11 @@
       {
         "rank": "18",
         "club": "AVS",
-        "matches": "18",
+        "matches": "19",
         "wins": "0",
         "draws": "4",
-        "losses": "14",
-        "goals_for_against": "11:44",
+        "losses": "15",
+        "goals_for_against": "11:45",
         "points": "4"
       }
     ]

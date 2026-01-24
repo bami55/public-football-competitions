@@ -1495,16 +1495,6 @@
       },
       {
         "rank": "7",
-        "club": "ヴィトーリアSC",
-        "matches": "19",
-        "wins": "8",
-        "draws": "4",
-        "losses": "7",
-        "goals_for_against": "20:24",
-        "points": "28"
-      },
-      {
-        "rank": "8",
         "club": "ファマリカン",
         "matches": "18",
         "wins": "7",
@@ -1514,14 +1504,24 @@
         "points": "26"
       },
       {
-        "rank": "9",
+        "rank": "8",
         "club": "エストリル・プライア",
         "matches": "19",
-        "wins": "6",
+        "wins": "7",
         "draws": "5",
+        "losses": "7",
+        "goals_for_against": "37:31",
+        "points": "26"
+      },
+      {
+        "rank": "9",
+        "club": "ヴィトーリアSC",
+        "matches": "19",
+        "wins": "7",
+        "draws": "4",
         "losses": "8",
-        "goals_for_against": "34:31",
-        "points": "23"
+        "goals_for_against": "20:27",
+        "points": "25"
       },
       {
         "rank": "10",

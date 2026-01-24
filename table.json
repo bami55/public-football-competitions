@@ -1446,12 +1446,12 @@
       {
         "rank": "2",
         "club": "スポルティングCP",
-        "matches": "18",
+        "matches": "19",
         "wins": "14",
-        "draws": "3",
+        "draws": "4",
         "losses": "1",
         "goals_for_against": "50:9",
-        "points": "45"
+        "points": "46"
       },
       {
         "rank": "3",
@@ -1555,6 +1555,16 @@
       },
       {
         "rank": "13",
+        "club": "アロウカ",
+        "matches": "19",
+        "wins": "4",
+        "draws": "6",
+        "losses": "9",
+        "goals_for_against": "19:42",
+        "points": "18"
+      },
+      {
+        "rank": "14",
         "club": "ナシオナル",
         "matches": "18",
         "wins": "4",
@@ -1564,23 +1574,13 @@
         "points": "17"
       },
       {
-        "rank": "14",
+        "rank": "15",
         "club": "サンタ・クララ",
         "matches": "19",
         "wins": "4",
         "draws": "5",
         "losses": "10",
         "goals_for_against": "14:21",
-        "points": "17"
-      },
-      {
-        "rank": "15",
-        "club": "アロウカ",
-        "matches": "18",
-        "wins": "4",
-        "draws": "5",
-        "losses": "9",
-        "goals_for_against": "19:42",
         "points": "17"
       },
       {

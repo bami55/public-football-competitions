@@ -1487,11 +1487,11 @@
         "rank": "6",
         "club": "モレイレンセ",
         "matches": "19",
-        "wins": "8",
-        "draws": "4",
+        "wins": "9",
+        "draws": "3",
         "losses": "7",
-        "goals_for_against": "25:26",
-        "points": "28"
+        "goals_for_against": "26:26",
+        "points": "30"
       },
       {
         "rank": "7",
@@ -1555,22 +1555,22 @@
       },
       {
         "rank": "13",
-        "club": "サンタ・クララ",
-        "matches": "19",
-        "wins": "4",
-        "draws": "6",
-        "losses": "9",
-        "goals_for_against": "14:20",
-        "points": "18"
-      },
-      {
-        "rank": "14",
         "club": "ナシオナル",
         "matches": "18",
         "wins": "4",
         "draws": "5",
         "losses": "9",
         "goals_for_against": "22:28",
+        "points": "17"
+      },
+      {
+        "rank": "14",
+        "club": "サンタ・クララ",
+        "matches": "19",
+        "wins": "4",
+        "draws": "5",
+        "losses": "10",
+        "goals_for_against": "14:21",
         "points": "17"
       },
       {

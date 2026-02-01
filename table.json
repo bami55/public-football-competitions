@@ -1465,6 +1465,16 @@
       },
       {
         "rank": "4",
+        "club": "ジル・ヴィセンテ",
+        "matches": "20",
+        "wins": "9",
+        "draws": "7",
+        "losses": "4",
+        "goals_for_against": "25:16",
+        "points": "34"
+      },
+      {
+        "rank": "5",
         "club": "SCブラガ",
         "matches": "19",
         "wins": "9",
@@ -1472,16 +1482,6 @@
         "losses": "4",
         "goals_for_against": "37:18",
         "points": "33"
-      },
-      {
-        "rank": "5",
-        "club": "ジル・ヴィセンテ",
-        "matches": "19",
-        "wins": "8",
-        "draws": "7",
-        "losses": "4",
-        "goals_for_against": "24:16",
-        "points": "31"
       },
       {
         "rank": "6",
@@ -1496,11 +1496,11 @@
       {
         "rank": "7",
         "club": "ファマリカン",
-        "matches": "19",
+        "matches": "20",
         "wins": "8",
         "draws": "5",
-        "losses": "6",
-        "goals_for_against": "24:14",
+        "losses": "7",
+        "goals_for_against": "24:15",
         "points": "29"
       },
       {

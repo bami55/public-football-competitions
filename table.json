@@ -1436,11 +1436,11 @@
       {
         "rank": "1",
         "club": "FCポルト",
-        "matches": "19",
+        "matches": "20",
         "wins": "18",
         "draws": "1",
-        "losses": "0",
-        "goals_for_against": "40:4",
+        "losses": "1",
+        "goals_for_against": "41:6",
         "points": "55"
       },
       {
@@ -1465,6 +1465,16 @@
       },
       {
         "rank": "4",
+        "club": "SCブラガ",
+        "matches": "20",
+        "wins": "10",
+        "draws": "6",
+        "losses": "4",
+        "goals_for_against": "41:18",
+        "points": "36"
+      },
+      {
+        "rank": "5",
         "club": "ジル・ヴィセンテ",
         "matches": "20",
         "wins": "9",
@@ -1472,16 +1482,6 @@
         "losses": "4",
         "goals_for_against": "29:16",
         "points": "34"
-      },
-      {
-        "rank": "5",
-        "club": "SCブラガ",
-        "matches": "19",
-        "wins": "9",
-        "draws": "6",
-        "losses": "4",
-        "goals_for_against": "37:18",
-        "points": "33"
       },
       {
         "rank": "6",
@@ -1575,6 +1575,16 @@
       },
       {
         "rank": "15",
+        "club": "カーザ・ピア",
+        "matches": "20",
+        "wins": "4",
+        "draws": "6",
+        "losses": "10",
+        "goals_for_against": "22:39",
+        "points": "18"
+      },
+      {
+        "rank": "16",
         "club": "サンタ・クララ",
         "matches": "20",
         "wins": "4",
@@ -1582,16 +1592,6 @@
         "losses": "11",
         "goals_for_against": "16:25",
         "points": "17"
-      },
-      {
-        "rank": "16",
-        "club": "カーザ・ピア",
-        "matches": "19",
-        "wins": "3",
-        "draws": "6",
-        "losses": "10",
-        "goals_for_against": "20:38",
-        "points": "15"
       },
       {
         "rank": "17",
@@ -1606,11 +1606,11 @@
       {
         "rank": "18",
         "club": "AVS",
-        "matches": "19",
+        "matches": "20",
         "wins": "0",
         "draws": "5",
-        "losses": "14",
-        "goals_for_against": "14:47",
+        "losses": "15",
+        "goals_for_against": "14:51",
         "points": "5"
       }
     ]

@@ -1470,7 +1470,7 @@
         "wins": "10",
         "draws": "7",
         "losses": "4",
-        "goals_for_against": "32:17",
+        "goals_for_against": "31:17",
         "points": "37"
       },
       {
@@ -1485,23 +1485,23 @@
       },
       {
         "rank": "6",
+        "club": "エストリル・プライア",
+        "matches": "21",
+        "wins": "8",
+        "draws": "6",
+        "losses": "7",
+        "goals_for_against": "43:35",
+        "points": "30"
+      },
+      {
+        "rank": "7",
         "club": "モレイレンセ",
         "matches": "21",
         "wins": "9",
         "draws": "3",
         "losses": "9",
-        "goals_for_against": "27:30",
+        "goals_for_against": "27:29",
         "points": "30"
-      },
-      {
-        "rank": "7",
-        "club": "エストリル・プライア",
-        "matches": "20",
-        "wins": "8",
-        "draws": "5",
-        "losses": "7",
-        "goals_for_against": "41:33",
-        "points": "29"
       },
       {
         "rank": "8",
@@ -1596,12 +1596,12 @@
       {
         "rank": "17",
         "club": "トンデラ",
-        "matches": "20",
+        "matches": "21",
         "wins": "3",
-        "draws": "4",
+        "draws": "5",
         "losses": "13",
-        "goals_for_against": "12:33",
-        "points": "13"
+        "goals_for_against": "14:35",
+        "points": "14"
       },
       {
         "rank": "18",

@@ -1470,7 +1470,7 @@
         "wins": "10",
         "draws": "7",
         "losses": "4",
-        "goals_for_against": "30:16",
+        "goals_for_against": "32:17",
         "points": "37"
       },
       {
@@ -1490,7 +1490,7 @@
         "wins": "9",
         "draws": "3",
         "losses": "9",
-        "goals_for_against": "26:28",
+        "goals_for_against": "27:30",
         "points": "30"
       },
       {
@@ -1537,11 +1537,11 @@
         "rank": "11",
         "club": "CFエストレラ",
         "matches": "21",
-        "wins": "4",
-        "draws": "9",
+        "wins": "5",
+        "draws": "8",
         "losses": "8",
-        "goals_for_against": "24:37",
-        "points": "21"
+        "goals_for_against": "25:37",
+        "points": "23"
       },
       {
         "rank": "12",
@@ -1575,16 +1575,6 @@
       },
       {
         "rank": "15",
-        "club": "サンタ・クララ",
-        "matches": "21",
-        "wins": "4",
-        "draws": "6",
-        "losses": "11",
-        "goals_for_against": "16:25",
-        "points": "18"
-      },
-      {
-        "rank": "16",
         "club": "カーザ・ピア",
         "matches": "20",
         "wins": "4",
@@ -1592,6 +1582,16 @@
         "losses": "10",
         "goals_for_against": "22:39",
         "points": "18"
+      },
+      {
+        "rank": "16",
+        "club": "サンタ・クララ",
+        "matches": "21",
+        "wins": "4",
+        "draws": "5",
+        "losses": "12",
+        "goals_for_against": "16:26",
+        "points": "17"
       },
       {
         "rank": "17",

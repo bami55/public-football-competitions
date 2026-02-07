@@ -1465,6 +1465,16 @@
       },
       {
         "rank": "4",
+        "club": "ジル・ヴィセンテ",
+        "matches": "21",
+        "wins": "10",
+        "draws": "7",
+        "losses": "4",
+        "goals_for_against": "30:16",
+        "points": "37"
+      },
+      {
+        "rank": "5",
         "club": "SCブラガ",
         "matches": "20",
         "wins": "10",
@@ -1474,23 +1484,13 @@
         "points": "36"
       },
       {
-        "rank": "5",
-        "club": "ジル・ヴィセンテ",
-        "matches": "20",
-        "wins": "9",
-        "draws": "7",
-        "losses": "4",
-        "goals_for_against": "29:16",
-        "points": "34"
-      },
-      {
         "rank": "6",
         "club": "モレイレンセ",
-        "matches": "20",
+        "matches": "21",
         "wins": "9",
         "draws": "3",
-        "losses": "8",
-        "goals_for_against": "26:27",
+        "losses": "9",
+        "goals_for_against": "26:28",
         "points": "30"
       },
       {
@@ -1535,22 +1535,22 @@
       },
       {
         "rank": "11",
+        "club": "CFエストレラ",
+        "matches": "21",
+        "wins": "4",
+        "draws": "9",
+        "losses": "8",
+        "goals_for_against": "24:37",
+        "points": "21"
+      },
+      {
+        "rank": "12",
         "club": "ナシオナル",
         "matches": "20",
         "wins": "5",
         "draws": "5",
         "losses": "10",
         "goals_for_against": "27:30",
-        "points": "20"
-      },
-      {
-        "rank": "12",
-        "club": "CFエストレラ",
-        "matches": "20",
-        "wins": "4",
-        "draws": "8",
-        "losses": "8",
-        "goals_for_against": "24:37",
         "points": "20"
       },
       {
@@ -1575,6 +1575,16 @@
       },
       {
         "rank": "15",
+        "club": "サンタ・クララ",
+        "matches": "21",
+        "wins": "4",
+        "draws": "6",
+        "losses": "11",
+        "goals_for_against": "16:25",
+        "points": "18"
+      },
+      {
+        "rank": "16",
         "club": "カーザ・ピア",
         "matches": "20",
         "wins": "4",
@@ -1582,16 +1592,6 @@
         "losses": "10",
         "goals_for_against": "22:39",
         "points": "18"
-      },
-      {
-        "rank": "16",
-        "club": "サンタ・クララ",
-        "matches": "20",
-        "wins": "4",
-        "draws": "5",
-        "losses": "11",
-        "goals_for_against": "16:25",
-        "points": "17"
       },
       {
         "rank": "17",

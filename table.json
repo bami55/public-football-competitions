@@ -1485,22 +1485,22 @@
       },
       {
         "rank": "6",
+        "club": "ファマリカン",
+        "matches": "21",
+        "wins": "9",
+        "draws": "5",
+        "losses": "7",
+        "goals_for_against": "27:20",
+        "points": "32"
+      },
+      {
+        "rank": "7",
         "club": "エストリル・プライア",
         "matches": "21",
         "wins": "8",
         "draws": "6",
         "losses": "7",
         "goals_for_against": "43:35",
-        "points": "30"
-      },
-      {
-        "rank": "7",
-        "club": "ファマリカン",
-        "matches": "21",
-        "wins": "8",
-        "draws": "6",
-        "losses": "7",
-        "goals_for_against": "24:19",
         "points": "30"
       },
       {
@@ -1608,10 +1608,10 @@
         "club": "AVS",
         "matches": "21",
         "wins": "0",
-        "draws": "6",
-        "losses": "15",
-        "goals_for_against": "14:51",
-        "points": "6"
+        "draws": "5",
+        "losses": "16",
+        "goals_for_against": "15:54",
+        "points": "5"
       }
     ]
   },

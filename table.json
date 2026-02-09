@@ -1495,6 +1495,16 @@
       },
       {
         "rank": "7",
+        "club": "ファマリカン",
+        "matches": "21",
+        "wins": "8",
+        "draws": "6",
+        "losses": "7",
+        "goals_for_against": "24:19",
+        "points": "30"
+      },
+      {
+        "rank": "8",
         "club": "モレイレンセ",
         "matches": "21",
         "wins": "9",
@@ -1502,16 +1512,6 @@
         "losses": "9",
         "goals_for_against": "27:29",
         "points": "30"
-      },
-      {
-        "rank": "8",
-        "club": "ファマリカン",
-        "matches": "20",
-        "wins": "8",
-        "draws": "5",
-        "losses": "7",
-        "goals_for_against": "24:19",
-        "points": "29"
       },
       {
         "rank": "9",
@@ -1606,12 +1606,12 @@
       {
         "rank": "18",
         "club": "AVS",
-        "matches": "20",
+        "matches": "21",
         "wins": "0",
-        "draws": "5",
+        "draws": "6",
         "losses": "15",
         "goals_for_against": "14:51",
-        "points": "5"
+        "points": "6"
       }
     ]
   },

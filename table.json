@@ -1546,15 +1546,25 @@
       {
         "rank": "12",
         "club": "アロウカ",
-        "matches": "21",
+        "matches": "22",
         "wins": "6",
         "draws": "5",
-        "losses": "10",
-        "goals_for_against": "26:46",
+        "losses": "11",
+        "goals_for_against": "28:49",
         "points": "23"
       },
       {
         "rank": "13",
+        "club": "カーザ・ピア",
+        "matches": "22",
+        "wins": "5",
+        "draws": "7",
+        "losses": "10",
+        "goals_for_against": "25:41",
+        "points": "22"
+      },
+      {
+        "rank": "14",
         "club": "ナシオナル",
         "matches": "21",
         "wins": "5",
@@ -1564,7 +1574,7 @@
         "points": "21"
       },
       {
-        "rank": "14",
+        "rank": "15",
         "club": "リオ・アヴェ",
         "matches": "21",
         "wins": "4",
@@ -1572,16 +1582,6 @@
         "losses": "9",
         "goals_for_against": "22:41",
         "points": "20"
-      },
-      {
-        "rank": "15",
-        "club": "カーザ・ピア",
-        "matches": "21",
-        "wins": "4",
-        "draws": "7",
-        "losses": "10",
-        "goals_for_against": "22:39",
-        "points": "19"
       },
       {
         "rank": "16",

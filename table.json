@@ -1495,6 +1495,16 @@
       },
       {
         "rank": "7",
+        "club": "ヴィトーリアSC",
+        "matches": "22",
+        "wins": "9",
+        "draws": "4",
+        "losses": "9",
+        "goals_for_against": "25:31",
+        "points": "31"
+      },
+      {
+        "rank": "8",
         "club": "エストリル・プライア",
         "matches": "21",
         "wins": "8",
@@ -1504,7 +1514,7 @@
         "points": "30"
       },
       {
-        "rank": "8",
+        "rank": "9",
         "club": "モレイレンセ",
         "matches": "21",
         "wins": "9",
@@ -1514,27 +1524,7 @@
         "points": "30"
       },
       {
-        "rank": "9",
-        "club": "ヴィトーリアSC",
-        "matches": "22",
-        "wins": "8",
-        "draws": "4",
-        "losses": "10",
-        "goals_for_against": "23:31",
-        "points": "28"
-      },
-      {
         "rank": "10",
-        "club": "CFエストレラ",
-        "matches": "22",
-        "wins": "6",
-        "draws": "8",
-        "losses": "8",
-        "goals_for_against": "26:37",
-        "points": "26"
-      },
-      {
-        "rank": "11",
         "club": "Alverca",
         "matches": "22",
         "wins": "7",
@@ -1542,6 +1532,16 @@
         "losses": "11",
         "goals_for_against": "22:37",
         "points": "25"
+      },
+      {
+        "rank": "11",
+        "club": "CFエストレラ",
+        "matches": "22",
+        "wins": "5",
+        "draws": "8",
+        "losses": "9",
+        "goals_for_against": "26:39",
+        "points": "23"
       },
       {
         "rank": "12",

@@ -1495,16 +1495,6 @@
       },
       {
         "rank": "7",
-        "club": "エストリル・プライア",
-        "matches": "22",
-        "wins": "8",
-        "draws": "7",
-        "losses": "7",
-        "goals_for_against": "43:35",
-        "points": "31"
-      },
-      {
-        "rank": "8",
         "club": "ヴィトーリアSC",
         "matches": "22",
         "wins": "9",
@@ -1512,6 +1502,16 @@
         "losses": "9",
         "goals_for_against": "25:31",
         "points": "31"
+      },
+      {
+        "rank": "8",
+        "club": "エストリル・プライア",
+        "matches": "22",
+        "wins": "8",
+        "draws": "6",
+        "losses": "8",
+        "goals_for_against": "43:36",
+        "points": "30"
       },
       {
         "rank": "9",
@@ -1607,11 +1607,11 @@
         "rank": "18",
         "club": "AVS",
         "matches": "22",
-        "wins": "0",
-        "draws": "6",
+        "wins": "1",
+        "draws": "5",
         "losses": "16",
-        "goals_for_against": "15:54",
-        "points": "6"
+        "goals_for_against": "16:54",
+        "points": "8"
       }
     ]
   },

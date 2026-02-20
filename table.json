@@ -1536,11 +1536,11 @@
       {
         "rank": "11",
         "club": "CFエストレラ",
-        "matches": "22",
+        "matches": "23",
         "wins": "5",
         "draws": "8",
-        "losses": "9",
-        "goals_for_against": "26:39",
+        "losses": "10",
+        "goals_for_against": "26:40",
         "points": "23"
       },
       {
@@ -1585,6 +1585,16 @@
       },
       {
         "rank": "16",
+        "club": "トンデラ",
+        "matches": "23",
+        "wins": "4",
+        "draws": "6",
+        "losses": "13",
+        "goals_for_against": "16:36",
+        "points": "18"
+      },
+      {
+        "rank": "17",
         "club": "サンタ・クララ",
         "matches": "22",
         "wins": "4",
@@ -1592,16 +1602,6 @@
         "losses": "13",
         "goals_for_against": "17:28",
         "points": "17"
-      },
-      {
-        "rank": "17",
-        "club": "トンデラ",
-        "matches": "22",
-        "wins": "3",
-        "draws": "6",
-        "losses": "13",
-        "goals_for_against": "15:36",
-        "points": "15"
       },
       {
         "rank": "18",

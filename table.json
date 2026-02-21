@@ -1446,22 +1446,22 @@
       {
         "rank": "2",
         "club": "スポルティングCP",
-        "matches": "22",
+        "matches": "23",
         "wins": "17",
-        "draws": "4",
+        "draws": "5",
         "losses": "1",
         "goals_for_against": "56:12",
-        "points": "55"
+        "points": "56"
       },
       {
         "rank": "3",
         "club": "ベンフィカ",
-        "matches": "22",
-        "wins": "15",
+        "matches": "23",
+        "wins": "16",
         "draws": "7",
         "losses": "0",
-        "goals_for_against": "46:13",
-        "points": "52"
+        "goals_for_against": "48:13",
+        "points": "55"
       },
       {
         "rank": "4",
@@ -1486,12 +1486,12 @@
       {
         "rank": "6",
         "club": "モレイレンセ",
-        "matches": "22",
+        "matches": "23",
         "wins": "10",
-        "draws": "3",
+        "draws": "4",
         "losses": "9",
         "goals_for_against": "29:30",
-        "points": "33"
+        "points": "34"
       },
       {
         "rank": "7",
@@ -1606,11 +1606,11 @@
       {
         "rank": "18",
         "club": "AVS",
-        "matches": "22",
+        "matches": "23",
         "wins": "1",
         "draws": "5",
-        "losses": "16",
-        "goals_for_against": "18:54",
+        "losses": "17",
+        "goals_for_against": "18:56",
         "points": "8"
       }
     ]

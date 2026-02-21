@@ -1447,11 +1447,11 @@
         "rank": "2",
         "club": "スポルティングCP",
         "matches": "23",
-        "wins": "17",
-        "draws": "5",
+        "wins": "18",
+        "draws": "4",
         "losses": "1",
-        "goals_for_against": "56:12",
-        "points": "56"
+        "goals_for_against": "58:12",
+        "points": "58"
       },
       {
         "rank": "3",
@@ -1460,7 +1460,7 @@
         "wins": "16",
         "draws": "7",
         "losses": "0",
-        "goals_for_against": "48:13",
+        "goals_for_against": "49:13",
         "points": "55"
       },
       {
@@ -1488,10 +1488,10 @@
         "club": "モレイレンセ",
         "matches": "23",
         "wins": "10",
-        "draws": "4",
-        "losses": "9",
-        "goals_for_against": "29:30",
-        "points": "34"
+        "draws": "3",
+        "losses": "10",
+        "goals_for_against": "29:32",
+        "points": "33"
       },
       {
         "rank": "7",
@@ -1610,7 +1610,7 @@
         "wins": "1",
         "draws": "5",
         "losses": "17",
-        "goals_for_against": "18:56",
+        "goals_for_against": "18:57",
         "points": "8"
       }
     ]

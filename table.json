@@ -1485,6 +1485,16 @@
       },
       {
         "rank": "6",
+        "club": "ファマリカン",
+        "matches": "23",
+        "wins": "10",
+        "draws": "5",
+        "losses": "8",
+        "goals_for_against": "28:21",
+        "points": "35"
+      },
+      {
+        "rank": "7",
         "club": "エストリル・プライア",
         "matches": "23",
         "wins": "9",
@@ -1494,7 +1504,7 @@
         "points": "33"
       },
       {
-        "rank": "7",
+        "rank": "8",
         "club": "モレイレンセ",
         "matches": "23",
         "wins": "10",
@@ -1502,16 +1512,6 @@
         "losses": "10",
         "goals_for_against": "29:33",
         "points": "33"
-      },
-      {
-        "rank": "8",
-        "club": "ファマリカン",
-        "matches": "22",
-        "wins": "9",
-        "draws": "5",
-        "losses": "8",
-        "goals_for_against": "27:21",
-        "points": "32"
       },
       {
         "rank": "9",
@@ -1556,11 +1556,11 @@
       {
         "rank": "13",
         "club": "カーザ・ピア",
-        "matches": "22",
+        "matches": "23",
         "wins": "5",
         "draws": "7",
-        "losses": "10",
-        "goals_for_against": "25:41",
+        "losses": "11",
+        "goals_for_against": "25:42",
         "points": "22"
       },
       {

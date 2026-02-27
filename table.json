@@ -1437,21 +1437,21 @@
         "rank": "1",
         "club": "FCポルト",
         "matches": "24",
-        "wins": "20",
-        "draws": "3",
+        "wins": "21",
+        "draws": "2",
         "losses": "1",
-        "goals_for_against": "45:8",
-        "points": "63"
+        "goals_for_against": "47:8",
+        "points": "65"
       },
       {
         "rank": "2",
         "club": "スポルティングCP",
-        "matches": "23",
-        "wins": "18",
+        "matches": "24",
+        "wins": "19",
         "draws": "4",
         "losses": "1",
-        "goals_for_against": "59:12",
-        "points": "58"
+        "goals_for_against": "61:12",
+        "points": "61"
       },
       {
         "rank": "3",
@@ -1496,11 +1496,11 @@
       {
         "rank": "7",
         "club": "エストリル・プライア",
-        "matches": "23",
+        "matches": "24",
         "wins": "9",
         "draws": "6",
-        "losses": "8",
-        "goals_for_against": "46:39",
+        "losses": "9",
+        "goals_for_against": "46:41",
         "points": "33"
       },
       {
@@ -1525,22 +1525,22 @@
       },
       {
         "rank": "10",
-        "club": "アロウカ",
-        "matches": "24",
-        "wins": "7",
-        "draws": "6",
-        "losses": "11",
-        "goals_for_against": "32:50",
-        "points": "27"
-      },
-      {
-        "rank": "11",
         "club": "Alverca",
         "matches": "23",
         "wins": "7",
         "draws": "5",
         "losses": "11",
         "goals_for_against": "23:38",
+        "points": "26"
+      },
+      {
+        "rank": "11",
+        "club": "アロウカ",
+        "matches": "24",
+        "wins": "7",
+        "draws": "5",
+        "losses": "12",
+        "goals_for_against": "32:52",
         "points": "26"
       },
       {

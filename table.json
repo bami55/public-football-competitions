@@ -1546,12 +1546,12 @@
       {
         "rank": "12",
         "club": "CFエストレラ",
-        "matches": "23",
+        "matches": "24",
         "wins": "5",
-        "draws": "8",
+        "draws": "9",
         "losses": "10",
         "goals_for_against": "26:41",
-        "points": "23"
+        "points": "24"
       },
       {
         "rank": "13",
@@ -1606,12 +1606,12 @@
       {
         "rank": "18",
         "club": "AVS",
-        "matches": "23",
+        "matches": "24",
         "wins": "1",
-        "draws": "5",
+        "draws": "6",
         "losses": "17",
         "goals_for_against": "18:57",
-        "points": "8"
+        "points": "9"
       }
     ]
   },

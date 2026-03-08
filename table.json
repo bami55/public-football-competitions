@@ -1437,11 +1437,11 @@
         "rank": "1",
         "club": "FCポルト",
         "matches": "25",
-        "wins": "22",
-        "draws": "2",
+        "wins": "21",
+        "draws": "3",
         "losses": "1",
-        "goals_for_against": "49:8",
-        "points": "68"
+        "goals_for_against": "49:10",
+        "points": "66"
       },
       {
         "rank": "2",
@@ -1458,10 +1458,10 @@
         "club": "ベンフィカ",
         "matches": "25",
         "wins": "17",
-        "draws": "7",
-        "losses": "1",
-        "goals_for_against": "51:16",
-        "points": "58"
+        "draws": "8",
+        "losses": "0",
+        "goals_for_against": "53:16",
+        "points": "59"
       },
       {
         "rank": "4",

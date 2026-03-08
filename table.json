@@ -1516,11 +1516,11 @@
       {
         "rank": "9",
         "club": "ヴィトーリアSC",
-        "matches": "24",
+        "matches": "25",
         "wins": "9",
         "draws": "5",
-        "losses": "10",
-        "goals_for_against": "28:35",
+        "losses": "11",
+        "goals_for_against": "28:37",
         "points": "32"
       },
       {
@@ -1575,6 +1575,16 @@
       },
       {
         "rank": "15",
+        "club": "サンタ・クララ",
+        "matches": "25",
+        "wins": "5",
+        "draws": "7",
+        "losses": "13",
+        "goals_for_against": "22:31",
+        "points": "22"
+      },
+      {
+        "rank": "16",
         "club": "リオ・アヴェ",
         "matches": "24",
         "wins": "4",
@@ -1582,16 +1592,6 @@
         "losses": "11",
         "goals_for_against": "23:44",
         "points": "21"
-      },
-      {
-        "rank": "16",
-        "club": "サンタ・クララ",
-        "matches": "24",
-        "wins": "4",
-        "draws": "7",
-        "losses": "13",
-        "goals_for_against": "20:31",
-        "points": "19"
       },
       {
         "rank": "17",

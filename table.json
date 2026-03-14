@@ -1475,6 +1475,16 @@
       },
       {
         "rank": "5",
+        "club": "ファマリカン",
+        "matches": "26",
+        "wins": "12",
+        "draws": "6",
+        "losses": "8",
+        "goals_for_against": "32:22",
+        "points": "42"
+      },
+      {
+        "rank": "6",
         "club": "ジル・ヴィセンテ",
         "matches": "25",
         "wins": "11",
@@ -1482,16 +1492,6 @@
         "losses": "6",
         "goals_for_against": "37:25",
         "points": "41"
-      },
-      {
-        "rank": "6",
-        "club": "ファマリカン",
-        "matches": "26",
-        "wins": "11",
-        "draws": "7",
-        "losses": "8",
-        "goals_for_against": "31:22",
-        "points": "40"
       },
       {
         "rank": "7",
@@ -1518,10 +1518,10 @@
         "club": "ヴィトーリアSC",
         "matches": "26",
         "wins": "9",
-        "draws": "6",
-        "losses": "11",
-        "goals_for_against": "29:38",
-        "points": "33"
+        "draws": "5",
+        "losses": "12",
+        "goals_for_against": "29:39",
+        "points": "32"
       },
       {
         "rank": "10",

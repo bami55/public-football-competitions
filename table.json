@@ -1495,6 +1495,16 @@
       },
       {
         "rank": "7",
+        "club": "エストリル・プライア",
+        "matches": "26",
+        "wins": "9",
+        "draws": "8",
+        "losses": "9",
+        "goals_for_against": "46:42",
+        "points": "35"
+      },
+      {
+        "rank": "8",
         "club": "モレイレンセ",
         "matches": "25",
         "wins": "10",
@@ -1502,16 +1512,6 @@
         "losses": "10",
         "goals_for_against": "31:35",
         "points": "35"
-      },
-      {
-        "rank": "8",
-        "club": "エストリル・プライア",
-        "matches": "25",
-        "wins": "9",
-        "draws": "7",
-        "losses": "9",
-        "goals_for_against": "46:42",
-        "points": "34"
       },
       {
         "rank": "9",
@@ -1576,12 +1576,12 @@
       {
         "rank": "15",
         "club": "ナシオナル",
-        "matches": "25",
+        "matches": "26",
         "wins": "5",
-        "draws": "7",
+        "draws": "8",
         "losses": "13",
         "goals_for_against": "29:37",
-        "points": "22"
+        "points": "23"
       },
       {
         "rank": "16",

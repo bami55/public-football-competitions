@@ -1445,22 +1445,22 @@
       },
       {
         "rank": "2",
+        "club": "ベンフィカ",
+        "matches": "27",
+        "wins": "19",
+        "draws": "8",
+        "losses": "0",
+        "goals_for_against": "56:17",
+        "points": "65"
+      },
+      {
+        "rank": "3",
         "club": "スポルティングCP",
         "matches": "25",
         "wins": "19",
         "draws": "5",
         "losses": "1",
         "goals_for_against": "64:14",
-        "points": "62"
-      },
-      {
-        "rank": "3",
-        "club": "ベンフィカ",
-        "matches": "26",
-        "wins": "18",
-        "draws": "8",
-        "losses": "0",
-        "goals_for_against": "55:17",
         "points": "62"
       },
       {
@@ -1486,12 +1486,12 @@
       {
         "rank": "6",
         "club": "ジル・ヴィセンテ",
-        "matches": "26",
+        "matches": "27",
         "wins": "11",
-        "draws": "9",
+        "draws": "10",
         "losses": "6",
         "goals_for_against": "39:27",
-        "points": "42"
+        "points": "43"
       },
       {
         "rank": "7",
@@ -1516,11 +1516,11 @@
       {
         "rank": "9",
         "club": "ヴィトーリアSC",
-        "matches": "26",
+        "matches": "27",
         "wins": "9",
         "draws": "5",
-        "losses": "12",
-        "goals_for_against": "29:39",
+        "losses": "13",
+        "goals_for_against": "29:40",
         "points": "32"
       },
       {
@@ -1566,12 +1566,12 @@
       {
         "rank": "14",
         "club": "サンタ・クララ",
-        "matches": "26",
+        "matches": "27",
         "wins": "6",
-        "draws": "7",
+        "draws": "8",
         "losses": "13",
         "goals_for_against": "23:31",
-        "points": "25"
+        "points": "26"
       },
       {
         "rank": "15",

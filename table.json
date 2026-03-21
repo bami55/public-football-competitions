@@ -1477,11 +1477,11 @@
         "rank": "5",
         "club": "ファマリカン",
         "matches": "27",
-        "wins": "12",
-        "draws": "7",
+        "wins": "13",
+        "draws": "6",
         "losses": "8",
-        "goals_for_against": "32:22",
-        "points": "43"
+        "goals_for_against": "33:22",
+        "points": "45"
       },
       {
         "rank": "6",
@@ -1508,10 +1508,10 @@
         "club": "モレイレンセ",
         "matches": "27",
         "wins": "10",
-        "draws": "6",
-        "losses": "11",
-        "goals_for_against": "31:38",
-        "points": "36"
+        "draws": "5",
+        "losses": "12",
+        "goals_for_against": "31:39",
+        "points": "35"
       },
       {
         "rank": "9",
@@ -1535,6 +1535,16 @@
       },
       {
         "rank": "11",
+        "club": "アロウカ",
+        "matches": "27",
+        "wins": "8",
+        "draws": "5",
+        "losses": "14",
+        "goals_for_against": "34:55",
+        "points": "29"
+      },
+      {
+        "rank": "12",
         "club": "CFエストレラ",
         "matches": "27",
         "wins": "6",
@@ -1544,23 +1554,13 @@
         "points": "28"
       },
       {
-        "rank": "12",
+        "rank": "13",
         "club": "リオ・アヴェ",
         "matches": "26",
         "wins": "6",
         "draws": "9",
         "losses": "11",
         "goals_for_against": "26:45",
-        "points": "27"
-      },
-      {
-        "rank": "13",
-        "club": "アロウカ",
-        "matches": "27",
-        "wins": "7",
-        "draws": "6",
-        "losses": "14",
-        "goals_for_against": "33:55",
         "points": "27"
       },
       {
@@ -1588,10 +1588,10 @@
         "club": "ナシオナル",
         "matches": "27",
         "wins": "5",
-        "draws": "8",
-        "losses": "14",
-        "goals_for_against": "29:38",
-        "points": "23"
+        "draws": "7",
+        "losses": "15",
+        "goals_for_against": "29:39",
+        "points": "22"
       },
       {
         "rank": "17",

@@ -1505,22 +1505,22 @@
       },
       {
         "rank": "8",
+        "club": "ヴィトーリアSC",
+        "matches": "28",
+        "wins": "10",
+        "draws": "5",
+        "losses": "13",
+        "goals_for_against": "34:42",
+        "points": "35"
+      },
+      {
+        "rank": "9",
         "club": "モレイレンセ",
         "matches": "27",
         "wins": "10",
         "draws": "5",
         "losses": "12",
         "goals_for_against": "31:39",
-        "points": "35"
-      },
-      {
-        "rank": "9",
-        "club": "ヴィトーリアSC",
-        "matches": "28",
-        "wins": "10",
-        "draws": "5",
-        "losses": "13",
-        "goals_for_against": "31:42",
         "points": "35"
       },
       {
@@ -1600,7 +1600,7 @@
         "wins": "4",
         "draws": "8",
         "losses": "15",
-        "goals_for_against": "19:41",
+        "goals_for_against": "19:44",
         "points": "20"
       },
       {

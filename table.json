@@ -1437,11 +1437,11 @@
         "rank": "1",
         "club": "FCポルト",
         "matches": "28",
-        "wins": "24",
-        "draws": "3",
+        "wins": "23",
+        "draws": "4",
         "losses": "1",
-        "goals_for_against": "56:12",
-        "points": "75"
+        "goals_for_against": "56:13",
+        "points": "73"
       },
       {
         "rank": "2",
@@ -1475,22 +1475,22 @@
       },
       {
         "rank": "5",
+        "club": "ファマリカン",
+        "matches": "28",
+        "wins": "13",
+        "draws": "7",
+        "losses": "8",
+        "goals_for_against": "35:24",
+        "points": "46"
+      },
+      {
+        "rank": "6",
         "club": "ジル・ヴィセンテ",
         "matches": "28",
         "wins": "12",
         "draws": "9",
         "losses": "7",
         "goals_for_against": "42:28",
-        "points": "45"
-      },
-      {
-        "rank": "6",
-        "club": "ファマリカン",
-        "matches": "28",
-        "wins": "13",
-        "draws": "6",
-        "losses": "9",
-        "goals_for_against": "34:24",
         "points": "45"
       },
       {

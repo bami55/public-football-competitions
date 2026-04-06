@@ -1498,10 +1498,10 @@
         "club": "エストリル・プライア",
         "matches": "28",
         "wins": "10",
-        "draws": "8",
-        "losses": "10",
-        "goals_for_against": "48:44",
-        "points": "38"
+        "draws": "7",
+        "losses": "11",
+        "goals_for_against": "50:47",
+        "points": "37"
       },
       {
         "rank": "8",
@@ -1535,22 +1535,22 @@
       },
       {
         "rank": "11",
+        "club": "アロウカ",
+        "matches": "28",
+        "wins": "9",
+        "draws": "5",
+        "losses": "14",
+        "goals_for_against": "37:57",
+        "points": "32"
+      },
+      {
+        "rank": "12",
         "club": "リオ・アヴェ",
         "matches": "28",
         "wins": "7",
         "draws": "9",
         "losses": "12",
         "goals_for_against": "29:48",
-        "points": "30"
-      },
-      {
-        "rank": "12",
-        "club": "アロウカ",
-        "matches": "28",
-        "wins": "8",
-        "draws": "6",
-        "losses": "14",
-        "goals_for_against": "34:55",
         "points": "30"
       },
       {

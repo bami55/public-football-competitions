@@ -1476,12 +1476,12 @@
       {
         "rank": "5",
         "club": "ファマリカン",
-        "matches": "28",
+        "matches": "29",
         "wins": "13",
-        "draws": "7",
+        "draws": "8",
         "losses": "8",
         "goals_for_against": "35:24",
-        "points": "46"
+        "points": "47"
       },
       {
         "rank": "6",
@@ -1505,22 +1505,22 @@
       },
       {
         "rank": "8",
+        "club": "モレイレンセ",
+        "matches": "29",
+        "wins": "10",
+        "draws": "6",
+        "losses": "13",
+        "goals_for_against": "31:40",
+        "points": "36"
+      },
+      {
+        "rank": "9",
         "club": "ヴィトーリアSC",
         "matches": "28",
         "wins": "10",
         "draws": "5",
         "losses": "13",
         "goals_for_against": "34:42",
-        "points": "35"
-      },
-      {
-        "rank": "9",
-        "club": "モレイレンセ",
-        "matches": "28",
-        "wins": "10",
-        "draws": "5",
-        "losses": "13",
-        "goals_for_against": "31:40",
         "points": "35"
       },
       {

@@ -1525,6 +1525,16 @@
       },
       {
         "rank": "10",
+        "club": "Alverca",
+        "matches": "29",
+        "wins": "9",
+        "draws": "8",
+        "losses": "12",
+        "goals_for_against": "32:47",
+        "points": "35"
+      },
+      {
+        "rank": "11",
         "club": "リオ・アヴェ",
         "matches": "29",
         "wins": "8",
@@ -1532,16 +1542,6 @@
         "losses": "12",
         "goals_for_against": "31:48",
         "points": "33"
-      },
-      {
-        "rank": "11",
-        "club": "Alverca",
-        "matches": "29",
-        "wins": "8",
-        "draws": "8",
-        "losses": "13",
-        "goals_for_against": "29:47",
-        "points": "32"
       },
       {
         "rank": "12",
@@ -1575,22 +1575,22 @@
       },
       {
         "rank": "15",
-        "club": "カーザ・ピア",
-        "matches": "28",
-        "wins": "6",
-        "draws": "10",
-        "losses": "12",
-        "goals_for_against": "28:49",
-        "points": "28"
-      },
-      {
-        "rank": "16",
         "club": "ナシオナル",
         "matches": "28",
         "wins": "6",
         "draws": "7",
         "losses": "15",
         "goals_for_against": "31:39",
+        "points": "25"
+      },
+      {
+        "rank": "16",
+        "club": "カーザ・ピア",
+        "matches": "28",
+        "wins": "5",
+        "draws": "10",
+        "losses": "13",
+        "goals_for_against": "28:52",
         "points": "25"
       },
       {

@@ -1436,51 +1436,51 @@
       {
         "rank": "1",
         "club": "FCポルト",
-        "matches": "29",
+        "matches": "30",
         "wins": "24",
-        "draws": "4",
+        "draws": "5",
         "losses": "1",
         "goals_for_against": "59:14",
-        "points": "76"
+        "points": "77"
       },
       {
         "rank": "2",
-        "club": "スポルティングCP",
-        "matches": "29",
-        "wins": "22",
-        "draws": "6",
-        "losses": "1",
-        "goals_for_against": "74:18",
+        "club": "ベンフィカ",
+        "matches": "30",
+        "wins": "21",
+        "draws": "9",
+        "losses": "0",
+        "goals_for_against": "63:19",
         "points": "72"
       },
       {
         "rank": "3",
-        "club": "ベンフィカ",
-        "matches": "30",
-        "wins": "20",
-        "draws": "10",
-        "losses": "0",
-        "goals_for_against": "62:19",
-        "points": "70"
+        "club": "スポルティングCP",
+        "matches": "29",
+        "wins": "22",
+        "draws": "5",
+        "losses": "2",
+        "goals_for_against": "74:19",
+        "points": "71"
       },
       {
         "rank": "4",
         "club": "SCブラガ",
-        "matches": "28",
-        "wins": "15",
+        "matches": "29",
+        "wins": "16",
         "draws": "7",
         "losses": "6",
-        "goals_for_against": "55:27",
-        "points": "52"
+        "goals_for_against": "56:27",
+        "points": "55"
       },
       {
         "rank": "5",
         "club": "ファマリカン",
-        "matches": "29",
+        "matches": "30",
         "wins": "13",
         "draws": "8",
-        "losses": "8",
-        "goals_for_against": "36:25",
+        "losses": "9",
+        "goals_for_against": "36:26",
         "points": "47"
       },
       {
@@ -1596,12 +1596,12 @@
       {
         "rank": "17",
         "club": "トンデラ",
-        "matches": "28",
+        "matches": "29",
         "wins": "4",
-        "draws": "9",
+        "draws": "10",
         "losses": "15",
         "goals_for_against": "21:46",
-        "points": "21"
+        "points": "22"
       },
       {
         "rank": "18",

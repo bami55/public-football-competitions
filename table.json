@@ -1497,11 +1497,11 @@
         "rank": "7",
         "club": "ヴィトーリアSC",
         "matches": "31",
-        "wins": "11",
-        "draws": "7",
+        "wins": "12",
+        "draws": "6",
         "losses": "13",
-        "goals_for_against": "36:43",
-        "points": "40"
+        "goals_for_against": "38:43",
+        "points": "42"
       },
       {
         "rank": "8",
@@ -1535,16 +1535,6 @@
       },
       {
         "rank": "11",
-        "club": "リオ・アヴェ",
-        "matches": "31",
-        "wins": "8",
-        "draws": "11",
-        "losses": "12",
-        "goals_for_against": "33:50",
-        "points": "35"
-      },
-      {
-        "rank": "12",
         "club": "アロウカ",
         "matches": "31",
         "wins": "10",
@@ -1552,6 +1542,16 @@
         "losses": "16",
         "goals_for_against": "39:60",
         "points": "35"
+      },
+      {
+        "rank": "12",
+        "club": "リオ・アヴェ",
+        "matches": "31",
+        "wins": "8",
+        "draws": "10",
+        "losses": "13",
+        "goals_for_against": "33:52",
+        "points": "34"
       },
       {
         "rank": "13",

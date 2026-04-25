@@ -1555,6 +1555,16 @@
       },
       {
         "rank": "13",
+        "club": "ナシオナル",
+        "matches": "31",
+        "wins": "7",
+        "draws": "8",
+        "losses": "16",
+        "goals_for_against": "32:41",
+        "points": "29"
+      },
+      {
+        "rank": "14",
         "club": "サンタ・クララ",
         "matches": "30",
         "wins": "7",
@@ -1562,16 +1572,6 @@
         "losses": "15",
         "goals_for_against": "26:37",
         "points": "29"
-      },
-      {
-        "rank": "14",
-        "club": "ナシオナル",
-        "matches": "30",
-        "wins": "7",
-        "draws": "7",
-        "losses": "16",
-        "goals_for_against": "32:41",
-        "points": "28"
       },
       {
         "rank": "15",
@@ -1596,12 +1596,12 @@
       {
         "rank": "17",
         "club": "トンデラ",
-        "matches": "29",
+        "matches": "30",
         "wins": "4",
-        "draws": "9",
+        "draws": "10",
         "losses": "16",
         "goals_for_against": "21:48",
-        "points": "21"
+        "points": "22"
       },
       {
         "rank": "18",

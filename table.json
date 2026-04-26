@@ -1440,7 +1440,7 @@
         "wins": "26",
         "draws": "4",
         "losses": "1",
-        "goals_for_against": "63:14",
+        "goals_for_against": "63:15",
         "points": "82"
       },
       {
@@ -1467,11 +1467,11 @@
         "rank": "4",
         "club": "SCブラガ",
         "matches": "31",
-        "wins": "17",
+        "wins": "16",
         "draws": "8",
-        "losses": "6",
-        "goals_for_against": "59:29",
-        "points": "59"
+        "losses": "7",
+        "goals_for_against": "59:31",
+        "points": "56"
       },
       {
         "rank": "5",
@@ -1555,6 +1555,16 @@
       },
       {
         "rank": "13",
+        "club": "サンタ・クララ",
+        "matches": "31",
+        "wins": "8",
+        "draws": "8",
+        "losses": "15",
+        "goals_for_against": "28:38",
+        "points": "32"
+      },
+      {
+        "rank": "14",
         "club": "ナシオナル",
         "matches": "31",
         "wins": "8",
@@ -1564,23 +1574,13 @@
         "points": "31"
       },
       {
-        "rank": "14",
-        "club": "サンタ・クララ",
-        "matches": "31",
-        "wins": "7",
-        "draws": "8",
-        "losses": "16",
-        "goals_for_against": "26:38",
-        "points": "29"
-      },
-      {
         "rank": "15",
         "club": "CFエストレラ",
         "matches": "31",
         "wins": "6",
         "draws": "10",
         "losses": "15",
-        "goals_for_against": "33:51",
+        "goals_for_against": "34:51",
         "points": "28"
       },
       {

@@ -1456,12 +1456,12 @@
       {
         "rank": "3",
         "club": "スポルティングCP",
-        "matches": "29",
+        "matches": "30",
         "wins": "22",
-        "draws": "5",
+        "draws": "6",
         "losses": "2",
         "goals_for_against": "74:19",
-        "points": "71"
+        "points": "72"
       },
       {
         "rank": "4",
@@ -1606,12 +1606,12 @@
       {
         "rank": "18",
         "club": "AVS",
-        "matches": "30",
+        "matches": "31",
         "wins": "1",
-        "draws": "10",
+        "draws": "11",
         "losses": "19",
         "goals_for_against": "21:64",
-        "points": "13"
+        "points": "14"
       }
     ]
   },

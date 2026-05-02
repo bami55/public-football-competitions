@@ -1506,11 +1506,11 @@
       {
         "rank": "8",
         "club": "モレイレンセ",
-        "matches": "31",
+        "matches": "32",
         "wins": "11",
         "draws": "6",
-        "losses": "14",
-        "goals_for_against": "34:45",
+        "losses": "15",
+        "goals_for_against": "34:46",
         "points": "39"
       },
       {
@@ -1536,15 +1536,25 @@
       {
         "rank": "11",
         "club": "アロウカ",
-        "matches": "31",
+        "matches": "32",
         "wins": "10",
-        "draws": "5",
+        "draws": "6",
         "losses": "16",
-        "goals_for_against": "39:60",
-        "points": "35"
+        "goals_for_against": "40:61",
+        "points": "36"
       },
       {
         "rank": "12",
+        "club": "ナシオナル",
+        "matches": "32",
+        "wins": "9",
+        "draws": "7",
+        "losses": "16",
+        "goals_for_against": "35:41",
+        "points": "34"
+      },
+      {
+        "rank": "13",
         "club": "リオ・アヴェ",
         "matches": "31",
         "wins": "8",
@@ -1554,34 +1564,24 @@
         "points": "34"
       },
       {
-        "rank": "13",
-        "club": "サンタ・クララ",
-        "matches": "31",
-        "wins": "8",
-        "draws": "8",
-        "losses": "15",
-        "goals_for_against": "28:38",
-        "points": "32"
-      },
-      {
         "rank": "14",
-        "club": "ナシオナル",
-        "matches": "31",
+        "club": "サンタ・クララ",
+        "matches": "32",
         "wins": "8",
-        "draws": "7",
-        "losses": "16",
-        "goals_for_against": "34:41",
-        "points": "31"
+        "draws": "9",
+        "losses": "15",
+        "goals_for_against": "29:39",
+        "points": "33"
       },
       {
         "rank": "15",
         "club": "CFエストレラ",
-        "matches": "31",
-        "wins": "6",
+        "matches": "32",
+        "wins": "7",
         "draws": "10",
         "losses": "15",
-        "goals_for_against": "34:51",
-        "points": "28"
+        "goals_for_against": "35:51",
+        "points": "31"
       },
       {
         "rank": "16",
@@ -1606,11 +1606,11 @@
       {
         "rank": "18",
         "club": "AVS",
-        "matches": "31",
+        "matches": "32",
         "wins": "1",
         "draws": "11",
-        "losses": "19",
-        "goals_for_against": "22:65",
+        "losses": "20",
+        "goals_for_against": "22:66",
         "points": "14"
       }
     ]

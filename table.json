@@ -1447,11 +1447,11 @@
         "rank": "2",
         "club": "ベンフィカ",
         "matches": "32",
-        "wins": "23",
-        "draws": "9",
+        "wins": "22",
+        "draws": "10",
         "losses": "0",
-        "goals_for_against": "69:20",
-        "points": "78"
+        "goals_for_against": "69:22",
+        "points": "76"
       },
       {
         "rank": "3",
@@ -1478,10 +1478,10 @@
         "club": "ファマリカン",
         "matches": "32",
         "wins": "14",
-        "draws": "9",
-        "losses": "9",
-        "goals_for_against": "39:29",
-        "points": "51"
+        "draws": "10",
+        "losses": "8",
+        "goals_for_against": "41:29",
+        "points": "52"
       },
       {
         "rank": "6",

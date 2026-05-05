@@ -1445,22 +1445,22 @@
       },
       {
         "rank": "2",
-        "club": "スポルティングCP",
-        "matches": "32",
-        "wins": "23",
-        "draws": "7",
-        "losses": "2",
-        "goals_for_against": "82:23",
-        "points": "76"
-      },
-      {
-        "rank": "3",
         "club": "ベンフィカ",
         "matches": "32",
         "wins": "22",
         "draws": "10",
         "losses": "0",
         "goals_for_against": "69:22",
+        "points": "76"
+      },
+      {
+        "rank": "3",
+        "club": "スポルティングCP",
+        "matches": "32",
+        "wins": "23",
+        "draws": "7",
+        "losses": "2",
+        "goals_for_against": "82:23",
         "points": "76"
       },
       {
@@ -1495,22 +1495,22 @@
       },
       {
         "rank": "7",
-        "club": "ヴィトーリアSC",
-        "matches": "32",
-        "wins": "12",
-        "draws": "6",
-        "losses": "14",
-        "goals_for_against": "39:48",
-        "points": "42"
-      },
-      {
-        "rank": "8",
         "club": "モレイレンセ",
         "matches": "32",
         "wins": "12",
         "draws": "6",
         "losses": "14",
         "goals_for_against": "37:47",
+        "points": "42"
+      },
+      {
+        "rank": "8",
+        "club": "ヴィトーリアSC",
+        "matches": "32",
+        "wins": "12",
+        "draws": "6",
+        "losses": "14",
+        "goals_for_against": "39:48",
         "points": "42"
       },
       {

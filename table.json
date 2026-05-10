@@ -1436,11 +1436,11 @@
       {
         "rank": "1",
         "club": "FCポルト",
-        "matches": "32",
+        "matches": "33",
         "wins": "27",
         "draws": "4",
-        "losses": "1",
-        "goals_for_against": "64:15",
+        "losses": "2",
+        "goals_for_against": "65:18",
         "points": "85"
       },
       {
@@ -1606,12 +1606,12 @@
       {
         "rank": "18",
         "club": "AVS",
-        "matches": "32",
-        "wins": "2",
+        "matches": "33",
+        "wins": "3",
         "draws": "11",
         "losses": "19",
-        "goals_for_against": "24:66",
-        "points": "17"
+        "goals_for_against": "27:67",
+        "points": "20"
       }
     ]
   },

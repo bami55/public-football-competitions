@@ -1446,22 +1446,22 @@
       {
         "rank": "2",
         "club": "スポルティングCP",
-        "matches": "33",
-        "wins": "24",
+        "matches": "34",
+        "wins": "25",
         "draws": "7",
         "losses": "2",
-        "goals_for_against": "86:24",
-        "points": "79"
+        "goals_for_against": "88:24",
+        "points": "82"
       },
       {
         "rank": "3",
         "club": "ベンフィカ",
-        "matches": "33",
-        "wins": "22",
+        "matches": "34",
+        "wins": "23",
         "draws": "11",
         "losses": "0",
-        "goals_for_against": "71:24",
-        "points": "77"
+        "goals_for_against": "74:24",
+        "points": "80"
       },
       {
         "rank": "4",
@@ -1476,21 +1476,21 @@
       {
         "rank": "5",
         "club": "ファマリカン",
-        "matches": "33",
+        "matches": "34",
         "wins": "14",
-        "draws": "11",
+        "draws": "12",
         "losses": "8",
         "goals_for_against": "41:29",
-        "points": "53"
+        "points": "54"
       },
       {
         "rank": "6",
         "club": "ジル・ヴィセンテ",
-        "matches": "33",
+        "matches": "34",
         "wins": "13",
         "draws": "11",
-        "losses": "9",
-        "goals_for_against": "47:35",
+        "losses": "10",
+        "goals_for_against": "47:37",
         "points": "50"
       },
       {
@@ -1525,22 +1525,22 @@
       },
       {
         "rank": "10",
-        "club": "エストリル・プライア",
-        "matches": "33",
+        "club": "Alverca",
+        "matches": "34",
         "wins": "10",
-        "draws": "9",
+        "draws": "10",
         "losses": "14",
-        "goals_for_against": "53:54",
-        "points": "39"
+        "goals_for_against": "35:51",
+        "points": "40"
       },
       {
         "rank": "11",
-        "club": "Alverca",
-        "matches": "33",
+        "club": "エストリル・プライア",
+        "matches": "34",
         "wins": "10",
         "draws": "9",
-        "losses": "14",
-        "goals_for_against": "35:51",
+        "losses": "15",
+        "goals_for_against": "53:57",
         "points": "39"
       },
       {

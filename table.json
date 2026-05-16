@@ -1450,7 +1450,7 @@
         "wins": "25",
         "draws": "7",
         "losses": "2",
-        "goals_for_against": "88:24",
+        "goals_for_against": "89:24",
         "points": "82"
       },
       {
@@ -1460,7 +1460,7 @@
         "wins": "23",
         "draws": "11",
         "losses": "0",
-        "goals_for_against": "74:24",
+        "goals_for_against": "74:25",
         "points": "80"
       },
       {
@@ -1477,11 +1477,11 @@
         "rank": "5",
         "club": "ファマリカン",
         "matches": "34",
-        "wins": "14",
-        "draws": "12",
+        "wins": "15",
+        "draws": "11",
         "losses": "8",
-        "goals_for_against": "41:29",
-        "points": "54"
+        "goals_for_against": "42:29",
+        "points": "56"
       },
       {
         "rank": "6",
@@ -1490,7 +1490,7 @@
         "wins": "13",
         "draws": "11",
         "losses": "10",
-        "goals_for_against": "47:37",
+        "goals_for_against": "47:38",
         "points": "50"
       },
       {
@@ -1525,22 +1525,22 @@
       },
       {
         "rank": "10",
-        "club": "Alverca",
-        "matches": "34",
-        "wins": "10",
-        "draws": "10",
-        "losses": "14",
-        "goals_for_against": "35:51",
-        "points": "40"
-      },
-      {
-        "rank": "11",
         "club": "エストリル・プライア",
         "matches": "34",
         "wins": "10",
         "draws": "9",
         "losses": "15",
-        "goals_for_against": "53:57",
+        "goals_for_against": "54:57",
+        "points": "39"
+      },
+      {
+        "rank": "11",
+        "club": "Alverca",
+        "matches": "34",
+        "wins": "10",
+        "draws": "9",
+        "losses": "15",
+        "goals_for_against": "35:52",
         "points": "39"
       },
       {
